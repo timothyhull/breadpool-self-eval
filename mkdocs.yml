@@ -1,0 +1,85 @@
+# Material for MkDocs configuration file.
+# Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
+---
+site_name: Breadpool's 2024 WFTDA Global Championship Officiating Application
+site_url: https://timothyhull.github.io/breadpool-level-i-nso-certification-app
+nav:
+  - Officiating Application: index.md
+  - Game Video Clips: game_video_clips.md
+  - Evaluation History: evaluations.md
+
+# Repository information
+edit_uri: ""
+repo_name: timothyhull/breadpool-level-i-nso-certification-app
+repo_url: https://github.com/timothyhull/breadpool-level-i-nso-certification-app
+
+# Configuration
+theme:
+  name: material
+  # custom_dir: docs/overrides
+  favicon: logos/breadpool_favicon.png
+  icon:
+    admonition:
+      example: material/format-list-numbered
+    repo: fontawesome/brands/github
+  # Features
+  # features:
+  # - relocated to mkdocs.insiders.yml
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  logo: logos/breadpool.png
+  # Color palette
+  # palette:
+  # - relocated to mkdocs.insiders.yml
+  # Shortcut keys
+  shortcuts:
+    help: 191     # ? key
+    next: 78      # n key
+    previous: 80  # p key
+    search: 83    # s key
+
+# Plugins
+# plugins:
+#   - relocated to mkdocs.insiders.yml
+
+# Custom CSS
+extra_css:
+  - stylesheets/admonitions.css
+# - stylesheets/icons.css
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/glossaries/definitions.txt
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true
