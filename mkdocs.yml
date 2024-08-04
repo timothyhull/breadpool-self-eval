@@ -5,8 +5,6 @@ site_name: Breadpool's Level I NSO Certification Application
 site_url: https://timothyhull.github.io/breadpool-level-i-nso-certification-app
 nav:
   - Officiating Application: index.md
-  - Game Video Clips: game_video_clips.md
-  - Evaluation History: evaluations.md
 
 # Repository information
 edit_uri: ""
