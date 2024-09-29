@@ -1,5 +1,5 @@
-# Breadpool's Level I NSO Certification Application Development Container
-FROM python:3.11-slim-buster
+# Breadpool's WFTDA Certification Self-Evaluation
+FROM python:3.12-slim
 
 # Set the working directory
 WORKDIR /workspaces/breadpool-level-i-app
@@ -20,7 +20,7 @@ RUN python -m pip install --no-cache-dir --upgrade pip && \
     rm -rf requirements
 
 # Set the PYTHONPATH environment variable
-ENV PYTHONPATH=/workspaces/breadpool-level-i-nso-certification-app
+ENV PYTHONPATH=/workspaces/breadpool-self-eval
 
 # Start the bash prompt
 CMD ["/bin/bash"]

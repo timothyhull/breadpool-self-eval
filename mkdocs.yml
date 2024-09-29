@@ -1,15 +1,15 @@
 # Material for MkDocs configuration file.
 # Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
 ---
-site_name: Breadpool's Level I NSO Certification Application
-site_url: https://timothyhull.github.io/breadpool-level-i-nso-certification-app
+site_name: Breadpool's WFTDA Certification Self-Evaluation
+site_url: https://timothyhull.github.io/breadpool-self-eval
 nav:
   - Officiating Application: index.md
 
 # Repository information
 edit_uri: ""
-repo_name: timothyhull/breadpool-level-i-nso-certification-app
-repo_url: https://github.com/timothyhull/breadpool-level-i-nso-certification-app
+repo_name: timothyhull/breadpool-self-eval
+repo_url: https://github.com/timothyhull/breadpool-self-eval
 
 # Configuration
 theme:
