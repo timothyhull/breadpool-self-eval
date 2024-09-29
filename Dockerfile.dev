@@ -20,7 +20,7 @@ RUN python -m pip install --no-cache-dir --upgrade pip && \
     rm -rf requirements
 
 # Set the PYTHONPATH environment variable
-ENV PYTHONPATH=/workspaces/breadpool-level-i-nso-certification-app
+ENV PYTHONPATH=/workspaces/breadpool-self-eval
 
 # Start the bash prompt
 CMD ["/bin/bash"]

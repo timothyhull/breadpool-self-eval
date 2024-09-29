@@ -59,7 +59,7 @@ theme:
 plugins:
   - git-committers:  # Insiders
       branch: main
-      repository: timothyhull/breadpool-level-i-nso-certification-app
+      repository: timothyhull/breadpool-level-i-self-eval
       token: !ENV ["MKDOCS_TOKEN"]
   - git-revision-date-localized:
       enable_creation_date: true

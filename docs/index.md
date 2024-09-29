@@ -10,7 +10,7 @@
 
 !!! warning "Anti-Cheating Statement"
 
-    All changes to content on this site include date and time stamps to prove the application is unchanged after its submission.  You may [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-level-i-nso-certification-app/commits/gh-pages "GitHub.io Changelog"){ target=_blank } to review the complete build history for this site, and [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-level-i-nso-certification-app/commits "GitHub.com Changelog"){ target=_blank } to review the complete source code history.(1)
+    All changes to content on this site include date and time stamps to prove the application is unchanged after its submission.  You may [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-self-eval/commits/gh-pages "GitHub.io Changelog"){ target=_blank } to review the complete build history for this site, and [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-self-eval/commits "GitHub.com Changelog"){ target=_blank } to review the complete source code history.(1)
     { .annotate }
 
     1.  !!! magnifying-glass "View Date and Time Stamp Details"
