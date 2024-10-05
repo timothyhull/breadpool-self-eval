@@ -42,10 +42,6 @@
     - **Occupation:** Automation Software Development Consultant
     - **Fun Fact:** BJJ Black Belt
 
-=== "WFTDA Certification :material-cursor-default-click:"
-
-    TODO
-
 === "My Officiating Background :material-cursor-default-click:"
 
     === "Non-Derby Officiating :material-cursor-default-click:"
