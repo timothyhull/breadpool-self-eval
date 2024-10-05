@@ -1,10 +1,12 @@
 # Material for MkDocs configuration file.
 # Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
 ---
-site_name: Breadpool's WFTDA Certification Self-Evaluation
+site_name: Breadpool's Officiating Self-Evaluation
 site_url: https://timothyhull.github.io/breadpool-self-eval
 nav:
   - Self-Evaluation: index.md
+  - Game Video Clips: game_video_clips.md
+  - Evaluation History: evaluations.md
 
 # Repository information
 edit_uri: ""
