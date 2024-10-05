@@ -1,4 +1,4 @@
-# Breadpool's Evaluation
+# Breadpool's Self-Evaluation
 
 <figure markdown>
 ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -7,24 +7,6 @@
         Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
     </figcaption>
 </figure>
-
-!!! warning "Anti-Cheating Statement"
-
-    All changes to content on this site include date and time stamps to prove the application is unchanged after its submission.  You may [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-self-eval/commits/gh-pages "GitHub.io Changelog"){ target=_blank } to review the complete build history for this site, and [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-self-eval/commits "GitHub.com Changelog"){ target=_blank } to review the complete source code history.(1)
-    { .annotate }
-
-    1.  !!! magnifying-glass "View Date and Time Stamp Details"
-
-        Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
-
-        <figure markdown>
-        ![View Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "View Application Change Date and Time Stamp Details"){ style="filter: drop-shadow(0 0 0.2rem black)" }
-            <figcaption style="font-size: 12px">
-                Click to enlarge image
-            </figcaption>
-        </figure>
-
----
 
 !!! tip "Navigation"
 
