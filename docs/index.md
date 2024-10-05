@@ -24,7 +24,7 @@
 
 === "Introduction :material-cursor-default-click:"
 
-    I'm **Breadpool**(1), and after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
+    I'm **Breadpool**(1), and this site is a living self-evaluation of my capacity to officiate roller derby.
     { .annotate }
 
     1.  !!! reference "Derby Name Meaning"
@@ -34,9 +34,7 @@
             1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
             2. My superpower is recovering from injuries and surgeries :material-arm-flex:
 
-    This application describes the unique person I am and why I believe TOSP, WFTDA, and the global roller derby community will benefit from choosing me to officiate at the 2024 Global Championship. The effort I devoted to preparing this application is a small representation of the work I've done to have enough knowledge, experience, credibility, and skills to be ready to officiate for the highest-level teams and games in the world.
-    
-    Whether or not you select me to be a member of an officiating crew, I hope the information and attention to detail in this application demonstrate how much this opportunity means to me, how badly I want to earn a place on a crew, and that I've given absolutely everything I have to warrant your consideration.
+    I have the tremendous privilege of learning from some of the most experienced officials in the world simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
      <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -66,20 +64,9 @@
         </figcaption>
     </figure>
 
-=== "WFTDA Certification :material-cursor-default-click:"
+=== "Overview :material-cursor-default-click:"
 
-    I am not a WFTDA-certified official at this time.  However, achieving SO and NSO certification is very important to me.  For me, becoming a certified official and continuously seeking higher-level certification is symbolic of:
-    
-    1. My ongoing commitment to seek self-improvement.
-    2. Demonstrating I support the WFTDA and their officiating procedures.
-
-    !!! clipboard "Certification Timeline and Progress"
-
-        - I started the process to become a certified official in September of 2022 by studying for and passing WFTDA's online SO and NSO officiating certification courses.
-        - At the beginning of 2023, I set a personal goal to build sufficient game experience to credibly apply for Level I SO and NSO certifications in 2024.
-        - At the beginning of 2024, I set a personal goal to apply for and achieve Level I SO and NSO certifications.
-        - I received the final OOS I need to apply for Level I SO and NSO certifications in July of 2024.
-        - I intend to complete and submit my WFTDA officiating certification applications as soon as I complete and submit my application to officiate at the 2024 WFTDA Global Championship Tournament.
+    I don’t see myself as an NSO or an SO, I see myself as an *official* who seeks to continuously improve at **every** position, on- and off-skates.  I believe that practicing and serving in SO roles makes me a better NSO, and practicing and serving in NSO roles makes me a better SO.  To be a better official, I give my best effort every day to develop a deeper understanding of gameplay, rules theory, and anything I can learn to support ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
     ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
