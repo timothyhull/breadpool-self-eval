@@ -557,7 +557,7 @@ Below are links to some of my recent officiating experiences for various game si
 
         - At the TBD mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
-        - I observed no jammer for white in the penalty box area.
+        - I observed no jammer for White in the penalty box area.
         - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5 and indicate I recommend assessing a penalty to the White team for delay of game.
 
     === "Outcome :material-cursor-default-click:"
