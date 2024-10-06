@@ -148,19 +148,6 @@ Please click to expand the sections below for detailed information about what yo
     - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - Behaviors that show inclusiveness, courtesy, support, respect, and validation to SOs.
 
-    ??? whistle "JT-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As an OPR, you can expect me to consistently exhibit and excel at:
-
-            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
-            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
-            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
-            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
-            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
-
     <figure markdown>
     ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
         <figcaption style="font-size: 12px">
@@ -169,6 +156,61 @@ Please click to expand the sections below for detailed information about what yo
         </figcaption>
     </figure>
 
+    ??? clipboard "JT-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a JT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? clipboard "PBM-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a PBM, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? clipboard "PBT-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a PBT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? clipboard "PLT-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a JT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? clipboard "PW-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a JT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? whistle "SBO-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As a JT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+    
+    ??? clipboard "ALTN-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As an ALTN, you can expect me to consistently exhibit and excel at:
+
+            - TODO
 
 ??? bread "SO Positions :material-cursor-default-click:"
 
