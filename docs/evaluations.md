@@ -41,7 +41,7 @@ Below are exact copies of each of my historical WFTDA officiating evaluations. I
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that **REDACTED**  (as a(n) Crew Head Official) filled out an eval for Y'AllStars Southern Skatedown 2024, an event from 2/22/2024 to 2/25/2024, involving 2 sanctioned games, 5 regulation games, "other" games described as "1 -- our crew also officiated the fun open-gender Mardi Gras game (King Babycakes vs. Crew de Bruise), which was largely for show, where I believe Bread was sent to the box a few times by another ref, but it was MOSTLY regulation. :) " for WFTDA, JRDA, during which you served as JR, OPR.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Y'AllStars Southern Skatedown 2024, an event from 2/22/2024 to 2/25/2024, involving 2 sanctioned games, 5 regulation games, "other" games described as "1 -- our crew also officiated the fun open-gender Mardi Gras game (King Babycakes vs. Crew de Bruise), which was largely for show, where I believe Bread was sent to the box a few times by another ref, but it was MOSTLY regulation. :) " for WFTDA, JRDA, during which you served as JR, OPR.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
@@ -60,6 +60,27 @@ Below are exact copies of each of my historical WFTDA officiating evaluations. I
         And here is the broader feedback:
 
         Breadpool didn't have any areas of improvement that were detriment to a game.  He did call off a jam early when the jammer only did one hand tap, but after the jam was called, he realized his mistake and apologized to the crew head and his jammer.  Breadpool always had a calm demeanor and a great attitude.  He never lost his cool during a stressful game.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #3
+
+??? clipboard "WFTDA NA West Regional Playoffs - 14-16 June, 2024 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for WFTDA North America: West Regional Championship, an event from 6/14/2024 to 6/16/2024, involving 5 sanctioned games for WFTDA, during which you served as OPR. Here is the evaluation:
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Awareness, attention, focus, skating ability, triage, initiation and impact assessment, knowledge, judgment, and positioning are all of the highest caliber and exceed the expectations of even “play-off officials”. Breadpool reliably maintained the rear OPR position throughout the tournament’s games. Of particular note, his skating skills, even at speed, enabled him to maintain excellent positioning and focus even with fast-paced packs, however he didn’t hesitate to drop and rotate when necessary.
 
         Cordially,
         Officials Certification
