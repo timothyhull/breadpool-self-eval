@@ -184,7 +184,15 @@ Please click to expand the sections below for detailed information about what yo
 
         === "What I Bring To A Crew :material-cursor-default-click:"
 
-            As a JT, you can expect me to consistently exhibit and excel at:
+            As a PLT, you can expect me to consistently exhibit and excel at:
+
+            - TODO
+
+    ??? tablet "ePLT-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As an ePLT, you can expect me to consistently exhibit and excel at:
 
             - TODO
 
@@ -196,7 +204,7 @@ Please click to expand the sections below for detailed information about what yo
 
             - TODO
 
-    ??? whistle "SBO-Specific :material-cursor-default-click:"
+    ??? laptop "SBO-Specific :material-cursor-default-click:"
 
         === "What I Bring To A Crew :material-cursor-default-click:"
 
