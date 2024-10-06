@@ -10,11 +10,11 @@
 
 !!! tip "Navigation"
 
-    The content of my application appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my application.
+    The content of my self-evaluation appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my self-evaluation.
 
     A Table of Contents menu appears on the left-side of all pages to provide you with quick access to three separate pages:
 
-    1. [My Officiating Application](./index.md "Officiating Application") (this page).
+    1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
     2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performance for your review.
     3. [My WFTDA Evaluations History](./evaluations.md "Evaluations") for your review.
 
@@ -24,7 +24,7 @@
 
 === "Introduction :material-cursor-default-click:"
 
-    I'm **Breadpool**(1), and this site is a living self-evaluation of my capacity to officiate roller derby.
+    I'm **Breadpool**(1), and this site is my roller derby officiation self-evaluation.  Please use the information in this site for information about my experience, strengths, and areas for growth.
     { .annotate }
 
     1.  !!! reference "Derby Name Meaning"
@@ -34,7 +34,7 @@
             1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
             2. My superpower is recovering from injuries and surgeries :material-arm-flex:
 
-    I have the tremendous privilege of learning from some of the most experienced officials in the world simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+    I have the tremendous privilege of learning to officiate from some of the most experienced officials in the world, weekly, simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
      <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -66,7 +66,7 @@
 
 === "Overview :material-cursor-default-click:"
 
-    I don’t see myself as an NSO or an SO, I see myself as an *official* who seeks to continuously improve at **every** position, on- and off-skates.  I believe that practicing and serving in SO roles makes me a better NSO, and practicing and serving in NSO roles makes me a better SO.  To be a better official, I give my best effort every day to develop a deeper understanding of gameplay, rules theory, and anything I can learn to support ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
+    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official*** who wants to support *all* roller derby officiating roles.  I seek to continuously improve at *every* position, on- and off-skates.  I believe that practicing and serving in SO roles makes me a better NSO, and practicing and serving in NSO roles makes me a better SO.  I give my best effort every day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby to support ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
     ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -134,15 +134,11 @@
 
 ---
 
-## What I'm Applying For
+## What to Expect From Me
 
-I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, with no specific precedence between the two, because I believe I can officiate admirably in these roles for any level of play, including the highest-level play in the world.
+Please click to expand the sections below for detailed information about what you can expect from me in each officiating role.
 
-Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in an IPR role, if necessary (planned or unplanned), or in the ALTR role, knowing I can immediately enter a game with confidence and effectiveness in any SO role.
-
-Please click to expand the sections below for detailed information about what you can expect from me and how I position myself in each SO role.
-
-??? bread "What You Can Expect From Me :material-cursor-default-click:"
+??? bread "SO Positions :material-cursor-default-click:"
 
     In any SO position, you can expect me to consistently exhibit and excel at:
 
@@ -159,6 +155,24 @@ Please click to expand the sections below for detailed information about what yo
     - Tracking the number of players and the positions for each player on each team before and during a jam.
     - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
+
+    <figure markdown>
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption style="font-size: 12px">
+            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
+            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+??? bread "NSO Positions :material-cursor-default-click:"
+
+    In any NSO position, you can expect me to consistently exhibit and excel at:
+
+    - Precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
+    - Attention to the fine details.  For me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
+    - Preparing myself for success.  I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, every single time.
+    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to SOs.
 
     <figure markdown>
     ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
