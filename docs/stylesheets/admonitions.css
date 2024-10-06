@@ -103,6 +103,26 @@
             mask-image: var(--md-admonition-icon--reference);
   }
   
+  /* "Stopwatch" admonition: "fontawesome-solid-stopwatch" icon */
+  :root {
+    --md-admonition-icon--reference: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M176 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h16v34.4C92.3 113.8 16 200 16 304c0 114.9 93.1 208 208 208s208-93.1 208-208c0-41.8-12.3-80.7-33.5-113.2l24.1-24.1c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L355.7 143c-28.1-23-62.2-38.8-99.7-44.6V64h16c17.7 0 32-14.3 32-32S289.7 0 272 0h-96zm72 192v128c0 13.3-10.7 24-24 24s-24-10.7-24-24V192c0-13.3 10.7-24 24-24s24 10.7 24 24z"/></svg>')
+  }
+  .md-typeset .admonition.reference,
+  .md-typeset details.reference {
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .reference > .admonition-title,
+  .md-typeset .reference > summary {
+    background-color: rgba(60, 60, 60, 0.1);
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .reference > .admonition-title::before,
+  .md-typeset .reference > summary::before {
+    background-color: rgb(60, 60, 60);
+    -webkit-mask-image: var(--md-admonition-icon--reference);
+            mask-image: var(--md-admonition-icon--reference);
+  }
+  
   /* "Video" admonition: "fontawesome-solid-video" icon */
   :root {
     --md-admonition-icon--video: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 128c0-35.3 28.7-64 64-64h256c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128zm559.1-28.2c10.4 5.6 16.9 16.4 16.9 28.2v256c0 11.8-6.5 22.6-16.9 28.2s-23 5-32.9-1.6l-96-64-14.2-9.5V174.9l14.2-9.5 96-64c9.8-6.5 22.4-7.2 32.9-1.6z"/></svg>')
