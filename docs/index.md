@@ -156,7 +156,7 @@ Please click to expand the sections below for detailed information about what yo
         </figcaption>
     </figure>
 
-    ??? clipboard "JT-Specific :material-cursor-default-click:"
+    ??? stopwatch "JT-Specific :material-cursor-default-click:"
 
         === "What I Bring To A Crew :material-cursor-default-click:"
 
@@ -164,7 +164,7 @@ Please click to expand the sections below for detailed information about what yo
 
             - TODO
 
-    ??? clipboard "PBM-Specific :material-cursor-default-click:"
+    ??? stopwatch "PBM-Specific :material-cursor-default-click:"
 
         === "What I Bring To A Crew :material-cursor-default-click:"
 
@@ -172,7 +172,7 @@ Please click to expand the sections below for detailed information about what yo
 
             - TODO
 
-    ??? clipboard "PBT-Specific :material-cursor-default-click:"
+    ??? stopwatch "PBT-Specific :material-cursor-default-click:"
 
         === "What I Bring To A Crew :material-cursor-default-click:"
 
