@@ -59,7 +59,7 @@
   .md-typeset .laptop > summary::before {
     background-color: rgb(60, 60, 60);
     -webkit-mask-image: var(--md-admonition-icon--laptop);
-            mask-image: var(--md-admonition-icon--clipboard);
+            mask-image: var(--md-admonition-icon--laptop);
   }
 
   /* "Magnifying Glass" admonition: "fontawesome-solid-magnifying-glass" icon */
