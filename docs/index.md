@@ -148,6 +148,19 @@ Please click to expand the sections below for detailed information about what yo
     - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - Behaviors that show inclusiveness, courtesy, support, respect, and validation to SOs.
 
+    ??? whistle "JT-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As an OPR, you can expect me to consistently exhibit and excel at:
+
+            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
+            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
+            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
+            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
+            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
+            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
+
     <figure markdown>
     ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
         <figcaption style="font-size: 12px">
@@ -155,6 +168,7 @@ Please click to expand the sections below for detailed information about what yo
             Credit: [Steven L. Price](https://stevenlprice.smugmug.com "StevenLPrice on SmugMug"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
+
 
 ??? bread "SO Positions :material-cursor-default-click:"
 
@@ -414,11 +428,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps me be a better official and teammate for my SO and NSO peers.
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
-    - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice. (1)
-
-1. !!! tip "NSO Role Caveat"
-
-    Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in the role of HNSO.
+    - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
 
 ??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
