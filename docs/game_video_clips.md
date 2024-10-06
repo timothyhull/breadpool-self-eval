@@ -548,3 +548,36 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
 
 ---
+
+## Video Example #20
+
+??? video "Proactively Observing Game Action :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the TBD mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
+        - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
+        - I observed no jammer for white in the penalty box area.
+        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5 and indicate I recommend assessing a penalty to the White team for delay of game.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - The HR immediately transitioned the stoppage to an OTO and issued White a delay of game penalty.
+        - The Captain for White reported to the penalty box to serve the penalty and a white blocker left the track area.
+
+    === "Importance :material-cursor-default-click:"
+
+        - An area of emphasis for me is monitoring player and team actions at all times, including times the jam clock is not running.
+        - Since the gameplay happens even when there is no active jam, I do my best to proactively identify potential rules violations or safety issues.  That means, whenever possible, I monitor players during lineups to identify illegal or potentially illegal actions.
+        - Even though it seemed likely White would not field a jammer, I kept my body language and movements as neutral and natural as possible to avoid divulging my observations and potentially preventing Black from rightfully earning competitive advantage.
+        - Even though I was not in the best position to make this particular call, I felt like allowing the jam to start would result in an officiating error that might be difficult to resolve and would reflect poorly on the credibility of our crew.
+        - I have the backs of my peers, always.  Several crew members thanked me for taking action when I observed a problem, and I replied each time by telling them we are good...
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
+    </center>
+
+---
