@@ -42,6 +42,26 @@
             mask-image: var(--md-admonition-icon--clipboard);
   }
 
+  /* "Laptop" admonition: "fontawesome-solid-laptop" icon */
+  :root {
+    --md-admonition-icon--laptop: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M128 32c-35.3 0-64 28.7-64 64v256h64V96h384v256h64V96c0-35.3-28.7-64-64-64H128zM19.2 384C8.6 384 0 392.6 0 403.2 0 445.6 34.4 480 76.8 480h486.4c42.4 0 76.8-34.4 76.8-76.8 0-10.6-8.6-19.2-19.2-19.2H19.2z"/></svg>')
+  }
+  .md-typeset .admonition.laptop,
+  .md-typeset details.laptop {
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .laptop > .admonition-title,
+  .md-typeset .laptop > summary {
+    background-color: rgba(60, 60, 60, 0.1);
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .laptop > .admonition-title::before,
+  .md-typeset .laptop > summary::before {
+    background-color: rgb(60, 60, 60);
+    -webkit-mask-image: var(--md-admonition-icon--laptop);
+            mask-image: var(--md-admonition-icon--clipboard);
+  }
+
   /* "Magnifying Glass" admonition: "fontawesome-solid-magnifying-glass" icon */
   :root {
     --md-admonition-icon--magnifying-glass: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>')
