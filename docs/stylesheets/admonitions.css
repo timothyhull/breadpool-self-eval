@@ -1,6 +1,6 @@
 /* Custom admonition icons and color schemes. */
 /* Reference documentation: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions */
-/* Path to the ".icons" directory: /usr/local/lib/python3.11/site-packages/material/templates/.icons/ */
+/* Path to the ".icons" directory: /usr/local/lib/python3.12/site-packages/material/templates/.icons/ */
 
   /* "Bread" admonition: "fontawesome-solid-bread-slice" icon */
   :root {
