@@ -178,7 +178,17 @@ Please click to expand the sections below for detailed information about what yo
 
             As a JT, you can expect me to consistently exhibit and excel at:
 
-            - TODO
+            - Verbal and visual cues that are deliberate and audible, even in venues where acoustics may present challenges.
+            - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
+            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology involves:
+                - Ensuring medical staff are available and have their attention on the track area.
+                - Verifying that each team has at least one blocker and one jammer in legal starting positions.
+                - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
+                - Monitoring the HR for any indication they may not be ready to start the jam.
+            - Accurately providing backup timing for the official game and jam clocks.
+            - Supporting the SBO with clock and timeout consumption adjustments.
+            - Clear hand signals...
+            - Physical endurance for hand signals...
 
     ??? stopwatch "PBM-Specific :material-cursor-default-click:"
 
