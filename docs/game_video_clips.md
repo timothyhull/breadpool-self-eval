@@ -570,7 +570,7 @@ Below are links to some of my recent officiating experiences for various game si
         - An area of emphasis for me is monitoring player and team actions at all times, including times the jam clock is not running.
         - Since gameplay happens even when there is no active jam, I do my best to proactively identify potential rules violations or safety issues.  That means, whenever possible, I monitor players during lineups to identify illegal or potentially illegal actions.
         - While it seemed likely White would not field a jammer, I kept my body language and movements as neutral and natural as possible to avoid divulging my observations and potentially preventing Black from rightfully earning a competitive advantage.
-        - Even though I was not in the official in the best position to make this particular call, I felt like allowing the jam to start would result in an officiating error that might be difficult to resolve and would reflect poorly on the credibility of our crew.
+        - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
