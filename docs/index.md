@@ -12,11 +12,12 @@
 
     The content of my self-evaluation appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my self-evaluation.
 
-    A Table of Contents menu appears on the left-side of all pages to provide you with quick access to three separate pages:
+    A Table of Contents menu appears on the left-side of all pages to provide you with quick access to separate pages:
 
     1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
-    2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performance for your review.
-    3. [My WFTDA Evaluations History](./evaluations.md "Evaluations") for your review.
+    2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
+    3. [My WFTDA Evaluations History](./evaluations.md "WFTDA Evaluations").
+    4. [My Officiating History](./officiating_history.md "Officiating History")
 
 ---
 
@@ -34,7 +35,7 @@
             1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
             2. My superpower is recovering from injuries and surgeries :material-arm-flex:
 
-    I have the tremendous privilege of learning to officiate from some of the most experienced officials in the world, weekly, simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+    I have the tremendous privilege of regularly learning to officiate from some of the most experienced officials in the world simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
      <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -66,7 +67,9 @@
 
 === "Overview :material-cursor-default-click:"
 
-    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official*** who wants to support *all* roller derby officiating roles.  I seek to continuously improve at *every* position, on- and off-skates.  I believe that practicing and serving in SO roles makes me a better NSO, and practicing and serving in NSO roles makes me a better SO.  I give my best effort every day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby to support ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
+    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official** who works to earn the trust of my peers to excel in *all* roller derby officiating roles and at any level of competition.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role, the better I will be in every role.
+    
+    I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
     ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -80,7 +83,7 @@
 
     === "Non-Derby Officiating :material-cursor-default-click:"
 
-        I am newer to officiating roller derby, although I've been officiating various sports and competitive activities most of my life.  I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
+        [I am newer to officiating roller derby](#__tabbed_2_2 "My Derby Officiating Background"), although I've been officiating various sports and competitive activities most of my life.  I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
 
         - High school football.
         - High school Army JROTC drill competition.
@@ -142,11 +145,11 @@ Please click to expand the sections below for detailed information about what yo
 
     In any NSO position, you can expect me to consistently exhibit and excel at:
 
-    - Precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
-    - Attention to the fine details.  For me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
-    - Preparing myself for success.  I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, every single time.
-    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
-    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to SOs.
+    - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
+    - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
+    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding inclusiveness, courtesy, support, respect, and validation.
 
     <figure markdown>
     ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
@@ -155,6 +158,19 @@ Please click to expand the sections below for detailed information about what yo
             Credit: [Steven L. Price](https://stevenlprice.smugmug.com "StevenLPrice on SmugMug"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
+
+    ??? clipboard "HNSO/CHNSO-Specific :material-cursor-default-click:"
+
+        === "What I Bring To A Crew :material-cursor-default-click:"
+
+            As an HNSO/CHNSO, you can expect me to consistently exhibit and excel at:
+
+            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
+            - Communication with teams and host leagues to ensure I prepare accurate IGRF documents.
+            - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
+            - Demonstrating understanding of the responsibilities and procedures associated of each NSO position so I can provide support to anyone who may need it.
+            - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
+            - Having the backs of my peer officials so they can do their jobs without concern that they have to deal with elevated or frustrated players and coaches directly.  I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
 
     ??? stopwatch "JT-Specific :material-cursor-default-click:"
 
