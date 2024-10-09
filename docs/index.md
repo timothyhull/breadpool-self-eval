@@ -25,7 +25,11 @@
 
 === "Introduction :material-cursor-default-click:"
 
-    I'm **Breadpool**(1), and this site is my roller derby officiation self-evaluation.  Please use the information in this site for information about my experience, strengths, and areas for growth.
+    !!! heart "Dedication"
+
+        Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, volunteers and stewards of the global roller derby community.  Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+
+    I'm **Breadpool**(1), and this site is my roller derby officiation self-evaluation.  Please use the information in this site for details about my experience, strengths, and areas for growth.
     { .annotate }
 
     1.  !!! reference "Derby Name Meaning"
@@ -34,8 +38,6 @@
 
             1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
             2. My superpower is recovering from injuries and surgeries :material-arm-flex:
-
-    I have the tremendous privilege of regularly learning to officiate from some of the most experienced officials in the world simply for happening to live nearby them.  This self-evaluation is my way of showing gratitude for everything they’ve taught me, and a promise to, in turn, do what they’ve done for me…selflessly share what I’ve learned with anyone who wants to better themselves, and using what I’ve learned to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
      <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -139,311 +141,7 @@
 
 ## What to Expect From Me
 
-Please click to expand the sections below for detailed information about what you can expect from me in each officiating role.
-
-??? bread "NSO Positions :material-cursor-default-click:"
-
-    In any NSO position, you can expect me to consistently exhibit and excel at:
-
-    - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
-    - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
-    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
-    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
-    - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding inclusiveness, courtesy, support, respect, and validation.
-
-    <figure markdown>
-    ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
-        <figcaption style="font-size: 12px">
-            JT, RCR Adult Regulation Game, December 2023<br>
-            Credit: [Steven L. Price](https://stevenlprice.smugmug.com "StevenLPrice on SmugMug"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
-    ??? clipboard "HNSO/CHNSO-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As an HNSO/CHNSO, you can expect me to consistently exhibit and excel at:
-
-            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
-            - Communication with teams and host leagues to ensure I prepare accurate IGRF documents.
-            - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating understanding of the responsibilities and procedures associated of each NSO position so I can provide support to anyone who may need it.
-            - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
-            - Having the backs of my peer officials so they can do their jobs without concern that they have to deal with elevated or frustrated players and coaches directly.  I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
-
-    ??? stopwatch "JT-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a JT, you can expect me to consistently exhibit and excel at:
-
-            - Verbal and visual cues that are deliberate and audible, even in venues where acoustics may present challenges.
-            - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
-            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology involves:
-                - Ensuring medical staff are available and have their attention on the track area.
-                - Verifying that each team has at least one blocker and one jammer in legal starting positions.
-                - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
-                - Monitoring the HR for any indication they may not be ready to start the jam.
-            - Accurately providing backup timing for the official game and jam clocks.
-            - Supporting the SBO with clock and timeout consumption adjustments.
-            - Clear hand signals...
-            - Physical endurance for hand signals...
-
-    ??? stopwatch "PBM-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a PBM, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-    ??? stopwatch "PBT-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a PBT, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-    ??? clipboard "PLT-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a PLT, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-    ??? tablet "ePLT-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As an ePLT, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-    ??? clipboard "PW-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a JT, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-    ??? laptop "SBO-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a JT, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-    
-    ??? clipboard "ALTN-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As an ALTN, you can expect me to consistently exhibit and excel at:
-
-            - TODO
-
-??? bread "SO Positions :material-cursor-default-click:"
-
-    In any SO position, you can expect me to consistently exhibit and excel at:
-
-    - Skating skills and speed that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
-    - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
-    - Thoroughly assessing and understanding which players initiate contact with other players.
-    - Thoroughly assessing contact initiation game impact *before* I issue or decline to issue penalties.
-    - Awareness of detailed information about the actions I observe that includes player-specific details (team and jersey number).
-    - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
-    - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - Highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
-    - Delivering verbal and visual cues, including issuing penalties, while maintaining the appropriate positioning for my SO role.
-    - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
-    - Tracking the number of players and the positions for each player on each team before and during a jam.
-    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
-    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
-
-    <figure markdown>
-    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
-        <figcaption style="font-size: 12px">
-            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
-    ??? whistle "OPR-Specific :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As an OPR, you can expect me to consistently exhibit and excel at:
-
-            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
-            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
-            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
-            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
-            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
-
-            <figure markdown>
-            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    OPR, WFTDA NA West Playoffs, June, 2024<br>
-                    Credit: [ShutHerUp Photography :octicons-link-external-24:](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
-
-        === "Positioning Methodology :material-cursor-default-click:"
-
-            - As a **rear** OPR, I am, generally:
-
-                1. Parallel with a well-defined rear wall.
-                2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
-                3. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
-                4. In position to observe player positioning relative to the jammer line and outside boundary at the start of each jam.
-
-            - As a **middle** OPR, I am, generally:
-
-                1. Parallel with a well-defined front wall of 3+ blockers.
-                2. Ready to rapidly accelerate in non-derby direction to observe the rear wall from the front when the front wall has 2 or fewer blockers.
-                3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the rear wall.
-                4. In position to observe player positioning relative to the pivot line and outside boundary at the start of each jam.
-
-            - As a **front** OPR, I am, generally:
-
-                1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
-                2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
-                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
-
-            <figure markdown>
-            ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
-                    Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
-
-    ??? whistle "JR :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As a JR, you can expect me to consistently exhibit and excel at:
-
-            - Keeping eyes on my jammer at *all* times to ensure nothing they do goes unobserved.
-            - Clear, kind, and supportive communication with my SK, before, during, and after each game.
-            - Awareness of potential NOTT points and understanding of when a jammer earns and does not earn those points.
-            - Timely and accurate tracking and recall, by player, of earned passes, points, superior position, and positional gain.
-            - Confident points reporting immediately after a jam ends (after the fourth whistle, not the twelfth whistle).
-            - Continuous monitoring of the relationship between what I report to my SK and the information on the scoreboard.
-            - Awareness of the space I occupy, how my position impacts my peer JR, and the ability to adapt to support fluid, dynamic movement with my peer JR throughout a tournament.
-            - Anticipating situations that may result in a star pass that is difficult to see.
-            - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
-            - Precision responsiveness to jammer call-offs.
-
-            <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
-
-        === "Positioning Methodology :material-cursor-default-click:"
-
-            - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
-            - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
-            - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
-
-            <figure markdown>
-            ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    HR, AoA vs. Rat City, October, 2023<br>
-                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
-
-    ??? whistle "IPR :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            As IPR, front or rear, you can expect me to consistently exhibit and excel at:
-
-            - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
-            - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
-            - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
-            - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
-            - Awareness of situations that may result in unexpected no-pack split scenarios.
-            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
-            - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
-            - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
-            - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
-            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
-            - Awareness of where players re-enter the track relative to the front engagement zone.
-            - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
-            - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
-
-            <figure markdown>
-            ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    IPR, RCR Home Team Champs, June, 2024<br>
-                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
-
-        === "Positioning Methodology :material-cursor-default-click:"
-
-            - As a **front** IPR, I am, generally:
-
-                1. 7-10 feet in front of the pack, directly next to the inside boundary looking in non-derby direction when the pack is well-defined and managed by the rear IPR.
-                2. Ready to rapidly transition to a position where I am centered on the pack when the rear IPR moves to follow players in the rear engagement zone.
-                3. Ready to move out of the path of both JRs and quickly recover my original position.
-                4. Ready to provide primary pack definition coverage for the rear IPR in the event they are not available at the start of a jam or become unavailable during a jam.
-            
-            - As a **rear** IPR, I am, generally:
-
-                1. Centered on the pack when the pack is well-defined.
-                2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
-                4. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
-                5. Ready to move out of the path of both JRs and quickly recover my original position.
-                6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
-
-            <figure markdown>
-            ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
-                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
-
-    ??? clipboard "ALTR :material-cursor-default-click:"
-
-        === "What I Bring To A Crew :material-cursor-default-click:"
-
-            I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
-
-            - Preparing myself physically before a game such that I could be activated at any moment of need, and maintaining that physical readiness throughout a game.
-            - Maintaining situational awareness of game action so I am ready to enter a game or provide relevant feedback at any moment.
-            - Readiness for activation to any position.
-            - Readiness to provide individual or crew feedback at the request of the HR/CHR.
-            - Understanding how to accurately record essential OR information.
-            - Readiness to report game summary information (team/or penalty counts, number of timeouts remaining, etc.) to the HR/CHR at their request.
-            - Attentiveness to the condition of the track, tape, rope, etc. and maintenance support.
-
-            <figure markdown>
-            ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    ALTR, RCR Home Team Champs, June, 2024<br>
-                    Credit: Divo
-                </figcaption>
-            </figure>
-
----
-
-## How I Officiate
-
-I believe the best officiating happens when a crew behaves like a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
+I believe the best officiating happens when a crew operates as a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
 
 ??? bread "1. My Mindset :material-cursor-default-click:"
 
@@ -510,6 +208,339 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     - Making split-second, difficult decisions is simply part of being an official, and I believe that applies to all levels in all sports.
     - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
+
+---
+
+## My Strengths and Areas for Growth
+
+Please click to expand the sections below for detailed information about what you can expect from me in each officiating role.
+
+??? bread "NSO Positions :material-cursor-default-click:"
+
+    In any NSO position, you can expect me to consistently exhibit and excel at:
+
+    - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
+    - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
+    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding inclusiveness, courtesy, support, respect, and validation.
+
+    <figure markdown>
+    ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption style="font-size: 12px">
+            JT, RCR Adult Regulation Game, December 2023<br>
+            Credit: [Steven L. Price](https://stevenlprice.smugmug.com "StevenLPrice on SmugMug"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+    ??? clipboard "HNSO/CHNSO-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
+            - Communication with teams and host leagues to ensure I prepare accurate IGRF documents.
+            - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
+            - Demonstrating understanding of and skill experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
+            - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
+            - Having the backs of my peer officials so they can do their jobs without concern that they have to deal with elevated or frustrated players and coaches directly.
+                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - At this stage of my development, I have very limited experience in the role.
+            - TODO
+
+    ??? stopwatch "JT-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - Verbal cues that are deliberate and audible, even in venues where acoustics may present challenges.
+            - Deliberate and clear visual cues/hand signals.
+            - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
+            - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
+            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology involves:
+                - Ensuring medical staff are available and have their attention on the track area.
+                - Verifying that each team has at least one blocker and one jammer in legal starting positions.
+                - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
+                - Monitoring the HR for any indication they may not be ready to start the jam.
+            - Accurately providing backup timing for the official game and jam clocks.
+            - Supporting the SBO with clock and timeout consumption adjustments.
+            - Physical endurance to continuously deliver visual indicators for timeouts for extended periods.
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? stopwatch "PBM-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? stopwatch "PBT-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? clipboard "PLT-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? tablet "ePLT-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? clipboard "PW-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+    ??? laptop "SBO-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+    
+    ??? clipboard "ALTN-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+            - TODO
+
+??? bread "SO Positions :material-cursor-default-click:"
+
+    In any SO position, you can expect me to consistently exhibit and excel at:
+
+    - Skating skills and speed that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
+    - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
+    - Thoroughly assessing and understanding which players initiate contact with other players.
+    - Thoroughly assessing contact initiation game impact *before* I issue or decline to issue penalties.
+    - Awareness of detailed information about the actions I observe that includes player-specific details (team and jersey number).
+    - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
+    - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
+    - Highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
+    - Delivering verbal and visual cues, including issuing penalties, while maintaining the appropriate positioning for my SO role.
+    - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
+    - Tracking the number of players and the positions for each player on each team before and during a jam.
+    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
+
+    <figure markdown>
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption style="font-size: 12px">
+            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
+            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+    ??? whistle "OPR-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            As an OPR, you can expect me to consistently exhibit and excel at:
+
+            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
+            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
+            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
+            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
+            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
+            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
+
+            <figure markdown>
+            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    OPR, WFTDA NA West Playoffs, June, 2024<br>
+                    Credit: [ShutHerUp Photography :octicons-link-external-24:](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank }
+                </figcaption>
+            </figure>
+
+        === "Positioning Methodology :material-cursor-default-click:"
+
+            - As a **rear** OPR, I am, generally:
+
+                1. Parallel with a well-defined rear wall.
+                2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
+                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
+                3. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
+                4. In position to observe player positioning relative to the jammer line and outside boundary at the start of each jam.
+
+            - As a **middle** OPR, I am, generally:
+
+                1. Parallel with a well-defined front wall of 3+ blockers.
+                2. Ready to rapidly accelerate in non-derby direction to observe the rear wall from the front when the front wall has 2 or fewer blockers.
+                3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the rear wall.
+                4. In position to observe player positioning relative to the pivot line and outside boundary at the start of each jam.
+
+            - As a **front** OPR, I am, generally:
+
+                1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
+                2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
+                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
+
+            <figure markdown>
+            ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
+                    Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
+                </figcaption>
+            </figure>
+
+    ??? whistle "JR :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            As a JR, you can expect me to consistently exhibit and excel at:
+
+            - Keeping eyes on my jammer at *all* times to ensure nothing they do goes unobserved.
+            - Clear, kind, and supportive communication with my SK, before, during, and after each game.
+            - Awareness of potential NOTT points and understanding of when a jammer earns and does not earn those points.
+            - Timely and accurate tracking and recall, by player, of earned passes, points, superior position, and positional gain.
+            - Confident points reporting immediately after a jam ends (after the fourth whistle, not the twelfth whistle).
+            - Continuous monitoring of the relationship between what I report to my SK and the information on the scoreboard.
+            - Awareness of the space I occupy, how my position impacts my peer JR, and the ability to adapt to support fluid, dynamic movement with my peer JR throughout a tournament.
+            - Anticipating situations that may result in a star pass that is difficult to see.
+            - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
+            - Precision responsiveness to jammer call-offs.
+
+            <figure markdown>
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
+                </figcaption>
+            </figure>
+
+        === "Positioning Methodology :material-cursor-default-click:"
+
+            - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
+            - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
+            - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
+
+            <figure markdown>
+            ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    HR, AoA vs. Rat City, October, 2023<br>
+                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+                </figcaption>
+            </figure>
+
+    ??? whistle "IPR :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            As IPR, front or rear, you can expect me to consistently exhibit and excel at:
+
+            - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
+            - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
+            - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
+            - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
+            - Awareness of situations that may result in unexpected no-pack split scenarios.
+            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
+            - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
+            - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
+            - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
+            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
+            - Awareness of where players re-enter the track relative to the front engagement zone.
+            - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
+            - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
+
+            <figure markdown>
+            ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    IPR, RCR Home Team Champs, June, 2024<br>
+                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+                </figcaption>
+            </figure>
+
+        === "Positioning Methodology :material-cursor-default-click:"
+
+            - As a **front** IPR, I am, generally:
+
+                1. 7-10 feet in front of the pack, directly next to the inside boundary looking in non-derby direction when the pack is well-defined and managed by the rear IPR.
+                2. Ready to rapidly transition to a position where I am centered on the pack when the rear IPR moves to follow players in the rear engagement zone.
+                3. Ready to move out of the path of both JRs and quickly recover my original position.
+                4. Ready to provide primary pack definition coverage for the rear IPR in the event they are not available at the start of a jam or become unavailable during a jam.
+            
+            - As a **rear** IPR, I am, generally:
+
+                1. Centered on the pack when the pack is well-defined.
+                2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
+                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
+                4. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
+                5. Ready to move out of the path of both JRs and quickly recover my original position.
+                6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
+
+            <figure markdown>
+            ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
+                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
+                </figcaption>
+            </figure>
+
+    ??? clipboard "ALTR :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
+
+            - Preparing myself physically before a game such that I could be activated at any moment of need, and maintaining that physical readiness throughout a game.
+            - Maintaining situational awareness of game action so I am ready to enter a game or provide relevant feedback at any moment.
+            - Readiness for activation to any position.
+            - Readiness to provide individual or crew feedback at the request of the HR/CHR.
+            - Understanding how to accurately record essential OR information.
+            - Readiness to report game summary information (team/or penalty counts, number of timeouts remaining, etc.) to the HR/CHR at their request.
+            - Attentiveness to the condition of the track, tape, rope, etc. and maintenance support.
+
+            <figure markdown>
+            ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+                <figcaption style="font-size: 12px">
+                    ALTR, RCR Home Team Champs, June, 2024<br>
+                    Credit: Divo
+                </figcaption>
+            </figure>
 
 ---
 
