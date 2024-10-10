@@ -222,7 +222,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
     - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
     - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
-    - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding inclusiveness, courtesy, support, respect, and validation.
+    - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding, inclusiveness, courtesy, support, respect, and validation.
 
     <figure markdown>
     ![Jam Timer, RCR Adult Regulation Game, December 2023 - Credit: Steven L. Price (StevenLPrice on SmugMug)](images/breadpool_jt_rcr_reg_game_12_2_23.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
@@ -237,23 +237,27 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
-            - Communication with teams and host leagues to ensure I prepare accurate IGRF documents.
+            - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
+            - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
             - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating understanding of and skill experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
+            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
-            - Having the backs of my peer officials so they can do their jobs without concern that they have to deal with elevated or frustrated players and coaches directly.
+            - Supporting officials who are developing experience with CHR/HR roles by acting as a safety net if they need assistance.
+            - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
             - At this stage of my development, I have very limited experience in the role.
-            - TODO
+                - Even though I have access to a high volume of roller derby games, HNSO roles are often assigned to officials with vastly more experience than me.
+                - I intend to seek opportunities to serve in CHNSO/HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+            - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
 
     ??? stopwatch "JT-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Verbal cues that are deliberate and audible, even in venues where acoustics may present challenges.
+            - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
             - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
@@ -264,12 +268,14 @@ Please click to expand the sections below for detailed information about my deve
                 - Monitoring the HR for any indication they may not be ready to start the jam.
             - Accurately providing backup timing for the official game and jam clocks.
             - Supporting the SBO with clock and timeout consumption adjustments.
-            - Physical endurance to continuously deliver visual indicators for timeouts for extended periods.
+            - Physical endurance to continuously deliver visual cues during game stoppages for extended periods.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - I need to improve my consistency as a JT by serving as a JT more regularly.
+                - I will often go months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not having to think about everything I'm doing and need to do.
+            - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to immediately stop my game clock stopwatch.
+                - I need to continue to practice holding my game clock stopwatch in a way that allows me to simultaneously signal timeouts and press the "Stop" button.
 
     ??? stopwatch "PBM-Specific :material-cursor-default-click:"
 
