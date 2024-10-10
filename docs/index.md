@@ -248,9 +248,9 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have very limited experience in the role.
-                - Even though I have access to a high volume of roller derby games, HNSO roles are often assigned to officials with vastly more experience than me.
-                - I intend to seek opportunities to serve in CHNSO/HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+            - At this stage of my development, I have very limited experience in CHNSO and HNSO roles.
+                - Even though I have access to a high volume of roller derby games, CHNSO and HNSO roles are often assigned to officials with vastly more experience than me.
+                - I intend to seek opportunities to serve in the CHNSO and HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
 
     ??? stopwatch "JT-Specific :material-cursor-default-click:"
@@ -281,23 +281,46 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Emphasis on timing penalties as accurately as possible.
+                - I focus on starting and stopping stopwatches at the precise time prescribed by gameplay rules.
+            - Understanding of and familiarity with jammer swap scenarios, including scenarios that require both jammers to remain seated in the penalty box during a jam (A-B-A, etc.).
+            - Clear and audible verbal cues.
+            - Clear visual cues/hand signals.
+            - Ability to support and advise officials developing experience in the PBT role, including helping them properly fill out the PBT paperwork.
+            - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using a whiteboard.
+            - Understanding of illegal actions and comfort assessing role-specific penalties when necessary.
+            - Understanding of player foul-out procedures.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - At this stage of my development, I have very limited experience in the PBM role.
+            - Even though I have access to a high volume of roller derby games, PBM roles are often assigned to officials with vastly more experience in the PBM role than me.
+                - I intend to seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
 
     ??? stopwatch "PBT-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Emphasis on timing penalties as accurately as possible.
+                - I focus on starting and stopping stopwatches at the precise time prescribed by gameplay rules.
+            - Understanding of PBT responsibilities and timing procedures.
+            - Understanding of and experience with filling out PBT paperwork.
+            - Awareness to ensure alignment of PBT paperwork with PLT records during game stoppages.
+            - Clear and audible verbal cues.
+            - Clear visual cues/hand signals.
+            - Experience with and composure while managing instances of high penalty volume within short periods of time.
+            
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - I need to serve as a PBT more frequently in order to keep from feeling "rusty" when I do serve as a PBT.
+                - It may take me several jams to feel like I am performing my responsibilities without having to actively think about of everything I need to do.
+            - I typically use a "single watch" technique to time penalties, and some CHNSOs/HNSOs prefer a "dual watch" technique that I don't practice regularly.
+                - For instances where there is only a single player in the penalty box for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
+                - When there are multiple players serving penalties simultaneously, I use a running clock to record the time a player sits, stands, and completes their penalty.
+                    - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds (assuming I'm not recording timing for a jammer swap).
+                    - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
+                - It's important that I practice the dual watch technique in order to best support the needs of my assigned CHNSOs/HNSOs.
 
     ??? clipboard "PLT-Specific :material-cursor-default-click:"
 
