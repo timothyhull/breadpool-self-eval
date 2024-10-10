@@ -8,42 +8,55 @@
     </figcaption>
 </figure>
 
-!!! tip "Navigation"
+Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, and areas for growth.
+{ .annotate }
 
-    The content of my self-evaluation appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my self-evaluation.
+1. !!! reference "Derby Name Meaning"
 
-    A Table of Contents menu appears on the left-side of all pages to provide you with quick access to separate pages:
+       My derby name is a combination of two things:
 
-    1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
-    2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
-    3. [My WFTDA Evaluations History](./evaluations.md "WFTDA Evaluations").
-    4. [My Officiating History](./officiating_history.md "Officiating History")
+       1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
+       2. My superpower is recovering from injuries and surgeries :material-arm-flex:
+
+
+The content of my self-evaluation appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my self-evaluation.
+
+A Table of Contents menu appears on the left-side of all pages for quick access to separate pages:
+
+1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
+2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
+3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations"){ data-preview }.
+4. [My WFTDA OHD](./officiating_history.md "")
 
 ---
 
 ## About Me
 
-=== "Introduction :material-cursor-default-click:"
+=== "Dedication :material-cursor-default-click:"
 
-    !!! heart "Dedication"
-
-        Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, volunteers and stewards of the global roller derby community.  Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
-
-    I'm **Breadpool**(1), and this site is my roller derby officiation self-evaluation.  Please use the information in this site for details about my experience, strengths, and areas for growth.
-    { .annotate }
-
-    1.  !!! reference "Derby Name Meaning"
-
-            My derby name is a combination of two things:
-
-            1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
-            2. My superpower is recovering from injuries and surgeries :material-arm-flex:
+    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, volunteers and stewards of the global roller derby community.
+    
+    Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
      <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
             Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
+        </figcaption>
+    </figure>
+
+=== "Overview :material-cursor-default-click:"
+
+    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official** who works to earn the trust of my peers to excel in *all* roller derby officiating roles and at any level of competition.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role, the better I will be in every role.
+    
+    I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
+
+    <figure markdown>
+    ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
+            Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -64,20 +77,6 @@
         <figcaption style="font-size: 12px">
             JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
             Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
-        </figcaption>
-    </figure>
-
-=== "Overview :material-cursor-default-click:"
-
-    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official** who works to earn the trust of my peers to excel in *all* roller derby officiating roles and at any level of competition.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role, the better I will be in every role.
-    
-    I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
-
-    <figure markdown>
-    ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
-            Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -213,7 +212,7 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
 ## My Strengths and Areas for Growth
 
-Please click to expand the sections below for detailed information about what you can expect from me in each officiating role.
+Please click to expand the sections below for detailed information about my development in each officiating role.
 
 ??? bread "NSO Positions :material-cursor-default-click:"
 
