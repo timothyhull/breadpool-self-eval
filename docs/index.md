@@ -365,11 +365,33 @@ Please click to expand the sections below for detailed information about my deve
             - I do not serve in the PW role frequently, and it seems to take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
             - I need to be more proactive as a PW, and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
+    ??? clipboard "SK-Specific :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - Experience with accurately filling out SK paperwork.
+            - Clear two-way verbal communication with the SBO.
+            - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
+            - Clear two-way visual communication with my assigned JR.
+            - Thorough understanding of:
+                - JR responsibilities and communication needs.
+                - Scoring trips, including less common scenarios like negative trips, etc.
+                - Scenarios where a jammer loses the ability to earn lead, whether common or less common.
+                - Scenarios where a jammer has not lost lead, even if their helmet cover is not on their helmet.
+            - Ability to support developing JRs by:
+                - Providing feedback that helps them comfortably learn and build confidence in the JR role.
+                - Sharing insights regarding the nuances of the JR role and how they can best support gameplay.
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
+
     ??? laptop "SBO-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Extensive practice in the SBO role, with and without SK support.
+            - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
