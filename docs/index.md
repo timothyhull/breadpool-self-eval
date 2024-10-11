@@ -322,27 +322,35 @@ Please click to expand the sections below for detailed information about my deve
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
                 - It's important that I practice the dual watch technique in order to best support the needs of my assigned CHNSOs/HNSOs.
 
-    ??? clipboard "PLT-Specific :material-cursor-default-click:"
+    ??? tablet "PLT/ePLT-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Familiarity and experience with both the PLT paperwork and ePLT interface.
+            - Practiced at filling PLT paperwork in a way that's clear and legible.
+            - Strong understanding of WFTDA and JRDA stats book guides that allows me to accurately track penalties and lineups for uncommon scenarios.
+            - Understanding of penalty codes and familiarity with quickly translating SO verbal and visual cues to penalty codes.
+            - Ability to switch between PLT and ePLT record keeping at a moment's notice.
+            - Awareness to ensure alignment of PLT records with PBT paperwork during game stoppages.
+            - My SO experience helps me anticipate and quickly process SO verbal and visual cues.
+            - Regularly working with CRG, including beta versions, allows me to quickly recover ePLT software connectivity in the event of errors.
+            - Well-practiced recovering from accidental or incorrect ePLT interface taps.
+            - Familiarity and experience with using the ePLT interface to perform less common tasks including:
+                - Mark a player as having to sit for three jams.
+                - Adding and removing box trips.
+                - Player expulsions.
+            - Comfort with supporting the development of a peer PLT whether in both the PLT and ePLT roles.
+            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks during lineups.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
-
-    ??? tablet "ePLT-Specific :material-cursor-default-click:"
-
-        === "My Strengths :material-cursor-default-click:"
-
-            - TODO
-
-        === "My Areas for Growth :material-cursor-default-click:"
-
-            - TODO
-            - TODO
+            - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
+            - While serving in the ePLT role, I need to improve the precision of the timing for marking players who are serving and done with their penalties.
+                - I will occasionally be slow to indicate that a player completed their penalty service.
+            - I lack experience and practice with:
+                - PLT/ePLT recording of non-player expulsions.
+                - The separate roles of Penalty Tracking and Lineup Tracking.
+            
 
     ??? clipboard "PW-Specific :material-cursor-default-click:"
 
