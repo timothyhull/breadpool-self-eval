@@ -356,12 +356,14 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Comfort with supporting the development of officials who are learning the PLT/ePLT roles by:
+                - Quickly and accurately translating and relaying SO-issued penalties.
+                - Teaching the stats book guide prescribed methodologies for accurately recording penalties and lineups.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - I do not serve in the PW role frequently, and it seems to take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
+            - I need to be more proactive as a PW, and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
     ??? laptop "SBO-Specific :material-cursor-default-click:"
 
