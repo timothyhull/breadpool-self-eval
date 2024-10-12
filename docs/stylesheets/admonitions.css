@@ -2,241 +2,283 @@
 /* Reference documentation: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions */
 /* Path to the ".icons" directory: /usr/local/lib/python3.12/site-packages/material/templates/.icons/ */
 
-  /* "Bread" admonition: "fontawesome-solid-bread-slice" icon */
-  :root {
-    --md-admonition-icon--bread: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 32C192 32 0 64 0 192c0 35.3 28.7 64 64 64v176c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V256c35.3 0 64-28.7 64-64C512 64 320 32 256 32z"/></svg>')
-  }
-  .md-typeset .admonition.bread,
-  .md-typeset details.bread {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .bread > .admonition-title,
-  .md-typeset .bread > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .bread > .admonition-title::before,
-  .md-typeset .bread > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--bread);
-            mask-image: var(--md-admonition-icon--bread);
-  }
+/* "Bread" admonition: "fontawesome-solid-bread-slice" icon */
+:root {
+  --md-admonition-icon--bread: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 32C192 32 0 64 0 192c0 35.3 28.7 64 64 64v176c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V256c35.3 0 64-28.7 64-64C512 64 320 32 256 32z"/></svg>')
+}
+.md-typeset .admonition.bread,
+.md-typeset details.bread {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .bread > .admonition-title,
+.md-typeset .bread > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .bread > .admonition-title::before,
+.md-typeset .bread > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--bread);
+          mask-image: var(--md-admonition-icon--bread);
+}
 
-  /* "Clipboard" admonition: "fontawesome-solid-clipboard-list" icon */
-  :root {
-    --md-admonition-icon--clipboard: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M192 0c-41.8 0-77.4 26.7-90.5 64H64C28.7 64 0 92.7 0 128v320c0 35.3 28.7 64 64 64h256c35.3 0 64-28.7 64-64V128c0-35.3-28.7-64-64-64h-37.5C269.4 26.7 233.8 0 192 0zm0 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64zM72 272a24 24 0 1 1 48 0 24 24 0 1 1-48 0zm104-16h128c8.8 0 16 7.2 16 16s-7.2 16-16 16H176c-8.8 0-16-7.2-16-16s7.2-16 16-16zM72 368a24 24 0 1 1 48 0 24 24 0 1 1-48 0zm88 0c0-8.8 7.2-16 16-16h128c8.8 0 16 7.2 16 16s-7.2 16-16 16H176c-8.8 0-16-7.2-16-16z"/></svg>')
-  }
-  .md-typeset .admonition.clipboard,
-  .md-typeset details.clipboard {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .clipboard > .admonition-title,
-  .md-typeset .clipboard > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .clipboard > .admonition-title::before,
-  .md-typeset .clipboard > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--clipboard);
-            mask-image: var(--md-admonition-icon--clipboard);
-  }
-  /* "Heart" admonition: "fontawesome-solid-heart" icon */
-  :root {
-    --md-admonition-icon--heart: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="m47.6 300.4 180.7 168.7c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9l180.7-168.7c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141-45.6-7.6-92 7.3-124.6 39.9l-12 12-12-12c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>')
-  }
-  .md-typeset .admonition.heart,
-  .md-typeset details.heart {
-    border-color: rgb(125, 25, 175);
-  }
-  .md-typeset .heart > .admonition-title,
-  .md-typeset .heart > summary {
-    background-color: rgba(125, 25, 175, 0.1);
-    border-color: rgb(125, 25, 175);
-  }
-  .md-typeset .heart > .admonition-title::before,
-  .md-typeset .heart > summary::before {
-    background-color: rgb(125, 25, 175);
-    -webkit-mask-image: var(--md-admonition-icon--heart);
-            mask-image: var(--md-admonition-icon--heart);
-  }
+/* "Clipboard" admonition: "fontawesome-solid-clipboard-list" icon */
+:root {
+  --md-admonition-icon--clipboard: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M192 0c-41.8 0-77.4 26.7-90.5 64H64C28.7 64 0 92.7 0 128v320c0 35.3 28.7 64 64 64h256c35.3 0 64-28.7 64-64V128c0-35.3-28.7-64-64-64h-37.5C269.4 26.7 233.8 0 192 0zm0 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64zM72 272a24 24 0 1 1 48 0 24 24 0 1 1-48 0zm104-16h128c8.8 0 16 7.2 16 16s-7.2 16-16 16H176c-8.8 0-16-7.2-16-16s7.2-16 16-16zM72 368a24 24 0 1 1 48 0 24 24 0 1 1-48 0zm88 0c0-8.8 7.2-16 16-16h128c8.8 0 16 7.2 16 16s-7.2 16-16 16H176c-8.8 0-16-7.2-16-16z"/></svg>')
+}
+.md-typeset .admonition.clipboard,
+.md-typeset details.clipboard {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .clipboard > .admonition-title,
+.md-typeset .clipboard > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .clipboard > .admonition-title::before,
+.md-typeset .clipboard > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--clipboard);
+          mask-image: var(--md-admonition-icon--clipboard);
+}
 
-  /* "Laptop" admonition: "fontawesome-solid-laptop" icon */
-  :root {
-    --md-admonition-icon--laptop: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M128 32c-35.3 0-64 28.7-64 64v256h64V96h384v256h64V96c0-35.3-28.7-64-64-64H128zM19.2 384C8.6 384 0 392.6 0 403.2 0 445.6 34.4 480 76.8 480h486.4c42.4 0 76.8-34.4 76.8-76.8 0-10.6-8.6-19.2-19.2-19.2H19.2z"/></svg>')
-  }
-  .md-typeset .admonition.laptop,
-  .md-typeset details.laptop {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .laptop > .admonition-title,
-  .md-typeset .laptop > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .laptop > .admonition-title::before,
-  .md-typeset .laptop > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--laptop);
-            mask-image: var(--md-admonition-icon--laptop);
-  }
+/* "Code" admonition: "fontawesome-solid-code" icon */
+:root {
+  --md-admonition-icon--code: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3l89.3 89.4-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z"/></svg>')
+}
+.md-typeset .admonition.code,
+.md-typeset details.code {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .code > .admonition-title,
+.md-typeset .code > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .code > .admonition-title::before,
+.md-typeset .code > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--code);
+          mask-image: var(--md-admonition-icon--code);
+}
 
-  /* "Magnifying Glass" admonition: "fontawesome-solid-magnifying-glass" icon */
-  :root {
-    --md-admonition-icon--magnifying-glass: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>')
-  }
-  .md-typeset .admonition.magnifying-glass,
-  .md-typeset details.magnifying-glass {
-    border-color: rgb(30, 90, 40);
-  }
-  .md-typeset .magnifying-glass > .admonition-title,
-  .md-typeset .magnifying-glass > summary {
-    background-color: rgba(30, 90, 40, 0.1);
-    border-color: rgb(30, 90, 40);
-  }
-  .md-typeset .magnifying-glass > .admonition-title::before,
-  .md-typeset .magnifying-glass > summary::before {
-    background-color: rgb(30, 90, 40);
-    -webkit-mask-image: var(--md-admonition-icon--magnifying-glass);
-            mask-image: var(--md-admonition-icon--magnifying-glass);
-  }
+/* "Laptop" admonition: "fontawesome-solid-laptop" icon */
+:root {
+  --md-admonition-icon--laptop: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M128 32c-35.3 0-64 28.7-64 64v256h64V96h384v256h64V96c0-35.3-28.7-64-64-64H128zM19.2 384C8.6 384 0 392.6 0 403.2 0 445.6 34.4 480 76.8 480h486.4c42.4 0 76.8-34.4 76.8-76.8 0-10.6-8.6-19.2-19.2-19.2H19.2z"/></svg>')
+}
+.md-typeset .admonition.laptop,
+.md-typeset details.laptop {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .laptop > .admonition-title,
+.md-typeset .laptop > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .laptop > .admonition-title::before,
+.md-typeset .laptop > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--laptop);
+          mask-image: var(--md-admonition-icon--laptop);
+}
 
-  /* "Numbers" admonition: "material-format-list-numbered" icon */
-  :root {
-    --md-admonition-icon--numbers: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 13v-2h14v2H7m0 6v-2h14v2H7M7 7V5h14v2H7M3 8V5H2V4h2v4H3m-1 9v-1h3v4H2v-1h2v-.5H3v-1h1V17H2m2.25-7a.75.75 0 0 1 .75.75c0 .2-.08.39-.21.52L3.12 13H5v1H2v-.92L4 11H2v-1h2.25Z"/></svg>')
-  }
-  .md-typeset .admonition.numbers,
-  .md-typeset details.numbers {
-    border-color: rgb(140, 43, 35);
-  }
-  .md-typeset .numbers > .admonition-title,
-  .md-typeset .numbers > summary {
-    background-color: rgba(140, 43, 35, 0.1);
-    border-color: rgb(140, 43, 35);
-  }
-  .md-typeset .numbers > .admonition-title::before,
-  .md-typeset .numbers > summary::before {
-    background-color: rgb(140, 43, 35);
-    -webkit-mask-image: var(--md-admonition-icon--numbers);
-            mask-image: var(--md-admonition-icon--numbers);
-  }
-  
-  /* "Reference" admonition: "fontawesome-solid-book" icon */
-  :root {
-    --md-admonition-icon--reference: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M448 336V48c0-26.51-21.5-48-48-48H96C42.98 0 0 42.98 0 96v320c0 53.02 42.98 96 96 96h320c17.67 0 32-14.33 32-31.1 0-11.72-6.607-21.52-16-27.1v-81.36c9.8-9.64 16-22.24 16-36.44zM143.1 128h192c9.7 0 16.9 7.2 16.9 16s-7.2 16-16 16H143.1c-7.9 0-15.1-7.2-15.1-16s7.2-16 15.1-16zm0 64h192c9.7 0 16.9 7.2 16.9 16s-7.2 16-16 16H143.1c-7.9 0-15.1-7.2-15.1-16s7.2-16 15.1-16zM384 448H96c-17.67 0-32-14.33-32-32s14.33-32 32-32h288v64z"/></svg>')
-  }
-  .md-typeset .admonition.reference,
-  .md-typeset details.reference {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .reference > .admonition-title,
-  .md-typeset .reference > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .reference > .admonition-title::before,
-  .md-typeset .reference > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--reference);
-            mask-image: var(--md-admonition-icon--reference);
-  }
-  
-  /* "Stopwatch" admonition: "fontawesome-solid-stopwatch" icon */
-  :root {
-    --md-admonition-icon--stopwatch: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M176 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h16v34.4C92.3 113.8 16 200 16 304c0 114.9 93.1 208 208 208s208-93.1 208-208c0-41.8-12.3-80.7-33.5-113.2l24.1-24.1c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L355.7 143c-28.1-23-62.2-38.8-99.7-44.6V64h16c17.7 0 32-14.3 32-32S289.7 0 272 0h-96zm72 192v128c0 13.3-10.7 24-24 24s-24-10.7-24-24V192c0-13.3 10.7-24 24-24s24 10.7 24 24z"/></svg>')
-  }
-  .md-typeset .admonition.stopwatch,
-  .md-typeset details.stopwatch {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .stopwatch > .admonition-title,
-  .md-typeset .stopwatch > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .stopwatch > .admonition-title::before,
-  .md-typeset .stopwatch > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--stopwatch);
-            mask-image: var(--md-admonition-icon--stopwatch);
-  }
-  
-  /* "Tablet" admonition: "fontawesome-solid-tablet-screen-button" icon */
-  :root {
-    --md-admonition-icon--tablet: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 64C0 28.7 28.7 0 64 0h320c35.3 0 64 28.7 64 64v384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm256 384a32 32 0 1 0-64 0 32 32 0 1 0 64 0zM384 64H64v320h320V64z"/></svg>')
-  }
-  .md-typeset .admonition.tablet,
-  .md-typeset details.tablet {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .tablet > .admonition-title,
-  .md-typeset .tablet > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .tablet > .admonition-title::before,
-  .md-typeset .tablet > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--tablet);
-            mask-image: var(--md-admonition-icon--tablet);
-  }
-  
-  /* "Video" admonition: "fontawesome-solid-video" icon */
-  :root {
-    --md-admonition-icon--video: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 128c0-35.3 28.7-64 64-64h256c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128zm559.1-28.2c10.4 5.6 16.9 16.4 16.9 28.2v256c0 11.8-6.5 22.6-16.9 28.2s-23 5-32.9-1.6l-96-64-14.2-9.5V174.9l14.2-9.5 96-64c9.8-6.5 22.4-7.2 32.9-1.6z"/></svg>')
-  }
-  .md-typeset .admonition.video,
-  .md-typeset details.video {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .video > .admonition-title,
-  .md-typeset .video > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .video > .admonition-title::before,
-  .md-typeset .video > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--video);
-            mask-image: var(--md-admonition-icon--video);
-  }
-  
-  /* "Whistle" admonition: "material-whistle" icon */
-  :root {
-    --md-admonition-icon--whistle: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.5 9A6.5 6.5 0 0 0 2 15.5 6.5 6.5 0 0 0 8.5 22a6.5 6.5 0 0 0 6.5-6.5v-1.59L22 12V9H11v2H9V9h-.5M11 2v5H9V2h2M6.35 7.28c-.67.16-1.31.4-1.92.72L2.14 4.88 3.76 3.7l2.59 3.58m11.51-2.4L16.32 7h-2.47l2.39-3.3 1.62 1.18Z"/></svg>')
-  }
-  .md-typeset .admonition.whistle,
-  .md-typeset details.whistle {
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .whistle > .admonition-title,
-  .md-typeset .whistle > summary {
-    background-color: rgba(60, 60, 60, 0.1);
-    border-color: rgb(60, 60, 60);
-  }
-  .md-typeset .whistle > .admonition-title::before,
-  .md-typeset .whistle > summary::before {
-    background-color: rgb(60, 60, 60);
-    -webkit-mask-image: var(--md-admonition-icon--whistle);
-            mask-image: var(--md-admonition-icon--whistle);
-  }
-  
-  /* "Template" admonition: "fontawesome-solid-template" icon */
-  /*:root {
-    --md-admonition-icon--template: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d=""/></svg>')
-  }
-  .md-typeset .admonition.template,
-  .md-typeset details.template {
-    border-color: rgb(0, 0, 0);
-  }
-  .md-typeset .template > .admonition-title,
-  .md-typeset .template > summary {
-    background-color: rgba(0, 0, 0, 0.1);
-    border-color: rgb(0, 0, 0);
-  }
-  .md-typeset .template > .admonition-title::before,
-  .md-typeset .template > summary::before {
-    background-color: rgb(0, 0, 0);
-    -webkit-mask-image: var(--md-admonition-icon--template);
-            mask-image: var(--md-admonition-icon--template);
-  } */
+/* "Magnifying Glass" admonition: "fontawesome-solid-magnifying-glass" icon */
+:root {
+  --md-admonition-icon--magnifying-glass: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>')
+}
+.md-typeset .admonition.magnifying-glass,
+.md-typeset details.magnifying-glass {
+  border-color: rgb(30, 90, 40);
+}
+.md-typeset .magnifying-glass > .admonition-title,
+.md-typeset .magnifying-glass > summary {
+  background-color: rgba(30, 90, 40, 0.1);
+  border-color: rgb(30, 90, 40);
+}
+.md-typeset .magnifying-glass > .admonition-title::before,
+.md-typeset .magnifying-glass > summary::before {
+  background-color: rgb(30, 90, 40);
+  -webkit-mask-image: var(--md-admonition-icon--magnifying-glass);
+          mask-image: var(--md-admonition-icon--magnifying-glass);
+}
+
+/* "Numbers" admonition: "material-format-list-numbered" icon */
+:root {
+  --md-admonition-icon--numbers: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 13v-2h14v2H7m0 6v-2h14v2H7M7 7V5h14v2H7M3 8V5H2V4h2v4H3m-1 9v-1h3v4H2v-1h2v-.5H3v-1h1V17H2m2.25-7a.75.75 0 0 1 .75.75c0 .2-.08.39-.21.52L3.12 13H5v1H2v-.92L4 11H2v-1h2.25Z"/></svg>')
+}
+.md-typeset .admonition.numbers,
+.md-typeset details.numbers {
+  border-color: rgb(140, 43, 35);
+}
+.md-typeset .numbers > .admonition-title,
+.md-typeset .numbers > summary {
+  background-color: rgba(140, 43, 35, 0.1);
+  border-color: rgb(140, 43, 35);
+}
+.md-typeset .numbers > .admonition-title::before,
+.md-typeset .numbers > summary::before {
+  background-color: rgb(140, 43, 35);
+  -webkit-mask-image: var(--md-admonition-icon--numbers);
+          mask-image: var(--md-admonition-icon--numbers);
+}
+
+/* "Reference" admonition: "fontawesome-solid-book" icon */
+:root {
+  --md-admonition-icon--reference: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M448 336V48c0-26.51-21.5-48-48-48H96C42.98 0 0 42.98 0 96v320c0 53.02 42.98 96 96 96h320c17.67 0 32-14.33 32-31.1 0-11.72-6.607-21.52-16-27.1v-81.36c9.8-9.64 16-22.24 16-36.44zM143.1 128h192c9.7 0 16.9 7.2 16.9 16s-7.2 16-16 16H143.1c-7.9 0-15.1-7.2-15.1-16s7.2-16 15.1-16zm0 64h192c9.7 0 16.9 7.2 16.9 16s-7.2 16-16 16H143.1c-7.9 0-15.1-7.2-15.1-16s7.2-16 15.1-16zM384 448H96c-17.67 0-32-14.33-32-32s14.33-32 32-32h288v64z"/></svg>')
+}
+.md-typeset .admonition.reference,
+.md-typeset details.reference {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .reference > .admonition-title,
+.md-typeset .reference > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .reference > .admonition-title::before,
+.md-typeset .reference > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--reference);
+          mask-image: var(--md-admonition-icon--reference);
+}
+
+/* "Star" admonition: "fontawesome-solid-star" icon */
+:root {
+  --md-admonition-icon--star: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M316.9 18c-5.3-11-16.5-18-28.8-18s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329l-24.6 145.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329l104.2-103.1c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7l-143.7-21.2L316.9 18z"/></svg>')
+}
+.md-typeset .admonition.star,
+.md-typeset details.star {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .star > .admonition-title,
+.md-typeset .star > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .star > .admonition-title::before,
+.md-typeset .star > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--star);
+          mask-image: var(--md-admonition-icon--star);
+}
+
+
+/* "Stopwatch" admonition: "fontawesome-solid-stopwatch" icon */
+:root {
+  --md-admonition-icon--stopwatch: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M176 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h16v34.4C92.3 113.8 16 200 16 304c0 114.9 93.1 208 208 208s208-93.1 208-208c0-41.8-12.3-80.7-33.5-113.2l24.1-24.1c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L355.7 143c-28.1-23-62.2-38.8-99.7-44.6V64h16c17.7 0 32-14.3 32-32S289.7 0 272 0h-96zm72 192v128c0 13.3-10.7 24-24 24s-24-10.7-24-24V192c0-13.3 10.7-24 24-24s24 10.7 24 24z"/></svg>')
+}
+.md-typeset .admonition.stopwatch,
+.md-typeset details.stopwatch {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .stopwatch > .admonition-title,
+.md-typeset .stopwatch > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .stopwatch > .admonition-title::before,
+.md-typeset .stopwatch > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--stopwatch);
+          mask-image: var(--md-admonition-icon--stopwatch);
+}
+
+/* "Technology" admonition: "fontawesome-solid-network-wired" icon */
+:root {
+  --md-admonition-icon--technology: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 64h128v64H256V64zM240 0c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48h48v32H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h96v32H80c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48h160c26.5 0 48-21.5 48-48v-96c0-26.5-21.5-48-48-48h-48v-32h256v32h-48c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48h160c26.5 0 48-21.5 48-48v-96c0-26.5-21.5-48-48-48h-48v-32h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H352v-32h48c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H240zM96 448v-64h128v64H96zm320-64h128v64H416v-64z"/></svg>')
+}
+.md-typeset .admonition.technology,
+.md-typeset details.technology {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .technology > .admonition-title,
+.md-typeset .technology > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .technology > .admonition-title::before,
+.md-typeset .technology > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--technology);
+          mask-image: var(--md-admonition-icon--technology);
+}
+
+/* "Tablet" admonition: "fontawesome-solid-tablet-screen-button" icon */
+:root {
+  --md-admonition-icon--tablet: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 64C0 28.7 28.7 0 64 0h320c35.3 0 64 28.7 64 64v384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm256 384a32 32 0 1 0-64 0 32 32 0 1 0 64 0zM384 64H64v320h320V64z"/></svg>')
+}
+.md-typeset .admonition.tablet,
+.md-typeset details.tablet {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .tablet > .admonition-title,
+.md-typeset .tablet > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .tablet > .admonition-title::before,
+.md-typeset .tablet > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--tablet);
+          mask-image: var(--md-admonition-icon--tablet);
+}
+
+/* "Video" admonition: "fontawesome-solid-video" icon */
+:root {
+  --md-admonition-icon--video: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 128c0-35.3 28.7-64 64-64h256c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128zm559.1-28.2c10.4 5.6 16.9 16.4 16.9 28.2v256c0 11.8-6.5 22.6-16.9 28.2s-23 5-32.9-1.6l-96-64-14.2-9.5V174.9l14.2-9.5 96-64c9.8-6.5 22.4-7.2 32.9-1.6z"/></svg>')
+}
+.md-typeset .admonition.video,
+.md-typeset details.video {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .video > .admonition-title,
+.md-typeset .video > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .video > .admonition-title::before,
+.md-typeset .video > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--video);
+          mask-image: var(--md-admonition-icon--video);
+}
+
+/* "Whistle" admonition: "material-whistle" icon */
+:root {
+  --md-admonition-icon--whistle: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.5 9A6.5 6.5 0 0 0 2 15.5 6.5 6.5 0 0 0 8.5 22a6.5 6.5 0 0 0 6.5-6.5v-1.59L22 12V9H11v2H9V9h-.5M11 2v5H9V2h2M6.35 7.28c-.67.16-1.31.4-1.92.72L2.14 4.88 3.76 3.7l2.59 3.58m11.51-2.4L16.32 7h-2.47l2.39-3.3 1.62 1.18Z"/></svg>')
+}
+.md-typeset .admonition.whistle,
+.md-typeset details.whistle {
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .whistle > .admonition-title,
+.md-typeset .whistle > summary {
+  background-color: rgba(60, 60, 60, 0.1);
+  border-color: rgb(60, 60, 60);
+}
+.md-typeset .whistle > .admonition-title::before,
+.md-typeset .whistle > summary::before {
+  background-color: rgb(60, 60, 60);
+  -webkit-mask-image: var(--md-admonition-icon--whistle);
+          mask-image: var(--md-admonition-icon--whistle);
+}
+
+/* "Template" admonition: "fontawesome-solid-template" icon */
+/*:root {
+  --md-admonition-icon--template: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d=""/></svg>')
+}
+.md-typeset .admonition.template,
+.md-typeset details.template {
+  border-color: rgb(0, 0, 0);
+}
+.md-typeset .template > .admonition-title,
+.md-typeset .template > summary {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-color: rgb(0, 0, 0);
+}
+.md-typeset .template > .admonition-title::before,
+.md-typeset .template > summary::before {
+  background-color: rgb(0, 0, 0);
+  -webkit-mask-image: var(--md-admonition-icon--template);
+          mask-image: var(--md-admonition-icon--template);
+} */
