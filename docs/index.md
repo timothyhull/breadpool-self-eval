@@ -664,26 +664,26 @@ Please click to expand the sections below for detailed information about my deve
 
 ## Other Derby Contributions and Experience
 
-=== "RCR Volunteer Service :material-cursor-default-click:"
+??? star "RCR Volunteer Service :material-cursor-default-click:"
 
     - 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
     - 430+ hours of officiating RCR adult and junior scrimmages.
     - 105+ hours of attending RCR officiating practices.
     - 40+ hours of preparing for and leading RCR adult and junior officiating practices.
 
-=== "RCR Officiating Development :material-cursor-default-click:"
+??? whistle "RCR Officiating Development :material-cursor-default-click:"
 
     - Regular officiating practice coach.
     - Co-founded an ongoing a junior officiating training program in 2023 for which I serve as the primary coach.
     - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as officiating practice enhancement tool.
 
-=== "RCR OC Membership :material-cursor-default-click:"
+??? clipboard "RCR OC Membership :material-cursor-default-click:"
 
     - OC member from January to December of 2023.
     - OC member from January 2024 to present.
     - OC co-chair-elect for a term from January to December of 2025.
 
-=== "RCR Technology Enhancements :material-cursor-default-click:"
+??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
     - Led an initiative to refresh officiating technology in 2023 that resulted in the setup of and migration to:
         - A new SBO computer.
@@ -692,7 +692,7 @@ Please click to expand the sections below for detailed information about my deve
         - Usage of RCR cloud storage to improve shared file access and improve events coordination with RCR.
     - Developed and actively enhancing an open-source application ([Star Pass :octicons-link-external-24:](https://github.com/rcrderby/star-pass "Star Pass Volunteer Management Automation Application on GitHub"){ target=_blank }) that automates RCR-wide volunteer opportunity management.
 
-=== "CRG Open-Source Contributions :material-cursor-default-click:"
+??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
     - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
     - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
