@@ -660,11 +660,26 @@ Please click to expand the sections below for detailed information about my deve
 
 ---
 
-## Conclusion
+## Other Derby Contributions and Experience
 
-I believe the unique circumstances of my life prepared me for this opportunity.  The intersection of my circumstances, choices, experiences, successes, failures, dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
+- 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
+  - 430+ hours of officiating scrimmages.
+- 105+ hours of attending officiating practices.
+- Led an initiative to refresh officiating technology in 2023 resulting in the setup and migration to:
+  - A new SBO computer.
+  - Two new ePLT tablets.
+  - 40+ new home and visiting team logos reorganized into a modern, intuitive file hierarchy.
+- Deployed a streaming device to the scoreboard projector as a training tool to enhance officiating practices.
+- Helped co-found a junior officiating training program.
+- Primary junior officiating practice coach.
+- Officiating practice coaching contributor.
+- OC member for the following terms:
+  - January-December 2023.
+  - January-December 2024.
+- OC co-chair for the January-December 2025.
+- Created CRG-related GitHub repositories.
+- Configured Stream Deck XL to help train and enable new SBOs.
 
-Thank you for the opportunity to apply and for considering my application.  If you select me to be a member of an officiating crew, I will reward your decision with the dedication, preparation, and performance of a champion.
 
 <figure markdown>
 ![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -673,24 +688,3 @@ Thank you for the opportunity to apply and for considering my application.  If y
         Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
     </figcaption>
 </figure>
-
----
-
-!!! numbers "My Application By The Numbers"
-
-    - **44K** - miles flown to officiate in the previous year.
-    - **229** - games officiated in the previous two years.
-    - **134** - games officiated in the previous year.
-    - **100+** - hours at a physical therapy office since 9/19/2023 to be ready to submit this application.
-    - **60+** - hours I spent preparing this application.
-    - **18** - events officiated in the previous year.
-    - **16** - out-of-state trips to officiate derby in the previous year.
-    - **0** - regrets for all of my work and sacrifice to be ready for this moment.
-
-    <figure markdown>
-    ![Jammer Referee, Franky Panky, Tampa vs. Dub City, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JR, Franky Panky, Tampa vs. Dub City, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
-        </figcaption>
-    </figure>
