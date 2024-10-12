@@ -109,10 +109,10 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
         Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to be better every day.
 
         <figure markdown>
-        ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
-                IPR, RCR Home Team Champs, June, 2024<br>
-                Credit: Divo
+                HR, AoA vs. Rat City, October, 2023<br>
+                Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -729,10 +729,10 @@ Please click to expand the sections below for detailed information about my deve
     </figure>
 
 <figure markdown>
-![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        IPR, RCR Home Team Champs, June, 2024<br>
-        Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+        ALTR, RCR Home Team Champs, June, 2024<br>
+        Credit: Divo
     </figcaption>
 </figure>
 
