@@ -80,6 +80,42 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
         </figcaption>
     </figure>
 
+=== "What Derby Officiating Means to Me :material-cursor-default-click:"
+
+    === "Inspiration :material-cursor-default-click:"
+
+        I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
+        
+        When serve in an officiating role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+        
+        Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement in 2023 because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
+        
+        **I want people with physical disabilities to see me as an example that it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
+
+        <figure markdown>
+        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
+                Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+            </figcaption>
+        </figure>
+
+    === "New Hope :material-cursor-default-click:"
+
+        I've loved intense athletic competition for as long as I can remember, first competing in a running race at the age of 5.  I love the grind of physical preparation, the struggle of mental readiness, the joy of successes, the pain of failures, and even the process to recover from the devastation of injuries, just for the chance to compete again.
+        
+        Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
+
+        Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to be better every day.
+
+        <figure markdown>
+        ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                IPR, RCR Home Team Champs, June, 2024<br>
+                Credit: Divo
+            </figcaption>
+        </figure>
+
 === "My Officiating Background :material-cursor-default-click:"
 
     === "Non-Derby Officiating :material-cursor-default-click:"
@@ -621,52 +657,6 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - TODO
-
----
-
-## What This Means To Me
-
-=== "Inspiration :material-cursor-default-click:"
-
-    I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
-    
-    When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
-    
-    Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
-    
-    **I want people with physical disabilities to see me as an example that it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
-
-    <figure markdown>
-    ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
-            Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
-        </figcaption>
-    </figure>
-
-=== "New Hope :material-cursor-default-click:"
-
-    I've loved intense athletic competition for as long as I can remember, first competing in a running race at the age of 5.  I love the grind of physical preparation, the struggle of mental readiness, the joy of successes, the pain of failures, and even the process to recover from the devastation of injuries, just for the chance to compete again.
-    
-    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
-
-    Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to be better every day.
-
-    The first time I attended a roller derby officiating practice, one of the coaches told me:
-    
-    !!! quote
-    
-        *"There are people here who've officiated at the WFTDA Championship level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."*
-        
-    That moment offered me a chance to experience competition in a way that I thought was gone forever, and gave me hope that I could once again feel the joy of training to be a champion.  Driven by that hope, I've poured my soul into doing *everything* I can to have a shot at being a member of a WFTDA Championship officiating crew.
-
-    <figure markdown>
-    ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            IPR, RCR Home Team Champs, June, 2024<br>
-            Credit: Divo
-        </figcaption>
-    </figure>
 
 ---
 
