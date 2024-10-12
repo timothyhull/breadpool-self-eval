@@ -48,7 +48,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 === "Overview :material-cursor-default-click:"
 
-    My self-evaluation encompasses both SO or NSO positions because I consider myself an **official** who works to earn the trust of my peers to excel in *all* roller derby officiating roles and at any level of competition.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role, the better I will be in every role.
+    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers to excel in every roller derby officiating role.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role and position, the better official I will be.
     
     I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
@@ -237,12 +237,13 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
+            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
             - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
             - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
             - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
-            - Supporting officials who are developing experience with CHR/HR roles by acting as a safety net if they need assistance.
+            - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
 
@@ -452,11 +453,34 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
+            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
+            - Maximizing opportunities for other officials by assigning them to all available roster positions, including the ALTR position.
+            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each SO position, which allows me to support to any member of my crew who may need help.
+            - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
+            - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
+            - Helping guide and adjust the penalty game impact spectrum amongst my crew in order to limit the number of player and team penalties as much as possible.
+            - Communicating with players and teams in a way that seeks to understand their points-of-view.
+            - Managing game flow by:
+                - Limiting the duration and frequency of OTOs whenever possible.
+                - Working with the JT to ensure the lineup clock reaches 25 seconds before stopping the game clock for an OTO (except for injury situations).
+                - Clear, specific, decisive, and timely communication with teams, officials, and game audiences, during ORs.
+            - Strategically using OTOs as a mechanism to show fair and good faith to players and coaches.  For example:
+                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will, when digression feels appropriate, use OTOs to ensure I am not dismissive of concerns.
+                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use OTOs to speak with coaches and captains rather than continue to penalize players until a team or teams use their timeouts to address the concern with me.
+            - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
+                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+            - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
+            - Providing in-game and post-game feedback to officials who have consented to feedback.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - Advanced research of assigned crew members.
+            - I often pass on opportunities to serve in an HR role so I can afford those opportunities to other officials.
+                - I need to advocate for myself to seek and accept more HR responsibilities.
+            - When assigned to an HR or CHR role, especially in a tournament when I'm working with officials who I many not be familiar with, I need to study game video of the individual crew members to understand:
+                - Their strengths and areas for growth.
+                - How to best position them for success.
+                - How to appropriately challenge them to improve.
 
     ??? whistle "OPR :material-cursor-default-click:"
 
@@ -515,11 +539,16 @@ Please click to expand the sections below for detailed information about my deve
             - Awareness of the space I occupy, how my position impacts my peer JR, and the ability to adapt to support fluid, dynamic movement with my peer JR throughout a tournament.
             - Anticipating situations that may result in a star pass that is difficult to see.
             - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
-            - Precision responsiveness to jammer call-offs.
+            - Precision responsiveness to jammer call-off requests.
+            - Thorough understanding of SK responsibilities and communication needs.
+            - Ability to support developing SKs by providing feedback that helps them comfortably learn and build confidence in the SK role.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
+            - In situations where I believe my jammer is incorrectly penalized by another official, I can sometimes lose focus while attempting to rationalize the situation.  That loss of focus can result in:
+                - Losing track of the current trip, which points (if any) are earned and which are still available to earn.
+                - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to serve the penalty or immediately overturning the penalty (in either case, I would discuss the penalty with the issuing official after the current jam).
+            - Although I am comfortable adapting my positioning to the specific style and needs of my peer JR, I will sometimes forget to implement adaptations consistently and disrupt their path.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
@@ -544,12 +573,18 @@ Please click to expand the sections below for detailed information about my deve
             - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
             - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
             - Awareness of where players re-enter the track relative to the front engagement zone.
-            - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
+            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
             - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
+            - My pack definition is often too "academic" for practical gameplay, which results in me issuing more verbal cues than are necessary.
+                - For example, I have the tendency to issue a "no-pack" warning when I believe the distance between players who are maintaining pack connectivity exceeds ten feet.
+                - However, in many of these cases, immediate pack reformation is imminent, and gameplay would benefit from me reducing unnecessary verbal cues.
+            - During gameplay with rapid, dynamic pack movement, I tend to over-focus on pack definition and engagement zone tracking which can cause me to not be as mindful as necessary of contact-based penalties.
+            - Specifically as a front IPR, when I am working with a rear IPR that I do not work with regularly, I can be slow to adapt to their assessment of distances between players.
+                - This can result in me issuing "no-pack" warnings when there the rear IPR defines a pack.
+                - I am actively focused on my early-game attentiveness and adaptation to the way my rear IPR peer performs their pack definition.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
