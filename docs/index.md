@@ -669,10 +669,10 @@ Please click to expand the sections below for detailed information about my deve
             - I do not have any specific areas for growth in the ALTR role at this time.
 
 <figure markdown>
-![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
-        Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
+        IPR, RCR Home Team Champs, June, 2024<br>
+        Credit: Divo
     </figcaption>
 </figure>
 
