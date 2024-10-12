@@ -244,6 +244,14 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
     - Making split-second, difficult decisions is simply part of being an official, and I believe that applies to all levels in all sports.
     - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
 
+<figure markdown>
+![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
+        Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
+    </figcaption>
+</figure>
+
 ---
 
 ## My Strengths and Areas for Growth
@@ -486,7 +494,7 @@ Please click to expand the sections below for detailed information about my deve
         </figcaption>
     </figure>
 
-     ??? whistle "HR/CHR :material-cursor-default-click:"
+    ??? whistle "HR/CHR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -658,7 +666,15 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
+            - I do not have any specific areas for growth in the ALTR role at this time.
+
+<figure markdown>
+![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
+        Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
+    </figcaption>
+</figure>
 
 ---
 
@@ -697,8 +713,34 @@ Please click to expand the sections below for detailed information about my deve
     - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
     - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
         - Intended primarily to lower the CRG/SBO training barrier to officials of all experience levels.
-        - [Example Stream Deck controller interface :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-1.png "Example Stream Deck for CRG Controller Interface"){ target=_blank }.
 
+    <figure markdown>
+    ![Example Stream Deck Controller Interface #1](images/stream-deck-32-black-vs-white-page-1.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            [Example Stream Deck Controller Interface #1 :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-1.png "Example Stream Deck for CRG Controller Interface #1"){ target=_blank }
+        </figcaption>
+    </figure>
+
+    <figure markdown>
+    ![Example Stream Deck Controller Interface #2](images/stream-deck-32-black-vs-white-page-2.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            [Example Stream Deck Controller Interface #2 :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-2.png "Example Stream Deck for CRG Controller Interface #2"){ target=_blank }
+        </figcaption>
+    </figure>
+
+<figure markdown>
+![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        IPR, RCR Home Team Champs, June, 2024<br>
+        Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+    </figcaption>
+</figure>
+
+---
+
+## Conclusion
+
+Thank you for reviewing my self-assessment.  I look forward to your feedback and am grateful for your support of my ongoing officiating development.
 
 <figure markdown>
 ![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
