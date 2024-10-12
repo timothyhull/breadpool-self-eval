@@ -140,7 +140,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 ## What to Expect From Me
 
-I believe the best officiating happens when a crew operates as a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
+I believe the best officiating happens when a crew operates as a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of any officiating crew:
 
 ??? bread "1. My Mindset :material-cursor-default-click:"
 
@@ -232,7 +232,7 @@ Please click to expand the sections below for detailed information about my deve
         </figcaption>
     </figure>
 
-    ??? clipboard "HNSO/CHNSO-Specific :material-cursor-default-click:"
+    ??? clipboard "HNSO/CHNSO :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -253,7 +253,7 @@ Please click to expand the sections below for detailed information about my deve
                 - I intend to seek opportunities to serve in the CHNSO and HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
 
-    ??? stopwatch "JT-Specific :material-cursor-default-click:"
+    ??? stopwatch "JT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -277,7 +277,7 @@ Please click to expand the sections below for detailed information about my deve
             - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to immediately stop my game clock stopwatch.
                 - I need to continue to practice holding my game clock stopwatch in a way that allows me to simultaneously signal timeouts and press the "Stop" button.
 
-    ??? stopwatch "PBM-Specific :material-cursor-default-click:"
+    ??? stopwatch "PBM :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -297,7 +297,7 @@ Please click to expand the sections below for detailed information about my deve
             - Even though I have access to a high volume of roller derby games, PBM roles are often assigned to officials with vastly more experience in the PBM role than me.
                 - I intend to seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
 
-    ??? stopwatch "PBT-Specific :material-cursor-default-click:"
+    ??? stopwatch "PBT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -322,7 +322,7 @@ Please click to expand the sections below for detailed information about my deve
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
                 - It's important that I practice the dual watch technique in order to best support the needs of my assigned CHNSOs/HNSOs.
 
-    ??? tablet "PLT/ePLT-Specific :material-cursor-default-click:"
+    ??? tablet "PLT/ePLT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -352,7 +352,7 @@ Please click to expand the sections below for detailed information about my deve
                 - The separate roles of PT and LT.
             
 
-    ??? clipboard "PW-Specific :material-cursor-default-click:"
+    ??? clipboard "PW :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -365,7 +365,7 @@ Please click to expand the sections below for detailed information about my deve
             - I do not serve in the PW role frequently, and it seems to take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
             - I need to be more proactive as a PW, and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
-    ??? clipboard "SK-Specific :material-cursor-default-click:"
+    ??? clipboard "SK :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -387,7 +387,7 @@ Please click to expand the sections below for detailed information about my deve
 
             - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO.
 
-    ??? laptop "SBO-Specific :material-cursor-default-click:"
+    ??? laptop "SBO :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -411,7 +411,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Routinely serve as SBO during scrimmages.
                 - Have trust amongst my local and regional peers for my knowledge and experience with CRG.
     
-    ??? clipboard "ALTN-Specific :material-cursor-default-click:"
+    ??? clipboard "ALTN :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
@@ -448,11 +448,19 @@ Please click to expand the sections below for detailed information about my deve
         </figcaption>
     </figure>
 
-    ??? whistle "OPR-Specific :material-cursor-default-click:"
+     ??? whistle "HR/CHR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            As an OPR, you can expect me to consistently exhibit and excel at:
+            - TODO
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - Advanced research of assigned crew members.
+
+    ??? whistle "OPR :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
 
             - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
             - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
@@ -461,15 +469,17 @@ Please click to expand the sections below for detailed information about my deve
             - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
             - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
-            <figure markdown>
-            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    OPR, WFTDA NA West Playoffs, June, 2024<br>
-                    Credit: [ShutHerUp Photography :octicons-link-external-24:](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
+        === "My Areas for Growth :material-cursor-default-click:"
 
-        === "Positioning Methodology :material-cursor-default-click:"
+            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position that my peers least prefer for themselves; typically the front OPR position.
+                - This behavior results in limited opportunities to build game experience in other OPR roles, and I need to consider my own development in better balance with the requests of my peers.
+            - I tend to be passive about my assignment-specific positioning relative to other officials, in particular in the middle or front OPR assignment.
+                - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
+                - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
+            - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself out of position.
+            - I will occasionally focus so much on my individual zone of coverage that I don't anticipate overall pack and player movement correctly.
+
+        === "My Positioning Methodology :material-cursor-default-click:"
 
             - As a **rear** OPR, I am, generally:
 
@@ -492,19 +502,9 @@ Please click to expand the sections below for detailed information about my deve
                 2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
                 3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
 
-            <figure markdown>
-            ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
-                    Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
-
     ??? whistle "JR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
-
-            As a JR, you can expect me to consistently exhibit and excel at:
 
             - Keeping eyes on my jammer at *all* times to ensure nothing they do goes unobserved.
             - Clear, kind, and supportive communication with my SK, before, during, and after each game.
@@ -517,27 +517,15 @@ Please click to expand the sections below for detailed information about my deve
             - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
             - Precision responsiveness to jammer call-offs.
 
-            <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
+        === "My Areas for Growth :material-cursor-default-click:"
 
-        === "Positioning Methodology :material-cursor-default-click:"
+            - TODO
+
+        === "My Positioning Methodology :material-cursor-default-click:"
 
             - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
             - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
             - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
-
-            <figure markdown>
-            ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    HR, AoA vs. Rat City, October, 2023<br>
-                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
 
     ??? whistle "IPR :material-cursor-default-click:"
 
@@ -559,15 +547,11 @@ Please click to expand the sections below for detailed information about my deve
             - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
             - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
-            <figure markdown>
-            ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    IPR, RCR Home Team Champs, June, 2024<br>
-                    Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
-                </figcaption>
-            </figure>
+        === "My Areas for Growth :material-cursor-default-click:"
 
-        === "Positioning Methodology :material-cursor-default-click:"
+            - TODO
+
+        === "My Positioning Methodology :material-cursor-default-click:"
 
             - As a **front** IPR, I am, generally:
 
@@ -585,14 +569,6 @@ Please click to expand the sections below for detailed information about my deve
                 5. Ready to move out of the path of both JRs and quickly recover my original position.
                 6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
 
-            <figure markdown>
-            ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
-                    Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
-                </figcaption>
-            </figure>
-
     ??? clipboard "ALTR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
@@ -607,13 +583,9 @@ Please click to expand the sections below for detailed information about my deve
             - Readiness to report game summary information (team/or penalty counts, number of timeouts remaining, etc.) to the HR/CHR at their request.
             - Attentiveness to the condition of the track, tape, rope, etc. and maintenance support.
 
-            <figure markdown>
-            ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-                <figcaption style="font-size: 12px">
-                    ALTR, RCR Home Team Champs, June, 2024<br>
-                    Credit: Divo
-                </figcaption>
-            </figure>
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - TODO
 
 ---
 
