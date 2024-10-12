@@ -289,6 +289,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Even though I have access to a high volume of roller derby games, CHNSO and HNSO roles are often assigned to officials with vastly more experience than me.
                 - I intend to seek opportunities to serve in the CHNSO and HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
+            - I have no experience serving as a THNSO.
 
     ??? stopwatch "JT :material-cursor-default-click:"
 
@@ -517,6 +518,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Their strengths and areas for growth.
                 - How to best position them for success.
                 - How to appropriately challenge them to improve.
+            - I have no experience serving as a THR.
 
     ??? whistle "OPR :material-cursor-default-click:"
 
@@ -662,23 +664,40 @@ Please click to expand the sections below for detailed information about my deve
 
 ## Other Derby Contributions and Experience
 
-- 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
-  - 430+ hours of officiating scrimmages.
-- 105+ hours of attending officiating practices.
-- Led an initiative to refresh officiating technology in 2023 resulting in the setup and migration to:
-  - A new SBO computer.
-  - Two new ePLT tablets.
-  - 40+ new home and visiting team logos reorganized into a modern, intuitive file hierarchy.
-- Deployed a streaming device to the scoreboard projector as a training tool to enhance officiating practices.
-- Helped co-found a junior officiating training program.
-- Primary junior officiating practice coach.
-- Officiating practice coaching contributor.
-- OC member for the following terms:
-  - January-December 2023.
-  - January-December 2024.
-- OC co-chair for the January-December 2025.
-- Created CRG-related GitHub repositories.
-- Configured Stream Deck XL to help train and enable new SBOs.
+=== "RCR Volunteer Service :material-cursor-default-click:"
+
+    - 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
+    - 430+ hours of officiating RCR adult and junior scrimmages.
+    - 105+ hours of attending RCR officiating practices.
+    - 40+ hours of preparing for and leading RCR adult and junior officiating practices.
+
+=== "RCR Officiating Development :material-cursor-default-click:"
+
+    - Regular officiating practice coach.
+    - Co-founded an ongoing a junior officiating training program in 2023 for which I serve as the primary coach.
+    - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as officiating practice enhancement tool.
+
+=== "RCR OC Membership :material-cursor-default-click:"
+
+    - OC member from January to December of 2023.
+    - OC member from January 2024 to present.
+    - OC co-chair-elect for a term from January to December of 2025.
+
+=== "RCR Technology Enhancements :material-cursor-default-click:"
+
+    - Led an initiative to refresh officiating technology in 2023 that resulted in the setup of and migration to:
+        - A new SBO computer.
+        - Two new ePLT tablets.
+        - 40+ new home and visiting team logos reorganized into a modern, intuitive file hierarchy.
+        - Usage of RCR cloud storage to improve shared file access and improve events coordination with RCR.
+    - Developed and actively enhancing an open-source application ([Star Pass :octicons-link-external-24:](https://github.com/rcrderby/star-pass "Star Pass Volunteer Management Automation Application on GitHub"){ target=_blank }) that automates RCR-wide volunteer opportunity management.
+
+=== "CRG Open-Source Contributions :material-cursor-default-click:"
+
+    - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
+    - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
+        - Intended primarily to lower the CRG/SBO training barrier to officials of all experience levels.
+        - [Example Stream Deck controller interface :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-1.png "Example Stream Deck for CRG Controller Interface"){ target=_blank }.
 
 
 <figure markdown>
