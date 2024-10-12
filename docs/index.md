@@ -729,10 +729,10 @@ Please click to expand the sections below for detailed information about my deve
     </figure>
 
 <figure markdown>
-![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        IPR, RCR Home Team Champs, June, 2024<br>
-        Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
+        ALTR, RCR Home Team Champs, June, 2024<br>
+        Credit: Divo
     </figcaption>
 </figure>
 
