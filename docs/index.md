@@ -216,7 +216,7 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? bread "NSO Positions :material-cursor-default-click:"
 
-    In any NSO position, you can expect me to consistently exhibit and excel at:
+    In each NSO position, you can expect me to consistently exhibit and excel at:
 
     - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
     - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
@@ -349,7 +349,7 @@ Please click to expand the sections below for detailed information about my deve
                 - I will occasionally be slow to indicate that a player completed their penalty service.
             - I lack experience and practice with:
                 - PLT/ePLT recording of non-player expulsions.
-                - The separate roles of Penalty Tracking and Lineup Tracking.
+                - The separate roles of PT and LT.
             
 
     ??? clipboard "PW-Specific :material-cursor-default-click:"
@@ -373,6 +373,7 @@ Please click to expand the sections below for detailed information about my deve
             - Clear two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
             - Clear two-way visual communication with my assigned JR.
+            - Supporting a JR if they happen to lose track of which trip their jammer is on with body language and visual cues that ask for confirmation.
             - Thorough understanding of:
                 - JR responsibilities and communication needs.
                 - Scoring trips, including less common scenarios like negative trips, etc.
@@ -384,30 +385,42 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
+            - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO.
 
     ??? laptop "SBO-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
             - Extensive practice in the SBO role, with and without SK support.
+            - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
+            - Extensive experience importing and exporting stats book files to prepare and complete games.
+            - Experience recovering CRG from errors.
+            - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
+                - Team logos, team titles/names, and scoreboard display colors.
+                - Custom advertisement banners.
+                - Stream overlays.
+            - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing beta versions of CRG.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - Limited experience operating the scoreboard during games.
+                - I need to actively seek opportunities to serve as an SBO during local and regional games so my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
+            - Although I do not have many opportunities to serve as an SBO, I:
+                - Routinely, for practice, run my own, offline version of CRG during tournaments for games I'm not scheduled to officiate.
+                - Routinely serve as SBO during scrimmages.
+                - Have trust amongst my local and regional peers for my knowledge and experience with CRG.
     
     ??? clipboard "ALTN-Specific :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - TODO
+            - I have sufficient knowledge and experience with each NSO role that I confidently fill any position of need at any time.
+                - I continuously study and practice each NSO role to remain ready to perform well for any level or type of derby.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - TODO
-            - TODO
+            - I do not have any specific areas for growth in the ALTN role at this time.
 
 ??? bread "SO Positions :material-cursor-default-click:"
 
@@ -671,7 +684,7 @@ Thank you for the opportunity to apply and for considering my application.  If y
     - **44K** - miles flown to officiate in the previous year.
     - **229** - games officiated in the previous two years.
     - **134** - games officiated in the previous year.
-    - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
+    - **100+** - hours at a physical therapy office since 9/19/2023 to be ready to submit this application.
     - **60+** - hours I spent preparing this application.
     - **18** - events officiated in the previous year.
     - **16** - out-of-state trips to officiate derby in the previous year.
