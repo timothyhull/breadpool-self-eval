@@ -427,19 +427,19 @@ Please click to expand the sections below for detailed information about my deve
 
     In any SO position, you can expect me to consistently exhibit and excel at:
 
-    - Skating skills and speed that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
-    - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
-    - Thoroughly assessing and understanding which players initiate contact with other players.
-    - Thoroughly assessing contact initiation game impact *before* I issue or decline to issue penalties.
-    - Awareness of detailed information about the actions I observe that includes player-specific details (team and jersey number).
-    - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
-    - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - Highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
-    - Delivering verbal and visual cues, including issuing penalties, while maintaining the appropriate positioning for my SO role.
-    - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
-    - Tracking the number of players and the positions for each player on each team before and during a jam.
-    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
-    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
+    - **Skating capacity** - I have the footwork, acceleration, speed, and stops that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
+    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
+    - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players.
+    - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
+    - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
+    - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
+    - **Whistle clarity - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
+    - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
+    - **Multi-task capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
+    - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
+    - **Jam participant tracking - I continuously track the number of players and the positions for each player on each team before and during each jam.
+    - **Rules knowledge - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Teamwork** - I behave in a way that shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
     <figure markdown>
     ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
