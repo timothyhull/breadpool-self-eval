@@ -2,7 +2,7 @@
 
 ## Overview
 
-Below are links to some of my recent officiating experiences for various game situations that I believe highlight why I will perform at a high level as a WFTDA Championship official:
+Below are links to some of my recent officiating experiences that I believe highlight my performances in a variety of roles and situations:
 
 ---
 
@@ -549,7 +549,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ---
 
-## Video Example #20
+<!-- ## Video Example #20
 
 ??? video "Proactively Observing Game Action :material-cursor-default-click:"
 
@@ -579,4 +579,4 @@ Below are links to some of my recent officiating experiences for various game si
         <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
     </center>
 
----
+--- -->
