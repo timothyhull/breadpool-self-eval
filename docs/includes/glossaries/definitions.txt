@@ -29,6 +29,7 @@
 *[NOTT]: Not-On-The-Track
 *[NSO]: Non-Skating Official
 *[NSOs]: Non-Skating Officials
+*[OC]: Officiating Committee
 *[OOP]: Out-Of-Play
 *[OOS]: Overview of Officiating Skill
 *[OOSs]: Overviews of Officiating Skill
