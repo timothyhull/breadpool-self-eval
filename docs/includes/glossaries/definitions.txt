@@ -23,6 +23,7 @@
 *[JT]: Jam Timer
 *[JRDA]: Junior Roller Derby Association
 *[JROTC]: Junior Reserve Officer Training Corps
+*[LT]: Lineup Tracking
 *[MRDA]: Men's Roller Derby Association
 *[NA]: North America
 *[NOTT]: Not-On-The-Track
@@ -43,7 +44,7 @@
 *[PBTs]: Penalty Box Timers
 *[PLT]: Penalty Lineup Tracker
 *[PLTs]: Penalty Lineup Trackers
-*[PT]: Physical Therapy
+*[PT]: Penalty Tracking
 *[RCR]: Rose City Rollers
 *[SBO]: Scoreboard Operator
 *[SK]: Scorekeeper
