@@ -4,6 +4,6 @@
 
 ## Overview
 
-This repository hosts the source content that produces Breadpool's WFTDA Certification Self-Evaluation.
+This repository hosts the source content that produces Breadpool's Roller Derby Self-Evaluation.
 
-Click [here](https://timothyhull.github.io/breadpool-self-eval "Breadpool's WFTDA Certification Self-Evaluation") to access Breadpool's published evaluations.
+Click [here](https://timothyhull.github.io/breadpool-self-eval "Breadpool's Roller Derby Self-Evaluation") to access Breadpool's self-evaluation.
