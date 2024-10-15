@@ -612,7 +612,9 @@ Please click to expand the sections below for detailed information about my deve
             - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
             - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
             - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
-            - Awareness of situations that may result in unexpected no-pack split scenarios.
+            - Awareness of situations that may result in unexpected no-pack split scenarios:
+                - Players returning from the penalty box.
+                - Players recycling themselves behind all pack skaters and returning to an in-bounds, in-play position.
             - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
             - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
@@ -631,6 +633,10 @@ Please click to expand the sections below for detailed information about my deve
             - Specifically as a front IPR, when I am working with a rear IPR that I do not work with regularly, I can be slow to adapt to their assessment of distances between players.
                 - This can result in me issuing "no-pack" warnings when there the rear IPR defines a pack.
                 - I am actively focused on my early-game attentiveness and adaptation to the way my rear IPR peer performs their pack definition.
+            - I am continuously working to improve my pack identification accuracy.  My most common errors are:
+                - Issuing a no-pack warning when I do not see a player who is maintaining pack.
+                - Incorrectly counting a player for pack definition who partially OOB.
+                - Counting players for pack definition who have yet to yield after receiving a warning for a false start.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
