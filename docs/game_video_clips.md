@@ -67,7 +67,7 @@ Below are links to some of my recent officiating experiences that I believe high
         - While this is hardly ideal, I recognize I will make mistakes, and it is important to me to immediately and specifically apologize as a mechanism to acknowledge my errors and attempt to build trust with players, coaches, and my peers.
 
     === "Importance :material-cursor-default-click:"
-        - I want to show the people I serve that I care deeply about getting things right and that I will not use/abuse the power afforded to me as an official as a platform to insist I am correct.
+        - I want to show the people I serve that I care deeply about getting things right, and that I will not use/abuse the power afforded to me as an official as a platform to insist I am correct.
         - My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
 
     <center>
@@ -149,7 +149,8 @@ Below are links to some of my recent officiating experiences that I believe high
 
     === "Importance :material-cursor-default-click:"
 
-        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a no-call in an effort to keep skaters on the track and in competition unless I am certain a penalty should be issued.
+        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a penalty justified a no-call.
+        - I make every effort to keep skaters on the track and in competition unless I am 100% certain an action or actions meet the criteria to warrant a penalty.
         - After reviewing the video later in the day, I believe I made the correct call.
 
     <center>
@@ -335,7 +336,7 @@ Below are links to some of my recent officiating experiences that I believe high
     === "Outcome :material-cursor-default-click:"
 
         - Although I felt comfortable with my decision to issue the penalty, I did not argue my case to the Green "A" because I thought doing so would be counterproductive.
-        - I patiently listened to the Green "A" express their disagreement/dissatisfaction, validated their argument by by nodding and saying "okay" to acknowledge their feedback.
+        - I patiently listened to the Green "A" express their disagreement/dissatisfaction, validated their argument by nodding and saying "okay" to acknowledge their feedback.
         - The Green "A" returned to their bench and the next jam started without incident.
 
     === "Importance :material-cursor-default-click:"
@@ -503,7 +504,7 @@ Below are links to some of my recent officiating experiences that I believe high
         - At the end of the power slide, as the JR and I approach turn 3, I use a two-stage pivot technique, shifting to my right and then back to my left to ensure I:
 
             1. Make sure the Blue JR has a clear path to remain in position with their jammer.
-            2. Quickly shift to a position along the inside boundary, looking back at the pack, that allows me to observe the rear OPR, the status of the pack, and player actions.
+            2. Quickly shift to a position along the inside boundary, looking back at the pack, that allows me to observe the rear IPR, the status of the pack, and player actions.
 
     === "Importance :material-cursor-default-click:"
 
@@ -558,7 +559,8 @@ Below are links to some of my recent officiating experiences that I believe high
         - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
         - I observed no jammer for White in the penalty box area.
-        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5 and indicate I recommend assessing a penalty to the White team for delay of game.
+        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5.
+        - I use a standard visual cue to indicate I recommend assessing a penalty to the White team for delay of game.
 
     === "Outcome :material-cursor-default-click:"
     
