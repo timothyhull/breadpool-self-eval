@@ -50,8 +50,10 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
     I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers so I can excel in each roller derby officiating role.
     
-    I seek to continuously improve at *every* NSO and SO position because I each position sharpens me in every other position.  Serving in each officiating position teaches me the things I can do to help officials in every other position do their jobs more easily.
+    I seek to continuously improve at *every* NSO and SO position because I each position sharpens me in every other position.  Serving in each officiating position teaches me the things I can do to help officials in every other position be as effective and comfortable as possible.
     
+    I don't simply want to be excellent in every officiating role, I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, and communicate so I make it easier for each of my peers to do their jobs.
+
     I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
