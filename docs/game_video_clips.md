@@ -549,13 +549,13 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-<!-- ## Video Example #20
+## Video Example #20
 
 ??? video "Proactively Observing Game Action :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the TBD mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
+        - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
         - I observed no jammer for White in the penalty box area.
         - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5 and indicate I recommend assessing a penalty to the White team for delay of game.
@@ -573,10 +573,10 @@ Below are links to some of my recent officiating experiences that I believe high
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://player.twitch.tv/?video=2268371394&time=4h1m9s&parent=localhost&parent=timothyhull.github.io&autoplay=false" title="https://www.twitch.tv/videos/2268371394?t=04h01m09s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
+        <br>[https://www.twitch.tv/videos/2268371394?t=04h01m09s :octicons-link-external-24:](https://www.twitch.tv/videos/2268371394?t=04h01m09s){ target=_blank }
     </center>
 
---- -->
+---
