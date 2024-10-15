@@ -1,4 +1,4 @@
-# Breadpool's WFTDA Certification Self-Evaluation Repository
+# Breadpool's Roller Derby Self-Evaluation Repository
 
 [![Super-Linter](https://github.com/timothyhull/breadpool-self-eval/actions/workflows/lint-files.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
