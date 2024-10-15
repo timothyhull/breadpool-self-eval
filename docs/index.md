@@ -48,8 +48,12 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 === "Overview :material-cursor-default-click:"
 
-    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers to excel in every roller derby officiating role.  I seek to continuously improve at *every* NSO and SO position because I believe the more I know in each role and position, the better official I will be.
+    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers so I can excel in each roller derby officiating role.
     
+    I seek to continuously improve at *every* NSO and SO position because I each position sharpens me in every other position.  Serving in each officiating position teaches me the things I can do to help officials in every other position be as effective and comfortable as possible.
+    
+    I don't simply want to be excellent in every officiating role, I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, and communicate so I make it easier for each of my peers to do their jobs.
+
     I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
@@ -612,7 +616,9 @@ Please click to expand the sections below for detailed information about my deve
             - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
             - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
             - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
-            - Awareness of situations that may result in unexpected no-pack split scenarios.
+            - Awareness of situations that may result in unexpected no-pack split scenarios:
+                - Players returning from the penalty box.
+                - Players recycling themselves behind all pack skaters and returning to an in-bounds, in-play position.
             - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
             - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
@@ -631,6 +637,10 @@ Please click to expand the sections below for detailed information about my deve
             - Specifically as a front IPR, when I am working with a rear IPR that I do not work with regularly, I can be slow to adapt to their assessment of distances between players.
                 - This can result in me issuing "no-pack" warnings when there the rear IPR defines a pack.
                 - I am actively focused on my early-game attentiveness and adaptation to the way my rear IPR peer performs their pack definition.
+            - I am continuously working to improve my pack identification accuracy.  My most common errors are:
+                - Issuing a no-pack warning when I do not see a player who is maintaining pack.
+                - Incorrectly counting a player for pack definition who partially OOB.
+                - Counting players for pack definition who have yet to yield after receiving a warning for a false start.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
