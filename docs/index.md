@@ -310,22 +310,24 @@ Please click to expand the sections below for detailed information about my deve
             - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
-            - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
-            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology involves:
-                - Ensuring medical staff are available and have their attention on the track area.
+            - Intently and actively monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
+            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology includes:
+                - Ensuring medical staff are available and focused on the track area.
                 - Verifying that each team has at least one blocker and one jammer in legal starting positions.
                 - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
                 - Monitoring the HR for any indication they may not be ready to start the jam.
             - Accurately providing backup timing for the official game and jam clocks.
+            - Pregame coordination with the HR/CHR and SBO to understand their specific procedural preferences and indicators.
             - Supporting the SBO with clock and timeout consumption adjustments.
             - Physical endurance to continuously deliver visual cues during game stoppages for extended periods.
+            - Observing and studying game footage of experienced JTs to identify and adopt procedural techniques that improve game flow.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I need to improve my consistency as a JT by serving as a JT more regularly.
-                - I will often go months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not having to think about everything I'm doing and need to do.
-            - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to immediately stop my game clock stopwatch.
-                - I need to continue to practice holding my game clock stopwatch in a way that allows me to simultaneously signal timeouts and press the "Stop" button.
+            - I need to improve my consistency as a JT by serving in the role more frequently.
+                - I will sometimes go for weeks or months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I do not have to think about everything I'm doing and need to do.
+            - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to stop my game clock stopwatch immediately.
+                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
