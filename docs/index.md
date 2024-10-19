@@ -138,7 +138,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
         - Conducting myself in keeping with the professional nature of an official.
         - Communicating effectively with players, coaches, other officials, staff, and spectators.
         - Understanding that even the nicest people sometimes become elevated during competition, and affording them the space to be elevated without judging them or taking things personally.
-        - Deescalating intense situations between players, coaches, officials, etc.
+        - De-escalating intense situations between players, coaches, officials, etc.
         - Not allowing player, coach, or crowd reactions to impact my judgment or responses.
         - Observing and remembering the details of high-speed gameplay actions.
         - Understanding the importance of allowing players to determine the outcome of contests.
@@ -284,24 +284,24 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
+            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating leadership.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
             - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
             - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
-                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+                - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have very limited experience in CHNSO and HNSO roles.
-                - Even though I have access to a high volume of roller derby games, CHNSO and HNSO roles are often assigned to officials with vastly more experience than me.
-                - I intend to seek opportunities to serve in the CHNSO and HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
-            - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
-            - I have no experience serving as a THNSO.
+            - At this stage of my development, I have limited experience in the HNSO role.
+                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within my league.
+                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+            - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
+            - I have no experience serving as CHNSO or THNSO.
 
     ??? stopwatch "JT :material-cursor-default-click:"
 
@@ -518,7 +518,7 @@ Please click to expand the sections below for detailed information about my deve
                 - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will, when digression feels appropriate, use OTOs to ensure I am not dismissive of concerns.
                 - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use OTOs to speak with coaches and captains rather than continue to penalize players until a team or teams use their timeouts to address the concern with me.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
-                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+                - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
             - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
             - Providing in-game and post-game feedback to officials who have consented to feedback.
 
