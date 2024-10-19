@@ -267,9 +267,9 @@ Please click to expand the sections below for detailed information about my deve
     In each NSO position, you can expect me to consistently exhibit and excel at:
 
     - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
-    - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
-    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
-    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
+    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding, inclusiveness, courtesy, support, respect, and validation.
 
     <figure markdown>
