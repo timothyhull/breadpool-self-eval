@@ -39,6 +39,7 @@ MD033:
     - figure
     - iframe
     - sub
+    - video
 
 MD036: false                  # Emphasis used instead of a heading
 
