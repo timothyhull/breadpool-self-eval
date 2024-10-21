@@ -545,7 +545,7 @@ Below are links to some of my recent officiating experiences that I believe high
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
+        <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=270){ target=_blank }
     </center>
 
 ---
@@ -556,7 +556,8 @@ Below are links to some of my recent officiating experiences that I believe high
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups before jam #5.
+        - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
+            - Jam #4 ended while I was positioned near the center of turn #4, adjacent to the score table, team benches, and penalty box.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
         - I observed no jammer for White in the penalty box area.
         - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5.
