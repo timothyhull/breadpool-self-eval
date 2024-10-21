@@ -383,30 +383,29 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
-            - Practiced at filling PLT paperwork in a way that's clear and legible.
-            - Strong understanding of WFTDA and JRDA stats book guides that allows me to accurately track penalties and lineups for uncommon scenarios.
+            - Practiced at completing PLT paperwork in a clear and legible way.
+            - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
             - Understanding of penalty codes and familiarity with quickly translating SO verbal and visual cues to penalty codes.
             - Ability to switch between PLT and ePLT record keeping at a moment's notice.
             - Awareness to ensure alignment of PLT records with PBT paperwork during game stoppages.
             - My SO experience helps me anticipate and quickly process SO verbal and visual cues.
             - Regularly working with CRG, including beta versions, allows me to quickly recover ePLT software connectivity in the event of errors.
-            - Well-practiced recovering from accidental or incorrect ePLT interface taps.
-            - Familiarity and experience with using the ePLT interface to perform less common tasks including:
+            - Practiced at recovering from accidental or incorrect ePLT interface taps.
+            - Familiarity and experience with using the ePLT interface to perform less common tasks, including:
                 - Mark a player as having to sit for three jams.
                 - Adding and removing box trips.
                 - Player expulsions.
-            - Comfort with supporting the development of a peer PLT whether in both the PLT and ePLT roles.
-            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks during lineups.
+            - Comfort with supporting the development of a peer PLT in both the PLT and ePLT roles.
+            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
             - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
-            - While serving in the ePLT role, I need to improve the precision of the timing for marking players who are serving and done with their penalties.
-                - I will occasionally be slow to indicate that a player completed their penalty service.
+            - While serving in the ePLT role, I need to improve my timing precision for marking players who are serving and done with their penalties.
+                - I will occasionally be slow to indicate when a player completes their penalty service.
             - I lack experience and practice with:
                 - PLT/ePLT recording of non-player expulsions.
                 - The separate roles of PT and LT.
-            
 
     ??? clipboard "PW :material-cursor-default-click:"
 
