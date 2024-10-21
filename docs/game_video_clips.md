@@ -576,10 +576,7 @@ Below are links to some of my recent officiating experiences that I believe high
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <iframe align="middle" width="560" height="315" src="https://player.twitch.tv/?video=2268371394&time=4h1m9s&parent=localhost&parent=timothyhull.github.io&autoplay=false" title="https://www.twitch.tv/videos/2268371394?t=04h01m09s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://www.twitch.tv/videos/2268371394?t=04h01m09s :octicons-link-external-24:](https://www.twitch.tv/videos/2268371394?t=04h01m09s){ target=_blank }
+        <video src="videos/video_example_20.mp4" width="560" height="315" controls controlslist="nodownload" type="video/mp4" />
     </center>
 
 ---
