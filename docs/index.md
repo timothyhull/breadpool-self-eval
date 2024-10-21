@@ -424,7 +424,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Experience with accurately filling out SK paperwork.
+            - Experience accurately completing SK paperwork.
             - Clear two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
             - Clear two-way visual communication with my assigned JR.
@@ -433,7 +433,7 @@ Please click to expand the sections below for detailed information about my deve
                 - JR responsibilities and communication needs.
                 - Scoring trips, including less common scenarios like negative trips, etc.
                 - Scenarios where a jammer loses the ability to earn lead, whether common or less common.
-                - Scenarios where a jammer has not lost lead, even if their helmet cover is not on their helmet.
+                - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
             - Ability to support developing JRs by:
                 - Providing feedback that helps them comfortably learn and build confidence in the JR role.
                 - Sharing insights regarding the nuances of the JR role and how they can best support gameplay.
