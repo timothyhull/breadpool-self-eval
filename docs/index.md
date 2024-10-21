@@ -449,7 +449,7 @@ Please click to expand the sections below for detailed information about my deve
             - Extensive practice in the SBO role, with and without SK support.
             - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
-            - Extensive experience importing and exporting stats book files to prepare and complete games.
+            - Extensive experience importing and exporting stats book files to prepare for and complete games.
             - Experience recovering CRG from errors.
             - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
                 - Team logos, team titles/names, and scoreboard display colors.
@@ -460,9 +460,10 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - Limited experience operating the scoreboard during games.
-                - I need to actively seek opportunities to serve as an SBO during local and regional games so my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
-            - Although I do not have many opportunities to serve as an SBO, I:
-                - Routinely, for practice, run my own, offline version of CRG during tournaments for games I'm not scheduled to officiate.
+                - The majority of my SBO experience is during scrimmages.
+                - I need to actively seek opportunities to serve as an SBO during local and regional games so tha my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
+            - Although I do frequently serve as an SBO, I:
+                - Routinely, for practice, run my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Routinely serve as SBO during scrimmages.
                 - Have trust amongst my local and regional peers for my knowledge and experience with CRG.
     
