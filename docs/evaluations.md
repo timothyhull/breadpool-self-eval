@@ -2,7 +2,7 @@
 
 ## Overview
 
-Below are exact copies of each of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I will provide them privately to TOSP upon request.
+Below are exact copies of the text from all of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I can provide them privately upon request.
 
 ## Evaluation #1
 
@@ -74,13 +74,51 @@ Below are exact copies of each of my historical WFTDA officiating evaluations. I
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for WFTDA North America: West Regional Championship, an event from 6/14/2024 to 6/16/2024, involving 5 sanctioned games for WFTDA, during which you served as OPR. Here is the evaluation:
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for WFTDA North America: West Regional Championship, an event from 6/14/2024 to 6/16/2024, involving 5 sanctioned games for WFTDA, during which you served as OPR.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
         Here is the evaluation:
 
         Awareness, attention, focus, skating ability, triage, initiation and impact assessment, knowledge, judgment, and positioning are all of the highest caliber and exceed the expectations of even “play-off officials”. Breadpool reliably maintained the rear OPR position throughout the tournament’s games. Of particular note, his skating skills, even at speed, enabled him to maintain excellent positioning and focus even with fast-paced packs, however he didn’t hesitate to drop and rotate when necessary.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #4
+
+??? clipboard "Bridges & Boardwalks - 4-6 October, 2024 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Bridges and Boardwalks, an event from 10/4/2024 to 10/6/2024, involving 4 sanctioned games, 1 regulation games, "other" games described as "none" for WFTDA, during which you served as JR, OPR.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        I worked with Breadpool at the Bridges and Boardwalks tournament Oct 4-6, 2024 in Sacramento, CA. Breadpool worked one game as JR and the other for *(sic)* as OPR.
+
+        Overall, Breadpool's skating skills are excellent.  He can maintain good position the majority of the time.  As front OPR when the pack would move to sprinting speed it was rare that he would lose position.  That said, there two times when he tried to do a powerslide to stop at the end of a sprint and almost slid off the track and into the stands. I did not mention it to him but kept an eye on it.  After the second time, he seemed to adjust his skating style and it did not happen again.  As the crew head/HR, several of our games required an intense amount of focus, so having an official who can self-correct is excellent.
+        
+        As JR Breadpool again has good skating skills.  He was very supportive of his fellow JR and worked well with the crew overall.  His points were correct and his impact spectrum is good.
+
+        As an official Breadpool is very professional and easy to work with.  When asked a question during a timeout his responses are succinct and well thought out.
+
+        The only minor piece of feedback that I have for Breadpool is that at times his seriousness on the track can make him seem a little unapproachable. He has an intense focus and a great respect for the role of officiating as a whole, which I appreciate. It seems to me that he forgets to switch off that intensity when interacting with other officials or skaters. This is an extremely minor thing and very nit-picky - as a whole I am always happy to work with Breadpool and am extremely thankful that he was on my crew.
+
+        Cordially,
+        Officials Certification
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        And here is the broader feedback:
+
+        As a short-statured official, I greatly appreciate Breadpool's ability as a JR to do extremely low powerslides when coming into the pack while following their jammer.  This helped me keep my eyes on the pack and was extremely efficient in helping him maintain his position as a JR.
 
         Cordially,
         Officials Certification
