@@ -138,7 +138,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
         - Conducting myself in keeping with the professional nature of an official.
         - Communicating effectively with players, coaches, other officials, staff, and spectators.
         - Understanding that even the nicest people sometimes become elevated during competition, and affording them the space to be elevated without judging them or taking things personally.
-        - Deescalating intense situations between players, coaches, officials, etc.
+        - De-escalating intense situations between players, coaches, officials, etc.
         - Not allowing player, coach, or crowd reactions to impact my judgment or responses.
         - Observing and remembering the details of high-speed gameplay actions.
         - Understanding the importance of allowing players to determine the outcome of contests.
@@ -267,9 +267,10 @@ Please click to expand the sections below for detailed information about my deve
     In each NSO position, you can expect me to consistently exhibit and excel at:
 
     - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
-    - **Attention to detail** - for me, "done" means "done correctly," and that means not taking shortcuts, asking questions when something seems wrong, and doing everything I can to preserve the integrity of the sport.
-    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice for my assigned roles, before every single opportunity I have to officiate.
-    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
+    - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding, inclusiveness, courtesy, support, respect, and validation.
 
     <figure markdown>
@@ -284,24 +285,25 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating.
+            - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating leadership.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
             - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
+            - Familiarity with WFTDA/MRDA and JRDA stats books, pre-and post-game.
             - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support to any member of my crew who may need help.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
-                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+                - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have very limited experience in CHNSO and HNSO roles.
-                - Even though I have access to a high volume of roller derby games, CHNSO and HNSO roles are often assigned to officials with vastly more experience than me.
-                - I intend to seek opportunities to serve in the CHNSO and HNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
-            - Although I've worked with the WFTDA and JRDA IGRF and stats book forms regularly, I do not have experience with the game sanctioning or stats book submission processes.
-            - I have no experience serving as a THNSO.
+            - At this stage of my development, I have limited experience in the HNSO role.
+                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within my league.
+                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+            - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
+            - I have no experience serving as CHNSO or THNSO.
 
     ??? stopwatch "JT :material-cursor-default-click:"
 
@@ -310,63 +312,67 @@ Please click to expand the sections below for detailed information about my deve
             - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
-            - Intently monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
-            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology involves:
-                - Ensuring medical staff are available and have their attention on the track area.
+            - Intently and actively monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
+            - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology includes:
+                - Ensuring medical staff are available and focused on the track area.
                 - Verifying that each team has at least one blocker and one jammer in legal starting positions.
                 - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
                 - Monitoring the HR for any indication they may not be ready to start the jam.
             - Accurately providing backup timing for the official game and jam clocks.
+            - Pregame coordination with the HR/CHR and SBO to understand their specific procedural preferences and indicators.
             - Supporting the SBO with clock and timeout consumption adjustments.
             - Physical endurance to continuously deliver visual cues during game stoppages for extended periods.
+            - Observing and studying game footage of experienced JTs to identify and adopt procedural techniques that improve game flow.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I need to improve my consistency as a JT by serving as a JT more regularly.
-                - I will often go months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not having to think about everything I'm doing and need to do.
-            - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to immediately stop my game clock stopwatch.
-                - I need to continue to practice holding my game clock stopwatch in a way that allows me to simultaneously signal timeouts and press the "Stop" button.
+            - I need to improve my consistency as a JT by serving in the role more frequently.
+                - I will sometimes go for weeks or months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I do not have to think about everything I'm doing and need to do.
+            - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to stop my game clock stopwatch immediately.
+                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Emphasis on timing penalties as accurately as possible.
-                - I focus on starting and stopping stopwatches at the precise time prescribed by gameplay rules.
-            - Understanding of and familiarity with jammer swap scenarios, including scenarios that require both jammers to remain seated in the penalty box during a jam (A-B-A, etc.).
+            - Emphasis on precision timing:
+                - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
+                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
+            - Understanding and familiarity with jammer swap scenarios, including scenarios that require both jammers to remain seated in the penalty box during a jam (A-B-A, etc.).
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
-            - Ability to support and advise officials developing experience in the PBT role, including helping them properly fill out the PBT paperwork.
+            - Ability to support and advise officials developing experience in the PBT role, including helping them correctly complete PBT paperwork.
             - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using a whiteboard.
-            - Understanding of illegal actions and comfort assessing role-specific penalties when necessary.
-            - Understanding of player foul-out procedures.
+            - Understanding of illegal actions and comfort with assessing role-specific penalties when necessary.
+            - Understanding of player foul-out procedures for WFTDA/MRDA and JRDA.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have very limited experience in the PBM role.
-            - Even though I have access to a high volume of roller derby games, PBM roles are often assigned to officials with vastly more experience in the PBM role than me.
-                - I intend to seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+            - At this stage of my development, I have limited experience in the PBM role.
+                - I am actively seeking opportunities to serve in the PBM role.
+                - As I gain experience, I will seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
 
     ??? stopwatch "PBT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Emphasis on timing penalties as accurately as possible.
-                - I focus on starting and stopping stopwatches at the precise time prescribed by gameplay rules.
+            - Emphasis on precision timing:
+                - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
+                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
             - Understanding of PBT responsibilities and timing procedures.
-            - Understanding of and experience with filling out PBT paperwork.
+            - Understanding of and experience completing PBT paperwork.
             - Awareness to ensure alignment of PBT paperwork with PLT records during game stoppages.
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
-            - Experience with and composure while managing instances of high penalty volume within short periods of time.
+            - Experience with and composure while managing instances of high penalty volume within short periods.
             
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I need to serve as a PBT more frequently in order to keep from feeling "rusty" when I do serve as a PBT.
-                - It may take me several jams to feel like I am performing my responsibilities without having to actively think about of everything I need to do.
+            - I need to serve as a PBT more frequently order to keep from feeling "rusty."
+                - It may take me several jams to feel like I am performing my responsibilities without having to actively think about everything I need to do.
             - I typically use a "single watch" technique to time penalties, and some CHNSOs/HNSOs prefer a "dual watch" technique that I don't practice regularly.
-                - For instances where there is only a single player in the penalty box for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
+                - For instances when only one player is serving a penalty for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
                 - When there are multiple players serving penalties simultaneously, I use a running clock to record the time a player sits, stands, and completes their penalty.
                     - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds (assuming I'm not recording timing for a jammer swap).
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
@@ -377,30 +383,29 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
-            - Practiced at filling PLT paperwork in a way that's clear and legible.
-            - Strong understanding of WFTDA and JRDA stats book guides that allows me to accurately track penalties and lineups for uncommon scenarios.
+            - Practiced at completing PLT paperwork in a clear and legible way.
+            - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
             - Understanding of penalty codes and familiarity with quickly translating SO verbal and visual cues to penalty codes.
             - Ability to switch between PLT and ePLT record keeping at a moment's notice.
             - Awareness to ensure alignment of PLT records with PBT paperwork during game stoppages.
             - My SO experience helps me anticipate and quickly process SO verbal and visual cues.
             - Regularly working with CRG, including beta versions, allows me to quickly recover ePLT software connectivity in the event of errors.
-            - Well-practiced recovering from accidental or incorrect ePLT interface taps.
-            - Familiarity and experience with using the ePLT interface to perform less common tasks including:
+            - Practiced at recovering from accidental or incorrect ePLT interface taps.
+            - Familiarity and experience with using the ePLT interface to perform less common tasks, including:
                 - Mark a player as having to sit for three jams.
                 - Adding and removing box trips.
                 - Player expulsions.
-            - Comfort with supporting the development of a peer PLT whether in both the PLT and ePLT roles.
-            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks during lineups.
+            - Comfort with supporting the development of a peer PLT in both the PLT and ePLT roles.
+            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
             - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
-            - While serving in the ePLT role, I need to improve the precision of the timing for marking players who are serving and done with their penalties.
-                - I will occasionally be slow to indicate that a player completed their penalty service.
+            - While serving in the ePLT role, I need to improve my timing precision for marking players who are serving and done with their penalties.
+                - I will occasionally be slow to indicate when a player completes their penalty service.
             - I lack experience and practice with:
                 - PLT/ePLT recording of non-player expulsions.
                 - The separate roles of PT and LT.
-            
 
     ??? clipboard "PW :material-cursor-default-click:"
 
@@ -412,14 +417,14 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I do not serve in the PW role frequently, and it seems to take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
-            - I need to be more proactive as a PW, and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
+            - I do not serve in the PW role frequently, and it can take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
+            - I need to be more proactive as a PW and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
     ??? clipboard "SK :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Experience with accurately filling out SK paperwork.
+            - Experience accurately completing SK paperwork.
             - Clear two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
             - Clear two-way visual communication with my assigned JR.
@@ -428,7 +433,7 @@ Please click to expand the sections below for detailed information about my deve
                 - JR responsibilities and communication needs.
                 - Scoring trips, including less common scenarios like negative trips, etc.
                 - Scenarios where a jammer loses the ability to earn lead, whether common or less common.
-                - Scenarios where a jammer has not lost lead, even if their helmet cover is not on their helmet.
+                - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
             - Ability to support developing JRs by:
                 - Providing feedback that helps them comfortably learn and build confidence in the JR role.
                 - Sharing insights regarding the nuances of the JR role and how they can best support gameplay.
@@ -444,7 +449,7 @@ Please click to expand the sections below for detailed information about my deve
             - Extensive practice in the SBO role, with and without SK support.
             - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
-            - Extensive experience importing and exporting stats book files to prepare and complete games.
+            - Extensive experience importing and exporting stats book files to prepare for and complete games.
             - Experience recovering CRG from errors.
             - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
                 - Team logos, team titles/names, and scoreboard display colors.
@@ -455,9 +460,10 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - Limited experience operating the scoreboard during games.
-                - I need to actively seek opportunities to serve as an SBO during local and regional games so my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
-            - Although I do not have many opportunities to serve as an SBO, I:
-                - Routinely, for practice, run my own, offline version of CRG during tournaments for games I'm not scheduled to officiate.
+                - The majority of my SBO experience is during scrimmages.
+                - I need to actively seek opportunities to serve as an SBO during local and regional games so tha my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
+            - Although I do frequently serve as an SBO, I:
+                - Routinely, for practice, run my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Routinely serve as SBO during scrimmages.
                 - Have trust amongst my local and regional peers for my knowledge and experience with CRG.
     
@@ -488,6 +494,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
     - **Jam participant tracking - I continuously track the number of players and the positions for each player on each team before and during each jam.
     - **Rules knowledge - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I behave in a way that shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
     <figure markdown>
@@ -518,7 +525,7 @@ Please click to expand the sections below for detailed information about my deve
                 - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will, when digression feels appropriate, use OTOs to ensure I am not dismissive of concerns.
                 - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use OTOs to speak with coaches and captains rather than continue to penalize players until a team or teams use their timeouts to address the concern with me.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
-                - I want and seek the responsibility of deescalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+                - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
             - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
             - Providing in-game and post-game feedback to officials who have consented to feedback.
 
@@ -693,9 +700,9 @@ Please click to expand the sections below for detailed information about my deve
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
     - 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
-    - 430+ hours of officiating RCR adult and junior scrimmages.
-    - 105+ hours of attending RCR officiating practices.
-    - 40+ hours of preparing for and leading RCR adult and junior officiating practices.
+        - 430+ hours of officiating RCR adult and junior scrimmages.
+        - 105+ hours of attending RCR officiating practices.
+        - 40+ hours of preparing for and leading RCR adult and junior officiating practices.
 
 ??? whistle "RCR Officiating Development :material-cursor-default-click:"
 
