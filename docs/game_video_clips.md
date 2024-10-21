@@ -552,7 +552,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ## Video Example #20
 
-??? video "Proactively Observing Game Action :material-cursor-default-click:"
+??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
