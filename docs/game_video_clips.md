@@ -10,7 +10,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ### NSO Video Example #1
 
-??? video "TODO :material-cursor-default-click:"
+??? video "Title :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -18,11 +18,11 @@ Below are links to some of my recent officiating experiences that I believe high
 
     === "Outcome :material-cursor-default-click:"
     
-        - TODO
+        - Result of action.
 
     === "Importance :material-cursor-default-click:"
 
-        - TODO
+        - Importance of action.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
