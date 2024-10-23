@@ -2,21 +2,27 @@
 
 ## Overview
 
-Below are links to some of my recent officiating experiences that I believe highlight my performances in a variety of roles and situations:
+Below are links to some of my recent officiating experiences that I believe highlight my performances in a variety of roles and situations.
 
 ---
 
-## Video Example #1
+## NSO Video Clips
 
-??? video "Track Awareness and Attention to Detail :material-cursor-default-click:"
+### NSO Video Example #1
+
+??? video "TODO :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈20:22 mark in this video, while serving as a JR, I observe and use an official hand signal to indicate I am aware my jammer, White #25, cuts one of their teammates (White #314).
+        - At the ≈00:00 mark in this video, while serving as a JT...
 
     === "Outcome :material-cursor-default-click:"
     
-        - Even though this detail ended up being inconsequential to gameplay, I am deliberate in my awareness of details like player positioning, and I communicate my observations in case they are consequential.
+        - TODO
+
+    === "Importance :material-cursor-default-click:"
+
+        - TODO
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -27,15 +33,46 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #2
+## SO Video Clips
+
+### SO Video Example #1
+
+??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈20:22 mark in this video, while serving as a JR, I observe White #25 cut one of their teammates, White #314, 
+        - White #314 is in front of White #25 and skates in non-derby direction to create a bridge between the front and rear pack walls while White #25 is OOB.
+        - White #25 returns to a fully upright and in-bounds position after White #314 is behind White #25.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I am in the correct position to monitor each player's relative position precisely throughout the action.
+        - I use an official hand signal ("no earned pass") to indicate I am aware of and will not penalize White #25 for the action.
+
+    === "Importance :material-cursor-default-click:"
+    
+        - Even though this detail ended up being inconsequential to gameplay, I am proactive and deliberate in my awareness of player positioning.
+        - I slowly and clearly communicate my observations with a visual cue to improve the flow of potentially impactful game information.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/kmz2zZvcbzs?t=1217 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=1217){ target=_blank }
+    </center>
+
+---
+
+### SO Video Example #2
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, out-of-bounds.
-        - As Purple #88 skates in non-derby direction while out-of-bounds, I keep track of White #30 who has superior position on Purple #88.
-        - White #30 will skate in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop out-of-bounds.
+        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, OOB.
+        - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
+        - White #30 will skate in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -54,7 +91,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #3
+### SO Video Example #3
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -79,7 +116,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #4
+### SO Video Example #4
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals #1 :material-cursor-default-click:"
 
@@ -107,7 +144,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #5
+### SO Video Example #5
 
 ??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
@@ -134,7 +171,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #6
+### SO Video Example #6
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #1 :material-cursor-default-click:"
 
@@ -162,7 +199,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #7
+### SO Video Example #7
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
@@ -189,7 +226,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #8
+### SO Video Example #8
 
 ??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
@@ -215,13 +252,13 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #9
+### SO Video Example #9
 
 ??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer out-of-bounds.
+        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer OOB.
         - I also observe that Black Pivot gains superior position over Red Jammer just before Red Jammer is blocked out of bounds.
         - Red Jammer re-enters the track behind Black #211, and I follow Black Pivot as they skate in non-derby direction.
         - Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
@@ -244,7 +281,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #10
+### SO Video Example #10
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -272,7 +309,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #11
+### SO Video Example #11
 
 ??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
 
@@ -299,7 +336,7 @@ Below are links to some of my recent officiating experiences that I believe high
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
     </center>
 
-## Video Example #12
+### SO Video Example #12
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -323,7 +360,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #13
+### SO Video Example #13
 
 ??? video "Respectfully and Kindly Listening to an Unhappy Coach :material-cursor-default-click:"
 
@@ -355,7 +392,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #14
+### SO Video Example #14
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals #2 :material-cursor-default-click:"
 
@@ -382,7 +419,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #15
+### SO Video Example #15
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #2 :material-cursor-default-click:"
 
@@ -411,7 +448,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #16
+### SO Video Example #16
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #3 :material-cursor-default-click:"
 
@@ -445,7 +482,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #17
+### SO Video Example #17
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -486,7 +523,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #18
+### SO Video Example #18
 
 ??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
@@ -521,7 +558,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #19
+### SO Video Example #19
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
@@ -550,7 +587,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #20
+### SO Video Example #20
 
 ??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
