@@ -26,7 +26,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
 3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations"){ data-preview }.
-4. [My WFTDA OHD](./officiating_history.md "")
+4. [My WFTDA OHD](./officiating_history.md "").
 
 ---
 
