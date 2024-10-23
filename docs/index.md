@@ -483,7 +483,7 @@ Please click to expand the sections below for detailed information about my deve
     In any SO position, you can expect me to consistently exhibit and excel at:
 
     - **Skating capacity** - I have the footwork, acceleration, speed, and stops that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
-    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
+    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB and return to in-bounds positions.
     - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players.
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
