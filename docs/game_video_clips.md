@@ -336,26 +336,40 @@ Below are links to some of my recent officiating experiences that I believe high
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
     </center>
 
+---
+
 ### SO Video Example #12
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈3:50:29 mark in this video, while serving as the ALTR, jam 7 of the 2nd period ends, and the rear OPR approaches me at the side of the track to indicate they need temporary relief.
+        - At the beginning of this video, while serving as the ALTR, I am standing between the Deus and bleachers while observing the game and taking notes.
+        - Jam 7 of the 2nd period ends, and, off-camera, the rear OPR approaches me to indicate they need temporary relief from the game.
+        - Just before jam 8 starts, I position myself near the jammer line to serve as the rear OPR.
 
     === "Outcome :material-cursor-default-click:"
 
-        - In the ALTR role, I keep myself ready to enter the game at any moment of need.
-        - I was able to sit, safely remove my helmet, remove the black NSO top that covered my referee stripes, replace my helmet, and position myself for activation before jam 8 started.
+        - The game continued without a clock stoppage or gap in officiating coverage.
+        - I was able to sit, remove my helmet and the black NSO top that covered my referee stripes, replace my helmet, and position myself to substitute for the rear OPR before jam 8 started.
+        - I substituted for seven jams before the rear OPR was ready to resume their position.
 
     === "Importance :material-cursor-default-click:"
 
-        - I don't think it's ordinary to activate an ALTR without having to stop the game clock, and I am proud that my state of preparedness kept the game clock moving.
-        - I believe this video shows an example of the importance I place on the ALTR role, how I do whatever I can to keep from disrupting game flow, and the level of readiness I maintain in the ALTR role.
+        - My readiness helped my crew keep the game flowing and on schedule, avoiding a gap in officiating coverage or potential delay of several minutes while I geared up and warmed up.
+        - It's not ordinary for an ALTR to activate without stopping the game clock, and I am proud that my state of preparedness supported contiguous gameplay.
+        - In the ALTR role, I keep myself ready to enter the game at any moment of need, and I had warmed up before the game and again at intermission, so my body was prepared for physical activity.
+        - Although I expected to serve in the ALTR role throughout the game, I kept engaged with the game action for the event that I would need to activate.
+        - This video demonstrates the importance I place on the ALTR role, how I do whatever I can to support optimal game/event flow, and the level of readiness and engagement I maintain throughout a game while serving in the ALTR role.
     <center>
-        Embedded playback is not available for this video. Please click the link below to watch.
-        <br>[https://fb.watch/rh_w7Nh_7b :octicons-link-external-24:](https://fb.watch/rh_w7Nh_7b){ target=_blank }
+        <video controls controlslist="nodownload" height="315" width="560">
+            <source src="videos/so_video_example_12.mp4" type="video/webm">
+            <source src="videos/so_video_example_12.mp4" type="video/mp4">
+        </video>
+    </center>
+    <center>
+        Credit: [Cherry Blossoms Roller Derby on Facebook :octicons-link-external-24:](https://fb.watch/rh_w7Nh_7b "@CherryBlossomsRollerDerby on Facebook"){ target=_blank }
+        <br>Original video does not support starting at a fixed timestamp (≈3:50:29).
     </center>
 
 ---
@@ -593,7 +607,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
+        - At the beginning of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
             - Jam #4 ended while I was positioned near the center of turn #4, adjacent to the score table, team benches, and penalty box.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
         - I observed no jammer for White in the penalty box area.
@@ -613,11 +627,14 @@ Below are links to some of my recent officiating experiences that I believe high
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <video src="videos/so_video_example_20.mp4" width="560" height="315" controls controlslist="nodownload" type="video/mp4" />
+        <video controls controlslist="nodownload" height="315" width="560">
+            <source src="videos/so_video_example_20.mp4" type="video/webm">
+            <source src="videos/so_video_example_20.mp4" type="video/mp4">
+        </video>
     </center>
     <center>
         Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
-        <br>Original video no longer available.
+        <br>Original video (timestamp 04:01:09) no longer available.
     </center>
 
 ---
