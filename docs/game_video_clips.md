@@ -613,7 +613,7 @@ Below are links to some of my recent officiating experiences that I believe high
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <video src="videos/video_example_20.mp4" width="560" height="315" controls controlslist="nodownload" type="video/mp4" />
+        <video src="videos/so_video_example_20.mp4" width="560" height="315" controls controlslist="nodownload" type="video/mp4" />
     </center>
     <center>
         Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
