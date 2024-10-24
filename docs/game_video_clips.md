@@ -10,25 +10,49 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ### NSO Video Example #1
 
-??? video "Title :material-cursor-default-click:"
+??? video "Calm Precision and Attention to Details During Intense Game Situations :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈00:00 mark in this video, while serving as a JT...
+        - At the ≈1:44:42 mark in this video, while serving as a JT, a TTO is about to end before the game's final jam (18).
+        - The game is closely contested, decided by each team's final scoring trip after a full two-minute jam.
+        - I calmly performed the following actions:
+            - Ended the TTO after exactly 60 seconds.
+            - Quickly performed my pre-jam checks before immediately starting the jam.
+            - Discretely approached the HR (≈1:45:43 mark) to advise them that:
+                - The period clock expired.
+                - The jam will last for two minutes since the lead jammer lost lead.  
+            - Observed the team benches throughout the remainder of the jam for indications that either team intended to request an OR.
+            - Used a verbal cue to advise the HR when there were ten seconds remaining in the jam (≈1:46:49 mark).
+            - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
+                - The first tap of my hips.
+                - The fourth blast from my whistle.
+                - The period clock reaching 0:00.
+            - Observed the SBO add the final points to determine if an overtime jam is necessary (it is not).
+            - Returned to a position adjacent to the pivot line while monitoring my stopwatch to ensure thirty seconds elapsed before the game may become final.
+            - After they became available, I advised the HR that it had been over thirty seconds since the jam ended and that I could indicate the game was final whenever they were ready (≈1:47:30 mark).
+            - Waited for the HR's indication that the game should become final before immediately blowing my whistle to signal the final outcome (≈1:47:37 mark).
 
     === "Outcome :material-cursor-default-click:"
     
-        - Result of action.
+        - The HR had essential game and jam timing information without having to look for themselves.
+        - The game ended normally.
+        - No OR from either team.
+        - The game outcome became final after the required wait period.
 
     === "Importance :material-cursor-default-click:"
 
-        - Importance of action.
+        - I maintain a calm demeanor and perform my responsibilities with precision, even during intense situations.
+        - My HRs can trust me to effectively manage game timing procedures so they can focus on managing their other responsibilities.
+        - The precision of my call-off timing ensured that neither team would be able to score additional points after the jam clock expired.
+        - No OTO for overtime.
+        - Precision matters in sports, and it matters to me.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=6282" title="https://youtu.be/QftT8whPC2g?t=6282" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?t=1217 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=1217){ target=_blank }
+        <br>[https://youtu.be/QftT8whPC2g?t=6282 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=6282){ target=_blank }
     </center>
 
 ---
