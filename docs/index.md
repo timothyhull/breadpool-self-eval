@@ -239,7 +239,6 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
 
-    - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps me be a better official and teammate for my SO and NSO peers.
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
     - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
 
