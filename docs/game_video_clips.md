@@ -50,7 +50,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - I was prepared to help facilitate the correct end-of-regulation OR and OT procedures.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=6282" title="https://youtu.be/QftT8whPC2g?t=6282" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=6282" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/QftT8whPC2g?t=6282" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/QftT8whPC2g?t=6282 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=6282){ target=_blank }
@@ -81,7 +81,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I slowly and clearly communicate my observations with a visual cue to improve the flow of potentially impactful game information.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/kmz2zZvcbzs?t=1217 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=1217){ target=_blank }
@@ -109,7 +109,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
@@ -134,7 +134,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" style="filter: drop-shadow(0 0 0.2rem black);" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/3M_NepfZ2Wg?t=1171 :octicons-link-external-24:](https://youtu.be/3M_NepfZ2Wg?t=1171){ target=_blank }
@@ -162,7 +162,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - Remaining in position while I issue penalties is essential to ensure I effectively officiate within my zone and allows my peer officials to remain focused on their zones.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=40735" title="https://youtu.be/BvyVWitw714?&t=40735" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=40735" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?&t=40735" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BvyVWitw714?&t=40735 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?&t=40735){ target=_blank }
@@ -191,7 +191,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
@@ -219,7 +219,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - After reviewing the video later in the day, I believe I made the correct call.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/Sfq9SNzx4ms?t=15276 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?t=15276){ target=_blank }
@@ -246,7 +246,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - This is an example of the attention to detail I pay in order to ensure gameplay is safe and fair. 
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
@@ -272,7 +272,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe this example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=8397" title="https://youtu.be/Sfq9SNzx4ms?&t=8397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=8397" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?&t=8397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/Sfq9SNzx4ms?&t=8397 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?&t=8397){ target=_blank }
@@ -301,7 +301,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe this video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BvyVWitw714?t=37417 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?t=37417){ target=_blank }
@@ -329,7 +329,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe my ability to almost entirely use wheel-based stops with fast-moving jammers shows that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
@@ -358,7 +358,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
@@ -390,7 +390,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - Although I expected to serve in the ALTR role throughout the game, I kept engaged with the game action for the event that I would need to activate.
         - This video demonstrates the importance I place on the ALTR role, how I do whatever I can to support optimal game/event flow, and the level of readiness and engagement I maintain throughout a game while serving in the ALTR role.
     <center>
-        <video controls controlslist="nodownload" height="315" width="560">
+        <video controls controlslist="nodownload" height="315" style="filter: drop-shadow(0 0 0.2rem black);" width="560">
             <source src="videos/so_video_example_12.mp4" type="video/webm">
             <source src="videos/so_video_example_12.mp4" type="video/mp4">
         </video>
@@ -426,7 +426,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe this video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=2211" title="https://youtu.be/qx-EYWrAn5k?&t=2211" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=2211" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qx-EYWrAn5k?&t=2211" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/qx-EYWrAn5k?&t=2211 :octicons-link-external-24:](https://youtu.be/qx-EYWrAn5k?&t=2211){ target=_blank }
@@ -453,7 +453,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I believe this video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=1653" title="https://youtu.be/BgDs6dRxRRs?t=1653" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=1653" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=1653" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=1653 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=1653){ target=_blank }
@@ -482,7 +482,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - Although this strategy isn't perfect and sometimes results in me failing to issue a penalty that I should issue, I take the act of penalizing and removing a player from the track seriously, and I would rather mistakenly leave a player on the track than erroneously send them to the penalty box and potentially impact the competitive balance of a game.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=976" title="https://youtu.be/BgDs6dRxRRs?t=976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=976" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=976 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=976){ target=_blank }
@@ -516,7 +516,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - Anecdotally, reviewing this game footage provided an opportunity to learn to better anticipate how to position myself in similar situations.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=2235" title="https://youtu.be/BgDs6dRxRRs?t=2235" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=2235" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=2235" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=2235 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
@@ -557,7 +557,7 @@ Below are links to some of my officiating performances that highlight my capabil
             2. Suspecting #117 may not have a penalty, I immediately start pointing and verbally relaying my observation to my peer officials who return Purple #117 to the track with only minimal impact to gameplay.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=4544" title="https://youtu.be/BgDs6dRxRRs?t=4544" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=4544" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=4544" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=4545 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=4544){ target=_blank }
@@ -592,7 +592,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I share this so you are aware of the sort effort and discipline you can expect from me during my preparation to be a member of any officiating crew.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=6346" title="https://youtu.be/qx-EYWrAn5k?&t=6346" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=6346" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qx-EYWrAn5k?&t=6346" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/qx-EYWrAn5k?&t=6346 :octicons-link-external-24:](https://youtu.be/qx-EYWrAn5k?&t=6346){ target=_blank }
@@ -621,7 +621,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - This video demonstrates the close attention I pay to the details of game actions and how the results of those actions should be interpreted by the WFTDA rules.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=270){ target=_blank }
@@ -655,7 +655,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <video controls controlslist="nodownload" height="315" width="560">
+        <video controls controlslist="nodownload" height="315" style="filter: drop-shadow(0 0 0.2rem black);" width="560">
             <source src="videos/so_video_example_20.mp4" type="video/webm">
             <source src="videos/so_video_example_20.mp4" type="video/mp4">
         </video>
