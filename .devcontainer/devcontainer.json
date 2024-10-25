@@ -64,5 +64,5 @@
     "postAttachCommand": ["./scripts/server-launch.sh"],
     // Visual Studio Code environment configuration
     // Load local environment variables from a Git-excluded file
-    "runArgs": ["--env-file",".devcontainer/devcontainer.env"]
+    "runArgs": ["--env-file", ".devcontainer/devcontainer.env"]
 }

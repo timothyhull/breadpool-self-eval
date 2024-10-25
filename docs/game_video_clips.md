@@ -2,21 +2,83 @@
 
 ## Overview
 
-Below are links to some of my recent officiating experiences that I believe highlight my performances in a variety of roles and situations:
+Below are links to some of my officiating performances that highlight my capabilities and experience in a variety of roles and situations.
 
 ---
 
-## Video Example #1
+## NSO Video Clips
 
-??? video "Track Awareness and Attention to Detail :material-cursor-default-click:"
+### NSO Video Example #1
+
+??? video "Calm Precision and Attention to Details During Intense Game Situations :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈20:22 mark in this video, while serving as a JR, I observe and use an official hand signal to indicate I am aware my jammer, White #25, cuts one of their teammates (White #314).
+        - At the ≈1:44:42 mark in this video, while serving as a JT, a TTO is about to end before the game's final jam (18).
+        - The game is closely contested, decided by each team's final scoring trip after a full two-minute jam.
+        - I calmly performed the following actions:
+            - Ended the TTO after exactly 60 seconds.
+            - Quickly performed my pre-jam checks before immediately starting the jam.
+            - Discretely approached the HR (≈1:45:43 mark) to advise them that:
+                - The period clock expired.
+                - The jam will last for two minutes since the lead jammer lost lead.  
+            - Observed the team benches throughout the remainder of the jam for indications that either team intended to request an OR.
+            - Used a verbal cue to advise the HR when there were ten seconds remaining in the jam (≈1:46:49 mark).
+            - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
+                - The first tap of my hips.
+                - The fourth blast from my whistle.
+                - The period clock reaching 0:00.
+            - Observed the SBO add the final points to determine if an overtime jam was necessary (it was not).
+            - Returned to a position adjacent to the pivot line while monitoring my stopwatch to ensure thirty seconds elapsed before the game result could become final.
+            - After they became available, I advised the HR that it had been over thirty seconds since the jam ended and that I could indicate the game was final whenever they were ready (≈1:47:30 mark).
+            - Waited for the HR's indication that the game should become final before immediately blowing my whistle to signal the final outcome (≈1:47:37 mark).
 
     === "Outcome :material-cursor-default-click:"
     
-        - Even though this detail ended up being inconsequential to gameplay, I am deliberate in my awareness of details like player positioning, and I communicate my observations in case they are consequential.
+        - A close, intense game ended normally
+        - The HR had essential game and jam clock information throughout the jam without taking their eyes off the on-track action.
+        - Neither team requested an OR to contest any timing.
+        - The game outcome became final after the required wait period and after receiving instructions from HR.
+
+    === "Importance :material-cursor-default-click:"
+
+        - Although the outcomes for this situation may seem underwhelming, I believe this is an example of how a JT can be somewhat of a safety net for their HR throughout a game, helping ensure it runs as smoothly as possible.
+        - I want my HRs to know they trust me to calmly and precisely manage game timing procedures no matter how intense game action may be.
+        - For me, performing JT responsibilities with precision throughout a game takes deliberate study and practice, and my ongoing preparation helped me contribute to a smooth ending in a close game.
+            - The precision of my signal to the end of the TTO ensured that neither team gained an advantage by having additional time to rest, strategize, etc.
+            The precision of my call-off timing ensured that neither team could score additional points after the jam clock expired.
+            - I was prepared to help facilitate the correct end-of-regulation OR and OT procedures.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=6282" title="https://youtu.be/QftT8whPC2g?t=6282" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/QftT8whPC2g?t=6282 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=6282){ target=_blank }
+    </center>
+
+---
+
+## SO Video Clips
+
+### SO Video Example #1
+
+??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈20:22 mark in this video, while serving as a JR, I observe White #25 cut one of their teammates, White #314, 
+        - White #314 is in front of White #25 and skates in non-derby direction to create a bridge between the front and rear pack walls while White #25 is OOB.
+        - White #25 returns to a fully upright and in-bounds position after White #314 is behind White #25.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I am in the correct position to monitor each player's relative position precisely throughout the action.
+        - I use an official hand signal ("no earned pass") to indicate I am aware of and will not penalize White #25 for the action.
+
+    === "Importance :material-cursor-default-click:"
+    
+        - Even though this detail ended up being inconsequential to gameplay, I am proactive and deliberate in my awareness of player positioning.
+        - I slowly and clearly communicate my observations with a visual cue to improve the flow of potentially impactful game information.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -27,15 +89,15 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #2
+### SO Video Example #2
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, out-of-bounds.
-        - As Purple #88 skates in non-derby direction while out-of-bounds, I keep track of White #30 who has superior position on Purple #88.
-        - White #30 will skate in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop out-of-bounds.
+        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, OOB.
+        - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
+        - White #30 will skate in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -54,7 +116,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #3
+### SO Video Example #3
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -79,7 +141,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #4
+### SO Video Example #4
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals #1 :material-cursor-default-click:"
 
@@ -107,7 +169,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #5
+### SO Video Example #5
 
 ??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
@@ -134,7 +196,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #6
+### SO Video Example #6
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #1 :material-cursor-default-click:"
 
@@ -162,7 +224,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #7
+### SO Video Example #7
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
@@ -189,7 +251,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #8
+### SO Video Example #8
 
 ??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
@@ -215,13 +277,13 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #9
+### SO Video Example #9
 
 ??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer out-of-bounds.
+        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer OOB.
         - I also observe that Black Pivot gains superior position over Red Jammer just before Red Jammer is blocked out of bounds.
         - Red Jammer re-enters the track behind Black #211, and I follow Black Pivot as they skate in non-derby direction.
         - Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
@@ -244,7 +306,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #10
+### SO Video Example #10
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -272,7 +334,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #11
+### SO Video Example #11
 
 ??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
 
@@ -299,31 +361,45 @@ Below are links to some of my recent officiating experiences that I believe high
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
     </center>
 
-## Video Example #12
+---
+
+### SO Video Example #12
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈3:50:29 mark in this video, while serving as the ALTR, jam 7 of the 2nd period ends, and the rear OPR approaches me at the side of the track to indicate they need temporary relief.
+        - At the beginning of this video, while serving as the ALTR, I am standing between the Deus and bleachers while observing the game and taking notes.
+        - Jam 7 of the 2nd period ends, and, off-camera, the rear OPR approaches me to indicate they need temporary relief from the game.
+        - Just before jam 8 starts, I position myself near the jammer line to serve as the rear OPR.
 
     === "Outcome :material-cursor-default-click:"
 
-        - In the ALTR role, I keep myself ready to enter the game at any moment of need.
-        - I was able to sit, safely remove my helmet, remove the black NSO top that covered my referee stripes, replace my helmet, and position myself for activation before jam 8 started.
+        - The game continued without a clock stoppage or gap in officiating coverage.
+        - I was able to sit, remove my helmet and the black NSO top that covered my referee stripes, replace my helmet, and position myself to substitute for the rear OPR before jam 8 started.
+        - I substituted for seven jams before the rear OPR was ready to resume their position.
 
     === "Importance :material-cursor-default-click:"
 
-        - I don't think it's ordinary to activate an ALTR without having to stop the game clock, and I am proud that my state of preparedness kept the game clock moving.
-        - I believe this video shows an example of the importance I place on the ALTR role, how I do whatever I can to keep from disrupting game flow, and the level of readiness I maintain in the ALTR role.
+        - My readiness helped my crew keep the game flowing and on schedule, avoiding a gap in officiating coverage or potential delay of several minutes while I geared up and warmed up.
+        - It's not ordinary for an ALTR to activate without stopping the game clock, and I am proud that my state of preparedness supported contiguous gameplay.
+        - In the ALTR role, I keep myself ready to enter the game at any moment of need, and I had warmed up before the game and again at intermission, so my body was prepared for physical activity.
+        - Although I expected to serve in the ALTR role throughout the game, I kept engaged with the game action for the event that I would need to activate.
+        - This video demonstrates the importance I place on the ALTR role, how I do whatever I can to support optimal game/event flow, and the level of readiness and engagement I maintain throughout a game while serving in the ALTR role.
     <center>
-        Embedded playback is not available for this video. Please click the link below to watch.
-        <br>[https://fb.watch/rh_w7Nh_7b :octicons-link-external-24:](https://fb.watch/rh_w7Nh_7b){ target=_blank }
+        <video controls controlslist="nodownload" height="315" width="560">
+            <source src="videos/so_video_example_12.mp4" type="video/webm">
+            <source src="videos/so_video_example_12.mp4" type="video/mp4">
+        </video>
+    </center>
+    <center>
+        Credit: [Cherry Blossoms Roller Derby on Facebook :octicons-link-external-24:](https://fb.watch/rh_w7Nh_7b "@CherryBlossomsRollerDerby on Facebook"){ target=_blank }
+        <br>Original video does not support starting at a fixed timestamp (≈3:50:29).
     </center>
 
 ---
 
-## Video Example #13
+### SO Video Example #13
 
 ??? video "Respectfully and Kindly Listening to an Unhappy Coach :material-cursor-default-click:"
 
@@ -355,7 +431,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #14
+### SO Video Example #14
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals #2 :material-cursor-default-click:"
 
@@ -382,7 +458,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #15
+### SO Video Example #15
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #2 :material-cursor-default-click:"
 
@@ -411,7 +487,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #16
+### SO Video Example #16
 
 ??? video "Use of Discretion and Judgment to Make a No-Call #3 :material-cursor-default-click:"
 
@@ -445,7 +521,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #17
+### SO Video Example #17
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -486,7 +562,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #18
+### SO Video Example #18
 
 ??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
@@ -521,7 +597,7 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #19
+### SO Video Example #19
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
@@ -550,13 +626,13 @@ Below are links to some of my recent officiating experiences that I believe high
 
 ---
 
-## Video Example #20
+### SO Video Example #20
 
-??? video "Proactively Observing Game Action :material-cursor-default-click:"
+??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 04:01:09 mark of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
+        - At the beginning of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
             - Jam #4 ended while I was positioned near the center of turn #4, adjacent to the score table, team benches, and penalty box.
         - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
         - I observed no jammer for White in the penalty box area.
@@ -576,7 +652,14 @@ Below are links to some of my recent officiating experiences that I believe high
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
-        <video src="videos/video_example_20.mp4" width="560" height="315" controls controlslist="nodownload" type="video/mp4" />
+        <video controls controlslist="nodownload" height="315" width="560">
+            <source src="videos/so_video_example_20.mp4" type="video/webm">
+            <source src="videos/so_video_example_20.mp4" type="video/mp4">
+        </video>
+    </center>
+    <center>
+        Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
+        <br>Original video (timestamp 04:01:09) no longer available.
     </center>
 
 ---

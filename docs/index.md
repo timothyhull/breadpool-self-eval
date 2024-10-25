@@ -26,7 +26,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
 3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations"){ data-preview }.
-4. [My WFTDA OHD](./officiating_history.md "")
+4. [My WFTDA OHD](./officiating_history.md "").
 
 ---
 
@@ -239,7 +239,6 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
 
-    - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps me be a better official and teammate for my SO and NSO peers.
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
     - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
 
@@ -482,16 +481,15 @@ Please click to expand the sections below for detailed information about my deve
 
     In any SO position, you can expect me to consistently exhibit and excel at:
 
-    - **Skating capacity** - I have the footwork, acceleration, speed, and stops that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
-    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
+    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB and return to in-bounds positions.
     - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players.
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
     - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
     - **Whistle clarity - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
-    - **Multi-task capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
-    - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
+    - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
+    - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
+    - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
     - **Jam participant tracking - I continuously track the number of players and the positions for each player on each team before and during each jam.
     - **Rules knowledge - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
@@ -504,6 +502,30 @@ Please click to expand the sections below for detailed information about my deve
             Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
+
+
+    ??? whistle "Skating Skills :material-cursor-default-click:"
+
+        === "My Strengths :material-cursor-default-click:"
+
+            - General and position-specific skating skills that are among the best of my peers and allow me to reliably be in the best possible position to observe the most relevant game action.
+            - Top-end speed, forward and backward, in derby and non-derby directions, throughout the skating surface area.
+            - Rapid acceleration, forward and backward, that allows me to burst to full speed and keep pace with and rapidly catch up to the fastest players in the world if I am forced out of position.
+            - Precision stops with equivalent skill to my left and right sides while moving forward and backward.
+            - Lateral movement skills and strong wheel-based stops (hockey stops, power slides, backward plows, etc.) that allow me to face the front of my body toward the track during most gameplay situations and immediately change directions at any time.
+            - Body control that allows me to operate effectively and avoid obstacles in compressed spaces, including narrow OPR lanes and while adjacent to downed players.
+            - Footwork skills that allow me to avoid contact with players and remain upright in situations where they may not be able to avoid making contact with me.
+            - Situational awareness that allows me to position my body such that I create a small profile.
+                - Although I am often among the taller officials I serve with (5' 10" off-skates), I am aware of the space I occupy and use various techniques to avoid obscuring game action from my peers.
+            - Adaptability to and function well on different track surfaces and conditions.
+            - Immediately returning to an upright and effective position if I fall or am forced to the ground.
+            - Capacity to maintain eye contact with my assigned area(s) of responsibility in almost any situation.
+
+        === "My Areas for Growth :material-cursor-default-click:"
+
+            - While I consider myself someone who does not frequently fall, I often skate aggressively to remain in the best possible position.  I will occasionally wipe out because I'm pushing myself to the edge of control.
+            - My backward acceleration to full speed from a complete stop in derby and non-derby directions has room to improve.
+            - I use wheel stops to create a “narrow” profile while moving laterally, and doing so extends my legs, which can occasionally cause contact with players and other officials.  I'm working to make my narrow profile more compact without compromising stability.
 
     ??? whistle "HR/CHR :material-cursor-default-click:"
 
@@ -707,8 +729,8 @@ Please click to expand the sections below for detailed information about my deve
 ??? whistle "RCR Officiating Development :material-cursor-default-click:"
 
     - Regular officiating practice coach.
-    - Co-founded an ongoing a junior officiating training program in 2023 for which I serve as the primary coach.
-    - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as officiating practice enhancement tool.
+    - Co-founded an ongoing junior officiating training program in 2023 for which I serve as the primary coach.
+    - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as an officiating practice support and development tool.
 
 ??? clipboard "RCR OC Membership :material-cursor-default-click:"
 
