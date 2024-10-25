@@ -2,7 +2,7 @@
 
 ## Overview
 
-Below are links to some of my recent officiating experiences that I believe highlight my performances in a variety of roles and situations.
+Below are links to some of my officiating performances that highlight my capabilities and experience in a variety of roles and situations.
 
 ---
 
