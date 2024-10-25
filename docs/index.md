@@ -729,7 +729,7 @@ Please click to expand the sections below for detailed information about my deve
 ??? whistle "RCR Officiating Development :material-cursor-default-click:"
 
     - Regular officiating practice coach.
-    - Co-founded an ongoing a junior officiating training program in 2023 for which I serve as the primary coach.
+    - Co-founded an ongoing junior officiating training program in 2023 for which I serve as the primary coach.
     - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as officiating practice enhancement tool.
 
 ??? clipboard "RCR OC Membership :material-cursor-default-click:"
