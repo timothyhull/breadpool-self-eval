@@ -730,7 +730,7 @@ Please click to expand the sections below for detailed information about my deve
 
     - Regular officiating practice coach.
     - Co-founded an ongoing junior officiating training program in 2023 for which I serve as the primary coach.
-    - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as officiating practice enhancement tool.
+    - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as an officiating practice support and development tool.
 
 ??? clipboard "RCR OC Membership :material-cursor-default-click:"
 
