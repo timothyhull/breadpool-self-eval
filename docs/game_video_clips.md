@@ -97,11 +97,12 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, OOB.
         - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
-        - White #30 will skate in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
+        - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
 
     === "Outcome :material-cursor-default-click:"
     
-        - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.  White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
+        - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
+        - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
         - While remaining in a position to follow my jammer, Purple #88, I issue a cut penalty to White #30.
 
     === "Importance :material-cursor-default-click:"
@@ -185,7 +186,9 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Importance :material-cursor-default-click:"
 
         - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the jammer’s feet before they leave the track and as they land.
-        - Whenever possible, it’s important to me to signal points as immediately as possible as a mechanism to show players and coaches that I have confidence the points I’m reporting are accurate.
+        - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
+            - Show players and coaches that I have confidence the points I’m reporting are accurate.
+            - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -211,7 +214,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a penalty justified a no-call.
+        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a penalty necessitated a no-call.
         - I make every effort to keep skaters on the track and in competition unless I am 100% certain an action or actions meet the criteria to warrant a penalty.
         - After reviewing the video later in the day, I believe I made the correct call.
 
@@ -340,8 +343,8 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the pack at high speed.
-        - My jammer realizes they do not have much time before the opposing will approach the pack and score points for themselves.
+        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
+        - My jammer realizes they do not have much time before the opposing jammer will approach the pack and score points for themselves.
         - My jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
         - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
 
@@ -412,14 +415,14 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Outcome :material-cursor-default-click:"
 
         - Although I felt comfortable with my decision to issue the penalty, I did not argue my case to the Green "A" because I thought doing so would be counterproductive.
-        - I patiently listened to the Green "A" express their disagreement/dissatisfaction, validated their argument by nodding and saying "okay" to acknowledge their feedback.
+        - I patiently listened to the Green "A" express their disagreement/dissatisfaction and validated their argument by nodding and saying "okay" to acknowledge their feedback.
         - The Green "A" returned to their bench and the next jam started without incident.
 
     === "Importance :material-cursor-default-click:"
 
         - For me, this action is a key element to officiating effectively and building trust with players and coaches.
         - I believed the Green "A" wanted to express their opinion to me, not argue with me, and I feel confident that arguing would have escalated the situation.
-        - I estimated that Green "A" needed to express frustration, and I want to earn their trust by listening to understand them, not listening to respond to or arguing with them.
+        - I estimated that Green "A" needed to express frustration, and I want to earn their trust by listening to understand them, not listening to respond to or argue with them.
         - I believe this video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
 
     <center>
@@ -442,7 +445,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
     
-        - In the course of issuing the penalty to Purple #07, several blockers skate in non-derby direction.  I make a rapid movement to accelerate laterally in non-derby direction before coming to a sharp stop in alignment with the blockers reforming rear wall.
+        - In the course of issuing the penalty to Purple #07, several blockers skate in non-derby direction.  I make a rapid movement to accelerate laterally in non-derby direction before coming to a sharp stop in alignment with the blockers reforming the rear wall.
         - Even though I had to maneuver my body rapidly, I completed the motion of the high block verbal cue while maneuvering myself.
 
     === "Importance :material-cursor-default-click:"
