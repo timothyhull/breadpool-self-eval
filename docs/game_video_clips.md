@@ -35,7 +35,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
     
-        - A close, intense game ended normally
+        - A close, intense game ended normally.
         - The HR had essential game and jam clock information throughout the jam without taking their eyes off the on-track action.
         - Neither team requested an OR to contest any timing.
         - The game outcome became final after the required wait period and after receiving instructions from HR.
@@ -54,6 +54,43 @@ Below are links to some of my officiating performances that highlight my capabil
     </center>
     <center>
         <br>[https://youtu.be/QftT8whPC2g?t=6282 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=6282){ target=_blank }
+    </center>
+
+---
+
+### NSO Video Example #2
+
+??? video "Preparedness for Timely Responses to Team and Officiating Needs :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈25:58 mark in this video, while serving as a JT, the lead jammer (Red) will request that their JR call off the jam.
+        - The jam is called off, and the Green "A" requests a TTO from their bench area.
+        - I immediately respond to the TTO request, signal the TTO, communicate the appropriate information to the SBO, and position myself at the pivot line to perform standard TTO duties for the JT.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - The SBO stopped the official clock, and the TTO took place normally.
+        - I ended the TTO exactly at 1:00 and monitored officials, players, team benches, and on-track players for readiness to start the next jam (≈27:02 mark).
+        - As the lineup time approached 25 seconds, it did not appear the skating officials were ready for the next jam to start.
+        - I determined the best course of action was to transition to an OTO rather than give verbal and visual cues to indicate the jam was about to start (≈27:27 mark).
+
+    === "Importance :material-cursor-default-click:"
+
+        - While serving as JT, I focus on maintaining situational awareness, and I avoid the temptation to become distracted by gameplay.
+        - During an active jam, I primarily focus my attention on the team bench areas and the scoreboard, and doing so allows me to:
+            - Monitor the scoreboard for proper operation so I can respond immediately if there is a technical problem with CRG.
+            - Monitor team benches for indications they may request a TTO or OTO when a jam ends.
+        - My attentiveness to the team bench areas allowed me to immediately respond to Green's TTO request when the jam ended, ensuring the game clock did not continue to run when a team requested a stoppage.
+        - My attentiveness to the officiating crew during the TTO:
+            - Prevented the unnecessary confusion of issuing the "five seconds" verbal and visual cues followed by an immediate OTO.
+            - Assured my officiating peers that I have their backs because I'm paying attention to the big picture view of the game so they can focus on their individual role responsibilities.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=1558" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=1558" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/6CLKchfmSBI?t=1558 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=1558){ target=_blank }
     </center>
 
 ---
