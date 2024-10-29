@@ -776,12 +776,11 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### SO Video Example #21
 
-??? video "Identifying and Tracking Players Losing and Reestablishing Superior Position :material-cursor-default-click:"
+??? video "Identifying and Tracking Complex Non-Initiator Cut Scenarios :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
         - At the beginning of this video, while serving as JR...
-        - 
 
     === "Outcome :material-cursor-default-click:"
 
