@@ -95,6 +95,31 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
+### NSO Video Example #3
+
+??? video "Active Monitoring for Safety and Game Operation :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈TBD mark in this video, while serving as a JT...
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - The SBO stopped the official clock...
+
+    === "Importance :material-cursor-default-click:"
+
+        - While serving as JT, I focus on ...
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=1558" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=1558" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/6CLKchfmSBI?t=1558 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=1558){ target=_blank }
+    </center>
+
+---
+
 ## SO Video Clips
 
 ### SO Video Example #1
