@@ -111,12 +111,57 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - While serving as JT, I focus on ...
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=1558" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=1558" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/6CLKchfmSBI?t=1558 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=1558){ target=_blank }
-    </center>
+    <div class="grid" markdown>
+
+    === "Example #1 :material-cursor-default-click:"
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=2304" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=2304" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=2304 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=2304){ target=_blank }
+        </center>
+
+    === "Example #2 :material-cursor-default-click:"
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=4670" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=4670" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=4670 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=4670){ target=_blank }
+        </center>
+
+    === "Example #3 :material-cursor-default-click:"
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=1800" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/QftT8whPC2g?t=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/QftT8whPC2g?t=1800 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=1800){ target=_blank }
+        </center>
+
+    === "Example #4 :material-cursor-default-click:"
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=5561" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/QftT8whPC2g?t=5561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/QftT8whPC2g?t=5561 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=5561){ target=_blank }
+        </center>
+
+    === "Example #5 :material-cursor-default-click:"
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=947" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=947 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=947){ target=_blank }
+        </center>
 
 ---
 
@@ -725,6 +770,38 @@ Below are links to some of my officiating performances that highlight my capabil
     <center>
         Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
         <br>Original video (timestamp 04:01:09) no longer available.
+    </center>
+
+---
+
+### SO Video Example #21
+
+??? video "Identifying and Tracking Players Losing and Reestablishing Superior Position :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the beginning of this video, while serving as JR...
+        - 
+
+    === "Outcome :material-cursor-default-click:"
+
+        - Black #411...
+        - Red #508 is the initiator, identified by the middle OPR, blocked OOB by Black #3
+        - Red #03 is a non-initiator...
+
+    === "Importance :material-cursor-default-click:"
+
+        - This is a complex scenario to identify, track, and correctly assess...
+
+    <center>
+        <video controls controlslist="nodownload" height="315" style="filter: drop-shadow(0 0 0.2rem black);" width="560">
+            <source src="videos/so_video_example_21.mp4" type="video/webm">
+            <source src="videos/so_video_example_21.mp4" type="video/mp4">
+        </video>
+    </center>
+    <center>
+        Credit: [Cherry Blossoms Roller Derby on Facebook :octicons-link-external-24:](https://fb.watch/vtH1YnhlNU "@CherryBlossomsRollerDerby on Facebook"){ target=_blank }
+        <br>Original video does not support starting at a fixed timestamp (≈1:17:22).
     </center>
 
 ---
