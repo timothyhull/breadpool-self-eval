@@ -580,7 +580,10 @@ Please click to expand the sections below for detailed information about my deve
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
             - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself out of position.
-            - I will occasionally focus so much on my individual zone of coverage that I don't anticipate overall pack and player movement correctly.
+            - I will occasionally focus so much attention on alignment with my individual zone/wall of coverage that I don't anticipate overall pack and player movement correctly.
+                - For example, from the rear and middle OPR positions, I may observe player "A" legally block opposing player "B" OOB directly in front of me.
+                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B".
+                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the precise moment player "B" returns to a fully in-bounds position.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
