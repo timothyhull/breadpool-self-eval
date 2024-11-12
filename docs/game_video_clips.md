@@ -780,13 +780,19 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the beginning of this video, while serving as JR...
+        - At the beginning of this video, while serving as JR for Black jammer #411, I observe Red blocker #508 force my jammer OOB near the center of turn 1 on the outside of the track.
+        - I observe the middle OPR point to indicate Red #508 is the initiator of the block that sent Black #411 OOB.
+        - I note that all other Red blockers have superior position over Black #411 at the time Red #508 blocks Black #411 OOB.
+        - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track.
+        - I observe Red pivot #3 skate in non-derby direction toward the rear engagement zone and I mind the rear IPR's verbal cue that the pack is now "front."
+        - I monitor Black #411 as they attend to an apparent malfunction of their left skate while observing all Red non-pivot blockers skate in non-derby direction.
+        - Black #411 returns to an upright position and skates in non-derby direction while still OOB.
+        - The rear IPR issues an OOP warning to Red #3, and Black #411 moves to return to an in-bounds position in front of Red #3.
+        - Red #3 begins to skate forward and I hear the rear OPR use a verbal cue to indicate Red #3 is back in-play before Black #411 is fully in-bounds.
 
     === "Outcome :material-cursor-default-click:"
 
-        - Black #411...
-        - Red #508 is the initiator, identified by the middle OPR, blocked OOB by Black #3
-        - Red #03 is a non-initiator...
+        - After waiting a few moments to afford Black #411 the opportunity to return OOB to cede their position, I issue a cut penalty to Black #411 for illegally gaining position on Red pivot #3.
 
     === "Importance :material-cursor-default-click:"
 
