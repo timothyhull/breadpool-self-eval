@@ -27,7 +27,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
                 - The first tap of my hips.
                 - The fourth blast from my whistle.
-                - The period clock reaching 0:00.
+                - The jam clock reaching 0:00.
             - Observed the SBO add the final points to determine if an overtime jam was necessary (it was not).
             - Returned to a position adjacent to the pivot line while monitoring my stopwatch to ensure thirty seconds elapsed before the game result could become final.
             - After they became available, I advised the HR that it had been over thirty seconds since the jam ended and that I could indicate the game was final whenever they were ready (≈1:47:30 mark).
@@ -100,6 +100,10 @@ Below are links to some of my officiating performances that highlight my capabil
 ??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
     - This example is several short videos that demonstrate the importance I place on situational awareness and responsiveness to time-sensitive actions while serving as JT.
+    - Some of these examples may seem ordinary, although I believe repeatably performing ordinary tasks with precision helps support
+        - Competitive gameplay.
+        - Smooth game flow.
+        - Officiating crew confidence.
 
     === "Video #1 :material-cursor-default-click:"
 
@@ -160,7 +164,24 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/6CLKchfmSBI?t=4670 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=4670){ target=_blank }
         </center>
 
-    === "Clip #3 :material-cursor-default-click:"
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            **This video demonstrates the same scenario as the previous video in a different game**
+
+            - At the ≈30:00 mark in this video, the jam is about to end.
+            - As soon as the jam ends, the Black team "A" requests a TTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I signal the TTO and simultaneously stop the game clock the moment the jam-ending whistles conclude.
+            - The TTO started immediately, without requiring the "A" or "C" to seek the attention of an official.
+
+        === "Importance :material-cursor-default-click:"
+
+            - My immediate responsiveness to the TTO request ensured the game clock stopped without delay, supporting whatever the Green team's clock management strategy may have been.
+            - I position myself during a jam to respond to timeout requests at any moment, and I believe that preparedness and immediate responsiveness helps build trust between officiating crews and teams.
 
         <center>
             <br>
@@ -170,7 +191,23 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/QftT8whPC2g?t=1800 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=1800){ target=_blank }
         </center>
 
-    === "Clip #4 :material-cursor-default-click:"
+    === "Video #4 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:32:42 mark in this video, the jam clock is about to expire.
+            - I advise the HR that there are 10 seconds remaining in the jam.
+            - I call off the jam when it expires.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - The jam ended naturally and the game transitioned into lineups.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I performed the jam-ending call-off procedure by aligning the first tap of my hips, the fourth blast from my whistle, and the jam clock reaching 0:00.
+            - The precision of this jam-ending call-off is not an accident; I regularly practice this timing so I can be as accurate as possible during game action.
+            - A precise call-off ensures that time-sensitive actions within a game (penalty box timing, points scoring, etc.) are accurate and fair.
 
         <center>
             <br>
@@ -180,7 +217,21 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/QftT8whPC2g?t=5561 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=5561){ target=_blank }
         </center>
 
-    === "Clip #5 :material-cursor-default-click:"
+    === "Video #5 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈45:55 mark in this video, I am about to end a brief OTO I initiated to ensure the medical staff was available to monitor game action.
+            - After I end the OTO, I give the verbal and visual cues to indicate I will start the next jam in 5 seconds.
+            - As I conduct my pre-jam-start check, I observe SBO give me an indication that they need an OTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I immediately started a new OTO, and, after a few seconds, the SBO indicated they were ready for the next jam to start.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I am diligent about performing pre-jam-start checks before every jam so I don't inadvertently start a jam when doing so may be problematic.
 
         <center>
             <br>
