@@ -27,7 +27,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
                 - The first tap of my hips.
                 - The fourth blast from my whistle.
-                - The period clock reaching 0:00.
+                - The jam clock reaching 0:00.
             - Observed the SBO add the final points to determine if an overtime jam was necessary (it was not).
             - Returned to a position adjacent to the pivot line while monitoring my stopwatch to ensure thirty seconds elapsed before the game result could become final.
             - After they became available, I advised the HR that it had been over thirty seconds since the jam ended and that I could indicate the game was final whenever they were ready (≈1:47:30 mark).
@@ -92,6 +92,154 @@ Below are links to some of my officiating performances that highlight my capabil
     <center>
         <br>[https://youtu.be/6CLKchfmSBI?t=1558 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=1558){ target=_blank }
     </center>
+
+---
+
+### NSO Video Example #3
+
+??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
+
+    - This example is several short videos that demonstrate the importance I place on situational awareness and responsiveness to time-sensitive actions while serving as JT.
+    - Some of these examples may seem ordinary, although I believe repeatably performing ordinary tasks with precision helps support
+        - Competitive gameplay.
+        - Smooth game flow.
+        - Officiating crew confidence.
+
+    === "Video #1 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈38:27 mark in this video, the lineup clock reaches 20 seconds, and I start to shift my primary attention from the team benches, monitoring for TO and OR requests, to the steps I take to start the next jam:
+
+                1. I check the penalty box to attempt to identify the jammers for the upcoming jam.
+                2. I look toward the PBM for any indications they may need an OTO.
+                3. I check the medical bench area to confirm at least one person on the medical staff is able to observe game action on the track.
+                4. I check the track area to attempt to identify the jammers for the upcoming jam.
+                5. I look toward the HR for any indications they may need an OTO.
+                6. I look toward the SBO and SKs for any indications they may need an OTO.
+
+            - I am aware that this game only has one person on its medical staff, and I observe that they have their attention on an athlete in the medical bench area.                
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - When the lineup clock reaches 25 seconds, I initiate an OTO and indicate to the HR that the medical staff is not able to observe game action.
+            - The HR confers with the medical staff, and, after ≈25 seconds, the HR indicates to me that medical staff are available to observe game action.
+            - I immediately end the OTO and prepare to start the next jam.
+
+        === "Importance :material-cursor-default-click:"
+
+            - In the JT role, I have a macro point-of-view of the game and game area that allows me to monitor for potential safety issues and stop the game clock when necessary.
+            - I conduct a safety check before each jam to help ensure the game remains compliant with risk management and insurance guidelines.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=2304" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=2304" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=2304 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=2304){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:17:52 mark in this video, the jam is about to end.
+            - As soon as the jam ends, the Green team "A" requests a TTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I signal the TTO and simultaneously stop the game clock the moment the jam-ending whistles conclude.
+            - The TTO started immediately, without requiring the "A" or "C" to seek the attention of an official.
+
+        === "Importance :material-cursor-default-click:"
+
+            - My immediate responsiveness to the TTO request ensured the game clock stopped without delay, supporting whatever the Green team's clock management strategy may have been.
+            - I position myself during a jam to respond to timeout requests at any moment, and I believe that preparedness and immediate responsiveness helps build trust between officiating crews and teams.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=4670" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=4670" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=4670 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=4670){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            **This video demonstrates the same scenario as the previous video in a different game**
+
+            - At the ≈30:00 mark in this video, the jam is about to end.
+            - As soon as the jam ends, the Black team "A" requests a TTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I signal the TTO and simultaneously stop the game clock the moment the jam-ending whistles conclude.
+            - The TTO started immediately, without requiring the "A" or "C" to seek the attention of an official.
+
+        === "Importance :material-cursor-default-click:"
+
+            - My immediate responsiveness to the TTO request ensured the game clock stopped without delay, supporting whatever the Green team's clock management strategy may have been.
+            - I position myself during a jam to respond to timeout requests at any moment, and I believe that preparedness and immediate responsiveness helps build trust between officiating crews and teams.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=1800" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/QftT8whPC2g?t=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/QftT8whPC2g?t=1800 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=1800){ target=_blank }
+        </center>
+
+    === "Video #4 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:32:42 mark in this video, the jam clock is about to expire.
+            - I advise the HR that there are 10 seconds remaining in the jam.
+            - I call off the jam when it expires.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - The jam ended naturally and the game transitioned into lineups.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I performed the jam-ending call-off procedure by aligning the first tap of my hips, the fourth blast from my whistle, and the jam clock reaching 0:00.
+            - The precision of this jam-ending call-off is not an accident; I regularly practice this timing so I can be as accurate as possible during game action.
+            - A precise call-off ensures that time-sensitive actions within a game (penalty box timing, points scoring, etc.) are accurate and fair.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/QftT8whPC2g?start=5561" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/QftT8whPC2g?t=5561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/QftT8whPC2g?t=5561 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=5561){ target=_blank }
+        </center>
+
+    === "Video #5 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈45:55 mark in this video, I am about to end a brief OTO I initiated to ensure the medical staff was available to monitor game action.
+            - After I end the OTO, I give the verbal and visual cues to indicate I will start the next jam in 5 seconds.
+            - As I conduct my pre-jam-start check, I observe SBO give me an indication that they need an OTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I immediately started a new OTO, and, after a few seconds, the SBO indicated they were ready for the next jam to start.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I am diligent about performing pre-jam-start checks before every jam so I don't inadvertently start a jam when doing so may be problematic.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/6CLKchfmSBI?start=2744" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/6CLKchfmSBI?t=2744" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/6CLKchfmSBI?t=2744 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=2744){ target=_blank }
+        </center>
 
 ---
 
@@ -700,6 +848,52 @@ Below are links to some of my officiating performances that highlight my capabil
     <center>
         Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
         <br>Original video (timestamp 04:01:09) no longer available.
+    </center>
+
+---
+
+### SO Video Example #21
+
+??? video "Identifying and Tracking Complex Non-Initiator Cut Scenarios :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the beginning of this video, while serving as JR for Black jammer #411, I observe Red blocker #508 force my jammer OOB near the center of turn 1 on the outside of the track.
+        I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
+        I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
+        - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track, and I am aware that Red #508 has now lost and cannot regain their superior position advantage over Black #411.
+        - I observe Red pivot #3 skate in non-derby direction toward the rear engagement zone, and I mind the rear IPR's verbal cue that the pack is now "front."
+        - I monitor Black #411 as they attend to an apparent malfunction of their left skate while observing all Red non-pivot blockers skate in non-derby direction.
+        - Black #411 returns to an upright position and skates in non-derby direction while still OOB.
+        - The rear IPR issues an OOP warning to Red #3 and Black #411 moves to return to an in-bounds position in front of Red #3.
+        Red #3 begins to skate forward, and I hear the rear OPR use a verbal cue to indicate Red #3 is back in play before I observe Black #411 return to a fully in-bounds position.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - After waiting a few moments to determine if Black #411 would take immediate action to return OOB and cede their position, I issued a cut penalty to Black #411 for illegally gaining position on Red pivot #3.
+
+    === "Importance :material-cursor-default-click:"
+
+        - This sort of situation has some complexities and is often misunderstood by players and coaches who believe Black #411 may legally reenter the track in front of Red #3 because Red #3 went OOP.
+        - My active awareness of player positioning and monitoring of superior position status allows me to recognize that:
+            - Red #3, as a player who did not initiate the block that sent Black #411 OOB, briefly lost their superior position over Black #411 when they went OOP at the trailing edge of the rear engagement zone.
+            - Red #3 reestablished their superior position over Black #411 after returning to the rear engagement zone.
+            - Black #411 illegally gained position on Red #3 using the OOB area (cut) and did not take immediate action to cede the cut.
+        The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
+        - I believe this video demonstrates the following:
+            - My detailed attentiveness to tracking player positioning at all times so I can determine if a player illegally gains position using the OOB area.
+            - My understanding of roller derby rules regarding gaining, losing, and reestablishing superior positioning for OOB block initiators and non-initiators alike.
+            - My confidence to assess a penalty that I am nearly certain will draw enthusiastic objection from the player, their captain, their peers, and their coaches.
+
+    <center>
+        <video controls controlslist="nodownload" height="315" style="filter: drop-shadow(0 0 0.2rem black);" width="560">
+            <source src="videos/so_video_example_21.mp4" type="video/webm">
+            <source src="videos/so_video_example_21.mp4" type="video/mp4">
+        </video>
+    </center>
+    <center>
+        Credit: [Cherry Blossoms Roller Derby on Facebook :octicons-link-external-24:](https://fb.watch/vtH1YnhlNU "@CherryBlossomsRollerDerby on Facebook"){ target=_blank }
+        <br>Original video does not support starting at a fixed timestamp (≈1:17:22).
     </center>
 
 ---

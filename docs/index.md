@@ -486,12 +486,12 @@ Please click to expand the sections below for detailed information about my deve
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
     - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
-    - **Whistle clarity - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
+    - **Whistle clarity** - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
     - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
     - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
-    - **Jam participant tracking - I continuously track the number of players and the positions for each player on each team before and during each jam.
-    - **Rules knowledge - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
+    - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I behave in a way that shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
@@ -580,7 +580,10 @@ Please click to expand the sections below for detailed information about my deve
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
             - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself out of position.
-            - I will occasionally focus so much on my individual zone of coverage that I don't anticipate overall pack and player movement correctly.
+            - I will occasionally focus so much attention on alignment with my individual zone/wall of coverage that I don't anticipate overall pack and player movement correctly.
+                - For example, from the rear and middle OPR positions, I may observe player "A" legally block opposing player "B" OOB directly in front of me.
+                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B".
+                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the precise moment player "B" returns to a fully in-bounds position.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
