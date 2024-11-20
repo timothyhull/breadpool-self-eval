@@ -97,23 +97,35 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### NSO Video Example #3
 
-??? video "Active Monitoring for Safety and Game Operation :material-cursor-default-click:"
+??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate the importance I place on situational awareness and responsiveness to time-sensitive actions while serving as JT.
 
-        - At the ≈TBD mark in this video, while serving as a JT...
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - The SBO stopped the official clock...
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
+            - At the ≈38:27 mark in this video, the lineup clock reaches 20 seconds, and I start to shift my primary attention from the team benches, monitoring for TO and OR requests, to the steps I take to start the next jam:
 
-        - While serving as JT, I focus on ...
+                1. I check the penalty box to attempt to identify the jammers for the upcoming jam.
+                2. I look toward the PBM for any indications they may need an OTO.
+                3. I check the medical bench area to confirm at least one person on the medical staff is able to observe game action on the track.
+                4. I check the track area to attempt to identify the jammers for the upcoming jam.
+                5. I look toward the HR for any indications they may need an OTO.
+                6. I look toward the SBO and SKs for any indications they may need an OTO.
 
-    <div class="grid" markdown>
+            - I am aware that this game only has one person on its medical staff, and I observe that they have their attention on an athlete in the medical bench area.                
 
-    === "Example #1 :material-cursor-default-click:"
+        === "Outcome :material-cursor-default-click:"
+        
+            - When the lineup clock reaches 25 seconds, I initiate an OTO and indicate to the HR that the medical staff is not able to observe game action.
+            - The HR confers with the medical staff, and, after ≈25 seconds, the HR indicates to me that medical staff are available to observe game action.
+            - I immediately end the OTO and prepare to start the next jam.
+
+        === "Importance :material-cursor-default-click:"
+
+            - In the JT role, I have a macro point-of-view of the game and game area that allows me to monitor for potential safety issues and stop the game clock when necessary.
+            - I conduct a safety check before each jam to help ensure the game remains compliant with risk management and insurance guidelines.
 
         <center>
             <br>
@@ -123,7 +135,22 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/6CLKchfmSBI?t=2304 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=2304){ target=_blank }
         </center>
 
-    === "Example #2 :material-cursor-default-click:"
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:17:52 mark in this video, the jam is about to end.
+            - As soon as the jam ends, the Green team "A" requests a TTO.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I signal the TTO and simultaneously stop the game clock the moment the jam-ending whistles conclude.
+            - The TTO started immediately, without requiring the "A" or "C" to seek the attention of an official.
+
+        === "Importance :material-cursor-default-click:"
+
+            - My immediate responsiveness to the TTO request ensured the game clock stopped without delay, supporting whatever the Green team's clock management strategy may have been.
+            - I position myself during a jam to respond to timeout requests at any moment, and I believe that preparedness and immediate responsiveness helps build trust between officiating crews and teams.
 
         <center>
             <br>
@@ -133,7 +160,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/6CLKchfmSBI?t=4670 :octicons-link-external-24:](https://youtu.be/6CLKchfmSBI?t=4670){ target=_blank }
         </center>
 
-    === "Example #3 :material-cursor-default-click:"
+    === "Clip #3 :material-cursor-default-click:"
 
         <center>
             <br>
@@ -143,7 +170,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/QftT8whPC2g?t=1800 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=1800){ target=_blank }
         </center>
 
-    === "Example #4 :material-cursor-default-click:"
+    === "Clip #4 :material-cursor-default-click:"
 
         <center>
             <br>
@@ -153,7 +180,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/QftT8whPC2g?t=5561 :octicons-link-external-24:](https://youtu.be/QftT8whPC2g?t=5561){ target=_blank }
         </center>
 
-    === "Example #5 :material-cursor-default-click:"
+    === "Clip #5 :material-cursor-default-click:"
 
         <center>
             <br>
