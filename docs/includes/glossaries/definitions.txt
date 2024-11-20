@@ -39,6 +39,7 @@
 *[OR]: Official Review
 *[ORs]: Official Reviews
 *[OHD]: Officiating History Document
+*[OT]: Overtime
 *[OTO]: Official Timeout
 *[OTOs]: Official Timeouts
 *[PBM]: Penalty Box Manager
