@@ -38,7 +38,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - A close, intense game ended normally.
         - The HR had essential game and jam clock information throughout the jam without taking their eyes off the on-track action.
         - Neither team requested an OR to contest any timing.
-        - The game outcome became final after the required wait period and after receiving instructions from HR.
+        - The game outcome became final after the required wait period and after receiving instructions from the HR.
 
     === "Importance :material-cursor-default-click:"
 
