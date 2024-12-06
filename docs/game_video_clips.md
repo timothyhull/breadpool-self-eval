@@ -626,7 +626,7 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the 27:41 mark of this video, while serving as rear OPR, I observe Purple #07 initiate forceful contact to the head of White #215, and decide to penalize Purple #07 for a high block.
-        - I use deliberately, a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
+        - I deliberately use a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
 
     === "Outcome :material-cursor-default-click:"
     
