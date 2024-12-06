@@ -625,7 +625,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 27:41 mark of this video, while serving as rear OPR, I observe Purple #07 initiate forceful contact to the head of White #215, and decide to penalize Purple #07 for a high block.
+        - At the ≈27:41 mark of this video, while serving as rear OPR, I observe Purple #07 initiate forceful contact to the head of White #215, and decide to penalize Purple #07 for a high block.
         - I deliberately use a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
 
     === "Outcome :material-cursor-default-click:"
@@ -652,7 +652,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 16:19 mark of this video, while serving as rear OPR, I observe White #422 initiate a block that causes Purple #117 to step the right-front wheel of their right skate OOB.
+        - At the ≈16:19 mark of this video, while serving as rear OPR, I observe White #422 initiate a block that causes Purple #117 to step the right-front wheel of their right skate OOB.
         - I monitor Purple #117's next actions and determine they cut White #422 by immediately returning to an in-bounds and upright position in front of White #422.
         - The jam ends as I'm raising my arms to issue Purple #117 a cut penalty.
 
@@ -681,7 +681,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 37:18 mark of this video, while serving as rear OPR, I observe White #39 initiate a block that causes Purple #07 to step the left-front wheel of their left skate OOB.
+        - At the ≈37:18 mark of this video, while serving as rear OPR, I observe White #39 initiate a block that causes Purple #07 to step the left-front wheel of their left skate OOB.
         - From my point-of-view, it appeared that Purple #07 cut by returning to an upright and in-bounds position in front of White #39.
         - Purple #07 does not cede the apparent cut, and I am slightly behind a position that would allow me to accurately determine the exact position of White #39 and Purple #07.
 
@@ -732,11 +732,11 @@ Below are links to some of my officiating performances that highlight my capabil
             4. Using lateral movement techniques like tracking, cross-pulls, and power slides that allow me to keep my body facing the pack, give me the widest possible angle to observe game action, and afford me the flexibility to quickly change direction and accelerate at any moment.
             5. Using non-standard visual cues, hand signals, and head movements to relay information to my peer officials.
 
-        - At the 1:16:35 mark, one of the JRs issues a penalty to White #39, who appears to illegally exit the track.
+        - At the ≈1:16:35 mark, one of the JRs issues a penalty to White #39, who appears to illegally exit the track.
         
             1. Understanding the severity of issuing a player a second penalty, especially in a playoff game, I point at the player to get the attention of my CHR so they can determine if they want to issue a second penalty (they do).
 
-        - At the 1:16:46 mark, the front OPR issues a penalty to Purple #11 (blocker) that the front IPR repeats, in order to relay the call to the player.
+        - At the ≈1:16:46 mark, the front OPR issues a penalty to Purple #11 (blocker) that the front IPR repeats, in order to relay the call to the player.
 
             1. Purple #117 (jammer) hears the repeated penalty call, and, apparently believing they have their own penalty, leaves the track to self-report to the penalty box.
             2. Suspecting #117 may not have a penalty, I immediately start pointing and verbally relaying my observation to my peer officials who return Purple #117 to the track with only minimal impact to gameplay.
@@ -791,7 +791,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 4:32 mark of this video, while serving as rear OPR, I observed Purple #48 initiate a block on White #42 with a legal blocking zone to a legal target zone.
+        - At the ≈4:32 mark of this video, while serving as rear OPR, I observed Purple #48 initiate a block on White #42 with a legal blocking zone to a legal target zone.
         - Purple #48's block causes White #42 to fall on top of Purple #88 who is seemingly in a down position at the time of the contact.
         - I blow my whistle to issue a misconduct penalty to Purple #48 for blocking White #42 into a downed player (Purple #88).
 
@@ -894,6 +894,39 @@ Below are links to some of my officiating performances that highlight my capabil
     <center>
         Credit: [Cherry Blossoms Roller Derby on Facebook :octicons-link-external-24:](https://fb.watch/vtH1YnhlNU "@CherryBlossomsRollerDerby on Facebook"){ target=_blank }
         <br>Original video does not support starting at a fixed timestamp (≈1:17:22).
+    </center>
+
+---
+
+### SO Video Example #22
+
+??? video "Contact Initiation and Game Impact Assessment :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue jammer, #37, make contact near each of their foot/ankle areas.
+        - The contact cause Green #11 to immediately fall and Blue jammer falls about a second afterward.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I determined that Green #11 used an illegal blocking zone to initiate contact to an illegal target zone on Blue jammer that caused Blue jammer to adopt a downed position.
+        - I issued a low block penalty to Green #11 and direct them to report to the penalty box with the appropriate whistle signal plus verbal and visual cues.
+            - I deliberately used a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
+            - I spend almost twelve seconds from the time I blow my whistle to the time I complete the appropriate verbal and visual cues while continuously skating and maintaining observation of my assigned zone.
+
+    === "Importance :material-cursor-default-click:"
+
+        - It is of the utmost importance to me that I observe player movement continuously during game action so I can correctly identify the initiator(s) of contact, whether or not the contact is legal.
+            - I never want to penalize a player for contact they did not initiate, no matter how the contact appears to the untrained eye.
+        - In this case, although both players were moving toward each other at the time of the contact and the contact causes both players to fall, I believe I correctly assessed that Blue jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
+        - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally while I continue to observe Blue jammer for game impact as a result of the contact.
+            - As soon as I observe Blue jammer fall, I have the information I need to issue a penalty (initiation and impact) and appropriately explain it if questioned.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=2227" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=2227" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/dVJcbkzW78w?t=2227 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=2227){ target=_blank }
     </center>
 
 ---
