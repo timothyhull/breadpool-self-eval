@@ -14,6 +14,7 @@
 *[HNSOs]: Head Non-Skating Officials
 *[HR]: Head Referee
 *[HRs]: Head Referees
+*[HT]: Home Team
 *[IBJJF]: International Brazilian Jiu-Jitsu Federation
 *[IGRF]: Interleague Game Reporting Form
 *[IPR]: Inside Pack Referee
@@ -23,6 +24,8 @@
 *[JT]: Jam Timer
 *[JRDA]: Junior Roller Derby Association
 *[JROTC]: Junior Reserve Officer Training Corps
+*[L2]: Level 2
+*[L3]: Level 3
 *[LT]: Lineup Tracking
 *[MRDA]: Men's Roller Derby Association
 *[NA]: North America
