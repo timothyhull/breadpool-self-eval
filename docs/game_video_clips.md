@@ -952,13 +952,13 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Overview :material-cursor-default-click:"
 
             - At the ≈1:15:49 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front," temporarily transitioning primary pack definition responsibility to me. 
-            - While monitoring pack definition, I observe Blue #018 initiate legal contact with Green #33 that causes Green #33 to step OOB while in front of Blue #018.
-            - Green #33 returns to a fully-upright and in-bounds position in front of Blue #018.
+            - While monitoring pack definition, I observed Blue #018 initiate legal contact with Green #33 which caused Green #33 to step OOB while in front of Blue #018.
+            - Green #33 returns to a fully upright and in-bounds position in front of Blue #018.
 
         === "Outcome :material-cursor-default-click:"
         
             - I issue a cut penalty to Green #33 for illegally gaining position on Blue #018 using the OOB area.
-            - I monitor Green #33 exiting the track and issue them an illegal procedure penalty for illegally existing the track using a prolonged trajectory.
+            - I monitor Green #33 exiting the track and issue them an illegal procedure penalty for illegally exiting the track using a prolonged trajectory.
 
         === "Importance :material-cursor-default-click:"
 
@@ -992,7 +992,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - TODO
+            - The rear IPR has a C penalty to issue, I need to get the destruction.
 
         <center>
             <br>
