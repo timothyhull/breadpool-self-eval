@@ -930,3 +930,113 @@ Below are links to some of my officiating performances that highlight my capabil
     </center>
 
 ---
+
+### SO Video Example #23
+
+??? video "Calmness, Composure, and Precision Under Pressure :material-cursor-default-click:"
+
+    - This example is several short videos from a single JRDA L3 regulation game where I serve as the front IPR.
+    - The game had been mostly straightforward to officiate for the first ≈45 minutes of game clock time, although a few factors may have contributed to a significant increase in the officiating workload over the final ≈15 minutes:
+        - This was the first game of an HT season for each team after their off-season.
+        - Many of the players were playing in their first-ever game.
+        - It was a hot, late-summer day, and the venue was particularly warm.
+        - The athletes may have been tiring from intense, physical play.
+    - I work hard to keep my body and mind in peak condition so I can function effectively, calmly, and accurately in challenging conditions and game situations knowing that my ability to officiate professionally and with composure regardless of the conditions can help deescalate tense situations and prevent difficult situations from escalating
+    - These videos highlight my:
+        - Physical conditioning and ability to perform well in high and extreme-heat situations.
+        - Mental preparation to remain focused and attentive to the important details that happen during games.
+        - Intense weekly practice to remain sharp and continuously improve and refine both my skating and officiating skills.
+
+    === "Video #1 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:24:58 mark in this video, a no-pack situation will occur and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal, or unnatural and illegal.                
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TODO
+
+        === "Importance :material-cursor-default-click:"
+
+            - TODO
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5096" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5096" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/dVJcbkzW78w?t=5096 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5096){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - TODO                
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TODO
+
+        === "Importance :material-cursor-default-click:"
+
+            - TODO
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5132" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/dVJcbkzW78w?t=5132 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5132){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - TODO                
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TODO
+
+        === "Importance :material-cursor-default-click:"
+
+            - TODO
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
+        </center>
+
+    === "Video #4 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:32:42 mark in this video, the jam clock is about to expire.
+            - I advise the HR that there are 10 seconds remaining in the jam.
+            - I call off the jam when it expires.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - The jam ended naturally and the game transitioned into lineups.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I performed the jam-ending call-off procedure by aligning the first tap of my hips, the fourth blast from my whistle, and the jam clock reaching 0:00.
+            - The precision of this jam-ending call-off is not an accident; I regularly practice this timing so I can be as accurate as possible during game action.
+            - A precise call-off ensures that time-sensitive actions within a game (penalty box timing, points scoring, etc.) are accurate and fair.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5917" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/dVJcbkzW78w?t=5917 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5917){ target=_blank }
+        </center>
+
+---
