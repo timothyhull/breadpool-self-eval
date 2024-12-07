@@ -100,7 +100,7 @@ Below are links to some of my officiating performances that highlight my capabil
 ??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
     - This example is several short videos that demonstrate the importance I place on situational awareness and responsiveness to time-sensitive actions while serving as JT.
-    - Some of these examples may seem ordinary, although I believe repeatably performing ordinary tasks with precision helps support
+    - Some of these examples may seem ordinary, although I believe repeatably performing ordinary tasks with precision helps support:
         - Competitive gameplay.
         - Smooth game flow.
         - Officiating crew confidence.
@@ -756,7 +756,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈1:45:47 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front." 
+        - At the ≈1:45:47 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front."
         - I am monitoring the pack movement and use a verbal and visual cue to inform players and officials that I temporarily assumed control of the primary pack definition responsibility from the rear IPR.
         - In the transition of the pack definition to my responsibility, Blue #26 accelerates forward more quickly than I anticipate while they chase Green Jammer forward.
         - I end up slightly out of the optimal position, with Blue #26 now in front of my position and the rest of the pack gaining speed. 
@@ -936,7 +936,7 @@ Below are links to some of my officiating performances that highlight my capabil
 ??? video "Calmness, Composure, and Precision Under Pressure :material-cursor-default-click:"
 
     - This example is several short videos from a single JRDA L3 regulation game where I serve as the front IPR.
-    - The game had been mostly straightforward to officiate for the first ≈45 minutes of game clock time, although a few factors may have contributed to a significant increase in the officiating workload over the final ≈15 minutes:
+    - The game had been mostly straightforward to officiate for the first ≈40 minutes of game clock time, although a few factors may have contributed to a significant increase in the officiating workload over the final ≈20 minutes:
         - This was the first game of an HT season for each team after their off-season.
         - Many of the players were playing in their first-ever game.
         - It was a hot, late-summer day, and the venue was particularly warm.
@@ -951,7 +951,33 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:24:58 mark in this video, a no-pack situation will occur and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal, or unnatural and illegal.                
+            - At the ≈1:15:49 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front," temporarily transitioning primary pack definition responsibility to me. 
+            - While monitoring pack definition, I observe Blue #018 initiate legal contact with Green #33 that causes Green #33 to step OOB while in front of Blue #018.
+            - Green #33 returns to a fully-upright and in-bounds position in front of Blue #018.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I issue a cut penalty to Green #33 for illegally gaining position on Blue #018 using the OOB area.
+            - I monitor Green #33 exiting the track and issue them an illegal procedure penalty for illegally existing the track using a prolonged trajectory.
+            - I approach the PLT for Green to ensure they are aware of the second penalty while using the appropriate verbal and visual cues.
+
+        === "Importance :material-cursor-default-click:"
+
+            - TODO
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=4549" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5096" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/dVJcbkzW78w?t=4549 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=4549){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:24:58 mark in this video, a no-pack situation will occur and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal, or unnatural and illegal.
 
         === "Outcome :material-cursor-default-click:"
         
@@ -969,7 +995,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/dVJcbkzW78w?t=5096 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5096){ target=_blank }
         </center>
 
-    === "Video #2 :material-cursor-default-click:"
+    === "Video #3 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
@@ -991,7 +1017,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/dVJcbkzW78w?t=5132 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5132){ target=_blank }
         </center>
 
-    === "Video #3 :material-cursor-default-click:"
+    === "Video #4 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
@@ -1013,7 +1039,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
         </center>
 
-    === "Video #4 :material-cursor-default-click:"
+    === "Video #5 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
