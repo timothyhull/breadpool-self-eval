@@ -904,12 +904,12 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue Jammer, #37, make contact with their lower legs.
-        - The contact cause Green #11 to immediately fall and Blue Jammer falls about a second afterward.
+        - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue jammer, #37, make contact with their lower legs.
+        - The contact causes Green #11 to immediately fall and Blue jammer falls about a second afterward.
 
     === "Outcome :material-cursor-default-click:"
     
-        - I determined that Green #11 used an illegal blocking zone to initiate contact to an illegal target zone on Blue Jammer that caused Blue Jammer to adopt a downed position.
+        - I determined that Green #11 used an illegal blocking zone to initiate contact with an illegal target zone on Blue Jammer, which caused Blue Jammer to adopt a downed position.
         - I issued a low block penalty to Green #11 and directed them to report to the penalty box with the appropriate whistle signal plus verbal and visual cues.
 
     === "Importance :material-cursor-default-click:"
@@ -917,8 +917,8 @@ Below are links to some of my officiating performances that highlight my capabil
         - Making the correct calls or no-calls can be difficult, especially when there is a lot happening at once or at high speed, and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
             - Correctly assessing contact initiation and identifying appropriate game impact before I issue a penalty is essential to me, and I believe my actions resulted in the correct outcome for this situation.
             - I diligently work to observe player movement continuously during game action so I can correctly identify the initiator(s) of contact and whether or not the contact is legal.
-        - In this case, although both players were moving toward each other at the time of the contact and the contact causes both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
-        - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally wait and continue to observe Blue Jammer for indications of game impact that result from the contact.
+        - In this case, although both players were moving toward each other at the time of the contact, and the contact caused both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
+        - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally waited and continued to observe Blue Jammer for indications of game impact that resulted from the contact.
             - As soon as I observe Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
         - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues, while continuously skating and maintaining observation of my assigned zone, so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
 
