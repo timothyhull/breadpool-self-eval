@@ -959,11 +959,18 @@ Below are links to some of my officiating performances that highlight my capabil
         
             - I issue a cut penalty to Green #33 for illegally gaining position on Blue #018 using the OOB area.
             - I monitor Green #33 exiting the track and issue them an illegal procedure penalty for illegally existing the track using a prolonged trajectory.
-            - I approach the PLT for Green to ensure they are aware of the second penalty while using the appropriate verbal and visual cues.
 
         === "Importance :material-cursor-default-click:"
 
-            - TODO
+            - I have a lot to observe and manage over a short period of time, and I believe I do so clearly, correctly, calmly, and effectively.
+            - While continuously monitoring gameplay for the presence of a pack, I:
+                - Remain aware of which players have and earn superior position over other players.
+                - Track the relative positions of Green #33 and Blue #018 before and after contact.
+                - Observe Green #33's trajectory as they exit the track.
+                - Assess the transition of the pack from "front" to "all" to determine where to position myself.
+                - Determine that game conditions allow me to briefly leave my position so I can approach the PLT for Green to ensure they are aware of the second penalty.
+                - Slowly, deliberately, and clearly deliver the appropriate verbal and visual cues for the penalties I issued.
+                - Relay a direction penalty from the rear OPR to the PLTs.
 
         <center>
             <br>
