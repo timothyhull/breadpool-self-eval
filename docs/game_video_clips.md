@@ -21,7 +21,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Quickly performed my pre-jam checks before immediately starting the jam.
             - Discretely approached the HR (≈1:45:43 mark) to advise them that:
                 - The period clock expired.
-                - The jam will last for two minutes since the lead jammer lost lead.  
+                - The jam will last for two minutes since the lead Jammer lost lead.  
             - Observed the team benches throughout the remainder of the jam for indications that either team intended to request an OR.
             - Used a verbal cue to advise the HR when there were ten seconds remaining in the jam (≈1:46:49 mark).
             - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
@@ -29,7 +29,7 @@ Below are links to some of my officiating performances that highlight my capabil
                 - The fourth blast from my whistle.
                 - The jam clock reaching 0:00.
             - Observed the SBO add the final points to determine if an overtime jam was necessary (it was not).
-            - Returned to a position adjacent to the pivot line while monitoring my stopwatch to ensure thirty seconds elapsed before the game result could become final.
+            - Returned to a position adjacent to the Pivot Line while monitoring my stopwatch to ensure thirty seconds elapsed before the game result could become final.
             - After they became available, I advised the HR that it had been over thirty seconds since the jam ended and that I could indicate the game was final whenever they were ready (≈1:47:30 mark).
             - Waited for the HR's indication that the game should become final before immediately blowing my whistle to signal the final outcome (≈1:47:37 mark).
 
@@ -64,9 +64,9 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈25:58 mark in this video, while serving as a JT, the lead jammer (Red) will request that their JR call off the jam.
+        - At the ≈25:58 mark in this video, while serving as a JT, the lead Jammer (Red) will request that their JR call off the jam.
         - The jam is called off, and the Green "A" requests a TTO from their bench area.
-        - I immediately respond to the TTO request, signal the TTO, communicate the appropriate information to the SBO, and position myself at the pivot line to perform standard TTO duties for the JT.
+        - I immediately respond to the TTO request, signal the TTO, communicate the appropriate information to the SBO, and position myself at the Pivot Line to perform standard TTO duties for the JT.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -111,10 +111,10 @@ Below are links to some of my officiating performances that highlight my capabil
 
             - At the ≈38:27 mark in this video, the lineup clock reaches 20 seconds, and I start to shift my primary attention from the team benches, monitoring for TO and OR requests, to the steps I take to start the next jam:
 
-                1. I check the penalty box to attempt to identify the jammers for the upcoming jam.
+                1. I check the penalty box to attempt to identify the Jammers for the upcoming jam.
                 2. I look toward the PBM for any indications they may need an OTO.
                 3. I check the medical bench area to confirm at least one person on the medical staff is able to observe game action on the track.
-                4. I check the track area to attempt to identify the jammers for the upcoming jam.
+                4. I check the track area to attempt to identify the Jammers for the upcoming jam.
                 5. I look toward the HR for any indications they may need an OTO.
                 6. I look toward the SBO and SKs for any indications they may need an OTO.
 
@@ -280,7 +280,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my jammer, Purple #88, OOB.
+        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my Jammer, Purple #88, OOB.
         - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
         - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
 
@@ -288,7 +288,7 @@ Below are links to some of my officiating performances that highlight my capabil
     
         - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
         - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
-        - While remaining in a position to follow my jammer, Purple #88, I issue a cut penalty to White #30.
+        - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
 
     === "Importance :material-cursor-default-click:"
         - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
@@ -308,7 +308,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈19:35 mark in this video, while serving as a JR, I believe I initiated what was a slightly early call-off for my jammer, who had lead jammer status.
+        - At the ≈19:35 mark in this video, while serving as a JR, I believe I initiated what was a slightly early call-off for my Jammer, who had lead Jammer status.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -361,16 +361,16 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈22:42 mark in this video, while serving as a JR, I observe my jammer, White #408, who does not have lead jammer status, initiate and successfully complete an apex jump during a call-off by Purple jammer #46.
+        - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
 
     === "Outcome :material-cursor-default-click:"
     
-        - I was able to be in a position to observe my jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
+        - I was able to be in a position to observe my Jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
         - I immediately signaled the three earned points, before the third set of jam-ending whistles.
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the jammer’s feet before they leave the track and as they land.
+        - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
         - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
             - Show players and coaches that I have confidence the points I’m reporting are accurate.
             - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
@@ -390,7 +390,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈4:14:45 mark in this video, while serving as a JR, I observe Black #63 move slightly in non-derby direction to initiate a block on my jammer, White #916, that causes my jammer to fall.
+        - At the ≈4:14:45 mark in this video, while serving as a JR, I observe Black #63 move slightly in non-derby direction to initiate a block on my Jammer, White #916, that causes my Jammer to fall.
         - I blew my whistle to issue a direction penalty to Black #63, although I made the assessment that the contact was not the reason White #916 fell.
 
     === "Outcome :material-cursor-default-click:"
@@ -418,7 +418,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈1:00:35 mark in this video, while serving as a JR and my jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
+        - At the ≈1:00:35 mark in this video, while serving as a JR and my Jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
         - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
 
     === "Outcome :material-cursor-default-click:"
@@ -446,11 +446,11 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the ≈2:20:04 mark in this video, while serving as a JR, I observed Black #77 initiate a jump in the apex of turns 1 and 2.
-        - I observed Black #77 use their hand to brace themselves on my jammer, White #18, during their apex jump, and successfully gain position on White #18 and White #417.
+        - I observed Black #77 use their hand to brace themselves on my Jammer, White #18, during their apex jump, and successfully gain position on White #18 and White #417.
 
     === "Outcome :material-cursor-default-click:"
 
-        - While maintaining position to follow my jammer, I issued a forearm penalty to Black #77 with the additional verbal cue, “*bracing on an opponent*.”
+        - While maintaining position to follow my Jammer, I issued a forearm penalty to Black #77 with the additional verbal cue, “*bracing on an opponent*.”
 
     === "Importance :material-cursor-default-click:"
 
@@ -501,17 +501,17 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - This video clip is an entire half of a derby game from Y’Allstars 2024, where I served as a JR for Beast Side Roller Derby.
-        - Beast Side fielded extremely talented and fast jammers who presented many challenges to effectively officiate.
+        - Beast Side fielded extremely talented and fast Jammers who presented many challenges to effectively officiate.
 
     === "Outcome :material-cursor-default-click:"
 
-        - While imperfect, I believe I did a good job maintaining position at the hips of my jammers, accurately tracking points, signaling lead jammer status accurately, and calling off jams precisely.
+        - While imperfect, I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling lead Jammer status accurately, and calling off jams precisely.
         - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
         - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe my ability to almost entirely use wheel-based stops with fast-moving jammers shows that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
+        - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers shows that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -528,15 +528,15 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
-        - My jammer realizes they do not have much time before the opposing jammer will approach the pack and score points for themselves.
-        - My jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
+        - At the ≈57:45 mark in this video, while serving as a JR, my Jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
+        - My Jammer realizes they do not have much time before the opposing Jammer will approach the pack and score points for themselves.
+        - My Jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
         - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
 
     === "Outcome :material-cursor-default-click:"
 
-        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the jam call-off request immediately.
-        - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my jammer.
+        - I had to rapidly accelerate to maintain alignment with my Jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my Jammer to track earned passes, and respond to the jam call-off request immediately.
+        - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my Jammer.
 
     === "Importance :material-cursor-default-click:"
 
@@ -559,7 +559,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - At the beginning of this video, while serving as the ALTR, I am standing between the Deus and bleachers while observing the game and taking notes.
         - Jam 7 of the 2nd period ends, and, off-camera, the rear OPR approaches me to indicate they need temporary relief from the game.
-        - Just before jam 8 starts, I position myself near the jammer line to serve as the rear OPR.
+        - Just before jam 8 starts, I position myself near the Jammer Line to serve as the rear OPR.
 
     === "Outcome :material-cursor-default-click:"
 
@@ -738,7 +738,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - At the ≈1:16:46 mark, the front OPR issues a penalty to Purple #11 (blocker) that the front IPR repeats, in order to relay the call to the player.
 
-            1. Purple #117 (jammer) hears the repeated penalty call, and, apparently believing they have their own penalty, leaves the track to self-report to the penalty box.
+            1. Purple #117 (Jammer) hears the repeated penalty call, and, apparently believing they have their own penalty, leaves the track to self-report to the penalty box.
             2. Suspecting #117 may not have a penalty, I immediately start pointing and verbally relaying my observation to my peer officials who return Purple #117 to the track with only minimal impact to gameplay.
 
     <center>
@@ -758,16 +758,16 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - At the ≈1:45:47 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front." 
         - I am monitoring the pack movement and use a verbal and visual cue to inform players and officials that I temporarily assumed control of the primary pack definition responsibility from the rear IPR.
-        - In the transition of the pack definition to my responsibility, Blue #26 accelerates forward more quickly than I anticipate while they chase Green jammer forward.
+        - In the transition of the pack definition to my responsibility, Blue #26 accelerates forward more quickly than I anticipate while they chase Green Jammer forward.
         - I end up slightly out of the optimal position, with Blue #26 now in front of my position and the rest of the pack gaining speed. 
 
     === "Outcome :material-cursor-default-click:"
 
         - I never want to be out of position, although this sort of situation is something I routinely practice and drill so I can get back into position immediately.
-        - I sprint forward to catch Blue #26 just as they begin to reduce their speed, so I transition to a power slide technique that allows me to return to the appropriate position, observe the status of the players in my zone, and stay out of the path of the Blue jammer's JR.
+        - I sprint forward to catch Blue #26 just as they begin to reduce their speed, so I transition to a power slide technique that allows me to return to the appropriate position, observe the status of the players in my zone, and stay out of the path of the Blue Jammer's JR.
         - At the end of the power slide, as the JR and I approach turn 3, I use a two-stage pivot technique, shifting to my right and then back to my left to ensure I:
 
-            1. Make sure the Blue JR has a clear path to remain in position with their jammer.
+            1. Make sure the Blue JR has a clear path to remain in position with their Jammer.
             2. Quickly shift to a position along the inside boundary, looking back at the pack, that allows me to observe the rear IPR, the status of the pack, and player actions.
 
     === "Importance :material-cursor-default-click:"
@@ -822,9 +822,9 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - At the beginning of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
             - Jam #4 ended while I was positioned near the center of turn #4, adjacent to the score table, team benches, and penalty box.
-        - I observed White #12 occupy a position behind the jammer line while neither wearing nor holding a jammer helmet cover.
-        - I observed no jammer for White in the penalty box area.
-        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a jammer for jam #5.
+        - I observed White #12 occupy a position behind the Jammer Line while neither wearing nor holding a Jammer helmet cover.
+        - I observed no Jammer for White in the penalty box area.
+        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a Jammer for jam #5.
         - I use a standard visual cue to indicate I recommend assessing a penalty to the White team for delay of game.
 
     === "Outcome :material-cursor-default-click:"
@@ -836,7 +836,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         - An area of emphasis for me is monitoring player and team actions at all times, including times the jam clock is not running.
         - Since gameplay happens even when there is no active jam, I do my best to proactively identify potential rules violations or safety issues.  That means, whenever possible, I monitor players during lineups to identify illegal or potentially illegal actions.
-        - While it seemed likely White would not field a jammer, I kept my body language and movements as neutral and natural as possible to avoid divulging my observations and potentially preventing Black from rightfully earning a competitive advantage.
+        - While it seemed likely White would not field a Jammer, I kept my body language and movements as neutral and natural as possible to avoid divulging my observations and potentially preventing Black from rightfully earning a competitive advantage.
         - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
         
     <center>
@@ -858,11 +858,11 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the beginning of this video, while serving as JR for Black jammer #411, I observe Red blocker #508 force my jammer OOB near the center of turn 1 on the outside of the track.
+        - At the beginning of this video, while serving as JR for Black Jammer #411, I observe Red blocker #508 force my Jammer OOB near the center of turn 1 on the outside of the track.
         I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
         I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
         - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track, and I am aware that Red #508 has now lost and cannot regain their superior position advantage over Black #411.
-        - I observe Red pivot #3 skate in non-derby direction toward the rear engagement zone, and I mind the rear IPR's verbal cue that the pack is now "front."
+        - I observe Red Pivot #3 skate in non-derby direction toward the rear engagement zone, and I mind the rear IPR's verbal cue that the pack is now "front."
         - I monitor Black #411 as they attend to an apparent malfunction of their left skate while observing all Red non-pivot blockers skate in non-derby direction.
         - Black #411 returns to an upright position and skates in non-derby direction while still OOB.
         - The rear IPR issues an OOP warning to Red #3 and Black #411 moves to return to an in-bounds position in front of Red #3.
@@ -870,7 +870,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
 
-        - After waiting a few moments to determine if Black #411 would take immediate action to return OOB and cede their position, I issued a cut penalty to Black #411 for illegally gaining position on Red pivot #3.
+        - After waiting a few moments to determine if Black #411 would take immediate action to return OOB and cede their position, I issued a cut penalty to Black #411 for illegally gaining position on Red Pivot #3.
 
     === "Importance :material-cursor-default-click:"
 
@@ -904,23 +904,23 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue jammer, #37, make contact near each of their foot/ankle areas.
-        - The contact cause Green #11 to immediately fall and Blue jammer falls about a second afterward.
+        - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue Jammer, #37, make contact with their lower legs.
+        - The contact cause Green #11 to immediately fall and Blue Jammer falls about a second afterward.
 
     === "Outcome :material-cursor-default-click:"
     
-        - I determined that Green #11 used an illegal blocking zone to initiate contact to an illegal target zone on Blue jammer that caused Blue jammer to adopt a downed position.
-        - I issued a low block penalty to Green #11 and direct them to report to the penalty box with the appropriate whistle signal plus verbal and visual cues.
-            - I deliberately used a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
-            - I spend almost twelve seconds from the time I blow my whistle to the time I complete the appropriate verbal and visual cues while continuously skating and maintaining observation of my assigned zone.
+        - I determined that Green #11 used an illegal blocking zone to initiate contact to an illegal target zone on Blue Jammer that caused Blue Jammer to adopt a downed position.
+        - I issued a low block penalty to Green #11 and directed them to report to the penalty box with the appropriate whistle signal plus verbal and visual cues.
 
     === "Importance :material-cursor-default-click:"
 
-        - It is of the utmost importance to me that I observe player movement continuously during game action so I can correctly identify the initiator(s) of contact, whether or not the contact is legal.
-            - I never want to penalize a player for contact they did not initiate, no matter how the contact appears to the untrained eye.
-        - In this case, although both players were moving toward each other at the time of the contact and the contact causes both players to fall, I believe I correctly assessed that Blue jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
-        - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally while I continue to observe Blue jammer for game impact as a result of the contact.
-            - As soon as I observe Blue jammer fall, I have the information I need to issue a penalty (initiation and impact) and appropriately explain it if questioned.
+        - Making the correct calls or no-calls can be difficult, especially when there is a lot happening at once or at high speed, and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
+            - Correctly assessing contact initiation and identifying appropriate game impact before I issue a penalty is essential to me, and I believe my actions resulted in the correct outcome for this situation.
+            - I diligently work to observe player movement continuously during game action so I can correctly identify the initiator(s) of contact and whether or not the contact is legal.
+        - In this case, although both players were moving toward each other at the time of the contact and the contact causes both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
+        - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally wait and continue to observe Blue Jammer for indications of game impact that result from the contact.
+            - As soon as I observe Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
+        - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues, while continuously skating and maintaining observation of my assigned zone, so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=2227" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=2227" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
