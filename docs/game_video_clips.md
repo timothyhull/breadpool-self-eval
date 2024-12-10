@@ -1003,7 +1003,6 @@ Below are links to some of my officiating performances that highlight my capabil
                 - I immediately assess the pack destruction penalty to Blue #555 just as the jam ends.
             - I believe my 4-8 hours of weekly scrimmage officiating combined with daily game video study is what allows me to respond as I did.
 
-
         <center>
             <br>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5096" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5096" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
