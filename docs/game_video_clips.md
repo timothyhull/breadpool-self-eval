@@ -985,14 +985,24 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Overview :material-cursor-default-click:"
 
             - At the ≈1:24:58 mark in this video, a no-pack situation will occur and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal, or unnatural and illegal.
+            - Just after the no-pack occurs, an OOP block with game sufficient game impact to warrant a penalty occurs in the coverage zone of the rear IPR/HR that they need to attend to, and I am not immediately able to determine their perspective regarding the pack destruction.
 
         === "Outcome :material-cursor-default-click:"
         
-            - TODO
+            - I determined Blue #555 illegally destroyed the pack by accelerating in the counterclockwise direction at a pace that deviated from the established pack speed.
+            - I assessed an illegal position penalty to Blue #555 for unnatural pack destruction.
 
         === "Importance :material-cursor-default-click:"
 
-            - The rear IPR has a C penalty to issue, I need to get the destruction.
+            - A lot happens within a few seconds, and I need to take quick, decisive, and accurate actions:
+                - I visualize the "lasagna slice" shape of the distance between Blue #555 (near the inside boundary) and the nearest Green blocker (in the middle of the track) and assess Blue #555's trajectory (toward the middle of the track) and acceleration relative to the speed of the rest of the pack.
+                - As I monitor Blue #555 destroy the pack, I turn my head slightly to the right to determine the foremost Green blocker's speed and trajectory and understand if they might be responsible for the pack destruction (legally or illegally) while concurrently issuing a "no-pack" warning.
+                - I determine Blue #555 illegally destroys the pack and make a mental not to not include them in the process of defining the pack.
+                - I quickly look to my right then left to observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue to monitor the distance between blockers from both teams.
+                - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555 who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
+                - I immediately assess the pack destruction penalty to Blue #555 just as the jam ends.
+            - I believe my 4-8 hours of weekly scrimmage officiating combined with daily game video study is what allows me to respond as I did.
+
 
         <center>
             <br>
