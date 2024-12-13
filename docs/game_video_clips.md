@@ -21,7 +21,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Quickly performed my pre-jam checks before immediately starting the jam.
             - Discretely approached the HR (≈1:45:43 mark) to advise them that:
                 - The period clock expired.
-                - The jam will last for two minutes since the lead Jammer lost lead.  
+                - The jam will last for two minutes since the Lead Jammer lost lead.  
             - Observed the team benches throughout the remainder of the jam for indications that either team intended to request an OR.
             - Used a verbal cue to advise the HR when there were ten seconds remaining in the jam (≈1:46:49 mark).
             - Performed the jam-ending call-off procedure with each of the following happening at the exact same time (≈1:46:59 mark):
@@ -64,7 +64,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈25:58 mark in this video, while serving as a JT, the lead Jammer (Red) will request that their JR call off the jam.
+        - At the ≈25:58 mark in this video, while serving as a JT, the Lead Jammer (Red) will request that their JR call off the jam.
         - The jam is called off, and the Green "A" requests a TTO from their bench area.
         - I immediately respond to the TTO request, signal the TTO, communicate the appropriate information to the SBO, and position myself at the Pivot Line to perform standard TTO duties for the JT.
 
@@ -308,7 +308,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈19:35 mark in this video, while serving as a JR, I believe I initiated what was a slightly early call-off for my Jammer, who had lead Jammer status.
+        - At the ≈19:35 mark in this video, while serving as a JR, I believe I initiated what was a slightly early call-off for my Jammer, who had Lead Jammer status.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -361,7 +361,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
+        - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have Lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -505,7 +505,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
 
-        - While imperfect, I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling lead Jammer status accurately, and calling off jams precisely.
+        - While imperfect, I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status accurately, and calling off jams precisely.
         - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
         - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
 
@@ -984,8 +984,8 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:24:58 mark in this video, a no-pack situation will occur and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal, or unnatural and illegal.
-            - Just after the no-pack occurs, an OOP block with game sufficient game impact to warrant a penalty occurs in the coverage zone of the rear IPR/HR that they need to attend to, and I am not immediately able to determine their perspective regarding the pack destruction.
+            - At the ≈1:24:58 mark in this video, a no-pack situation occurs, and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal or unnatural and illegal.
+            - Just after the no-pack occurs, an OOP block with sufficient game impact to warrant a penalty occurs in the coverage zone of the rear IPR/HR that they need to attend to, and I am not immediately able to determine their perspective regarding the pack destruction.
 
         === "Outcome :material-cursor-default-click:"
         
@@ -997,8 +997,8 @@ Below are links to some of my officiating performances that highlight my capabil
             - A lot happens within a few seconds, and I need to take quick, decisive, and accurate actions:
                 - I visualize the "lasagna slice" shape of the distance between Blue #555 (near the inside boundary) and the nearest Green blocker (in the middle of the track) and assess Blue #555's trajectory (toward the middle of the track) and acceleration relative to the speed of the rest of the pack.
                 - As I monitor Blue #555 destroy the pack, I turn my head slightly to the right to determine the foremost Green blocker's speed and trajectory and understand if they might be responsible for the pack destruction (legally or illegally) while concurrently issuing a "no-pack" warning.
-                - I determine Blue #555 illegally destroys the pack and make a mental note to not include them in the process of redefining the pack.
-                - I quickly look to my right then left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue to monitor the distance between blockers from both teams.
+                - I determine Blue #555 illegally destroyed the pack and I make a mental note to not include them in the process of redefining the pack.
+                - I quickly look to my right and then left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue to monitor the distance between blockers from both teams.
                 - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555 who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
                 - I immediately assess the pack destruction penalty to Blue #555 just as the jam ends.
             - I practice a lot to have the capacity to manage these sorts of situations with speed and precision.  Of course, I make mistakes and that motivates me even more to:
@@ -1018,11 +1018,33 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - TODO                
+            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation will occur.
+            - Players from both teams do not immediately take appropriate actions to reform the pack, and several players commit actions that have sufficient impact to warrant penalties.
+            - It is not clear to the JRs whether Lead Jammer status is available or lost.
+            - It is my responsibility to:
+                - Issue "no-pack" warnings until the pack reforms.
+                - Identify and keep track of any players who commit penalties within my coverage zone (the front wall in this case).
+                - Use clear verbal and visual cues to indicate when the pack reforms.
+                - Clearly communicate penalty assessment with my on- and off-skates peer officials so they have the information they need to do their jobs.
+                - Ensure the JRs understand the availability of Lead Jammer status.
+                - Remain in position to continue observing game action.
 
         === "Outcome :material-cursor-default-click:"
         
-            - TODO
+            - Before the pack reforms, I determine that:
+                - Blue Jammer (#277) initiates OOP contact with Green #616 that causes Green #616 to adopt a downed position.
+                - Green #03 is the blocker most responsible for reforming the pack and fails to take the required action(s) to do so.
+            - When the pack reforms, I issue the verbal cue "pack is here" and immediately start the process to assess penalties.
+                - The JR for Blue doesn't have a way of knowing that I intend to assess a penalty to Blue Jammer, and they begin to use the whistle signal and visual cue to issue Lead Jammer status.
+                - I am already moving into position to issue an illegal contact penalty to Blue Jammer (for an OOP block with game impact) to help reduce confusion about Lead Jammer status availability.
+                - As soon as I issue the penalty to Blue Jammer, I make a rapid direction change to return to my position and immediately issue an illegal position penalty to Green #03 for failure to reform the pack.
+            - I observe my peer IPR penalize Blue #21 and identify that there are only three blockers on the track.
+                - I determine that the current pack formation does not require the attention of two IPRs, and, while keeping my body facing the pack, I skate toward the PLTs to ensure they have all of the information they need to track the surge of penalties.
+            - I return to my position at the front of the pack after communicating with the PLTs for ≈5 seconds, and observe the Green Jammer establish superior position over all blockers, although the JR does not immediately indicate Lead Jammer status.
+                - The JR for Green turns their head toward me to ask if Lead Jammer status is open.
+                - I reach my right hand to my left hand to feel for an assistive device that I habitually use to track the status of Jammers.
+                - I determine that Lead Jammer status is open, and turn my head in the direction to communicate that information to the Green JR.
+                - The Green JR immediately issues Lead Jammer status.            
 
         === "Importance :material-cursor-default-click:"
 
@@ -1040,7 +1062,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - TODO                
+            - TODO
 
         === "Outcome :material-cursor-default-click:"
         
@@ -1062,26 +1084,22 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:32:42 mark in this video, the jam clock is about to expire.
-            - I advise the HR that there are 10 seconds remaining in the jam.
-            - I call off the jam when it expires.
+            - TODO
 
         === "Outcome :material-cursor-default-click:"
         
-            - The jam ended naturally and the game transitioned into lineups.
+            - TODO
 
         === "Importance :material-cursor-default-click:"
 
-            - I performed the jam-ending call-off procedure by aligning the first tap of my hips, the fourth blast from my whistle, and the jam clock reaching 0:00.
-            - The precision of this jam-ending call-off is not an accident; I regularly practice this timing so I can be as accurate as possible during game action.
-            - A precise call-off ensures that time-sensitive actions within a game (penalty box timing, points scoring, etc.) are accurate and fair.
+            - TODO
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5917" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=5917 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5917){ target=_blank }
+            <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
         </center>
 
 ---
