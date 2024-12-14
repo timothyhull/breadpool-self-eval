@@ -1067,11 +1067,15 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - TODO
+            - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #NNN attempts to create a bridge between the front and real blocker walls.
+            - An unrelated series of events happen nearly simultaneously which causes Green #NNN to illegally destroy the pack:
+                - In the front wall, the rearmost blocker, Green #NNN, skates forward at a speed consistent with the established pack speed.
+                - In the rear wall, 
 
         === "Outcome :material-cursor-default-click:"
         
-            - TODO
+            - The illegal pack destruction immediately reforms the pack.
+            - I issue an illegal position penalty to Green #NNN for unnatural pack destruction.
 
         === "Importance :material-cursor-default-click:"
 
@@ -1079,7 +1083,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
             <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
