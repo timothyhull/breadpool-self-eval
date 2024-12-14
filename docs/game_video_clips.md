@@ -1023,7 +1023,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - It is not clear to the JRs whether Lead Jammer status is available or lost.
             - It is my responsibility to:
                 - Issue "no-pack" warnings until the pack reforms.
-                - Identify and keep track of any players who commit penalties within my coverage zone (the front wall in this case).
+                - Identify and track any players who commit penalties within my coverage zone (the front wall, in this case).
                 - Use clear verbal and visual cues to indicate when the pack reforms.
                 - Clearly communicate penalty assessment with my on- and off-skates peer officials so they have the information they need to do their jobs.
                 - Ensure the JRs understand the availability of Lead Jammer status.
@@ -1032,23 +1032,28 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Outcome :material-cursor-default-click:"
         
             - Before the pack reforms, I determine that:
-                - Blue Jammer (#277) initiates OOP contact with Green #616 that causes Green #616 to adopt a downed position.
+                - Blue Jammer (#277) initiates OOP contact with Green #616, which causes Green #616 to adopt a downed position.
                 - Green #03 is the blocker most responsible for reforming the pack and fails to take the required action(s) to do so.
-            - When the pack reforms, I issue the verbal cue "pack is here" and immediately start the process to assess penalties.
+            - When the pack reforms, I issue the verbal cue "pack is here" and immediately start the process to assess the appropriate penalties.
                 - The JR for Blue doesn't have a way of knowing that I intend to assess a penalty to Blue Jammer, and they begin to use the whistle signal and visual cue to issue Lead Jammer status.
                 - I am already moving into position to issue an illegal contact penalty to Blue Jammer (for an OOP block with game impact) to help reduce confusion about Lead Jammer status availability.
                 - As soon as I issue the penalty to Blue Jammer, I make a rapid direction change to return to my position and immediately issue an illegal position penalty to Green #03 for failure to reform the pack.
-            - I observe my peer IPR penalize Blue #21 and identify that there are only three blockers on the track.
+            - I observe my peer IPR penalize Blue #21 and I identify that there are only three blockers on the track.
                 - I determine that the current pack formation does not require the attention of two IPRs, and, while keeping my body facing the pack, I skate toward the PLTs to ensure they have all of the information they need to track the surge of penalties.
-            - I return to my position at the front of the pack after communicating with the PLTs for ≈5 seconds, and observe the Green Jammer establish superior position over all blockers, although the JR does not immediately indicate Lead Jammer status.
+            - I return to my position at the front of the pack after communicating with the PLTs for ≈5 seconds and observe the Green Jammer establish superior position over all blockers, although the JR does not immediately indicate Lead Jammer status.
                 - The JR for Green turns their head toward me to ask if Lead Jammer status is open.
-                - I reach my right hand to my left hand to feel for an assistive device that I habitually use to track the status of Jammers.
-                - I determine that Lead Jammer status is open, and turn my head in the direction to communicate that information to the Green JR.
-                - The Green JR immediately issues Lead Jammer status.            
+                - I reach my right hand to my left hand to feel for an assistive device that I habitually use to track Lead Jammer availability.
+                - I feel the position of the assistive device and determine that Lead Jammer status is open, so I turn my head toward the JR for Green and say, "Open, open, open."
+                - The Green JR immediately issues Lead Jammer status.        
 
         === "Importance :material-cursor-default-click:"
 
-            - TODO
+            - I believe the Front IPR position is more challenging than it may appear to the untrained eye.  In my opinion, a well-practiced IPR excels at:
+                - "Owning" their own zone of coverage while providing supporting coverage and communication to their peer SOs and NSOs.
+                - Rapid task switching between pack definition, initiation and contact assessment, player position changes, lead jammer status, etc.
+                - Rapid backward acceleration, backward skating at high speed, immediate stops and direction changes, continuously positioning themselves to observe the most relevant game action, and ensuring that JRs have unobstructed lanes.
+                - Understanding the geometry through the track's turns and how it impacts the distance between players and the shape of the engagement zone.
+            - I extensively study and practice the Front IPR position to embody these traits so I can manage complex situations like this one while supporting and advising my peer officials.
 
         <center>
             <br>
