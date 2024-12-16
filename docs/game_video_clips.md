@@ -1067,15 +1067,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #NNN attempts to create a bridge between the front and real blocker walls.
-            - An unrelated series of events happen nearly simultaneously which causes Green #NNN to illegally destroy the pack:
-                - In the front wall, the rearmost blocker, Green #NNN, skates forward at a speed consistent with the established pack speed.
-                - In the rear wall, 
+            - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #NN attempts to create a bridge between the front and real blocker walls.
+            - An unrelated series of events happen nearly simultaneously which causes Green #NN to illegally destroy the pack:
+                - All on-track blockers are part of an established pack with clearly-defined front and rear walls as Green #NN leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.  This action plus natural gameplay moves the pack from "all" to "front."
+                - In the rear wall, Blue #21 initiates a block that sends the Green Jammer OOB and skates in non-derby direction to recycle the Green Jammer.  Blue #21 leaves the defined back, and continues skating in non-derby direction until they reach the edge of the rear engagement zone and receive an OOP warning from the rear IPR.
+                - Green #NN stops and begins skating in non-derby direction as Blue #21 returns to a position within 10 feet of rear wall which is still within the rear engagement zone and not the pack itself.
+                - Green #35's skating in non-derby direction causes them to leave the pack while within 10 feet of the rear wall creating a split "no-pack".
 
         === "Outcome :material-cursor-default-click:"
         
-            - The illegal pack destruction immediately reforms the pack.
-            - I issue an illegal position penalty to Green #NNN for unnatural pack destruction.
+            - The illegal pack destruction immediately reforms the pack in the front
+            - I issue an illegal position penalty to Green #NN for destroying the pack.
 
         === "Importance :material-cursor-default-click:"
 
