@@ -517,7 +517,7 @@ Please click to expand the sections below for detailed information about my deve
             - Footwork skills that allow me to avoid contact with players and remain upright in situations where they may not be able to avoid making contact with me.
             - Situational awareness that allows me to position my body such that I create a small profile.
                 - Although I am often among the taller officials I serve with (5' 10" off-skates), I am aware of the space I occupy and use various techniques to avoid obscuring game action from my peers.
-            - Adaptability to and function well on different track surfaces and conditions.
+            - Adaptability to and performance on different track surfaces and conditions.
             - Immediately returning to an upright and effective position if I fall or am forced to the ground.
             - Capacity to maintain eye contact with my assigned area(s) of responsibility in almost any situation.
 
@@ -724,10 +724,10 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 2,300+ hours of volunteer contributions to roller derby since August of 2022 including:
-        - 430+ hours of officiating RCR adult and junior scrimmages.
-        - 105+ hours of attending RCR officiating practices.
-        - 40+ hours of preparing for and leading RCR adult and junior officiating practices.
+    - 2,500+ hours of volunteer contributions to roller derby since August of 2022 including:
+        - 450+ hours of officiating RCR adult and junior scrimmages.
+        - 110+ hours of attending RCR officiating practices.
+        - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
 
 ??? whistle "RCR Officiating Development :material-cursor-default-click:"
 
