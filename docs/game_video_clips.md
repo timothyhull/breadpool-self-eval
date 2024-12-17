@@ -1111,26 +1111,4 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
         </center>
 
-    === "Video #5 :material-cursor-default-click:"
-
-        === "Overview :material-cursor-default-click:"
-
-            - TODO
-
-        === "Outcome :material-cursor-default-click:"
-        
-            - TODO
-
-        === "Importance :material-cursor-default-click:"
-
-            - TODO
-
-        <center>
-            <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </center>
-        <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
-        </center>
-
 ---
