@@ -34,7 +34,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 === "Dedication :material-cursor-default-click:"
 
-    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, volunteers and stewards of the global roller derby community.
+    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
     
     Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
@@ -50,7 +50,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
     I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers so I can excel in each roller derby officiating role.
     
-    I seek to continuously improve at *every* NSO and SO position because I each position sharpens me in every other position.  Serving in each officiating position teaches me the things I can do to help officials in every other position be as effective and comfortable as possible.
+    I seek to continuously improve at *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
     
     I don't simply want to be excellent in every officiating role, I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, and communicate so I make it easier for each of my peers to do their jobs.
 
