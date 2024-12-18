@@ -8,7 +8,7 @@
     </figcaption>
 </figure>
 
-Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, and areas for growth.
+Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, areas for growth, and to review video clips with expanded analysis.
 { .annotate }
 
 1. !!! reference "Derby Name Meaning"
@@ -25,8 +25,8 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
-3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations"){ data-preview }.
-4. [My WFTDA OHD](./officiating_history.md "").
+3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations History"){ data-preview }.
+4. [My WFTDA OHD](./officiating_history.md "My WFTDA OHD").
 
 ---
 
