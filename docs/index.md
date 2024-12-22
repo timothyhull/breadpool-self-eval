@@ -234,7 +234,7 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 ??? bread "8. Hustle :material-cursor-default-click:"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from a fall with precision and explosiveness.
+    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
     - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
@@ -265,7 +265,7 @@ Please click to expand the sections below for detailed information about my deve
 
     In each NSO position, you can expect me to consistently exhibit and excel at:
 
-    - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
+    - **Precision** - accurate timing, clear communication, and adherence to established policies and procedures.
     - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
     - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
     - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
@@ -285,12 +285,12 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating leadership.
-            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
+            - Spending sufficient time with my crew before a game to clearly communicate instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
-            - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
-            - Familiarity with WFTDA/MRDA and JRDA stats books, pre-and post-game.
-            - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support any member of my crew who may need help.
+            - Accurate pre-game IGRF preparation and post-game stats book delivery.
+            - Familiarity with WFTDA/MRDA and JRDA stats books guides, and the use of the [Statsbook Tool application](https://github.com/AdamSmasherDerby/Statsbook-Tool "Statsbook-Tool on GitHub"){ target=_blank } :octicons-link-external-24:.
+            - Maximizing opportunities for available officials by assigning them to dedicated roster positions instead of assigning myself to a second position.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
@@ -299,8 +299,8 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - At this stage of my development, I have limited experience in the HNSO role.
-                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within my league.
-                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
+                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
             - I have no experience serving as CHNSO or THNSO.
 
