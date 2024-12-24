@@ -469,7 +469,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - I have sufficient knowledge and experience with each NSO role that I confidently fill any position of need at any time.
+            - I have sufficient knowledge and experience with each NSO role to confidently fill any position of need at any time.
                 - I continuously study and practice each NSO role to remain ready to perform well for any level or type of derby.
 
         === "My Areas for Growth :material-cursor-default-click:"
