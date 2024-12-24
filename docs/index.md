@@ -486,7 +486,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
     - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
     - **Whistle clarity** - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
+    - **Verbal and visual cue clarity** - I use highly audible/visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
     - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
     - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
@@ -533,24 +533,24 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
-            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
-            - Maximizing opportunities for other officials by assigning them to all available roster positions, including the ALTR position.
-            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each SO position, which allows me to support to any member of my crew who may need help.
+            - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
+            - Maximizing opportunities for my peers to officiate by assigning them to all available roster positions, including the ALTR position.
+            - Understanding of and experience with the responsibilities and procedures associated with each SO position allows me to support any member of my crew who may need help with positioning, skating techniques, and role-specific responsibilities.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
-            - Helping guide and adjust the penalty game impact spectrum amongst my crew in order to limit the number of player and team penalties as much as possible.
-            - Communicating with players and teams in a way that seeks to understand their points-of-view.
+            - Helping guide and adjust the penalty game impact spectrum amongst my crew to help limit the number of player and team penalties as much as possible.
+            - Communicating with players and teams in a way that seeks to understand their points of view.
             - Managing game flow by:
                 - Limiting the duration and frequency of OTOs whenever possible.
                 - Working with the JT to ensure the lineup clock reaches 25 seconds before stopping the game clock for an OTO (except for injury situations).
-                - Clear, specific, decisive, and timely communication with teams, officials, and game audiences, during ORs.
+                - Clear, specific, decisive, and timely communication with teams, officials, and game audiences during ORs.
             - Strategically using OTOs as a mechanism to show fair and good faith to players and coaches.  For example:
-                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will, when digression feels appropriate, use OTOs to ensure I am not dismissive of concerns.
-                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use OTOs to speak with coaches and captains rather than continue to penalize players until a team or teams use their timeouts to address the concern with me.
-            - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
+                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will use an OTO when digression feels appropriate to ensure I am not dismissive of their concerns.
+                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use an OTO to speak with coaches and captains rather than continuing to penalize players until a team or teams use their timeouts to address the concern with me.
+            - Having the backs of my peer officials so they can do their jobs without concern that they are responsible for interacting with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
             - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
-            - Providing in-game and post-game feedback to officials who have consented to feedback.
+            - Providing in-game and post-game feedback to officials who consent to feedback.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
