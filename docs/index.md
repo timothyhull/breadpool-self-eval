@@ -423,14 +423,14 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Experience accurately completing SK paperwork.
-            - Clear two-way verbal communication with the SBO.
+            - Clear and continuous two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
-            - Clear two-way visual communication with my assigned JR.
-            - Supporting a JR if they happen to lose track of which trip their jammer is on with body language and visual cues that ask for confirmation.
+            - Clear and continuous two-way visual communication with my assigned JR.
+            - Supporting a JR if they happen to lose track of which trip their jammer is on using visual cues that ask for confirmation.
             - Thorough understanding of:
                 - JR responsibilities and communication needs.
                 - Scoring trips, including less common scenarios like negative trips, etc.
-                - Scenarios where a jammer loses the ability to earn lead, whether common or less common.
+                - Scenarios where a jammer loses the ability to earn lead, whether or not the scenario is common.
                 - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
             - Ability to support developing JRs by:
                 - Providing feedback that helps them comfortably learn and build confidence in the JR role.
@@ -438,7 +438,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO.
+            - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO and my assigned JR.
 
     ??? laptop "SBO :material-cursor-default-click:"
 
