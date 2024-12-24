@@ -566,21 +566,22 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
-            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
-            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
-            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
-            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
+            - High proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
+            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the pack's speed has even the slightest potential to put me or my peers out of position.
+            - Awareness of earned passes within my zone of responsibility, including player details.
+                - Communicating earned pass information to JRs whenever necessary.
+            - Frequent communication with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
+            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
+            - Lateral movement skills that allow me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position that my peers least prefer for themselves; typically the front OPR position.
+            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position my peers least prefer for themselves; typically the front OPR position.
                 - This behavior results in limited opportunities to build game experience in other OPR roles, and I need to consider my own development in better balance with the requests of my peers.
-            - I tend to be passive about my assignment-specific positioning relative to other officials, in particular in the middle or front OPR assignment.
+            - I tend to be passive about my assignment-specific positioning relative to other officials, in particular when I serve in the middle or front OPR positions.
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
-            - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself out of position.
+            - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself in a sub-optimal position.
             - I will occasionally focus so much attention on alignment with my individual zone/wall of coverage that I don't anticipate overall pack and player movement correctly.
                 - For example, from the rear and middle OPR positions, I may observe player "A" legally block opposing player "B" OOB directly in front of me.
                 - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B".
