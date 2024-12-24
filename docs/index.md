@@ -336,13 +336,13 @@ Please click to expand the sections below for detailed information about my deve
 
             - Emphasis on precision timing:
                 - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
-                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
+                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch reaches the prescribed intervals.
             - Understanding and familiarity with jammer swap scenarios, including scenarios that require both jammers to remain seated in the penalty box during a jam (A-B-A, etc.).
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
-            - Ability to support and advise officials developing experience in the PBT role, including helping them correctly complete PBT paperwork.
-            - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using a whiteboard.
-            - Understanding of illegal actions and comfort with assessing role-specific penalties when necessary.
+            - Ability to support and advise officials who are developing experience in the PBT role, including helping them correctly complete PBT paperwork.
+            - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using the PBWB.
+            - Understanding of illegal actions in the penalty box area, and comfort with assessing role-specific penalties when necessary.
             - Understanding of player foul-out procedures for WFTDA/MRDA and JRDA.
 
         === "My Areas for Growth :material-cursor-default-click:"
