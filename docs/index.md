@@ -364,18 +364,17 @@ Please click to expand the sections below for detailed information about my deve
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
             - Experience with and composure while managing instances of high penalty volume within short periods.
-            
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I need to serve as a PBT more frequently order to keep from feeling "rusty."
+            - I need to serve as a PBT more frequently in order to maintain proficiency.
                 - It may take me several jams to feel like I am performing my responsibilities without having to actively think about everything I need to do.
             - I typically use a "single watch" technique to time penalties, and some CHNSOs/HNSOs prefer a "dual watch" technique that I don't practice regularly.
                 - For instances when only one player is serving a penalty for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
-                - When there are multiple players serving penalties simultaneously, I use a running clock to record the time a player sits, stands, and completes their penalty.
+                - When multiple players are serving penalties simultaneously, I use a running clock to record the time each player sits, stands, and completes their penalty.
                     - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds (assuming I'm not recording timing for a jammer swap).
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
-                - It's important that I practice the dual watch technique in order to best support the needs of my assigned CHNSOs/HNSOs.
+                - It's important that I practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
 
     ??? tablet "PLT/ePLT :material-cursor-default-click:"
 
