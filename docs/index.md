@@ -415,7 +415,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I do not serve in the PW role frequently, and it can take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
+            - I do not frequently serve in the PW role, and it can take me several months to understand the needs of the officials serving in PLT/ePLT roles.
             - I need to be more proactive as a PW and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
     ??? clipboard "SK :material-cursor-default-click:"
