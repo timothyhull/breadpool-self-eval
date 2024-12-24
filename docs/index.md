@@ -523,7 +523,8 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - While I consider myself someone who does not frequently fall, I often skate aggressively to remain in the best possible position.  I will occasionally wipe out because I'm pushing myself to the edge of control.
+            - While I consider myself someone who does not frequently fall, I skate aggressively to be and remain in the best possible position to observe game action.
+                - Skating aggressively can occasionally cause me to fall.
             - My backward acceleration to full speed from a complete stop in derby and non-derby directions has room to improve.
             - I use wheel stops to create a “narrow” profile while moving laterally, and doing so extends my legs, which can occasionally cause contact with players and other officials.  I'm working to make my narrow profile more compact without compromising stability.
 
