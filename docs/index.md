@@ -481,7 +481,7 @@ Please click to expand the sections below for detailed information about my deve
     In any SO position, you can expect me to consistently exhibit and excel at:
 
     - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB and return to in-bounds positions.
-    - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players.
+    - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players during fast-paced gameplay.
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
     - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
@@ -507,17 +507,18 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - General and position-specific skating skills that are among the best of my peers and allow me to reliably be in the best possible position to observe the most relevant game action.
+            - General and position-specific skating skills that are among the best of my peers and allow me to reliably be in the best possible position to observe the most relevant game action without consciously thinking about skating.
+            - Elite physical and mental conditioning and endurance due to thousands of hours of experience in high-intensity athletic training and competitive environments.
             - Top-end speed, forward and backward, in derby and non-derby directions, throughout the skating surface area.
-            - Rapid acceleration, forward and backward, that allows me to burst to full speed and keep pace with and rapidly catch up to the fastest players in the world if I am forced out of position.
+            - Rapid acceleration skills, forward and backward, allow me to burst to full speed, keep pace with, and rapidly catch up to the fastest players in the world if I am forced out of position.
             - Precision stops with equivalent skill to my left and right sides while moving forward and backward.
-            - Lateral movement skills and strong wheel-based stops (hockey stops, power slides, backward plows, etc.) that allow me to face the front of my body toward the track during most gameplay situations and immediately change directions at any time.
+            - Lateral movement skills and strong wheel-based stops (hockey stops, power slides, backward plows, etc.) allow me to face the front of my body toward the track during most gameplay situations and immediately change directions at any time.
             - Body control that allows me to operate effectively and avoid obstacles in compressed spaces, including narrow OPR lanes and while adjacent to downed players.
             - Footwork skills that allow me to avoid contact with players and remain upright in situations where they may not be able to avoid making contact with me.
             - Situational awareness that allows me to position my body such that I create a small profile.
                 - Although I am often among the taller officials I serve with (5' 10" off-skates), I am aware of the space I occupy and use various techniques to avoid obscuring game action from my peers.
-            - Adaptability to and performance on different track surfaces and conditions.
-            - Immediately returning to an upright and effective position if I fall or am forced to the ground.
+            - Adaptability to different track surfaces and conditions.
+            - Immediate and explosive returns to an upright and effective position if I fall or am forced to the ground.
             - Capacity to maintain eye contact with my assigned area(s) of responsibility in almost any situation.
 
         === "My Areas for Growth :material-cursor-default-click:"
