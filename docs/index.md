@@ -646,32 +646,30 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            As IPR, front or rear, you can expect me to consistently exhibit and excel at:
-
             - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
-            - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
+            - Ability to define and track pack location plus adapt to the pack definition metrics of my peer IPR.
             - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
-            - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
+            - Ability to monitor the precise location of skaters so I can accurately report pack conditions and movement.
             - Awareness of situations that may result in unexpected no-pack split scenarios:
                 - Players returning from the penalty box.
                 - Players recycling themselves behind all pack skaters and returning to an in-bounds, in-play position.
-            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
+            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before they might receive penalties.
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
-            - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
-            - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
-            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
+            - Capacity to relay information between officials, including relaying penalties from OPRs to PLTs.
+            - Capacity to relay to JRs which players are OOP, NOTT, etc., and reporting that information to JRs proactively.
+            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating to JRs the location of jammers relative to the pack and front engagement zone.
             - Awareness of where players re-enter the track relative to the front engagement zone.
-            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
+            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer after unsuccessfully taking a star pass.
             - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - My pack definition is often too "academic" for practical gameplay, which results in me issuing more verbal cues than are necessary.
+            - My pack definition is sometimes too "academic" for practical gameplay, which results in me issuing more verbal cues/warnings than necessary.
                 - For example, I have the tendency to issue a "no-pack" warning when I believe the distance between players who are maintaining pack connectivity exceeds ten feet.
                 - However, in many of these cases, immediate pack reformation is imminent, and gameplay would benefit from me reducing unnecessary verbal cues.
             - During gameplay with rapid, dynamic pack movement, I tend to over-focus on pack definition and engagement zone tracking which can cause me to not be as mindful as necessary of contact-based penalties.
             - Specifically as a front IPR, when I am working with a rear IPR that I do not work with regularly, I can be slow to adapt to their assessment of distances between players.
-                - This can result in me issuing "no-pack" warnings when there the rear IPR defines a pack.
+                - This can result in me issuing "no-pack" warnings when the rear IPR still has definition of an established pack.
                 - I am actively focused on my early-game attentiveness and adaptation to the way my rear IPR peer performs their pack definition.
             - I am continuously working to improve my pack identification accuracy.  My most common errors are:
                 - Issuing a no-pack warning when I do not see a player who is maintaining pack.
