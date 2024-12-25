@@ -1,4 +1,7 @@
 {
+    "cSpell.ignorePaths": [
+        ".vscode/settings.json"
+    ],
     "cSpell.words": [
         "algreenjr",
         "ALTN",
