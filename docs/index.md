@@ -581,11 +581,10 @@ Please click to expand the sections below for detailed information about my deve
             - I tend to be passive about my assignment-specific positioning relative to other officials, in particular when I serve in the middle or front OPR positions.
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
-            - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself in a sub-optimal position.
             - I will occasionally focus so much attention on alignment with my individual zone/wall of coverage that I don't anticipate overall pack and player movement correctly.
                 - For example, from the rear and middle OPR positions, I may observe player "A" legally block opposing player "B" OOB directly in front of me.
-                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B".
-                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the precise moment player "B" returns to a fully in-bounds position.
+                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B."
+                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the exact moment player "B" returns to a fully in-bounds position.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
@@ -606,9 +605,9 @@ Please click to expand the sections below for detailed information about my deve
 
             - As a **front** OPR, I am, generally:
 
-                1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
+                1. 7-12 feet in front of the pack, directly next to the outside boundary, looking in non-derby direction when the front wall has 3+ blockers.
                 2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
-                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
+                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
 
     ??? whistle "JR :material-cursor-default-click:"
 
