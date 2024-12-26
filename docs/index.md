@@ -741,8 +741,8 @@ Please click to expand the sections below for detailed information about my deve
 ??? clipboard "RCR OC Membership :material-cursor-default-click:"
 
     - OC member from January to December of 2023.
-    - OC member from January 2024 to present.
-    - OC co-chair-elect for a term from January to December of 2025.
+    - OC member from January to December of 2024.
+    - OC co-chair from January 2025 term from January to present.
 
 ??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
@@ -752,6 +752,9 @@ Please click to expand the sections below for detailed information about my deve
         - 40+ new home and visiting team logos reorganized into a modern, intuitive file hierarchy.
         - Usage of RCR cloud storage to improve shared file access and improve events coordination with RCR.
     - Developed and actively enhancing an open-source application ([Star Pass :octicons-link-external-24:](https://github.com/rcrderby/star-pass "Star Pass Volunteer Management Automation Application on GitHub"){ target=_blank }) that automates RCR-wide volunteer opportunity management.
+    - Simplified HNSO game setup procedures for RCR-hosted games by:
+        - Permanently installing Raspberry Pi devices used to drive CRG penalty whiteboard displays at team benches.
+        - Establishing a process to remote control Raspberry Pi devices from the SBO computer.
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
