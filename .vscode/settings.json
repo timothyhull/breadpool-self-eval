@@ -1,4 +1,7 @@
 {
+    "cSpell.ignorePaths": [
+        ".vscode/settings.json"
+    ],
     "cSpell.words": [
         "algreenjr",
         "ALTN",
@@ -45,6 +48,7 @@
         "overcall",
         "Panky",
         "particated",
+        "PBWB",
         "pnwphotoj",
         "positiioning",
         "powerslide",

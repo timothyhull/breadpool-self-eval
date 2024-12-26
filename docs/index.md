@@ -8,7 +8,7 @@
     </figcaption>
 </figure>
 
-Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, and areas for growth.
+Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, areas for growth, and to review video clips with expanded analysis.
 { .annotate }
 
 1. !!! reference "Derby Name Meaning"
@@ -25,8 +25,8 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
-3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations"){ data-preview }.
-4. [My WFTDA OHD](./officiating_history.md "").
+3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations History"){ data-preview }.
+4. [My WFTDA OHD](./officiating_history.md "My WFTDA OHD").
 
 ---
 
@@ -34,7 +34,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
 === "Dedication :material-cursor-default-click:"
 
-    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, volunteers and stewards of the global roller derby community.
+    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
     
     Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
@@ -50,7 +50,7 @@ A Table of Contents menu appears on the left-side of all pages for quick access 
 
     I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers so I can excel in each roller derby officiating role.
     
-    I seek to continuously improve at *every* NSO and SO position because I each position sharpens me in every other position.  Serving in each officiating position teaches me the things I can do to help officials in every other position be as effective and comfortable as possible.
+    I seek to continuously improve at *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
     
     I don't simply want to be excellent in every officiating role, I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, and communicate so I make it easier for each of my peers to do their jobs.
 
@@ -234,7 +234,7 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 ??? bread "8. Hustle :material-cursor-default-click:"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from a fall with precision and explosiveness.
+    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
     - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
@@ -265,7 +265,7 @@ Please click to expand the sections below for detailed information about my deve
 
     In each NSO position, you can expect me to consistently exhibit and excel at:
 
-    - **Precision** - precise and accurate timing, precise and clear communication, and precise adherence to established policies and procedures.
+    - **Precision** - accurate timing, clear communication, and adherence to established policies and procedures.
     - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
     - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
     - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
@@ -285,12 +285,12 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HR/CHR to create and demonstrate unified and collaborative officiating leadership.
-            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
+            - Spending sufficient time with my crew before a game to clearly communicate instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
-            - Accurate pre-game IGRF preparation and post-game stats book publication (for internal league consumption).
-            - Familiarity with WFTDA/MRDA and JRDA stats books, pre-and post-game.
-            - Maximizing opportunities for other officials by assigning them to all available roster positions instead of assigning myself a second position.
-            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, which allows me to support any member of my crew who may need help.
+            - Accurate pre-game IGRF preparation and post-game stats book delivery.
+            - Familiarity with WFTDA/MRDA and JRDA stats books guides, and the use of the [Statsbook Tool application](https://github.com/AdamSmasherDerby/Statsbook-Tool "Statsbook-Tool on GitHub"){ target=_blank } :octicons-link-external-24:.
+            - Maximizing opportunities for available officials by assigning them to dedicated roster positions instead of assigning myself to a second position.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
@@ -299,8 +299,8 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - At this stage of my development, I have limited experience in the HNSO role.
-                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within my league.
-                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
+                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
             - I have no experience serving as CHNSO or THNSO.
 
@@ -311,7 +311,7 @@ Please click to expand the sections below for detailed information about my deve
             - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
-            - Intently and actively monitoring team benches between jams to respond to requests for timeouts or ORs immediately.
+            - Intently and actively monitoring team benches between jams to respond to requests for timeouts and ORs immediately.
             - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology includes:
                 - Ensuring medical staff are available and focused on the track area.
                 - Verifying that each team has at least one blocker and one jammer in legal starting positions.
@@ -328,7 +328,7 @@ Please click to expand the sections below for detailed information about my deve
             - I need to improve my consistency as a JT by serving in the role more frequently.
                 - I will sometimes go for weeks or months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I do not have to think about everything I'm doing and need to do.
             - I will sometimes focus so much on responding to timeouts as quickly as possible that I forget to stop my game clock stopwatch immediately.
-                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously
+                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
@@ -336,13 +336,13 @@ Please click to expand the sections below for detailed information about my deve
 
             - Emphasis on precision timing:
                 - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
-                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
+                - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch reaches the prescribed intervals.
             - Understanding and familiarity with jammer swap scenarios, including scenarios that require both jammers to remain seated in the penalty box during a jam (A-B-A, etc.).
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
-            - Ability to support and advise officials developing experience in the PBT role, including helping them correctly complete PBT paperwork.
-            - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using a whiteboard.
-            - Understanding of illegal actions and comfort with assessing role-specific penalties when necessary.
+            - Ability to support and advise officials who are developing experience in the PBT role, including helping them correctly complete PBT paperwork.
+            - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using the PBWB.
+            - Understanding of illegal actions in the penalty box area, and comfort with assessing role-specific penalties when necessary.
             - Understanding of player foul-out procedures for WFTDA/MRDA and JRDA.
 
         === "My Areas for Growth :material-cursor-default-click:"
@@ -364,43 +364,42 @@ Please click to expand the sections below for detailed information about my deve
             - Clear and audible verbal cues.
             - Clear visual cues/hand signals.
             - Experience with and composure while managing instances of high penalty volume within short periods.
-            
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I need to serve as a PBT more frequently order to keep from feeling "rusty."
+            - I need to serve as a PBT more frequently in order to maintain proficiency.
                 - It may take me several jams to feel like I am performing my responsibilities without having to actively think about everything I need to do.
             - I typically use a "single watch" technique to time penalties, and some CHNSOs/HNSOs prefer a "dual watch" technique that I don't practice regularly.
                 - For instances when only one player is serving a penalty for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
-                - When there are multiple players serving penalties simultaneously, I use a running clock to record the time a player sits, stands, and completes their penalty.
+                - When multiple players are serving penalties simultaneously, I use a running clock to record the time each player sits, stands, and completes their penalty.
                     - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds (assuming I'm not recording timing for a jammer swap).
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
-                - It's important that I practice the dual watch technique in order to best support the needs of my assigned CHNSOs/HNSOs.
+                - It's important that I practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
 
     ??? tablet "PLT/ePLT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
-            - Practiced at completing PLT paperwork in a clear and legible way.
+            - Completing PLT paperwork in a clear and legible way.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
             - Understanding of penalty codes and familiarity with quickly translating SO verbal and visual cues to penalty codes.
-            - Ability to switch between PLT and ePLT record keeping at a moment's notice.
+            - Ability to switch between PLT and ePLT at a moment's notice.
             - Awareness to ensure alignment of PLT records with PBT paperwork during game stoppages.
             - My SO experience helps me anticipate and quickly process SO verbal and visual cues.
-            - Regularly working with CRG, including beta versions, allows me to quickly recover ePLT software connectivity in the event of errors.
-            - Practiced at recovering from accidental or incorrect ePLT interface taps.
+            - Regularly working with CRG, including beta versions, allows me to help troubleshoot and recover from ePLT software connectivity issues.
+            - Recovering from accidental or incorrect ePLT interface taps (box trips, served penalties, etc.)
             - Familiarity and experience with using the ePLT interface to perform less common tasks, including:
                 - Mark a player as having to sit for three jams.
                 - Adding and removing box trips.
                 - Player expulsions.
-            - Comfort with supporting the development of a peer PLT in both the PLT and ePLT roles.
-            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other tasks.
+            - Comfort with supporting the development of my peer officials in both the PLT and ePLT roles.
+            - Quickly identifying and marking the jammer and pivot in the ePLT interface during lineups so the SBO can focus on other responsibilities.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
             - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
-            - While serving in the ePLT role, I need to improve my timing precision for marking players who are serving and done with their penalties.
+            - While serving in the ePLT role, I need to improve my timing precision for marking the start and end of box trips.
                 - I will occasionally be slow to indicate when a player completes their penalty service.
             - I lack experience and practice with:
                 - PLT/ePLT recording of non-player expulsions.
@@ -416,7 +415,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I do not serve in the PW role frequently, and it can take me several jams to understand the needs of the officials serving in PLT/ePLT roles.
+            - I do not frequently serve in the PW role, and it can take me several months to understand the needs of the officials serving in PLT/ePLT roles.
             - I need to be more proactive as a PW and communicate better with officials serving in the PLT/ePLT roles before a game so I can provide them with the most precise and helpful feedback.
 
     ??? clipboard "SK :material-cursor-default-click:"
@@ -424,14 +423,14 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Experience accurately completing SK paperwork.
-            - Clear two-way verbal communication with the SBO.
+            - Clear and continuous two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
-            - Clear two-way visual communication with my assigned JR.
-            - Supporting a JR if they happen to lose track of which trip their jammer is on with body language and visual cues that ask for confirmation.
+            - Clear and continuous two-way visual communication with my assigned JR.
+            - Supporting a JR if they happen to lose track of which trip their jammer is on using visual cues that ask for confirmation.
             - Thorough understanding of:
                 - JR responsibilities and communication needs.
                 - Scoring trips, including less common scenarios like negative trips, etc.
-                - Scenarios where a jammer loses the ability to earn lead, whether common or less common.
+                - Scenarios where a jammer loses the ability to earn lead, whether or not the scenario is common.
                 - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
             - Ability to support developing JRs by:
                 - Providing feedback that helps them comfortably learn and build confidence in the JR role.
@@ -439,7 +438,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO.
+            - I do not serve in the SK role frequently, and it can take me several jams to adapt to the communication needs of the SBO and my assigned JR.
 
     ??? laptop "SBO :material-cursor-default-click:"
 
@@ -448,29 +447,29 @@ Please click to expand the sections below for detailed information about my deve
             - Extensive practice in the SBO role, with and without SK support.
             - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
-            - Extensive experience importing and exporting stats book files to prepare for and complete games.
+            - Extensive experience importing and exporting stats book files before and after games.
             - Experience recovering CRG from errors.
             - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
                 - Team logos, team titles/names, and scoreboard display colors.
-                - Custom advertisement banners.
+                - Advertisement banners.
                 - Stream overlays.
             - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing beta versions of CRG.
+             - For practice, I routinely:
+                - Operate my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
+                - Serve as SBO during scrimmages.
+                - Teach my peer officials the SBO role.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
             - Limited experience operating the scoreboard during games.
                 - The majority of my SBO experience is during scrimmages.
-                - I need to actively seek opportunities to serve as an SBO during local and regional games so tha my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
-            - Although I do frequently serve as an SBO, I:
-                - Routinely, for practice, run my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
-                - Routinely serve as SBO during scrimmages.
-                - Have trust amongst my local and regional peers for my knowledge and experience with CRG.
+                - I actively seek opportunities to serve as an SBO during local and regional games so that my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
     
     ??? clipboard "ALTN :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - I have sufficient knowledge and experience with each NSO role that I confidently fill any position of need at any time.
+            - I have sufficient knowledge and experience with each NSO role to confidently fill any position of need at any time.
                 - I continuously study and practice each NSO role to remain ready to perform well for any level or type of derby.
 
         === "My Areas for Growth :material-cursor-default-click:"
@@ -482,12 +481,12 @@ Please click to expand the sections below for detailed information about my deve
     In any SO position, you can expect me to consistently exhibit and excel at:
 
     - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB and return to in-bounds positions.
-    - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players.
+    - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players during fast-paced gameplay.
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
     - **Positioning** - I dynamically position and reposition myself to always be in the best possible position to observe game action.
     - **Whistle clarity** - I use clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - **Verbal and visual cue clarity** - I use highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
+    - **Verbal and visual cue clarity** - I use highly audible/visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I observe and report.
     - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
     - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
@@ -508,22 +507,24 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - General and position-specific skating skills that are among the best of my peers and allow me to reliably be in the best possible position to observe the most relevant game action.
+            - General and position-specific skating skills that are among the best of my peers and allow me to reliably be in the best possible position to observe the most relevant game action without consciously thinking about skating.
+            - Elite physical and mental conditioning and endurance due to thousands of hours of experience in high-intensity athletic training and competitive environments.
             - Top-end speed, forward and backward, in derby and non-derby directions, throughout the skating surface area.
-            - Rapid acceleration, forward and backward, that allows me to burst to full speed and keep pace with and rapidly catch up to the fastest players in the world if I am forced out of position.
+            - Rapid acceleration skills, forward and backward, allow me to burst to full speed, keep pace with, and rapidly catch up to the fastest players in the world if I am forced out of position.
             - Precision stops with equivalent skill to my left and right sides while moving forward and backward.
-            - Lateral movement skills and strong wheel-based stops (hockey stops, power slides, backward plows, etc.) that allow me to face the front of my body toward the track during most gameplay situations and immediately change directions at any time.
+            - Lateral movement skills and strong wheel-based stops (hockey stops, power slides, backward plows, etc.) allow me to face the front of my body toward the track during most gameplay situations and immediately change directions at any time.
             - Body control that allows me to operate effectively and avoid obstacles in compressed spaces, including narrow OPR lanes and while adjacent to downed players.
             - Footwork skills that allow me to avoid contact with players and remain upright in situations where they may not be able to avoid making contact with me.
             - Situational awareness that allows me to position my body such that I create a small profile.
                 - Although I am often among the taller officials I serve with (5' 10" off-skates), I am aware of the space I occupy and use various techniques to avoid obscuring game action from my peers.
-            - Adaptability to and performance on different track surfaces and conditions.
-            - Immediately returning to an upright and effective position if I fall or am forced to the ground.
+            - Adaptability to different track surfaces and conditions.
+            - Immediate and explosive returns to an upright and effective position if I fall or am forced to the ground.
             - Capacity to maintain eye contact with my assigned area(s) of responsibility in almost any situation.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - While I consider myself someone who does not frequently fall, I often skate aggressively to remain in the best possible position.  I will occasionally wipe out because I'm pushing myself to the edge of control.
+            - While I consider myself someone who does not frequently fall, I skate aggressively to be and remain in the best possible position to observe game action.
+                - Skating aggressively can occasionally cause me to fall.
             - My backward acceleration to full speed from a complete stop in derby and non-derby directions has room to improve.
             - I use wheel stops to create a “narrow” profile while moving laterally, and doing so extends my legs, which can occasionally cause contact with players and other officials.  I'm working to make my narrow profile more compact without compromising stability.
 
@@ -532,24 +533,24 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
-            - Spending sufficient time with my crew before a game to clearly communicate my instructions and respond to questions.
-            - Maximizing opportunities for other officials by assigning them to all available roster positions, including the ALTR position.
-            - Demonstrating and understanding of and experience with the responsibilities and procedures associated with each SO position, which allows me to support to any member of my crew who may need help.
+            - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
+            - Maximizing opportunities for my peers to officiate by assigning them to all available roster positions, including the ALTR position.
+            - Understanding of and experience with the responsibilities and procedures associated with each SO position allows me to support any member of my crew who may need help with positioning, skating techniques, and role-specific responsibilities.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
-            - Helping guide and adjust the penalty game impact spectrum amongst my crew in order to limit the number of player and team penalties as much as possible.
-            - Communicating with players and teams in a way that seeks to understand their points-of-view.
+            - Helping guide and adjust the penalty game impact spectrum amongst my crew to help limit the number of player and team penalties as much as possible.
+            - Communicating with players and teams in a way that seeks to understand their points of view.
             - Managing game flow by:
                 - Limiting the duration and frequency of OTOs whenever possible.
                 - Working with the JT to ensure the lineup clock reaches 25 seconds before stopping the game clock for an OTO (except for injury situations).
-                - Clear, specific, decisive, and timely communication with teams, officials, and game audiences, during ORs.
+                - Clear, specific, decisive, and timely communication with teams, officials, and game audiences during ORs.
             - Strategically using OTOs as a mechanism to show fair and good faith to players and coaches.  For example:
-                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will, when digression feels appropriate, use OTOs to ensure I am not dismissive of concerns.
-                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use OTOs to speak with coaches and captains rather than continue to penalize players until a team or teams use their timeouts to address the concern with me.
-            - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
+                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will use an OTO when digression feels appropriate to ensure I am not dismissive of their concerns.
+                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use an OTO to speak with coaches and captains rather than continuing to penalize players until a team or teams use their timeouts to address the concern with me.
+            - Having the backs of my peer officials so they can do their jobs without concern that they are responsible for interacting with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
             - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
-            - Providing in-game and post-game feedback to officials who have consented to feedback.
+            - Providing in-game and post-game feedback to officials who consent to feedback.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
@@ -565,25 +566,25 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
-            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
-            - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
-            - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
-            - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
+            - High proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
+            - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the pack's speed has even the slightest potential to put me or my peers out of position.
+            - Awareness of earned passes within my zone of responsibility, including player details.
+                - Communicating earned pass information to JRs whenever necessary.
+            - Frequent communication with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
+            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
+            - Lateral movement skills that allow me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position that my peers least prefer for themselves; typically the front OPR position.
+            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position my peers least prefer for themselves; typically the front OPR position.
                 - This behavior results in limited opportunities to build game experience in other OPR roles, and I need to consider my own development in better balance with the requests of my peers.
-            - I tend to be passive about my assignment-specific positioning relative to other officials, in particular in the middle or front OPR assignment.
+            - I tend to be passive about my assignment-specific positioning relative to other officials, in particular when I serve in the middle or front OPR positions.
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
-            - I will occasionally anticipate the movement of the pack or individual players incorrectly and briefly find myself out of position.
             - I will occasionally focus so much attention on alignment with my individual zone/wall of coverage that I don't anticipate overall pack and player movement correctly.
                 - For example, from the rear and middle OPR positions, I may observe player "A" legally block opposing player "B" OOB directly in front of me.
-                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B".
-                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the precise moment player "B" returns to a fully in-bounds position.
+                - Instead of remaining in precise alignment with my area/wall of responsibility, I need to better anticipate player "B" immediately attempting to reenter the track before player "A" can skate quickly enough in non-derby direction to draw a cut on player "B."
+                - I am working on shifting myself slightly in non-derby direction in these situations so I can precisely observe the position of each player's hips at the exact moment player "B" returns to a fully in-bounds position.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
@@ -604,70 +605,71 @@ Please click to expand the sections below for detailed information about my deve
 
             - As a **front** OPR, I am, generally:
 
-                1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
+                1. 7-12 feet in front of the pack, directly next to the outside boundary, looking in non-derby direction when the front wall has 3+ blockers.
                 2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
-                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
+                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
 
     ??? whistle "JR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Keeping eyes on my jammer at *all* times to ensure nothing they do goes unobserved.
-            - Clear, kind, and supportive communication with my SK, before, during, and after each game.
-            - Awareness of potential NOTT points and understanding of when a jammer earns and does not earn those points.
+            - Keeping eyes on my jammer at *all* times to ensure I observe everything they do.
+                - When a jam ends, I track/follow my jammer until they return to their bench area to maintain continuous visibility of their actions.
+            - Clear, kind, and supportive communication with my SK before, during, and after each game.
+            - Awareness of potential NOTT points and understanding when a jammer earns and does not earn those points.
             - Timely and accurate tracking and recall, by player, of earned passes, points, superior position, and positional gain.
-            - Confident points reporting immediately after a jam ends (after the fourth whistle, not the twelfth whistle).
+            - Confident points reporting immediately after a jam ends - at the fourth whistle, not at or after the twelfth whistle.
             - Continuous monitoring of the relationship between what I report to my SK and the information on the scoreboard.
-            - Awareness of the space I occupy, how my position impacts my peer JR, and the ability to adapt to support fluid, dynamic movement with my peer JR throughout a tournament.
+            - Awareness of the space I occupy and making my profile as small as possible to keep from obscuring game action from my peers.
+            - Understanding of how my position impacts my peer JR and the ability to adapt to their positioning preference to support fluid, dynamic movement with my peer JR.
             - Anticipating situations that may result in a star pass that is difficult to see.
-            - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
+            - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction at any time.
             - Precision responsiveness to jammer call-off requests.
             - Thorough understanding of SK responsibilities and communication needs.
-            - Ability to support developing SKs by providing feedback that helps them comfortably learn and build confidence in the SK role.
+            - Ability to support developing SKs with feedback that helps them comfortably learn and build confidence in the SK role.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - In situations where I believe my jammer is incorrectly penalized by another official, I can sometimes lose focus while attempting to rationalize the situation.  That loss of focus can result in:
-                - Losing track of the current trip, which points (if any) are earned and which are still available to earn.
-                - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to serve the penalty or immediately overturning the penalty (in either case, I would discuss the penalty with the issuing official after the current jam).
-            - Although I am comfortable adapting my positioning to the specific style and needs of my peer JR, I will sometimes forget to implement adaptations consistently and disrupt their path.
+            - When I believe my jammer is incorrectly penalized by another official, I can sometimes lose focus while attempting to rationalize the situation.  That loss of focus can result in:
+                - Losing track of the current trip, which points (if any) are earned, and which are still available to earn.
+                - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to immediately serve a penalty I do not agree with or immediately returning the jammer to the track.
+                    - In either case, I would discuss the penalty with the issuing official after the current jam.
+            - Although I am comfortable adapting my positioning to my peer JR's specific style and needs, I will sometimes forget to implement those adaptations consistently.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
-            - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
+            - Before each jam, I identify my jammer and align myself with their position, ensuring I can observe their actions before and after the jam starting whistle.
             - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
-            - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
+            - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep precise alignment with my jammer as they dynamically move within the pack and throughout the track.
 
     ??? whistle "IPR :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
-            As IPR, front or rear, you can expect me to consistently exhibit and excel at:
-
             - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
-            - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
+            - Ability to define and track pack location plus adapt to the pack definition metrics of my peer IPR.
             - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
-            - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
+            - Ability to monitor the precise location of skaters so I can accurately report pack conditions and movement.
             - Awareness of situations that may result in unexpected no-pack split scenarios:
                 - Players returning from the penalty box.
                 - Players recycling themselves behind all pack skaters and returning to an in-bounds, in-play position.
-            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
+            - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before they might receive penalties.
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
-            - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
-            - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
-            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
+            - Capacity to relay information between officials, including relaying penalties from OPRs to PLTs.
+            - Capacity to relay to JRs which players are OOP, NOTT, etc., and reporting that information to JRs proactively.
+            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating to JRs the location of jammers relative to the pack and engagement zone(s).
             - Awareness of where players re-enter the track relative to the front engagement zone.
-            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
+            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer after they unsuccessfully take a star pass.
             - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - My pack definition is often too "academic" for practical gameplay, which results in me issuing more verbal cues than are necessary.
+            - My pack definition is sometimes too "academic" for practical gameplay, which results in me issuing more verbal cues/warnings than necessary.
                 - For example, I have the tendency to issue a "no-pack" warning when I believe the distance between players who are maintaining pack connectivity exceeds ten feet.
                 - However, in many of these cases, immediate pack reformation is imminent, and gameplay would benefit from me reducing unnecessary verbal cues.
             - During gameplay with rapid, dynamic pack movement, I tend to over-focus on pack definition and engagement zone tracking which can cause me to not be as mindful as necessary of contact-based penalties.
             - Specifically as a front IPR, when I am working with a rear IPR that I do not work with regularly, I can be slow to adapt to their assessment of distances between players.
-                - This can result in me issuing "no-pack" warnings when there the rear IPR defines a pack.
+                - This can result in me issuing "no-pack" warnings when the rear IPR still has definition of an established pack.
                 - I am actively focused on my early-game attentiveness and adaptation to the way my rear IPR peer performs their pack definition.
             - I am continuously working to improve my pack identification accuracy.  My most common errors are:
                 - Issuing a no-pack warning when I do not see a player who is maintaining pack.
@@ -679,16 +681,18 @@ Please click to expand the sections below for detailed information about my deve
             - As a **front** IPR, I am, generally:
 
                 1. 7-10 feet in front of the pack, directly next to the inside boundary looking in non-derby direction when the pack is well-defined and managed by the rear IPR.
-                2. Ready to rapidly transition to a position where I am centered on the pack when the rear IPR moves to follow players in the rear engagement zone.
+                2. Ready to immediately transition to a position where I am centered on the pack when the rear IPR moves to follow players into the rear engagement zone.
                 3. Ready to move out of the path of both JRs and quickly recover my original position.
                 4. Ready to provide primary pack definition coverage for the rear IPR in the event they are not available at the start of a jam or become unavailable during a jam.
+                5. In position to observe illegal actions that create game impact.
+                6. In position to observe player positioning relative to the pivot line and inside boundary at the start of each jam.
             
             - As a **rear** IPR, I am, generally:
 
                 1. Centered on the pack when the pack is well-defined.
                 2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
-                4. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
+                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact with the rear wall.
+                4. Shifting slightly in front of the rear wall to observe for illegal actions that create game impact.
                 5. Ready to move out of the path of both JRs and quickly recover my original position.
                 6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
 
@@ -696,8 +700,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
-
+            - Seeking opportunities to enthusiastically serve in the ALTR role with a focus on helping my officiating peers excel.
             - Preparing myself physically before a game such that I could be activated at any moment of need, and maintaining that physical readiness throughout a game.
             - Maintaining situational awareness of game action so I am ready to enter a game or provide relevant feedback at any moment.
             - Readiness for activation to any position.
@@ -738,8 +741,8 @@ Please click to expand the sections below for detailed information about my deve
 ??? clipboard "RCR OC Membership :material-cursor-default-click:"
 
     - OC member from January to December of 2023.
-    - OC member from January 2024 to present.
-    - OC co-chair-elect for a term from January to December of 2025.
+    - OC member from January to December of 2024.
+    - OC co-chair from January 2025 term from January to present.
 
 ??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
@@ -749,6 +752,9 @@ Please click to expand the sections below for detailed information about my deve
         - 40+ new home and visiting team logos reorganized into a modern, intuitive file hierarchy.
         - Usage of RCR cloud storage to improve shared file access and improve events coordination with RCR.
     - Developed and actively enhancing an open-source application ([Star Pass :octicons-link-external-24:](https://github.com/rcrderby/star-pass "Star Pass Volunteer Management Automation Application on GitHub"){ target=_blank }) that automates RCR-wide volunteer opportunity management.
+    - Simplified HNSO game setup procedures for RCR-hosted games by:
+        - Permanently installing Raspberry Pi devices used to drive CRG penalty whiteboard displays at team benches.
+        - Establishing a process to remote control Raspberry Pi devices from the SBO computer.
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 

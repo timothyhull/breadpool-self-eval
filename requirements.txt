@@ -10,9 +10,9 @@ babel==2.16.0
     #   mkdocs-material
 certifi==2024.12.14
     # via requests
-charset-normalizer==3.4.0
+charset-normalizer==3.4.1
     # via requests
-click==8.1.7
+click==8.1.8
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
@@ -71,7 +71,7 @@ platformdirs==4.3.6
     # via mkdocs-get-deps
 pygments==2.18.0
     # via mkdocs-material
-pymdown-extensions==10.12
+pymdown-extensions==10.13
     # via mkdocs-material
 python-dateutil==2.9.0.post0
     # via ghp-import
@@ -95,7 +95,7 @@ six==1.17.0
     # via python-dateutil
 smmap==5.0.1
     # via gitdb
-urllib3==2.2.3
+urllib3==2.3.0
     # via requests
 watchdog==6.0.0
     # via mkdocs

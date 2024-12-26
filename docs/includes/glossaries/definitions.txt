@@ -48,6 +48,7 @@
 *[PBM]: Penalty Box Manager
 *[PBT]: Penalty Box Timer
 *[PBTs]: Penalty Box Timers
+*[PBWB]: Penalty Box Whiteboard
 *[PLT]: Penalty Lineup Tracker
 *[PLTs]: Penalty Lineup Trackers
 *[PT]: Penalty Tracking
