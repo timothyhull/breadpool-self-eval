@@ -657,9 +657,9 @@ Please click to expand the sections below for detailed information about my deve
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
             - Capacity to relay information between officials, including relaying penalties from OPRs to PLTs.
             - Capacity to relay to JRs which players are OOP, NOTT, etc., and reporting that information to JRs proactively.
-            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating to JRs the location of jammers relative to the pack and front engagement zone.
+            - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating to JRs the location of jammers relative to the pack and engagement zone(s).
             - Awareness of where players re-enter the track relative to the front engagement zone.
-            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer after unsuccessfully taking a star pass.
+            - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer after they unsuccessfully take a star pass.
             - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
         === "My Areas for Growth :material-cursor-default-click:"
@@ -681,16 +681,18 @@ Please click to expand the sections below for detailed information about my deve
             - As a **front** IPR, I am, generally:
 
                 1. 7-10 feet in front of the pack, directly next to the inside boundary looking in non-derby direction when the pack is well-defined and managed by the rear IPR.
-                2. Ready to rapidly transition to a position where I am centered on the pack when the rear IPR moves to follow players in the rear engagement zone.
+                2. Ready to immediately transition to a position where I am centered on the pack when the rear IPR moves to follow players into the rear engagement zone.
                 3. Ready to move out of the path of both JRs and quickly recover my original position.
                 4. Ready to provide primary pack definition coverage for the rear IPR in the event they are not available at the start of a jam or become unavailable during a jam.
+                5. In position to observe illegal actions that create game impact.
+                6. In position to observe player positioning relative to the pivot line and inside boundary at the start of each jam.
             
             - As a **rear** IPR, I am, generally:
 
                 1. Centered on the pack when the pack is well-defined.
                 2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
                 3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
-                4. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
+                4. Shifting slightly in front of the rear wall to observe for illegal actions that create game impact.
                 5. Ready to move out of the path of both JRs and quickly recover my original position.
                 6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
 
