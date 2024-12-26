@@ -691,7 +691,7 @@ Please click to expand the sections below for detailed information about my deve
 
                 1. Centered on the pack when the pack is well-defined.
                 2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
+                3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact with the rear wall.
                 4. Shifting slightly in front of the rear wall to observe for illegal actions that create game impact.
                 5. Ready to move out of the path of both JRs and quickly recover my original position.
                 6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
@@ -700,8 +700,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
-
+            - Seeking opportunities to enthusiastically serve in the ALTR role with a focus on helping my officiating peers excel.
             - Preparing myself physically before a game such that I could be activated at any moment of need, and maintaining that physical readiness throughout a game.
             - Maintaining situational awareness of game action so I am ready to enter a game or provide relevant feedback at any moment.
             - Readiness for activation to any position.
