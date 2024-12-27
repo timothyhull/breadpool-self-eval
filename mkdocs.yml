@@ -6,8 +6,8 @@ site_url: https://timothyhull.github.io/breadpool-self-eval
 nav:
   - Self-Evaluation: index.md
   - Game Video Clips: game_video_clips.md
-  - Evaluation History: evaluations.md
-  - Officiating History: officiating_history.md
+  - WFTDA Evaluation History: evaluations.md
+  - WFTDA Officiating History: officiating_history.md
 
 # Repository information
 edit_uri: ""
