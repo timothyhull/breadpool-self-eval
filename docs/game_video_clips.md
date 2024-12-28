@@ -1019,14 +1019,14 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation will occur.
+            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation occurs.
             - Players from both teams do not immediately take appropriate actions to reform the pack, and several players commit actions that have sufficient impact to warrant penalties.
             - It is not clear to the JRs whether Lead Jammer status is available or lost.
             - It is my responsibility to:
                 - Issue "no-pack" warnings until the pack reforms.
                 - Identify and track any players who commit penalties within my coverage zone (the front wall, in this case).
                 - Use clear verbal and visual cues to indicate when the pack reforms.
-                - Clearly communicate penalty assessment with my on- and off-skates peer officials so they have the information they need to do their jobs.
+                - Clearly communicate penalty assessment to my on- and off-skates peer officials so they have the information they need to do their jobs.
                 - Ensure the JRs understand the availability of Lead Jammer status.
                 - Remain in position to continue observing game action.
 
@@ -1049,12 +1049,12 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - I believe the Front IPR position is more challenging than it may appear to the untrained eye.  In my opinion, a well-practiced IPR excels at:
-                - "Owning" their own zone of coverage while providing supporting coverage and communication to their peer SOs and NSOs.
-                - Rapid task switching between pack definition, initiation and contact assessment, player position changes, lead jammer status, etc.
+            - I believe the front IPR position is more challenging than it may appear to the untrained eye.  In my opinion, a well-practiced IPR excels at:
+                - "Owning" their own coverage zone while providing supporting coverage and communication to their peer SOs and NSOs.
+                - Rapid task switching between pack definition, contact initiation assessment, player position changes, lead jammer status, etc.
                 - Rapid backward acceleration, backward skating at high speed, immediate stops and direction changes, continuously positioning themselves to observe the most relevant game action, and ensuring that JRs have unobstructed lanes.
-                - Understanding the geometry through the track's turns and how it impacts the distance between players and the shape of the engagement zone.
-            - I extensively study and practice the Front IPR position to embody these traits so I can manage complex situations like this one while supporting and advising my peer officials.
+                - Understanding track geometry through its turns and how it impacts the distance between players and the shape of the engagement zone.
+            - I extensively study and practice the front IPR position to embody these traits so I can manage complex situations like this one while supporting and advising my peer officials.
 
         <center>
             <br>
@@ -1069,23 +1069,31 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Overview :material-cursor-default-click:"
 
             - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #616 attempts to create a bridge between the front and rear blocker walls.
-            - A series of events happen nearly simultaneously which causes Green #616 to illegally destroy the pack:
-                - All on-track blockers are part of an established pack with clearly defined front and rear walls as Green #616 leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.
-                    - This action plus natural gameplay moves the pack from "all" to "front."
-                - At the rear wall, Blue #21 initiates a block that sends the Green Jammer OOB and skates in non-derby direction to recycle the Green Jammer.
+            - A series of events happen nearly simultaneously, which causes Green #616 to illegally destroy the pack:
+
+                1. All on-track blockers are part of an established pack with clearly defined front and rear walls as Green #616 leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.
+
+                    - This action and natural gameplay move the pack from "all" to "front."
+
+                2. At the rear wall, Blue #21 initiates a block that sends the Green Jammer OOB and skates in non-derby direction to recycle the Green Jammer.
+
                     - Blue #21 skates more than 10 feet from the nearest blocker.
-                - Blue #21 and continues skating in non-derby direction until they reach the edge of the rear engagement zone and receive an OOP warning from the rear IPR.
+                    - Blue #21 continues skating in non-derby direction until they reach the edge of the rear engagement zone and receive an OOP warning from the rear IPR.
                     - Blue #21 responds to the OOP warning by skating in derby direction and returning to the rear engagement zone.
-                - At the front wall Green #616 comes to a stop and begins skating in non-derby direction as Blue #21 returns to a position within 10 feet of rear wall.
+
+                3. At the front wall, Green #616 comes to a stop and begins skating in non-derby direction as Blue #21 returns to a position within 10 feet of the rear wall.
+
                     - The rear wall is still within the rear engagement zone and not part of the pack.
-                - Green #35 continues skating in non-derby direction until they are more than 10 feet from the rearmost blocker in the front wall and within within 10 feet of the foremost blocker in the rear wall.
-                    - This action created two equally-sized groups of blockers from both teams that are more than 10 feet from each other, commonly referred to as a "no-pack, split."
+
+                4. Green #616 continues skating in non-derby direction until they are more than 10 feet from the front wall's rearmost blocker and within 10 feet of the foremost blocker in the rear wall.
+
+                    - This action created two equally sized groups of blockers from both teams that were more than 10 feet apart, commonly referred to as a "no-pack, split."
 
         === "Outcome :material-cursor-default-click:"
         
             - Green #616 illegally destroyed the pack.
-            - Even though I've yet to issue a penalty to Green #616, as a penalized skater they are no longer part of pack definition so the pack immediately reforms at the front wall.
-            - I use the following verbal and visual cues in a sequentially and without delay:
+            - Even though I've yet to issue a penalty to Green #616, as a penalized skater, they are no longer part of pack definition, so the pack immediately reforms at the front wall.
+            - I use the following verbal and visual cues sequentially and without delay:
                 - "No-pack, split."
                 - "Pack is here."
                 - 1 x long whistle blast.
@@ -1093,16 +1101,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - Getting this right and in sync with the rear IPR takes a lot of practice and requires that I:
-                - Precisely and continuously measure the distance between the rearmost pack skater and Green NN.
-                - Concurrently understand Green #616's proximity to the foremost blocker in the rear wall and Blue #21’s proximity to the rearmost blocker in the rear wall as they return to play in the rear engagement zone.
+            - Getting this right and in sync with the rear IPR takes a lot of practice and requires that I concurrently and precisely:
+                - Measure the distance between the rearmost pack skater and Green #616.
+                - Monitor Green #616's proximity to the foremost blocker in the rear wall.
+                - Monitor Blue #21’s proximity to the rearmost blocker in the rear wall as Blue #21 returns to the rear engagement zone.
                 - Identify whether Green #616 is skating in non-derby direction, stopped, or skating in derby direction at the exact moment the no-pack split occurs.
                 - Align my measurements and timing with the rear IPR.
                 - Identify and signal the pack’s destruction and immediate reformation with the appropriate verbal and visual cues.
                 - Penalize Green #616 for illegally destroying the pack.
             - As my peers evaluate me, I want them to see that:
-                - I am capable of correctly processing and handling complex pack dynamics in real-time, and they can trust me to support them in a similar way when they include me on their officiating rosters.
-                - I can identify and penalize blockers who illegally destroy the pack so my peer officials don't have to worry about handling it themselves.
+                - I am capable of correctly processing and handling complex pack dynamics in real-time, and they can trust me to support them similarly when they include me on their officiating rosters.
+                - I can identify and penalize blockers who illegally destroy the pack so my peer IPR/HR can focus on other game action.
 
         <center>
             <br>
