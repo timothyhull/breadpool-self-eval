@@ -941,10 +941,10 @@ Below are links to some of my officiating performances that highlight my capabil
         - Many of the players were playing in their first-ever game.
         - It was a hot, late-summer day, and the venue was particularly warm.
         - The athletes may have been tiring from intense, physical play.
-    - I work hard to keep my body and mind in peak condition so I can function effectively, calmly, and accurately in challenging conditions and game situations knowing that my ability to officiate professionally and with composure regardless of the conditions can help deescalate tense situations and prevent difficult situations from escalating
+    - I work hard to keep my body and mind in peak condition so I can function effectively, calmly, and accurately in challenging conditions and game situations knowing that my ability to officiate professionally and with composure regardless of the conditions can help deescalate tense situations and prevent difficult situations from escalating.
     - These videos highlight my:
-        - Physical conditioning and ability to perform well in high and extreme-heat situations.
-        - Mental preparation to remain focused and attentive to the important details that happen during games.
+        - Physical conditioning and ability to perform with precision in high and extreme-heat situations.
+        - Mental preparation to remain focused and attentive to the important details that happen during game action.
         - Intense weekly practice to remain sharp and continuously improve and refine both my skating and officiating skills.
 
     === "Video #1 :material-cursor-default-click:"
@@ -963,11 +963,12 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Importance :material-cursor-default-click:"
 
             - I have a lot to observe and manage over a short period of time, and I believe I do so clearly, correctly, calmly, and effectively.
-            - While continuously monitoring gameplay for the presence of a pack, I:
+            - I demonstrate that I can calmly manage all of the following simultaneously:
+                - Continuously monitoring gameplay for the presence of a pack.
                 - Remain aware of which players have and earn superior position over other players.
                 - Track the relative positions of Green #33 and Blue #018 before and after contact.
-                - Observe Green #33's trajectory as they exit the track.
                 - Assess the transition of the pack from "front" to "all" to determine where to position myself.
+                - Observe Green #33's trajectory as they exit the track.
                 - Determine that game conditions allow me to briefly leave my position so I can approach the PLT for Green to ensure they are aware of the second penalty.
                 - Slowly, deliberately, and clearly deliver the appropriate verbal and visual cues for the penalties I issued.
                 - Relay a direction penalty from the rear OPR to the PLTs.
@@ -994,17 +995,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - A lot happens within a few seconds, and I need to take quick, decisive, and accurate actions:
+            - A lot happens within a few seconds, and I take quick, decisive, and accurate actions:
                 - I visualize the "lasagna slice" shape of the distance between Blue #555 (near the inside boundary) and the nearest Green blocker (in the middle of the track) and assess Blue #555's trajectory (toward the middle of the track) and acceleration relative to the speed of the rest of the pack.
                 - As I monitor Blue #555 destroy the pack, I turn my head slightly to the right to determine the foremost Green blocker's speed and trajectory and understand if they might be responsible for the pack destruction (legally or illegally) while concurrently issuing a "no-pack" warning.
-                - I determine Blue #555 illegally destroyed the pack and I make a mental note to not include them in the process of redefining the pack.
-                - I quickly look to my right and then left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue to monitor the distance between blockers from both teams.
-                - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555 who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
+                - I determined that Blue #555 illegally destroyed the pack, and I made a mental note to not include them in the process of redefining the pack.
+                - I quickly look to my right and left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue monitoring the distance between blockers from both teams.
+                - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555, who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
                 - I immediately assess the pack destruction penalty to Blue #555 just as the jam ends.
-            - I practice a lot to have the capacity to manage these sorts of situations with speed and precision.  Of course, I make mistakes and that motivates me even more to:
-                - Practice pack definition for several hours each week at varying levels of skill and competition.
+            - I practice extensively to have the capacity to manage these sorts of situations with speed and precision.  Specifically, and that includes:
+                - Practicing pack definition for several hours each week with varying levels of skill and competitiveness.
                 - I obsessively study game video of my own pack definition and that of other officials to learn how I can improve.
-                - I augment my game video study by mocking up various in-game pack scenarios with [Track-Viz :octicons-link-external-24:](https://trackviz.netlify.app "Track-Viz Roller Derby Pack Simulation Tool"){ target=_blank } to help me better visualize pack geometry and improve the speed and precision at which I can monitor pack dynamics.
+                - I augment my game video study by mocking up various in-game pack scenarios with [Track-Viz :octicons-link-external-24:](https://trackviz.netlify.app "Track-Viz Roller Derby Pack Simulation Tool"){ target=_blank } to help me better visualize pack geometry and improve the speed and precision at which I can monitor and process pack dynamics.
 
         <center>
             <br>
