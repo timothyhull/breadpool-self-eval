@@ -905,7 +905,7 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue jammer, #37, make contact with their lower legs.
-        - The contact causes Green #11 to immediately fall and Blue jammer falls about a second afterward.
+        - The contact causes Green #11 to immediately fall and Blue Jammer falls about a second afterward.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -914,13 +914,13 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - Making the correct calls or no-calls can be difficult, especially when there is a lot happening at once or at high speed, and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
+        - Making the correct calls or no-calls can be difficult, especially when a lot happens at once or at high speed and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
             - Correctly assessing contact initiation and identifying appropriate game impact before I issue a penalty is essential to me, and I believe my actions resulted in the correct outcome for this situation.
             - I diligently work to observe player movement continuously during game action so I can correctly identify the initiator(s) of contact and whether or not the contact is legal.
-        - In this case, although both players were moving toward each other at the time of the contact, and the contact caused both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
+        - In this case, although both players were moving toward each other at the time of the contact which caused both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
         - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally waited and continued to observe Blue Jammer for indications of game impact that resulted from the contact.
-            - As soon as I observe Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
-        - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues, while continuously skating and maintaining observation of my assigned zone, so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
+            - As soon as I observed Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
+        - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues while continuously skating and observing my assigned zone so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=2227" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=2227" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
