@@ -859,14 +859,14 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the beginning of this video, while serving as JR for Black Jammer #411, I observe Red blocker #508 force my Jammer OOB near the center of turn 1 on the outside of the track.
-        I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
-        I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
+            - I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
+            - I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
         - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track, and I am aware that Red #508 has now lost and cannot regain their superior position advantage over Black #411.
         - I observe Red Pivot #3 skate in non-derby direction toward the rear engagement zone, and I mind the rear IPR's verbal cue that the pack is now "front."
         - I monitor Black #411 as they attend to an apparent malfunction of their left skate while observing all Red non-pivot blockers skate in non-derby direction.
         - Black #411 returns to an upright position and skates in non-derby direction while still OOB.
         - The rear IPR issues an OOP warning to Red #3 and Black #411 moves to return to an in-bounds position in front of Red #3.
-        Red #3 begins to skate forward, and I hear the rear OPR use a verbal cue to indicate Red #3 is back in play before I observe Black #411 return to a fully in-bounds position.
+        - Red #3 begins to skate forward, and I hear the rear OPR use a verbal cue to indicate Red #3 is back in play before I observe Black #411 return to a fully in-bounds position.
 
     === "Outcome :material-cursor-default-click:"
 
@@ -879,7 +879,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Red #3, as a player who did not initiate the block that sent Black #411 OOB, briefly lost their superior position over Black #411 when they went OOP at the trailing edge of the rear engagement zone.
             - Red #3 reestablished their superior position over Black #411 after returning to the rear engagement zone.
             - Black #411 illegally gained position on Red #3 using the OOB area (cut) and did not take immediate action to cede the cut.
-        The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
+        - The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
         - I believe this video demonstrates the following:
             - My detailed attentiveness to tracking player positioning at all times so I can determine if a player illegally gains position using the OOB area.
             - My understanding of roller derby rules regarding gaining, losing, and reestablishing superior positioning for OOB block initiators and non-initiators alike.
@@ -905,7 +905,7 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the ≈37:08 mark of this video, while serving as front IPR, I observed Green #11 and Blue jammer, #37, make contact with their lower legs.
-        - The contact causes Green #11 to immediately fall and Blue jammer falls about a second afterward.
+        - The contact causes Green #11 to immediately fall and Blue Jammer falls about a second afterward.
 
     === "Outcome :material-cursor-default-click:"
     
@@ -914,13 +914,13 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - Making the correct calls or no-calls can be difficult, especially when there is a lot happening at once or at high speed, and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
+        - Making the correct calls or no-calls can be difficult, especially when a lot happens at once or at high speed and I never want to mistakenly penalize a player for contact they should not be penalized for, no matter how the contact appears to the untrained eye.
             - Correctly assessing contact initiation and identifying appropriate game impact before I issue a penalty is essential to me, and I believe my actions resulted in the correct outcome for this situation.
             - I diligently work to observe player movement continuously during game action so I can correctly identify the initiator(s) of contact and whether or not the contact is legal.
-        - In this case, although both players were moving toward each other at the time of the contact, and the contact caused both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
+        - In this case, although both players were moving toward each other at the time of the contact which caused both players to fall, I believe I correctly assessed that Blue Jammer had an established skating trajectory and Green #11 initiated the illegal low contact.
         - Instead of immediately blowing my whistle after I observed the illegal low contact, I intentionally waited and continued to observe Blue Jammer for indications of game impact that resulted from the contact.
-            - As soon as I observe Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
-        - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues, while continuously skating and maintaining observation of my assigned zone, so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
+            - As soon as I observed Blue Jammer fall, I have the information I need to issue a penalty (initiation and impact) and explain it in detail if necessary.
+        - I intentionally spend almost twelve seconds issuing the appropriate verbal and visual cues while continuously skating and observing my assigned zone so my peer officials and any interested observers can clearly identify the penalty and the official responsible for issuing the penalty.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=2227" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=2227" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -941,10 +941,10 @@ Below are links to some of my officiating performances that highlight my capabil
         - Many of the players were playing in their first-ever game.
         - It was a hot, late-summer day, and the venue was particularly warm.
         - The athletes may have been tiring from intense, physical play.
-    - I work hard to keep my body and mind in peak condition so I can function effectively, calmly, and accurately in challenging conditions and game situations knowing that my ability to officiate professionally and with composure regardless of the conditions can help deescalate tense situations and prevent difficult situations from escalating
+    - I work hard to keep my body and mind in peak condition so I can function effectively, calmly, and accurately in challenging conditions and game situations knowing that my ability to officiate professionally and with composure regardless of the conditions can help deescalate tense situations and prevent difficult situations from escalating.
     - These videos highlight my:
-        - Physical conditioning and ability to perform well in high and extreme-heat situations.
-        - Mental preparation to remain focused and attentive to the important details that happen during games.
+        - Physical conditioning and ability to perform with precision in high and extreme-heat situations.
+        - Mental preparation to remain focused and attentive to the important details that happen during game action.
         - Intense weekly practice to remain sharp and continuously improve and refine both my skating and officiating skills.
 
     === "Video #1 :material-cursor-default-click:"
@@ -963,11 +963,12 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Importance :material-cursor-default-click:"
 
             - I have a lot to observe and manage over a short period of time, and I believe I do so clearly, correctly, calmly, and effectively.
-            - While continuously monitoring gameplay for the presence of a pack, I:
+            - I demonstrate that I can calmly manage all of the following simultaneously:
+                - Continuously monitoring gameplay for the presence of a pack.
                 - Remain aware of which players have and earn superior position over other players.
                 - Track the relative positions of Green #33 and Blue #018 before and after contact.
-                - Observe Green #33's trajectory as they exit the track.
                 - Assess the transition of the pack from "front" to "all" to determine where to position myself.
+                - Observe Green #33's trajectory as they exit the track.
                 - Determine that game conditions allow me to briefly leave my position so I can approach the PLT for Green to ensure they are aware of the second penalty.
                 - Slowly, deliberately, and clearly deliver the appropriate verbal and visual cues for the penalties I issued.
                 - Relay a direction penalty from the rear OPR to the PLTs.
@@ -994,17 +995,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - A lot happens within a few seconds, and I need to take quick, decisive, and accurate actions:
+            - A lot happens within a few seconds, and I take quick, decisive, and accurate actions:
                 - I visualize the "lasagna slice" shape of the distance between Blue #555 (near the inside boundary) and the nearest Green blocker (in the middle of the track) and assess Blue #555's trajectory (toward the middle of the track) and acceleration relative to the speed of the rest of the pack.
                 - As I monitor Blue #555 destroy the pack, I turn my head slightly to the right to determine the foremost Green blocker's speed and trajectory and understand if they might be responsible for the pack destruction (legally or illegally) while concurrently issuing a "no-pack" warning.
-                - I determine Blue #555 illegally destroyed the pack and I make a mental note to not include them in the process of redefining the pack.
-                - I quickly look to my right and then left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue to monitor the distance between blockers from both teams.
-                - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555 who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
+                - I determined that Blue #555 illegally destroyed the pack, and I made a mental note to not include them in the process of redefining the pack.
+                - I quickly look to my right and left to account for all blockers, observe blocker movement, determine if blockers are taking the appropriate actions to reform the pack, and continue monitoring the distance between blockers from both teams.
+                - I issue a second "no-pack" warning, check the distance between blockers from both teams (excluding Blue #555, who I know to be a penalized player), and issue the verbal cue "pack is here" as the pack reforms.
                 - I immediately assess the pack destruction penalty to Blue #555 just as the jam ends.
-            - I practice a lot to have the capacity to manage these sorts of situations with speed and precision.  Of course, I make mistakes and that motivates me even more to:
-                - Practice pack definition for several hours each week at varying levels of skill and competition.
+            - I practice extensively to have the capacity to manage these sorts of situations with speed and precision.  Specifically, and that includes:
+                - Practicing pack definition for several hours each week with varying levels of skill and competitiveness.
                 - I obsessively study game video of my own pack definition and that of other officials to learn how I can improve.
-                - I augment my game video study by mocking up various in-game pack scenarios with [Track-Viz :octicons-link-external-24:](https://trackviz.netlify.app "Track-Viz Roller Derby Pack Simulation Tool"){ target=_blank } to help me better visualize pack geometry and improve the speed and precision at which I can monitor pack dynamics.
+                - I augment my game video study by mocking up various in-game pack scenarios with [Track-Viz :octicons-link-external-24:](https://trackviz.netlify.app "Track-Viz Roller Derby Pack Simulation Tool"){ target=_blank } to help me better visualize pack geometry and improve the speed and precision at which I can monitor and process pack dynamics.
 
         <center>
             <br>
@@ -1018,14 +1019,14 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation will occur.
+            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation occurs.
             - Players from both teams do not immediately take appropriate actions to reform the pack, and several players commit actions that have sufficient impact to warrant penalties.
             - It is not clear to the JRs whether Lead Jammer status is available or lost.
             - It is my responsibility to:
                 - Issue "no-pack" warnings until the pack reforms.
                 - Identify and track any players who commit penalties within my coverage zone (the front wall, in this case).
                 - Use clear verbal and visual cues to indicate when the pack reforms.
-                - Clearly communicate penalty assessment with my on- and off-skates peer officials so they have the information they need to do their jobs.
+                - Clearly communicate penalty assessment to my on- and off-skates peer officials so they have the information they need to do their jobs.
                 - Ensure the JRs understand the availability of Lead Jammer status.
                 - Remain in position to continue observing game action.
 
@@ -1048,12 +1049,12 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - I believe the Front IPR position is more challenging than it may appear to the untrained eye.  In my opinion, a well-practiced IPR excels at:
-                - "Owning" their own zone of coverage while providing supporting coverage and communication to their peer SOs and NSOs.
-                - Rapid task switching between pack definition, initiation and contact assessment, player position changes, lead jammer status, etc.
+            - I believe the front IPR position is more challenging than it may appear to the untrained eye.  In my opinion, a well-practiced IPR excels at:
+                - "Owning" their own coverage zone while providing supporting coverage and communication to their peer SOs and NSOs.
+                - Rapid task switching between pack definition, contact initiation assessment, player position changes, lead jammer status, etc.
                 - Rapid backward acceleration, backward skating at high speed, immediate stops and direction changes, continuously positioning themselves to observe the most relevant game action, and ensuring that JRs have unobstructed lanes.
-                - Understanding the geometry through the track's turns and how it impacts the distance between players and the shape of the engagement zone.
-            - I extensively study and practice the Front IPR position to embody these traits so I can manage complex situations like this one while supporting and advising my peer officials.
+                - Understanding track geometry through its turns and how it impacts the distance between players and the shape of the engagement zone.
+            - I extensively study and practice the front IPR position to embody these traits so I can manage complex situations like this one while supporting and advising my peer officials.
 
         <center>
             <br>
@@ -1068,23 +1069,31 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Overview :material-cursor-default-click:"
 
             - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #616 attempts to create a bridge between the front and rear blocker walls.
-            - A series of events happen nearly simultaneously which causes Green #616 to illegally destroy the pack:
-                - All on-track blockers are part of an established pack with clearly defined front and rear walls as Green #616 leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.
-                    - This action plus natural gameplay moves the pack from "all" to "front."
-                - At the rear wall, Blue #21 initiates a block that sends the Green Jammer OOB and skates in non-derby direction to recycle the Green Jammer.
+            - A series of events happen nearly simultaneously, which causes Green #616 to illegally destroy the pack:
+
+                1. All on-track blockers are part of an established pack with clearly defined front and rear walls as Green #616 leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.
+
+                    - This action and natural gameplay move the pack from "all" to "front."
+
+                2. At the rear wall, Blue #21 initiates a block that sends the Green Jammer OOB and skates in non-derby direction to recycle the Green Jammer.
+
                     - Blue #21 skates more than 10 feet from the nearest blocker.
-                - Blue #21 and continues skating in non-derby direction until they reach the edge of the rear engagement zone and receive an OOP warning from the rear IPR.
+                    - Blue #21 continues skating in non-derby direction until they reach the edge of the rear engagement zone and receive an OOP warning from the rear IPR.
                     - Blue #21 responds to the OOP warning by skating in derby direction and returning to the rear engagement zone.
-                - At the front wall Green #616 comes to a stop and begins skating in non-derby direction as Blue #21 returns to a position within 10 feet of rear wall.
+
+                3. At the front wall, Green #616 comes to a stop and begins skating in non-derby direction as Blue #21 returns to a position within 10 feet of the rear wall.
+
                     - The rear wall is still within the rear engagement zone and not part of the pack.
-                - Green #35 continues skating in non-derby direction until they are more than 10 feet from the rearmost blocker in the front wall and within within 10 feet of the foremost blocker in the rear wall.
-                    - This action created two equally-sized groups of blockers from both teams that are more than 10 feet from each other, commonly referred to as a "no-pack, split."
+
+                4. Green #616 continues skating in non-derby direction until they are more than 10 feet from the front wall's rearmost blocker and within 10 feet of the foremost blocker in the rear wall.
+
+                    - This action created two equally sized groups of blockers from both teams that were more than 10 feet apart, commonly referred to as a "no-pack, split."
 
         === "Outcome :material-cursor-default-click:"
         
             - Green #616 illegally destroyed the pack.
-            - Even though I've yet to issue a penalty to Green #616, as a penalized skater they are no longer part of pack definition so the pack immediately reforms at the front wall.
-            - I use the following verbal and visual cues in a sequentially and without delay:
+            - Even though I've yet to issue a penalty to Green #616, as a penalized skater, they are no longer part of pack definition, so the pack immediately reforms at the front wall.
+            - I use the following verbal and visual cues sequentially and without delay:
                 - "No-pack, split."
                 - "Pack is here."
                 - 1 x long whistle blast.
@@ -1092,16 +1101,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - Getting this right and in sync with the rear IPR takes a lot of practice and requires that I:
-                - Precisely and continuously measure the distance between the rearmost pack skater and Green NN.
-                - Concurrently understand Green #616's proximity to the foremost blocker in the rear wall and Blue #21’s proximity to the rearmost blocker in the rear wall as they return to play in the rear engagement zone.
+            - Getting this right and in sync with the rear IPR takes a lot of practice and requires that I concurrently and precisely:
+                - Measure the distance between the rearmost pack skater and Green #616.
+                - Monitor Green #616's proximity to the foremost blocker in the rear wall.
+                - Monitor Blue #21’s proximity to the rearmost blocker in the rear wall as Blue #21 returns to the rear engagement zone.
                 - Identify whether Green #616 is skating in non-derby direction, stopped, or skating in derby direction at the exact moment the no-pack split occurs.
                 - Align my measurements and timing with the rear IPR.
                 - Identify and signal the pack’s destruction and immediate reformation with the appropriate verbal and visual cues.
                 - Penalize Green #616 for illegally destroying the pack.
             - As my peers evaluate me, I want them to see that:
-                - I am capable of correctly processing and handling complex pack dynamics in real-time, and they can trust me to support them in a similar way when they include me on their officiating rosters.
-                - I can identify and penalize blockers who illegally destroy the pack so my peer officials don't have to worry about handling it themselves.
+                - I am capable of correctly processing and handling complex pack dynamics in real-time, and they can trust me to support them similarly when they include me on their officiating rosters.
+                - I can identify and penalize blockers who illegally destroy the pack so my peer IPR/HR can focus on other game action.
 
         <center>
             <br>
