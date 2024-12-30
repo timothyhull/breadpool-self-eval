@@ -859,14 +859,14 @@ Below are links to some of my officiating performances that highlight my capabil
     === "Overview :material-cursor-default-click:"
 
         - At the beginning of this video, while serving as JR for Black Jammer #411, I observe Red blocker #508 force my Jammer OOB near the center of turn 1 on the outside of the track.
-        I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
-        I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
+            - I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
+            - I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
         - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track, and I am aware that Red #508 has now lost and cannot regain their superior position advantage over Black #411.
         - I observe Red Pivot #3 skate in non-derby direction toward the rear engagement zone, and I mind the rear IPR's verbal cue that the pack is now "front."
         - I monitor Black #411 as they attend to an apparent malfunction of their left skate while observing all Red non-pivot blockers skate in non-derby direction.
         - Black #411 returns to an upright position and skates in non-derby direction while still OOB.
         - The rear IPR issues an OOP warning to Red #3 and Black #411 moves to return to an in-bounds position in front of Red #3.
-        Red #3 begins to skate forward, and I hear the rear OPR use a verbal cue to indicate Red #3 is back in play before I observe Black #411 return to a fully in-bounds position.
+        - Red #3 begins to skate forward, and I hear the rear OPR use a verbal cue to indicate Red #3 is back in play before I observe Black #411 return to a fully in-bounds position.
 
     === "Outcome :material-cursor-default-click:"
 
@@ -879,7 +879,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Red #3, as a player who did not initiate the block that sent Black #411 OOB, briefly lost their superior position over Black #411 when they went OOP at the trailing edge of the rear engagement zone.
             - Red #3 reestablished their superior position over Black #411 after returning to the rear engagement zone.
             - Black #411 illegally gained position on Red #3 using the OOB area (cut) and did not take immediate action to cede the cut.
-        The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
+        - The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
         - I believe this video demonstrates the following:
             - My detailed attentiveness to tracking player positioning at all times so I can determine if a player illegally gains position using the OOB area.
             - My understanding of roller derby rules regarding gaining, losing, and reestablishing superior positioning for OOB block initiators and non-initiators alike.
