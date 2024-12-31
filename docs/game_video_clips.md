@@ -420,7 +420,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
 
-    - TBD
+    - This example is several short videos that demonstrate my use of discretion and judgment to avoid issuing penalties whenever possible.
 
     === "Video #1 :material-cursor-default-click:"
 
