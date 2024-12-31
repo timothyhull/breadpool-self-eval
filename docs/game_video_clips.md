@@ -329,29 +329,101 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### SO Video Example #4
 
-??? video "Use of Slow, Clear, and Visible Hand Signals #1 :material-cursor-default-click:"
+??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - TBD
 
-        - At the ≈11:19:07 mark of this video, while serving as rear OPR, I issue a direction penalty to Red #701 for a block in non-derby direction that causes Black #271 to go out of bounds
-        - Approximately 1/3 of my game history is NSO roles, and, when I am in SO roles, I pay close attention to the actions I can take as an SO to make sure NSOs easily get the information they need.
-        - I frequently and specifically practice issuing penalties with slow, clear, and deliberate hand signals while continuously moving and changing direction to mimic game situations like this.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - You will see that I slowly use the hand signal to indicate a direction penalty followed by a swoop and repeat both the penalty and swoop hand signals, all while remaining in my assigned area of responsibility (on the rear wall).
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
+            - At the ≈11:19:07 mark of this video, while serving as rear OPR, I issue a direction penalty to Red #701 for a block in non-derby direction that causes Black #271 to go out of bounds
+            - Approximately 1/3 of my game history is NSO roles, and, when I am in SO roles, I pay close attention to the actions I can take as an SO to make sure NSOs easily get the information they need.
+            - I frequently and specifically practice issuing penalties with slow, clear, and deliberate hand signals while continuously moving and changing direction to mimic game situations like this.
 
-        - When I use clear and identifiable verbal and visual cues, my peer NSOs can do their jobs with less strain, promoting a better game experience for everyone.
-        - Remaining in position while I issue penalties is essential to ensure I effectively officiate within my zone and allows my peer officials to remain focused on their zones.
+        === "Outcome :material-cursor-default-click:"
+        
+            - You will see that I slowly use the hand signal to indicate a direction penalty followed by a swoop and repeat both the penalty and swoop hand signals, all while remaining in my assigned area of responsibility (on the rear wall).
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=40735" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?&t=40735" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/BvyVWitw714?&t=40735 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?&t=40735){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - When I use clear and identifiable verbal and visual cues, my peer NSOs can do their jobs with less strain, promoting a better game experience for everyone.
+            - Remaining in position while I issue penalties is essential to ensure I effectively officiate within my zone and allows my peer officials to remain focused on their zones.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=40735" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?t=40735" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/BvyVWitw714?t=40735 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?t=40735){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈NN:NN mark in this video,...
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈NN:NN mark in this video,...
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+        </center>
+
+    === "Video #4 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈NN:NN mark in this video,...
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+        </center>
+
 
 ---
 
