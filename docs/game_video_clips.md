@@ -713,7 +713,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #17
+### SO Video Example #14
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -754,7 +754,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #18
+### SO Video Example #15
 
 ??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
@@ -789,7 +789,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #19
+### SO Video Example #16
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
@@ -818,7 +818,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #20
+### SO Video Example #17
 
 ??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
@@ -856,7 +856,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #21
+### SO Video Example #18
 
 ??? video "Identifying and Tracking Complex Non-Initiator Cut Scenarios :material-cursor-default-click:"
 
@@ -902,7 +902,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #22
+### SO Video Example #19
 
 ??? video "Contact Initiation and Game Impact Assessment :material-cursor-default-click:"
 
@@ -935,7 +935,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #23
+### SO Video Example #20
 
 ??? video "Calmness, Composure, and Pack Precision While Under Pressure :material-cursor-default-click:"
 
