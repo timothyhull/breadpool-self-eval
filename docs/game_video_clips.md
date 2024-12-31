@@ -331,7 +331,9 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
-    - TBD
+     - This example is several short videos that demonstrate the value I place on consistently using slow and clear visual cues as a mechanism to:
+        - Effectively communicate with my peer on- and off-skates officials.
+        - Ensure players, coaches, announcers, and spectators can identify and understand the actions I signal.
 
     === "Video #1 :material-cursor-default-click:"
 
@@ -343,7 +345,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Outcome :material-cursor-default-click:"
         
-            - You will see that I slowly use the hand signal to indicate a direction penalty followed by a swoop and repeat both the penalty and swoop hand signals, all while remaining in my assigned area of responsibility (on the rear wall).
+            - You will see that I slowly use the hand signal to indicate a direction penalty followed by a swoop and repeat both the penalty and swoop hand signals, all while remaining in my assigned area of responsibility (on the rear wall). 
 
         === "Importance :material-cursor-default-click:"
 
@@ -369,6 +371,7 @@ Below are links to some of my officiating performances that highlight my capabil
         
             - In the course of issuing the penalty to Purple #07, several blockers skate in non-derby direction.  I make a rapid movement to accelerate laterally in non-derby direction before coming to a sharp stop in alignment with the blockers reforming the rear wall.
             - Even though I had to maneuver my body rapidly, I completed the motion of the high block verbal cue while maneuvering myself.
+            - The JR for Purple and both PLTs see and repeat my hand signal even though their view of me is obstructed by players and officials.
 
         === "Importance :material-cursor-default-click:"
 
