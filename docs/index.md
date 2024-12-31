@@ -25,7 +25,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
-3. [My WFTDA Evaluations History](./evaluations.md#evaluation-history "My WFTDA Evaluations History"){ data-preview }.
+3. [My WFTDA Evaluations History](./evaluations.md#wftda-evaluation-history "My WFTDA Evaluations History"){ data-preview }.
 4. [My WFTDA OHD](./officiating_history.md "My WFTDA OHD").
 
 ---
