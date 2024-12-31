@@ -415,29 +415,78 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### SO Video Example #6
 
-??? video "Use of Discretion and Judgment to Make a No-Call #1 :material-cursor-default-click:"
+??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - TBD
 
-        - At the ≈4:14:45 mark in this video, while serving as a JR, I observe Black #63 move slightly in non-derby direction to initiate a block on my Jammer, White #916, that causes my Jammer to fall.
-        - I blew my whistle to issue a direction penalty to Black #63, although I made the assessment that the contact was not the reason White #916 fell.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - I determined White #916 fell because they slipped on a metal maintenance cover built into the concrete track, and used my discretion and judgment to not issue a penalty to Black #63.
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
+            - At the ≈4:14:45 mark in this video, while serving as a JR, I observe Black #63 move slightly in non-derby direction to initiate a block on my Jammer, White #916, that causes my Jammer to fall.
+            - I blew my whistle to issue a direction penalty to Black #63, although I made the assessment that the contact was not the reason White #916 fell.
 
-        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a penalty necessitated a no-call.
-        - I make every effort to keep skaters on the track and in competition unless I am 100% certain an action or actions meet the criteria to warrant a penalty.
-        - After reviewing the video later in the day, I believe I made the correct call.
+        === "Outcome :material-cursor-default-click:"
+        
+            - I determined White #916 fell because they slipped on a metal maintenance cover built into the concrete track, and used my discretion and judgment to not issue a penalty to Black #63.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/Sfq9SNzx4ms?t=15276 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?t=15276){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a penalty necessitated a no-call.
+            - I make every effort to keep skaters on the track and in competition unless I am 100% certain an action or actions meet the criteria to warrant a penalty.
+            - After reviewing the video later in the day, I believe I made the correct call.
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/Sfq9SNzx4ms?t=15276 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?t=15276){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈NN:NN mark in this video,...
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈NN:NN mark in this video,...
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <br>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+        </center>
 
 ---
 
