@@ -596,13 +596,13 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
 
-        - While imperfect, I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status accurately, and calling off jams precisely.
+        - I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status immediately, and calling off jams precisely.
         - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
         - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers shows that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
+        - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers demonstrates that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
