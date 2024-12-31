@@ -21,7 +21,7 @@ Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-e
 
 The content of my self-evaluation appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my self-evaluation.
 
-A Table of Contents menu appears on the left-side of all pages for quick access to separate pages:
+Depending on the screen size of your device, a Table of Contents menu is available on the left side of all pages or accessible via an expandable menu (:material-menu:) in the upper-left corner of all pages for quick access to:
 
 1. [My Self-Evaluation](./index.md "Self-Evaluation") (this page).
 2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performances.
