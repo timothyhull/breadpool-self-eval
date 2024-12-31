@@ -362,68 +362,25 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈NN:NN mark in this video,...
+            - At the ≈27:41 mark of this video, while serving as rear OPR, I observe Purple #07 initiate forceful contact to the head of White #215, and decide to penalize Purple #07 for a high block.
+            - I deliberately use a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
 
         === "Outcome :material-cursor-default-click:"
         
-            - TBD
+            - In the course of issuing the penalty to Purple #07, several blockers skate in non-derby direction.  I make a rapid movement to accelerate laterally in non-derby direction before coming to a sharp stop in alignment with the blockers reforming the rear wall.
+            - Even though I had to maneuver my body rapidly, I completed the motion of the high block verbal cue while maneuvering myself.
 
         === "Importance :material-cursor-default-click:"
 
-            - TBD
+            - I believe this video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=1653" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BgDs6dRxRRs?t=1653" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
+            <br>[https://youtu.be/BgDs6dRxRRs?t=1653 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=1653){ target=_blank }
         </center>
-
-    === "Video #3 :material-cursor-default-click:"
-
-        === "Overview :material-cursor-default-click:"
-
-            - At the ≈NN:NN mark in this video,...
-
-        === "Outcome :material-cursor-default-click:"
-        
-            - TBD
-
-        === "Importance :material-cursor-default-click:"
-
-            - TBD
-
-        <center>
-            <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </center>
-        <center>
-            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
-        </center>
-
-    === "Video #4 :material-cursor-default-click:"
-
-        === "Overview :material-cursor-default-click:"
-
-            - At the ≈NN:NN mark in this video,...
-
-        === "Outcome :material-cursor-default-click:"
-        
-            - TBD
-
-        === "Importance :material-cursor-default-click:"
-
-            - TBD
-
-        <center>
-            <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/NNNNNNNNNN?start=0000" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/NNNNNNNNNN?t=0000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </center>
-        <center>
-            <br>[https://youtu.be/NNNNNNNNNN?t=0000 :octicons-link-external-24:](https://youtu.be/NNNNNNNNNN?t=0000){ target=_blank }
-        </center>
-
 
 ---
 
