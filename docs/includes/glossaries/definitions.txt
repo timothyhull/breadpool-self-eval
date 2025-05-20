@@ -10,6 +10,7 @@
 *[ePLT]: Electronic Penalty Lineup Tracker
 *[ePLTs]: Electronic Penalty Lineup Trackers
 *[GNR]: Guns N Rollers
+*[GTO]: Games Tournament Officer
 *[HNSO]: Head Non-Skating Official
 *[HNSOs]: Head Non-Skating Officials
 *[HR]: Head Referee
@@ -35,6 +36,7 @@
 *[OC]: Officiating Committee
 *[OOB]: Out-Of-Bounds
 *[OOP]: Out-Of-Play
+*[OS]: Official Score
 *[OOS]: Overview of Officiating Skill
 *[OOSs]: Overviews of Officiating Skill
 *[OPR]: Outside Pack Referee
