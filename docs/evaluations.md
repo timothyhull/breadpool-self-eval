@@ -99,7 +99,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that Amy Feral Fouler (as a(n) Other Official on the Same Crew) filled out an eval for Bridge City Riot, an event from 4/20/2024 to 4/21/2024, involving 3 sanctioned games for JRDA, during which you served as JT.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Other Official on the Same Crew) filled out an eval for Bridge City Riot, an event from 4/20/2024 to 4/21/2024, involving 3 sanctioned games for JRDA, during which you served as JT.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
@@ -184,7 +184,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that Amy Feral Fouler (as a(n) Crew Head Official) filled out an eval for Rose City Rollers - Rainbow Bites vs. Rose City Rollers - Death Scar Derby Droids on 10/13/2024, a Regulation JRDA game in which you performed as JT.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Rose City Rollers - Rainbow Bites vs. Rose City Rollers - Death Scar Derby Droids on 10/13/2024, a Regulation JRDA game in which you performed as JT.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
