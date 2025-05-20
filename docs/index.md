@@ -234,13 +234,13 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 ??? bread "8. Hustle :material-cursor-default-click:"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
+    - I apply the skills I've developed in over 20 years of BJJ and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
     - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
 
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
-    - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
+    - Whenever needed, I am comfortable and prepared to serve in any SO or NSO role, with or without advanced notice.
 
 ??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
