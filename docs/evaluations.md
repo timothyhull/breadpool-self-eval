@@ -4,6 +4,14 @@
 
 Below are exact copies of the text from all of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I can provide them privately upon request.
 
+<figure markdown>
+![Head Referee, RCR Adult Regulation Game, May 2025 - Credit: Double Dee (deesphotogdump on Instagram)](images/breadpool_hr_rcr_home_team_5-2-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        IPR, RCR Home Team Game, May, 2025<br>
+        Credit: [Double Dee :octicons-link-external-24:](https://www.instagram.com/deesphotogdump "@deesphotogdump on Instagram"){ target=_blank }
+    </figcaption>
+</figure>
+
 ## Evaluation #1 - JR, OPR
 
 ??? clipboard "Y'AllStars - 22-25 February, 2024 :material-cursor-default-click-outline:"
@@ -253,3 +261,10 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
+<figure markdown>
+![Jam Timer, Crow City Derby vs. Trans Rollers United, March, 2025 - Credit: Papa Slayworth](images/breadpool_jt_crow_city_vs_tru_3-29-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        JT, Crow City Derby vs. Trans Rollers United, March, 2025<br>
+        Credit: Divo
+    </figcaption>
+</figure>
