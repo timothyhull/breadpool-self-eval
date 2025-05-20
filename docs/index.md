@@ -68,7 +68,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     - **Name:** Breadpool (Timothy Hull)
     - **Pronouns:** He/Him
-    - **Age:** 44
+    - **Age:** 45
     - **Home Town:** Portland, Oregon, USA
     - **Birth Town:** Annapolis, Maryland, USA
     - **League Affiliation:** RCR
@@ -88,11 +88,11 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     === "Inspiration :material-cursor-default-click:"
 
-        I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
+        I am a physically disabled U.S. Army veteran with double hip replacements, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believes they are capable of.
         
-        When I serve in an officiating role, on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+        When I serve in an officiating role, on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 21 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
         
-        Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement in 2023 because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
+        Intense rehabilitation to recover from injuries is my superpower.  I served in SO roles within a few weeks of each of my total hip replacement surgeries because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be able to skate.
         
         **I want people with physical disabilities to see me as an example that it’s possible for them to experience joy and fulfillment from strenuous sports and activities.**
 
