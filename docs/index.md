@@ -521,12 +521,14 @@ Please click to expand the sections below for detailed information about my deve
             - Adaptability to different track surfaces and conditions.
             - Immediate and explosive returns to an upright and effective position if I fall or am forced to the ground.
             - Capacity to maintain eye contact with my assigned area(s) of responsibility in almost any situation.
+            - Regular, at least weekly, skate maintenance to:
+                - Ensure my equipment is always in peak condition.
+                - Vastly reduce the potential for mechanical failures.
+                - Quickly repair or replace components if necessary.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - While I consider myself someone who does not frequently fall, I skate aggressively to be and remain in the best possible position to observe game action.
-                - Skating aggressively can occasionally cause me to fall.
-            - My backward acceleration to full speed from a complete stop in derby and non-derby directions has room to improve.
+            - While I do not frequently fall, I skate aggressively to be and remain in the best possible position to observe game action, and aggressive skating can occasionally cause me to fall.
             - I use wheel stops to create a “narrow” profile while moving laterally, and doing so extends my legs, which can occasionally cause contact with players and other officials.  I'm working to make my narrow profile more compact without compromising stability.
 
     ??? whistle "HR/CHR :material-cursor-default-click:"
