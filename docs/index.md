@@ -424,9 +424,9 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Experience accurately completing SK paperwork.
+            - Clear and continuous two-way visual communication with my assigned JR.
             - Clear and continuous two-way verbal communication with the SBO.
             - Awareness to continuously ensure alignment of SK paperwork with the SBO throughout a game.
-            - Clear and continuous two-way visual communication with my assigned JR.
             - Supporting a JR if they happen to lose track of which trip their jammer is on using visual cues that ask for confirmation.
             - Thorough understanding of:
                 - JR responsibilities and communication needs.
