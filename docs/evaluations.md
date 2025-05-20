@@ -4,6 +4,16 @@
 
 Below are exact copies of the text from all of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I can provide them privately upon request.
 
+<figure markdown>
+![Head Referee, RCR Adult Regulation Game, May 2025 - Credit: Double Dee (deesphotogdump on Instagram)](images/breadpool_hr_rcr_home_team_5-2-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        IPR, RCR Home Team Game, May, 2025<br>
+        Credit: [Double Dee :octicons-link-external-24:](https://www.instagram.com/deesphotogdump "@deesphotogdump on Instagram"){ target=_blank }
+    </figcaption>
+</figure>
+
+---
+
 ## Evaluation #1 - JR, OPR
 
 ??? clipboard "Y'AllStars - 22-25 February, 2024 :material-cursor-default-click-outline:"
@@ -99,7 +109,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that Amy Feral Fouler (as a(n) Other Official on the Same Crew) filled out an eval for Bridge City Riot, an event from 4/20/2024 to 4/21/2024, involving 3 sanctioned games for JRDA, during which you served as JT.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Other Official on the Same Crew) filled out an eval for Bridge City Riot, an event from 4/20/2024 to 4/21/2024, involving 3 sanctioned games for JRDA, during which you served as JT.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
@@ -184,7 +194,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that Amy Feral Fouler (as a(n) Crew Head Official) filled out an eval for Rose City Rollers - Rainbow Bites vs. Rose City Rollers - Death Scar Derby Droids on 10/13/2024, a Regulation JRDA game in which you performed as JT.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Rose City Rollers - Rainbow Bites vs. Rose City Rollers - Death Scar Derby Droids on 10/13/2024, a Regulation JRDA game in which you performed as JT.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
@@ -198,3 +208,67 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Cordially,
         Officials Certification
+
+## Evaluation #8 - PBT
+
+??? clipboard "Blood Fest 6 - 18-19 January, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Blood Fest, an event from 1/18/2025 to 1/19/2025, involving 1 sanctioned games for JRDA, during which you served as PBT.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        During Blood Fest 6, game 4, I was HNSO and PLT. Breadpool was assigned to be one of the Penalty Box Timers and we shared the same team. His constant communication across the track and verification of penalty numbers with me as his PLT were smooth and perfect. His communication and signals with the skaters were clear and on point. I would have Breadpool be a part of any of my teams on or off skates. Huge fan. 10 stars.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        None.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #9 - PBT, PBM, SBO
+
+??? clipboard "Salem Slam III - 22-23 March, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Salem Slam III, an event from 3/22/2025 to 3/23/2025, involving 8 sanctioned games for MRDA, during which you served as PBT, PBM, SBO.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Breadpool performed multiple roles during a short-staffed tournament, and his ability to switch between those and work more games to fill spots on a crew is greatly appreciated.
+
+        As a Scoreboard Operator, Breadpool had excellent communication with other members of the officiating crew. Points and leads were displayed quickly and accurately. Jam starts were synced up with the Jam Timer, and jam endings were equally precise. When the clock needed to be adjusted during a timeout, it was done efficiently and didn't involve any guessing and re-adjusting.
+
+        When working in the penalty box (as both timer and manager), his verbal cues to skaters were loud and clear as were hand signals. PBT paperwork notation for sitting between jams was done correctly and matched with what the PLT recorded during the game. Even when the penalty box was busy, he was calm and accurate.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        Breadpool truly goes above and beyond for the roller derby community. I am always happy to work with him in any officiating capacity, on or off skates.
+
+        Cordially,
+        Officials Certification
+
+---
+
+<figure markdown>
+![Jam Timer, Crow City Derby vs. Trans Rollers United, March, 2025 - Credit: Papa Slayworth](images/breadpool_jt_crow_city_vs_tru_3-29-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        JT, Crow City Derby vs. Trans Rollers United, March, 2025<br>
+        Credit: Divo
+    </figcaption>
+</figure>

@@ -38,7 +38,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
     
     Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
-     <figure markdown>
+    <figure markdown>
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
