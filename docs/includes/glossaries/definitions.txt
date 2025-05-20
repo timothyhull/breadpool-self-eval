@@ -10,6 +10,7 @@
 *[ePLT]: Electronic Penalty Lineup Tracker
 *[ePLTs]: Electronic Penalty Lineup Trackers
 *[GNR]: Guns N Rollers
+*[GTO]: Games Tournament Officer
 *[HNSO]: Head Non-Skating Official
 *[HNSOs]: Head Non-Skating Officials
 *[HR]: Head Referee
