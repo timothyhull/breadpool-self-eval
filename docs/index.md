@@ -48,13 +48,13 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
 === "Overview :material-cursor-default-click:"
 
-    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."   I am simply an **official** who works to earn the trust of my peers so I can excel in each roller derby officiating role.
+    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."  I am simply an **official** who works to continuously learn and improve, earn the trust of my peers, and excel in each roller derby officiating role.
     
-    I seek to continuously improve at *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
+    I seek to continuously improve my skills in *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
     
-    I don't simply want to be excellent in every officiating role, I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, and communicate so I make it easier for each of my peers to do their jobs.
+    I don't simply want to be excellent in every officiating role; I want to be an excellent teammate and peer in every officiating role.  That means I pay close attention to how I move, position myself, complete paperwork, time my actions, and communicate so I make it easier for each of my peers to do their jobs.
 
-    I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
+    I work every single day to develop a deeper understanding of gameplay, rules theory, and the people involved in roller derby so I can support an ongoing improvement of the gameplay experience for teams, my peer officials, volunteers, spectators, and the global roller derby community.
 
     <figure markdown>
     ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
