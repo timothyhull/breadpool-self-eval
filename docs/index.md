@@ -481,7 +481,7 @@ Please click to expand the sections below for detailed information about my deve
 
     In any SO position, you can expect me to consistently exhibit and excel at:
 
-    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB and return to in-bounds positions.
+    - **Player position awareness** - I maintain an active understanding which players have, earn, retain, lose, and reestablish superior positioning as players go OOB/OOP and return to play.
     - **Contact initiation awareness** - I thoroughly assess and understand which players initiate contact with other players during fast-paced gameplay.
     - **Game impact awareness** - I thoroughly assess game impact *before* I issue or decline to issue penalties.
     - **Detailed situational recall** - I remember and can recall detailed information about the actions I observe, including player-specific details (team and jersey number).
@@ -493,7 +493,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
     - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
-    - **Teamwork** - I behave in a way that shows inclusiveness, courtesy, support, respect, and validation to NSOs.
+    - **Teamwork** - I behave in a way that proactively shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
     <figure markdown>
     ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
