@@ -8,7 +8,7 @@
     </figcaption>
 </figure>
 
-Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, areas for growth, and to review video clips with expanded analysis.
+Hello! I'm **Breadpool**(1), and this site is my roller derby officiating self-evaluation.  Please use the information in this site for details about my experience, strengths, areas for growth, and to review video clips of me officiating with expanded analysis.
 { .annotate }
 
 1. !!! reference "Derby Name Meaning"
