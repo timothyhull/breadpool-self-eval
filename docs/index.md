@@ -373,7 +373,7 @@ Please click to expand the sections below for detailed information about my deve
             - I typically use a "single watch" technique to time penalties, and some CHNSOs/HNSOs prefer a "dual watch" technique that I don't practice regularly.
                 - For instances when only one player is serving a penalty for the team I'm assigned to track, the single and dual watch techniques are indistinguishable on the PBT paperwork.
                 - When multiple players are serving penalties simultaneously, I use a running clock to record the time each player sits, stands, and completes their penalty.
-                    - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds (assuming I'm not recording timing for a jammer swap).
+                    - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds, assuming I'm not recording timing for multiple penalties or a jammer swap.
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
                 - It's important that I practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
 
