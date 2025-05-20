@@ -576,13 +576,13 @@ Please click to expand the sections below for detailed information about my deve
             - Awareness of earned passes within my zone of responsibility, including player details.
                 - Communicating earned pass information to JRs whenever necessary.
             - Frequent communication with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
+            - Non-verbal communication with players reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
             - Lateral movement skills that allow me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I, generally, do not advocate for a specific OPR position preference, and serve in whichever position my peers least prefer for themselves; typically the front OPR position.
-                - This behavior results in limited opportunities to build game experience in other OPR roles, and I need to consider my own development in better balance with the requests of my peers.
+            - I, generally, do not advocate to serve in a specific OPR position, and serve in whichever position my peers least prefer for themselves.
+                - This behavior results in limited opportunities to build game experience in other OPR roles, and I need to better balance my development with my peers' requests.
             - I tend to be passive about my assignment-specific positioning relative to other officials, in particular when I serve in the middle or front OPR positions.
                 - I typically adapt my own positioning to the positioning of my adjacent peers rather than take the more active approach of positioning myself where I believe I should be.
                 - If I were to take a more active approach to positioning, I believe I might invite constructive communication, debate, and feedback about how my peers and I can improve our overall positioning as an OPR unit.
@@ -598,7 +598,7 @@ Please click to expand the sections below for detailed information about my deve
                 1. Parallel with a well-defined rear wall.
                 2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
                 3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
-                3. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
+                3. Periodically shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
                 4. In position to observe player positioning relative to the jammer line and outside boundary at the start of each jam.
 
             - As a **middle** OPR, I am, generally:
@@ -612,7 +612,7 @@ Please click to expand the sections below for detailed information about my deve
 
                 1. 7-12 feet in front of the pack, directly next to the outside boundary, looking in non-derby direction when the front wall has 3+ blockers.
                 2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
-                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
+                3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
 
     ??? whistle "JR :material-cursor-default-click:"
 
