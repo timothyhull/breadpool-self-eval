@@ -209,7 +209,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Blood Fest, an event from 1/18/2025 to 1/19/2025, involving 1 sanctioned games for JRDA, during which you served as PBT. Here is the evaluation:
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Blood Fest, an event from 1/18/2025 to 1/19/2025, involving 1 sanctioned games for JRDA, during which you served as PBT.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
