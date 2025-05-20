@@ -131,7 +131,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         - U.S. Army recreational flag football.
         - BJJ tournaments at the local, regional, and international levels.
 
-        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition. Officiating is one way I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
+        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition. Officiating is one way I contribute to serving future generations of competitors while honoring those who officiated for my own competitive athletic experiences.
 
         Although each sport has unique officiating requirements and nuances, I find there are many common elements to the role of officiating across sports.  I make this point because I believe one of the reasons I've been able to integrate effectively with the roller derby officiating community within a few years is my prior officiating experience:
 
