@@ -201,7 +201,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
 ## Evaluation #8 - PBT
 
-??? clipboard "Blood Fest 6 - Santa Crus Derby Groms - Freaky Fridays vs. 509 Junior Roller Derby - The Killer Bees - 13 October, 2024 :material-cursor-default-click-outline:"
+??? clipboard "Blood Fest 6 - Santa Cruz Derby Groms - Freaky Fridays vs. 509 Junior Roller Derby - The Killer Bees - 18 January, 2025 :material-cursor-default-click-outline:"
 
     === "Overview :material-cursor-default-click-outline:"
 
