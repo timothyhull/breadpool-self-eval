@@ -652,7 +652,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
+            - Comfort and confidence working from the front and rear IPR positions, depending on my HR/CHR's position preference.
             - Ability to define and track pack location plus adapt to the pack definition metrics of my peer IPR.
             - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
             - Ability to monitor the precise location of skaters so I can accurately report pack conditions and movement.
@@ -661,12 +661,12 @@ Please click to expand the sections below for detailed information about my deve
                 - Players recycling themselves behind all pack skaters and returning to an in-bounds, in-play position.
             - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before they might receive penalties.
             - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
-            - Capacity to relay information between officials, including relaying penalties from OPRs to PLTs.
+            - Capacity to relay information between officials, including relaying penalties from OPRs and JRs to PLTs.
             - Capacity to relay to JRs which players are OOP, NOTT, etc., and reporting that information to JRs proactively.
             - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating to JRs the location of jammers relative to the pack and engagement zone(s).
             - Awareness of where players re-enter the track relative to the front engagement zone.
             - Ability to "chase down" and issue an OOP warning to a player who leaves the front engagement zone while believing they are a jammer after they unsuccessfully take a star pass.
-            - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
+            - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off the gameplay area.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
