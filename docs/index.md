@@ -288,6 +288,7 @@ Please click to expand the sections below for detailed information about my deve
             - Spending sufficient time with my crew before a game to clearly communicate instructions and respond to questions.
             - Communication with teams and host leagues to ensure I have the data necessary to prepare accurate IGRF(s).
             - Accurate pre-game IGRF preparation and post-game stats book delivery.
+            - Comfort with basic and advanced CRG configuration, setup, and troubleshooting.
             - Familiarity with WFTDA/MRDA and JRDA stats books guides, and the use of the [Statsbook Tool application](https://github.com/AdamSmasherDerby/Statsbook-Tool "Statsbook-Tool on GitHub"){ target=_blank } :octicons-link-external-24:.
             - Maximizing opportunities for available officials by assigning them to dedicated roster positions instead of assigning myself to a second position.
             - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help.
