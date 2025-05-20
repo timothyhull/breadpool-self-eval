@@ -296,6 +296,7 @@ Please click to expand the sections below for detailed information about my deve
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
+            - Experience serving in the GTO role for sanctioned gameplay.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
