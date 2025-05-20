@@ -198,3 +198,28 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Cordially,
         Officials Certification
+
+## Evaluation #8 - PBT
+
+??? clipboard "Blood Fest 6 - Santa Crus Derby Groms - Freaky Fridays vs. 509 Junior Roller Derby - The Killer Bees - 13 October, 2024 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Blood Fest, an event from 1/18/2025 to 1/19/2025, involving 1 sanctioned games for JRDA, during which you served as PBT. Here is the evaluation:
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        During Blood Fest 6, game 4, I was HNSO and PLT. Breadpool was assigned to be one of the Penalty Box Timers and we shared the same team. His constant communication across the track and verification of penalty numbers with me as his PLT were smooth and perfect. His communication and signals with the skaters were clear and on point. I would have Breadpool be a part of any of my teams on or off skates. Huge fan. 10 stars.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        None.
+
+        Cordially,
+        Officials Certification
