@@ -344,7 +344,7 @@ Please click to expand the sections below for detailed information about my deve
             - Ability to support and advise officials who are developing experience in the PBT role, including helping them correctly complete PBT paperwork.
             - Understanding of penalty codes and familiarity with the process to indicate served and unserved penalties using the PBWB.
             - Understanding of illegal actions in the penalty box area, and comfort with assessing role-specific penalties when necessary.
-            - Understanding of player foul-out procedures for WFTDA/MRDA and JRDA.
+            - Understanding of player substitution and foul-out procedures for WFTDA/MRDA and JRDA.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
