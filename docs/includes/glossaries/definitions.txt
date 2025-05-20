@@ -35,6 +35,7 @@
 *[OC]: Officiating Committee
 *[OOB]: Out-Of-Bounds
 *[OOP]: Out-Of-Play
+*[OS]: Official Score
 *[OOS]: Overview of Officiating Skill
 *[OOSs]: Overviews of Officiating Skill
 *[OPR]: Outside Pack Referee
