@@ -223,3 +223,33 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Cordially,
         Officials Certification
+
+## Evaluation #9 - PBT, PBM, SBO
+
+??? clipboard "Salem Slam III - 22-23 March, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Salem Slam III, an event from 3/22/2025 to 3/23/2025, involving 8 sanctioned games for MRDA, during which you served as PBT, PBM, SBO.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Breadpool performed multiple roles during a short-staffed tournament, and his ability to switch between those and work more games to fill spots on a crew is greatly appreciated.
+
+        As a Scoreboard Operator, Breadpool had excellent communication with other members of the officiating crew. Points and leads were displayed quickly and accurately. Jam starts were synced up with the Jam Timer, and jam endings were equally precise. When the clock needed to be adjusted during a timeout, it was done efficiently and didn't involve any guessing and re-adjusting.
+
+        When working in the penalty box (as both timer and manager), his verbal cues to skaters were loud and clear as were hand signals. PBT paperwork notation for sitting between jams was done correctly and matched with what the PLT recorded during the game. Even when the penalty box was busy, he was calm and accurate.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        Breadpool truly goes above and beyond for the roller derby community. I am always happy to work with him in any officiating capacity, on or off skates.
+
+        Cordially,
+        Officials Certification
+
