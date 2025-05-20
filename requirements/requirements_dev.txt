@@ -23,7 +23,7 @@ flake8
 # Python interpreter
 ipython
 
-# Python templater
+# Python templates
 Jinja2
 
 # Python testing
