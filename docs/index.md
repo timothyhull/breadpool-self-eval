@@ -618,25 +618,26 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Continuous, precise alignment with my jammer.
             - Keeping eyes on my jammer at *all* times to ensure I observe everything they do.
                 - When a jam ends, I track/follow my jammer until they return to their bench area to maintain continuous visibility of their actions.
             - Clear, kind, and supportive communication with my SK before, during, and after each game.
             - Awareness of potential NOTT points and understanding when a jammer earns and does not earn those points.
             - Timely and accurate tracking and recall, by player, of earned passes, points, superior position, and positional gain.
-            - Confident points reporting immediately after a jam ends - at the fourth whistle, not at or after the twelfth whistle.
+            - Confident points reporting precisely as a jam ends (simultaneously with the fourth whistle).
             - Continuous monitoring of the relationship between what I report to my SK and the information on the scoreboard.
             - Awareness of the space I occupy and making my profile as small as possible to keep from obscuring game action from my peers.
             - Understanding of how my position impacts my peer JR and the ability to adapt to their positioning preference to support fluid, dynamic movement with my peer JR.
             - Anticipating situations that may result in a star pass that is difficult to see.
             - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction at any time.
-            - Precision responsiveness to jammer call-off requests.
+            - Immediate and precise responsiveness to jammer call-off requests.
             - Thorough understanding of SK responsibilities and communication needs.
             - Ability to support developing SKs with feedback that helps them comfortably learn and build confidence in the SK role.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - When I believe my jammer is incorrectly penalized by another official, I can sometimes lose focus while attempting to rationalize the situation.  That loss of focus can result in:
-                - Losing track of the current trip, which points (if any) are earned, and which are still available to earn.
+            - When I believe my jammer is incorrectly penalized by another official, I can sometimes lose focus while attempting to rationalize the situation.  This can result in me:
+                - Losing track of which passes/points (if any) are earned and which are still available to earn.
                 - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to immediately serve a penalty I do not agree with or immediately returning the jammer to the track.
                     - In either case, I would discuss the penalty with the issuing official after the current jam.
             - Although I am comfortable adapting my positioning to my peer JR's specific style and needs, I will sometimes forget to implement those adaptations consistently.
