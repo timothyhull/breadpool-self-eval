@@ -542,14 +542,15 @@ Please click to expand the sections below for detailed information about my deve
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
             - Helping guide and adjust the penalty game impact spectrum amongst my crew to help limit the number of player and team penalties as much as possible.
-            - Communicating with players and teams in a way that seeks to understand their points of view.
+            - Communicating with players and coaches in a way that seeks to understand their points of view.
             - Managing game flow by:
                 - Limiting the duration and frequency of OTOs whenever possible.
-                - Working with the JT to ensure the lineup clock reaches 25 seconds before stopping the game clock for an OTO (except for injury situations).
+                - Working with the JT to ensure the lineup clock reaches 25 seconds before stopping the game clock for administrative OTOs, except for injury situations.
                 - Clear, specific, decisive, and timely communication with teams, officials, and game audiences during ORs.
+            - Confidence using a microphone to communicate with game audiences using terminology and descriptions that help promote a more universal understanding of roller derby rules and gameplay.
             - Strategically using OTOs as a mechanism to show fair and good faith to players and coaches.  For example:
-                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I will use an OTO when digression feels appropriate to ensure I am not dismissive of their concerns.
-                - If I need to address a concern with teams (too many pack penalties, concern for excessive high contact, etc.), I will use an OTO to speak with coaches and captains rather than continuing to penalize players until a team or teams use their timeouts to address the concern with me.
+                - If a coach or captain has a concern I can't fully hear or respond to during lineups, I sometimes use OTOs when digression feels appropriate to ensure I am not dismissive of their concerns.
+                - If I need to address a concern with teams (too many pack penalties, excessive high contact, etc.), I will use an OTO to speak with coaches and captains rather than continuing to penalize players until a team or teams use their timeouts to address the concern with me.
             - Having the backs of my peer officials so they can do their jobs without concern that they are responsible for interacting with elevated or frustrated players and coaches directly.
                 - I want and seek the responsibility of de-escalating and resolving conflict between teams and officials so my peers can work in an environment where they feel safe.
             - Remaining calm, collected, positive, and supportive during tense gameplay situations or when officiating errors occur.
@@ -557,9 +558,9 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I often pass on opportunities to serve in an HR role so I can afford those opportunities to other officials.
+            - I often pass on opportunities to serve in an HR role within my home league so I can afford those opportunities to other officials.
                 - I need to advocate for myself to seek and accept more HR responsibilities.
-            - When assigned to an HR or CHR role, especially in a tournament when I'm working with officials who I many not be familiar with, I need to study game video of the individual crew members to understand:
+            - When assigned to an HR or CHR role, especially in a tournament when I'm working with officials who I many not be familiar with, I need to study more game video of the individual crew members to understand:
                 - Their strengths and areas for growth.
                 - How to best position them for success.
                 - How to appropriately challenge them to improve.
