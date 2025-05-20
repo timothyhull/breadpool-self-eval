@@ -733,8 +733,8 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 2,500+ hours of volunteer contributions to roller derby since August of 2022 including:
-        - 450+ hours of officiating RCR adult and junior scrimmages.
+    - 3,100+ hours of volunteer contributions to roller derby since August of 2022 including:
+        - 500+ hours of officiating RCR adult and junior scrimmages.
         - 110+ hours of attending RCR officiating practices.
         - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
 
@@ -761,6 +761,7 @@ Please click to expand the sections below for detailed information about my deve
     - Simplified HNSO game setup procedures for RCR-hosted games by:
         - Permanently installing Raspberry Pi devices used to drive CRG penalty whiteboard displays at team benches.
         - Establishing a process to remote control Raspberry Pi devices from the SBO computer.
+    - Mounted and installed/configured a new monitor and Raspberry Pi device in the official's locker room to make the scoreboard display visible.
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
