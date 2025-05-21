@@ -8,7 +8,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## NSO Video Clips
 
-### NSO Video Example #1
+### NSO Video Example #1 - JT
 
 ??? video "Calm Precision and Attention to Details During Intense Game Situations :material-cursor-default-click:"
 
@@ -58,7 +58,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #2
+### NSO Video Example #2 - JT
 
 ??? video "Preparedness for Timely Responses to Team and Officiating Needs :material-cursor-default-click:"
 
@@ -95,7 +95,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #3
+### NSO Video Example #3 - JT
 
 ??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
