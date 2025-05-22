@@ -8,7 +8,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## NSO Video Clips
 
-### NSO Video Example #1 - JT
+### NSO Example #1 - JT
 
 ??? video "Calm Precision and Attention to Details During Intense Game Situations :material-cursor-default-click:"
 
@@ -58,7 +58,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #2 - JT
+### NSO Example #2 - JT
 
 ??? video "Preparedness for Timely Responses to Team and Officiating Needs :material-cursor-default-click:"
 
@@ -95,7 +95,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #3 - JT
+### NSO Example #3 - JT
 
 ??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
@@ -245,7 +245,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## SO Video Clips
 
-### SO Video Example #1 - JR
+### SO Example #1 - JR
 
 ??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
 
@@ -274,7 +274,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #2 - JR
+### SO Example #2 - JR
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
@@ -302,7 +302,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #3 - JR
+### SO Example #3 - JR
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -327,7 +327,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #4 - OPR
+### SO Example #4 - OPR
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
@@ -387,7 +387,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #5 - JR
+### SO Example #5 - JR
 
 ??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
@@ -416,7 +416,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #6 - JR, OPR
+### SO Example #6 - JR, OPR
 
 ??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
 
@@ -506,7 +506,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #7 - JR
+### SO Example #7 - JR
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
@@ -533,7 +533,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #8 - JR
+### SO Example #8 - JR
 
 ??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
@@ -559,7 +559,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #9 - OPR
+### SO Example #9 - OPR
 
 ??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
 
@@ -588,7 +588,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #10 - JR
+### SO Example #10 - JR
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -616,7 +616,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #11 - JR
+### SO Example #11 - JR
 
 ??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
 
@@ -645,7 +645,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #12 - ALTR, OPR
+### SO Example #12 - ALTR, OPR
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -681,7 +681,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #13 - IPR
+### SO Example #13 - IPR
 
 ??? video "Respectfully and Kindly Listening to an Unhappy Coach :material-cursor-default-click:"
 
@@ -713,7 +713,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #14 - OPR
+### SO Example #14 - OPR
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -754,7 +754,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #15 - IPR
+### SO Example #15 - IPR
 
 ??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
@@ -789,7 +789,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #16 - OPR
+### SO Example #16 - OPR
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
@@ -818,7 +818,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #17 - OPR
+### SO Example #17 - OPR
 
 ??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
@@ -856,7 +856,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #18 - JR
+### SO Example #18 - JR
 
 ??? video "Identifying and Tracking Complex Non-Initiator Cut Scenarios :material-cursor-default-click:"
 
@@ -902,7 +902,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #19 - IPR
+### SO Example #19 - IPR
 
 ??? video "Contact Initiation and Game Impact Assessment :material-cursor-default-click:"
 
@@ -935,7 +935,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #20 - IPR
+### SO Example #20 - IPR
 
 ??? video "Calmness, Composure, and Pack Precision While Under Pressure :material-cursor-default-click:"
 
