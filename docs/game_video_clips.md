@@ -389,7 +389,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### SO Example #5 - JR
 
-??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
+??? video "Observing Detailed Action and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -756,7 +756,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ### SO Example #15 - IPR
 
-??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
+??? video "Use of Skating Techniques to Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
