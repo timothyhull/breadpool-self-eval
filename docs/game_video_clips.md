@@ -311,14 +311,25 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - TBD
+            - At the ≈1:32:39 mark in this video, while serving as middle OPR, I observe Black #5 legally block Yellow Jammer, #618, OOB directly in front of me.
+            - As Black #5 falls OOB themselves, Yellow Jammer, who had Lead Jammer status, returns to a fully in-bounds and upright position, continues skating, and requests that their JR call off the jam.
 
         === "Outcome :material-cursor-default-click:"
         
-            - TBD
+            - I carefully monitor the precise timing of when Yellow Jammer adopts a fully in-bounds and upright position, and when Black #5 adopts a down/OOB position.
+            - I determined that Yellow Jammer cut Black #5 before losing their superior position advantage.
+            - After using a a non-standard hand signal to indicate Black #5 lost their superior position advantage over Yellow Jammer, I turned my attention to Yellow Jammer to determine if they were ceding their cut.
+            - When I observed Yellow Jammer requesting a call-off without apparently attempting to cede their cut, I issued a cut penalty to Yellow Jammer.
+            - The Yellow team used their official review to request that we rescind the cut penalty on their jammer, and I was able to describe the timing of what I observed sufficiently to support the HR's decision to allow the cut call to stand.
 
         === "Importance :material-cursor-default-click:"
-            - TBD
+
+            - Black #5 made a great play by keeping themselves upright and in-bounds long enough to draw a cut on Yellow Jammer, and getting this call right effectively ended what had been an intense and competitive game.
+            - Getting this right required that I:
+                - Be in the right position to monitor the most critical actions in my zone.
+                - Understand the exact timing of several events that happen moments apart.
+                - Understanding gameplay rules well enough to immediately and decisively make the correct call at a pivotal junction of the game.
+            - I was in the right position, monitoring the right act
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Fo9stDSWQ04?start=5557" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Fo9stDSWQ04?t=5557" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
