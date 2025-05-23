@@ -298,7 +298,7 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Importance :material-cursor-default-click:"
 
             - There was a lot to watch in a short period of time to get to the right outcome, and I believe I correctly processed the timing of when my jammer was in and OOB, plus their position relative to other players in conjunction with that precise timing.
-            - My experience with fast-paced, high-level roller derby and my ongoing and thorough study of game video help me see these situations correctly and consistently get to the correct outcome.
+            - My experience with fast-paced, high-level roller derby and my ongoing and thorough study of game video help me see these situations correctly and consistently get to the correct outcome, even while avoiding contact with a player who fell at my feet.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/A1WLDfV4z-g?start=5391" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/A1WLDfV4z-g?t=5391" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
