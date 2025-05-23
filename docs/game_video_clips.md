@@ -293,7 +293,7 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Outcome :material-cursor-default-click:"
         
             - I determined that my Jammer raised their right hand from the ground before Black #97 positioned themselves behind my Jammer, meaning my Jammer did not cut Black #97.
-            I used a non-standard hand signal to indicate that my Jammer had no more than one arm OOB when Black #97 skated behind them, and my Jammer completed their initial trip.
+            - I used a non-standard hand signal to indicate that my Jammer had no more than one arm OOB when Black #97 skated behind them, and my Jammer completed their initial trip.
 
         === "Importance :material-cursor-default-click:"
 
@@ -311,7 +311,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - TBD.
+            - TBD
 
         === "Outcome :material-cursor-default-click:"
         
