@@ -318,7 +318,7 @@ Below are links to some of my officiating performances that highlight my capabil
         
             - I carefully monitor the precise timing of when Yellow Jammer adopts a fully in-bounds and upright position, and when Black #5 adopts a down/OOB position.
             - I determined that Yellow Jammer cut Black #5 before losing their superior position advantage.
-            - After using a a non-standard hand signal to indicate Black #5 lost their superior position advantage over Yellow Jammer, I turned my attention to Yellow Jammer to determine if they were ceding their cut.
+            - After using a non-standard hand signal to indicate Black #5 lost their superior position advantage over Yellow Jammer, I turned my attention to Yellow Jammer to determine if they were ceding their cut.
             - When I observed Yellow Jammer requesting a call-off without apparently attempting to cede their cut, I issued a cut penalty to Yellow Jammer.
             - The Yellow team used their official review to request that we rescind the cut penalty on their jammer, and I was able to describe the timing of what I observed sufficiently to support the HR's decision to allow the cut call to stand.
 
@@ -326,7 +326,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
             - Black #5 made a great play by keeping themselves upright and in-bounds long enough to draw a cut on Yellow Jammer, and getting this call right effectively ended what had been an intense and competitive game.
             - I *had* to get this call right, and that required me to:
-                - Be in the right position to monitor the most critical actions within my zone, at the right time.
+                - Be in the correct position to monitor the most critical actions within my zone, at the right time.
                 - Understand the exact timing of several events that happen moments apart.
                 - Understand gameplay rules well enough to immediately and decisively make the correct call at a pivotal junction of the game.
             - I was exactly where I needed to be, when I needed to be there, and this is the sort of precision you can expect from me in any game.
