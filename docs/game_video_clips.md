@@ -274,7 +274,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #2 - JR
+### SO Example #2 - JR, OPR
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
