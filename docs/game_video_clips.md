@@ -345,10 +345,10 @@ Below are links to some of my officiating performances that highlight my capabil
             - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?t=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
+            <br>[https://youtu.be/kmz2zZvcbzs?t=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=4299){ target=_blank }
         </center>
 
 ---
@@ -370,7 +370,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" style="filter: drop-shadow(0 0 0.2rem black);" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" style="filter: drop-shadow(0 0 0.2rem black);" title="https://3M_NepfZ2Wg?t=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/3M_NepfZ2Wg?t=1171 :octicons-link-external-24:](https://youtu.be/3M_NepfZ2Wg?t=1171){ target=_blank }
