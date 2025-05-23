@@ -292,17 +292,19 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Outcome :material-cursor-default-click:"
         
-            - I determine that my Jammer raised their right hand from the ground before Black #97 positioned themselves behind my Jammer.
-            - I use a non-standard hand signal to indicate my Jammer had no more than one arm OOB at the time Black #97 skated behind them.
+            - I determined that my Jammer raised their right hand from the ground before Black #97 positioned themselves behind my Jammer, meaning my Jammer did not cut Black #97.
+            I used a non-standard hand signal to indicate that my Jammer had no more than one arm OOB when Black #97 skated behind them, and my Jammer completed their initial trip.
 
         === "Importance :material-cursor-default-click:"
-            - TBD
+
+            - There was a lot to watch in a short period of time to get to the right outcome, and I believe I correctly processed the timing of when my jammer was in and OOB, plus their position relative to other players in conjunction with that precise timing.
+            - My experience with fast-paced, high-level roller derby and my ongoing and thorough study of game video help me see these situations correctly and consistently get to the correct outcome.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/A1WLDfV4z-g?start=5391" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/A1WLDfV4z-g?t=5391" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
+            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/A1WLDfV4z-g?t=5391){ target=_blank }
         </center>
 
     === "Video #2 :material-cursor-default-click:"
