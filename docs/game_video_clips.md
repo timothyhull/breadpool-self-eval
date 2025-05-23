@@ -325,11 +325,11 @@ Below are links to some of my officiating performances that highlight my capabil
         === "Importance :material-cursor-default-click:"
 
             - Black #5 made a great play by keeping themselves upright and in-bounds long enough to draw a cut on Yellow Jammer, and getting this call right effectively ended what had been an intense and competitive game.
-            - Getting this right required that I:
-                - Be in the right position to monitor the most critical actions in my zone.
+            - I *had* to get this call right, and that required me to:
+                - Be in the right position to monitor the most critical actions within my zone, at the right time.
                 - Understand the exact timing of several events that happen moments apart.
-                - Understanding gameplay rules well enough to immediately and decisively make the correct call at a pivotal junction of the game.
-            - I was in the right position, monitoring the right act
+                - Understand gameplay rules well enough to immediately and decisively make the correct call at a pivotal junction of the game.
+            - I was exactly where I needed to be, when I needed to be there, and this is the sort of precision you can expect from me in any game.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Fo9stDSWQ04?start=5557" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Fo9stDSWQ04?t=5557" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
