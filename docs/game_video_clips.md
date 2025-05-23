@@ -572,26 +572,52 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate how I monitor and maintain awareness of the pack and engagement zone, even when I am not serving in a role that's responsible for doing so.
+    - Keeping situational awareness of the pack and engagement zones helps me understand whether player actions I observe are legal or not.
 
-        - At the ≈1:00:35 mark in this video, while serving as a JR and my Jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
-        - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
+        === "Overview :material-cursor-default-click:"
 
-        - Although White #33’s reentry point is not visible in the video, I carefully monitored the position of the front engagement zone and determined that White #33 entered approximately 18.5’ in front of White #1975 (before White #1975 left the pack and enters the front engagement zone themselves).
-        - I waited for White #33 to make a derby move, and they continued to skate forward instead of ceding the illegal reentry, so assessed an illegal reentry penalty to White #33.
+            - At the ≈N:NN:NN mark in this video, while serving as a JR, my Jammer, Blue #1958, returns to the track from the penalty box.
 
-    === "Importance :material-cursor-default-click:"
+        === "Outcome :material-cursor-default-click:"
 
-        - This is an example of the attention to detail I pay in order to ensure gameplay is safe and fair. 
+            - TBD
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - TBD 
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:00:35 mark in this video, while serving as a JR and my Jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
+            - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
+
+        === "Outcome :material-cursor-default-click:"
+
+            - Although White #33’s reentry point is not visible in the video, I carefully monitored the position of the front engagement zone and determined that White #33 entered approximately 18.5’ in front of White #1975 (before White #1975 left the pack and enters the front engagement zone themselves).
+            - I waited for White #33 to make a derby move, and they continued to skate forward instead of ceding their illegal reentry, so assessed an illegal reentry penalty to White #33.
+
+        === "Importance :material-cursor-default-click:"
+
+            - This is an example of the attention to detail I pay in order to ensure a player doesn't illegally gain an advantage over their opponent.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
+        </center>
 
 ---
 
