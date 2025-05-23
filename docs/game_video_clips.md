@@ -278,27 +278,76 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate the capacity I have to:
+        - Observe and analyze small details that determine the outcome for given situations.
+        - The speed at which I can process and correctly respond to nuanced scenarios.
 
-        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my Jammer, Purple #88, OOB.
-        - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
-        - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
-        - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
-        - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
-        - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
+            - At the ≈1:29:53 mark in this video, while serving as a JR, I observe Black #60 legally block my Jammer, White #359, down with their left hand OOB.
+            - As Black #60 dives over the top of my Jammer to avoid falling on top of them, my Jammer briefly places their right hand on the ground and OOB, stands, and raises their right hand so it is no longer on the ground or OOB.
+            - Black #97, who was in front of my Jammer, skates in non-derby direction in an attempt to draw a non-initiator cut on my Jammer.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
-    </center>
+        === "Outcome :material-cursor-default-click:"
+        
+            - I determine that my Jammer raised their right hand from the ground before Black #97 positioned themselves behind my Jammer.
+            - I use a non-standard hand signal to indicate my Jammer had no more than one arm OOB at the time Black #97 skated behind them.
+
+        === "Importance :material-cursor-default-click:"
+            - TBD
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - TBD.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
+
+        === "Importance :material-cursor-default-click:"
+            - TBD
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my Jammer, Purple #88, OOB.
+            - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
+            - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
+            - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
+            - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
+
+        === "Importance :material-cursor-default-click:"
+            - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
+        </center>
 
 ---
 
