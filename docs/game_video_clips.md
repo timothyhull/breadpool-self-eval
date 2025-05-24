@@ -579,21 +579,27 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈N:NN:NN mark in this video, while serving as a JR, my Jammer, Blue #1958, returns to the track from the penalty box.
+            - At the ≈33:26 mark in this video, while serving as a JR, my Jammer, Blue #1958, is released from the penalty box, near turn 4, and skates in the OPR lane in non-derby direction toward the rear of the pack, in the straightaway between turns 2 and 3.
+            - White Blocker #220 and White Jammer #177, while not returning to the track from the penalty box, are also in the OPR lane skating in non-derby direction toward the rear of the pack.
+            - White Blocker #220 will re-enter the track first, followed by White Jammer #177, followed by my Jammer, Blue #1958.
 
         === "Outcome :material-cursor-default-click:"
 
-            - TBD
+            - I determine that Blue Jammer re-enters the track in a fully upright and in-bounds position in front of White #220, seemingly well within the rear engagement zone of a clearly defined pack.
+            - I had neither seen nor heard any indication from my peer officials that any players were OOP, so I immediately turned to the HR/rear IPR and asked if White #220 was in play when Blue Jammer re-entered the track.
+            - After confirmation, I assessed an illegal reentry penalty to Blue Jammer for returning to the track from the penalty box in front of an opposing blocker and failing to cede the position they illegally gained.
 
         === "Importance :material-cursor-default-click:"
 
-            - TBD 
+            - This is an example of how I do more than simply follow my jammer around the track. I monitor their location relative to other players and note where my peer officials define the location of the pack and engagement zones.
+            - This clip also demonstrates that I am not seeking opportunities to immediately penalize players for illegally reentering the track.  Instead, I am mindful to afford players an appropriate amount of time to cede a cut.
+                - Had my jammer shown any indication they were moving toward a track boundary or had been knocked or fallen down or OOB, I would have afforded them more time to cede before issuing a cut penalty.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/tSkuHQybakI?start=2006" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/tSkuHQybakI?t=2006" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
+            <br>[https://youtu.be/tSkuHQybakI?t=2006 :octicons-link-external-24:](https://youtu.be/tSkuHQybakI?t=2006){ target=_blank }
         </center>
 
     === "Video #2 :material-cursor-default-click:"
@@ -610,7 +616,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - This is an example of the attention to detail I pay in order to ensure a player doesn't illegally gain an advantage over their opponent.
+            - This is another example of how I pay close attention to what's happening in the game, independent of my jammer, and the attention to detail I pay to ensure a player doesn't illegally gain an advantage over their opponent.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
