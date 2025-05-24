@@ -353,7 +353,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
 
         === "Importance :material-cursor-default-click:"
-            - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
+            - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what think is the correct call.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?t=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -437,7 +437,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - I believe this video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
+            - This video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
 
         <center>
             <br>
@@ -489,7 +489,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
+            - This situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
             - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
                 - Show players and coaches that I have confidence the points I’m reporting are accurate.
                 - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
@@ -667,7 +667,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe this example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
+        - This example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=8397" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?&t=8397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -696,7 +696,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe this video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
+        - This video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -753,7 +753,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
+        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -821,7 +821,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - For me, this action is a key element to officiating effectively and building trust with players and coaches.
         - I believed the Green "A" wanted to express their opinion to me, not argue with me, and I feel confident that arguing would have escalated the situation.
         - I estimated that Green "A" needed to express frustration, and I want to earn their trust by listening to understand them, not listening to respond to or argue with them.
-        - I believe this video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
+        - This video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=2211" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qx-EYWrAn5k?&t=2211" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -843,7 +843,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
     
-        - I am the rear OPR, and although nothing extraordinary happens in this jam, I believe this jam is a good example oh how you can expect me to officiate for any level of play.
+        - I am the rear OPR, and although nothing extraordinary happens in this jam, this jam is a good example of how you can expect me to officiate for any level of play.
 
     === "Importance :material-cursor-default-click:"
 
@@ -1003,7 +1003,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Red #3 reestablished their superior position over Black #411 after returning to the rear engagement zone.
             - Black #411 illegally gained position on Red #3 using the OOB area (cut) and did not take immediate action to cede the cut.
         - The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
-        - I believe this video demonstrates the following:
+        - This video demonstrates the following:
             - My detailed attentiveness to tracking player positioning at all times so I can determine if a player illegally gains position using the OOB area.
             - My understanding of roller derby rules regarding gaining, losing, and reestablishing superior positioning for OOB block initiators and non-initiators alike.
             - My confidence to assess a penalty that I am nearly certain will draw enthusiastic objection from the player, their captain, their peers, and their coaches.
