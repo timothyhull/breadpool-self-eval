@@ -453,28 +453,53 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Observing Detailed Action and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate my use of discretion and judgment to avoid issuing penalties whenever possible.
 
-        - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have Lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - I was able to be in a position to observe my Jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
-        - I immediately signaled the three earned points, before the third set of jam-ending whistles.
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
+            - TBD
 
-        - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
-        - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
-            - Show players and coaches that I have confidence the points I’m reporting are accurate.
-            - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
+        === "Outcome :material-cursor-default-click:"
+        
+            - TBD
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - TBD
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/bzJUostmHWE?start=1641" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/bzJUostmHWE?t=1641" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/bzJUostmHWE?t=1641 :octicons-link-external-24:](https://youtu.be/bzJUostmHWE?t=1641){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have Lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I was able to be in a position to observe my Jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
+            - I immediately signaled the three earned points, before the third set of jam-ending whistles.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
+            - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
+                - Show players and coaches that I have confidence the points I’m reporting are accurate.
+                - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
+        </center>
 
 ---
 
