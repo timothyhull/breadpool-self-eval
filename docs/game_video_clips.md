@@ -453,21 +453,27 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Observing Detailed Action and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
-    - This example is several short videos that demonstrate my use of discretion and judgment to avoid issuing penalties whenever possible.
+    - This example is several short videos that demonstrate my ability to quickly and accurately track scored points.
 
     === "Video #1 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
-            - TBD
+            - At the ≈27:21 mark in this video, while serving as a JR, my jammer, Black #76, will earn lead and start a scoring trip.
+            - The same scoring trip will continue until the ≈28:25 mark in the video, when my jammer calls off the jam.
+            - I immediately indicated to my SK that my jammer earned 3 points.
 
         === "Outcome :material-cursor-default-click:"
         
-            - TBD
+            - While monitoring my jammer exit the track and return to their bench, I observe Blue #82 get the attention of one of their teammates, Blue #69, point in my direction, and tell them, "Look, the ref got the points right."
+            - Blue #82 said to me, "Thank you.  I knew they didn't pass me," and I nodded in reply.
 
         === "Importance :material-cursor-default-click:"
 
-            - TBD
+            - While this may seem insignificant, especially in a game with a vast points spread, I take great pride in the accuracy of the points I award and knowing exactly which players my jammer has or has not passed.
+            - It's important to me that I can be counted on for accurate points, no matter how close a game's score is, and I want teams and my peers to know they can count on me to be precise.
+            - In a scoring trip that lasted over a minute, I carefully tracked passes my jammer earned on opposing players, and they did not earn a pass on Blue #82.
+            - It meant a lot to me that a player appreciated my effort and accuracy; I don't think they expected me to know that my jammer had not earned a point for passing them.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/bzJUostmHWE?start=1641" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/bzJUostmHWE?t=1641" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
