@@ -8,7 +8,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## NSO Video Clips
 
-### NSO Video Example #1
+### NSO Example #1 - JT
 
 ??? video "Calm Precision and Attention to Details During Intense Game Situations :material-cursor-default-click:"
 
@@ -58,7 +58,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #2
+### NSO Example #2 - JT
 
 ??? video "Preparedness for Timely Responses to Team and Officiating Needs :material-cursor-default-click:"
 
@@ -95,7 +95,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### NSO Video Example #3
+### NSO Example #3 - JT
 
 ??? video "Active Monitoring and Responsiveness to Game Actions and Risk Management Compliance :material-cursor-default-click:"
 
@@ -245,7 +245,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## SO Video Clips
 
-### SO Video Example #1
+### SO Example #1 - JR
 
 ??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
 
@@ -274,35 +274,97 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #2
+### SO Example #2 - JR, OPR
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate the capacity I have to:
+        - Observe and analyze small details that determine the outcome for given situations.
+        - The speed at which I can process and correctly respond to nuanced scenarios.
 
-        - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my Jammer, Purple #88, OOB.
-        - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
-        - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
-        - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
-        - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
-        - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what I believe is the correct call.
+            - At the ≈1:29:53 mark in this video, while serving as a JR, I observe Black #60 legally block my Jammer, White #359, down with their left hand OOB.
+            - As Black #60 dives over the top of my Jammer to avoid falling on top of them, my Jammer briefly places their right hand on the ground and OOB, stands, and raises their right hand so it is no longer on the ground or OOB.
+            - Black #97, who was in front of my Jammer, skates in non-derby direction in an attempt to draw a non-initiator cut on my Jammer.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
-    </center>
+        === "Outcome :material-cursor-default-click:"
+        
+            - I determined that my Jammer raised their right hand from the ground before Black #97 positioned themselves behind my Jammer, meaning my Jammer did not cut Black #97.
+            - I used a non-standard hand signal to indicate that my Jammer had no more than one arm OOB when Black #97 skated behind them, and my Jammer completed their initial trip.
+
+        === "Importance :material-cursor-default-click:"
+
+            - There was a lot to watch in a short period of time to get to the right outcome, and I believe I correctly processed the timing of when my jammer was in and OOB, plus their position relative to other players in conjunction with that precise timing.
+            - My experience with fast-paced, high-level roller derby and my ongoing and thorough study of game video help me see these situations correctly and consistently get to the correct outcome, even while avoiding contact with a player who fell at my feet.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/A1WLDfV4z-g?start=5391" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/A1WLDfV4z-g?t=5391" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/A1WLDfV4z-g?t=5391 :octicons-link-external-24:](https://youtu.be/A1WLDfV4z-g?t=5391){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:32:39 mark in this video, while serving as middle OPR, I observe Black #5 legally block Yellow Jammer, #618, OOB directly in front of me.
+            - As Black #5 falls OOB themselves, Yellow Jammer, who had Lead Jammer status, returns to a fully in-bounds and upright position, continues skating, and requests that their JR call off the jam.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I carefully monitor the precise timing of when Yellow Jammer adopts a fully in-bounds and upright position, and when Black #5 adopts a down/OOB position.
+            - I determined that Yellow Jammer cut Black #5 before losing their superior position advantage.
+            - After using a non-standard hand signal to indicate Black #5 lost their superior position advantage over Yellow Jammer, I turned my attention to Yellow Jammer to determine if they were ceding their cut.
+            - When I observed Yellow Jammer requesting a call-off without apparently attempting to cede their cut, I issued a cut penalty to Yellow Jammer.
+            - The Yellow team used their official review to request that we rescind the cut penalty on their jammer, and I was able to describe the timing of what I observed sufficiently to support the HR's decision to allow the cut call to stand.
+
+        === "Importance :material-cursor-default-click:"
+
+            - Black #5 made a great play by keeping themselves upright and in-bounds long enough to draw a cut on Yellow Jammer, and getting this call right effectively ended what had been an intense and competitive game.
+            - I *had* to get this call right, and that required me to:
+                - Be in the correct position to monitor the most critical actions within my zone, at the right time.
+                - Understand the exact timing of several events that happen moments apart.
+                - Understand gameplay rules well enough to immediately and decisively make the correct call at a pivotal junction of the game.
+            - I was exactly where I needed to be, when I needed to be there, and this is the sort of precision you can expect from me in any game.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Fo9stDSWQ04?start=5557" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Fo9stDSWQ04?t=5557" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/Fo9stDSWQ04?t=5557 :octicons-link-external-24:](https://youtu.be/Fo9stDSWQ04?t=5557){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:11:44 mark in this video, while serving as a JR, I observe White #30 legally block my Jammer, Purple #88, OOB.
+            - As Purple #88 skates in non-derby direction while OOB, I keep track of White #30 who has superior position on Purple #88.
+            - White #30 skates in non-derby direction while remaining in bounds until Purple #76 initiates a legal block that forces White #30 to place a toe stop OOB.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - Although White #30 is in front of Purple #76, I am aware that Purple #76 now has superior position over White #30.
+            - White #30 returns to a fully-in-bounds position and, now having cut Purple #76, initiates a derby action without ceding their cut.
+            - While remaining in a position to follow my Jammer, Purple #88, I issue a cut penalty to White #30.
+
+        === "Importance :material-cursor-default-click:"
+            - I believe this sort of cut scenario is somewhat less common than conventional cuts, and my understanding of derby rules combined with extensive practice maintaining situational awareness of the action within my area of responsibility allowed me to make what think is the correct call.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?t=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?t=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=4299){ target=_blank }
+        </center>
 
 ---
 
-### SO Video Example #3
+### SO Example #3 - JR
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -319,7 +381,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" style="filter: drop-shadow(0 0 0.2rem black);" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" style="filter: drop-shadow(0 0 0.2rem black);" title="https://3M_NepfZ2Wg?t=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/3M_NepfZ2Wg?t=1171 :octicons-link-external-24:](https://youtu.be/3M_NepfZ2Wg?t=1171){ target=_blank }
@@ -327,7 +389,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #4
+### SO Example #4 - OPR
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
@@ -375,7 +437,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - I believe this video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
+            - This video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
 
         <center>
             <br>
@@ -387,36 +449,67 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #5
+### SO Example #5 - JR
 
-??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
+??? video "Observing Detailed Action and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate my ability to quickly and accurately track scored points.
 
-        - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have Lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
-    
-        - I was able to be in a position to observe my Jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
-        - I immediately signaled the three earned points, before the third set of jam-ending whistles.
+        === "Overview :material-cursor-default-click:"
 
-    === "Importance :material-cursor-default-click:"
+            - At the ≈27:21 mark in this video, while serving as a JR, my jammer, Black #76, will earn lead and start a scoring trip.
+            - The same scoring trip will continue until the ≈28:25 mark in the video, when my jammer calls off the jam.
+            - I immediately indicated to my SK that my jammer earned 3 points.
 
-        - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
-        - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
-            - Show players and coaches that I have confidence the points I’m reporting are accurate.
-            - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
+        === "Outcome :material-cursor-default-click:"
+        
+            - While monitoring my jammer exit the track and return to their bench, I observe Blue #82 get the attention of one of their teammates, Blue #69, point in my direction, and tell them, "Look, the ref got the points right."
+            - Blue #82 said to me, "Thank you.  I knew they didn't pass me," and I nodded in reply.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - While this may seem insignificant, especially in a game with a vast points spread, I take great pride in the accuracy of the points I award and knowing exactly which players my jammer has or has not passed.
+            - It's important to me that I can be counted on for accurate points, no matter how close a game's score is, and I want teams and my peers to know they can count on me to be precise.
+            - In a scoring trip that lasted over a minute, I carefully tracked passes my jammer earned on opposing players, and they did not earn a pass on Blue #82.
+            - It meant a lot to me that a player appreciated my effort and accuracy; I don't think they expected me to know that my jammer had not earned a point for passing them.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/bzJUostmHWE?start=1641" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/bzJUostmHWE?t=1641" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/bzJUostmHWE?t=1641 :octicons-link-external-24:](https://youtu.be/bzJUostmHWE?t=1641){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈22:42 mark in this video, while serving as a JR, I observe my Jammer, White #408, who does not have Lead Jammer status, initiate and successfully complete an apex jump during a call-off by Purple Jammer #46.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I was able to be in a position to observe my Jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
+            - I immediately signaled the three earned points, before the third set of jam-ending whistles.
+
+        === "Importance :material-cursor-default-click:"
+
+            - This situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of Jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the Jammer’s feet before they leave the track and as they land.
+            - Whenever possible, it’s important to me to signal points immediately when a jam ends as a mechanism to:
+                - Show players and coaches that I have confidence the points I’m reporting are accurate.
+                - Afford the SKs and SBO maximum time to perform their responsibilities during lineups.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
+        </center>
 
 ---
 
-### SO Video Example #6
+### SO Example #6 - JR, OPR
 
 ??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
 
@@ -506,34 +599,66 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #7
+### SO Example #7 - JR
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example is several short videos that demonstrate how I monitor and maintain awareness of the pack and engagement zone, even when I am not serving in a role that's responsible for doing so.
+    - Keeping situational awareness of the pack and engagement zones helps me understand whether player actions I observe are legal or not.
 
-        - At the ≈1:00:35 mark in this video, while serving as a JR and my Jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
-        - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
+        === "Overview :material-cursor-default-click:"
 
-        - Although White #33’s reentry point is not visible in the video, I carefully monitored the position of the front engagement zone and determined that White #33 entered approximately 18.5’ in front of White #1975 (before White #1975 left the pack and enters the front engagement zone themselves).
-        - I waited for White #33 to make a derby move, and they continued to skate forward instead of ceding the illegal reentry, so assessed an illegal reentry penalty to White #33.
+            - At the ≈33:26 mark in this video, while serving as a JR, my Jammer, Blue #1958, is released from the penalty box, near turn 4, and skates in the OPR lane in non-derby direction toward the rear of the pack, in the straightaway between turns 2 and 3.
+            - White Blocker #220 and White Jammer #177, while not returning to the track from the penalty box, are also in the OPR lane skating in non-derby direction toward the rear of the pack.
+            - White Blocker #220 will re-enter the track first, followed by White Jammer #177, followed by my Jammer, Blue #1958.
 
-    === "Importance :material-cursor-default-click:"
+        === "Outcome :material-cursor-default-click:"
 
-        - This is an example of the attention to detail I pay in order to ensure gameplay is safe and fair. 
+            - I determine that Blue Jammer re-enters the track in a fully upright and in-bounds position in front of White #220, seemingly well within the rear engagement zone of a clearly defined pack.
+            - I had neither seen nor heard any indication from my peer officials that any players were OOP, so I immediately turned to the HR/rear IPR and asked if White #220 was in play when Blue Jammer re-entered the track.
+            - After confirmation, I assessed an illegal reentry penalty to Blue Jammer for returning to the track from the penalty box in front of an opposing blocker and failing to cede the position they illegally gained.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - This is an example of how I do more than simply follow my jammer around the track. I monitor their location relative to other players and note where my peer officials define the location of the pack and engagement zones.
+            - This clip also demonstrates that I am not seeking opportunities to immediately penalize players for illegally reentering the track.  Instead, I am mindful to afford players an appropriate amount of time to cede a cut.
+                - Had my jammer shown any indication they were moving toward a track boundary or had been knocked or fallen down or OOB, I would have afforded them more time to cede before issuing a cut penalty.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/tSkuHQybakI?start=2006" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/tSkuHQybakI?t=2006" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/tSkuHQybakI?t=2006 :octicons-link-external-24:](https://youtu.be/tSkuHQybakI?t=2006){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:00:35 mark in this video, while serving as a JR and my Jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
+            - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
+
+        === "Outcome :material-cursor-default-click:"
+
+            - Although White #33’s reentry point is not visible in the video, I carefully monitored the position of the front engagement zone and determined that White #33 entered approximately 18.5’ in front of White #1975 (before White #1975 left the pack and enters the front engagement zone themselves).
+            - I waited for White #33 to make a derby move, and they continued to skate forward instead of ceding their illegal reentry, so assessed an illegal reentry penalty to White #33.
+
+        === "Importance :material-cursor-default-click:"
+
+            - This is another example of how I pay close attention to what's happening in the game, independent of my jammer, and the attention to detail I pay to ensure a player doesn't illegally gain an advantage over their opponent.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
+        </center>
 
 ---
 
-### SO Video Example #8
+### SO Example #8 - JR
 
 ??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
@@ -548,7 +673,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe this example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
+        - This example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=8397" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/Sfq9SNzx4ms?&t=8397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -559,7 +684,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #9
+### SO Example #9 - OPR
 
 ??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
 
@@ -577,7 +702,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I believe this video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
+        - This video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -588,7 +713,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #10
+### SO Example #10 - JR
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -616,7 +741,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #11
+### SO Example #11 - JR
 
 ??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
 
@@ -634,7 +759,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Importance :material-cursor-default-click:"
 
-        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
+        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -645,7 +770,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #12
+### SO Example #12 - ALTR, OPR
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -681,7 +806,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #13
+### SO Example #13 - IPR
 
 ??? video "Respectfully and Kindly Listening to an Unhappy Coach :material-cursor-default-click:"
 
@@ -702,7 +827,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - For me, this action is a key element to officiating effectively and building trust with players and coaches.
         - I believed the Green "A" wanted to express their opinion to me, not argue with me, and I feel confident that arguing would have escalated the situation.
         - I estimated that Green "A" needed to express frustration, and I want to earn their trust by listening to understand them, not listening to respond to or argue with them.
-        - I believe this video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
+        - This video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=2211" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qx-EYWrAn5k?&t=2211" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -713,7 +838,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #14
+### SO Example #14 - OPR
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -724,7 +849,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Outcome :material-cursor-default-click:"
     
-        - I am the rear OPR, and although nothing extraordinary happens in this jam, I believe this jam is a good example oh how you can expect me to officiate for any level of play.
+        - I am the rear OPR, and although nothing extraordinary happens in this jam, this jam is a good example of how you can expect me to officiate for any level of play.
 
     === "Importance :material-cursor-default-click:"
 
@@ -754,9 +879,9 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #15
+### SO Example #15 - IPR
 
-??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
+??? video "Use of Skating Techniques to Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -789,7 +914,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #16
+### SO Example #16 - OPR
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
@@ -818,7 +943,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #17
+### SO Example #17 - OPR
 
 ??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
 
@@ -856,7 +981,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #18
+### SO Example #18 - JR
 
 ??? video "Identifying and Tracking Complex Non-Initiator Cut Scenarios :material-cursor-default-click:"
 
@@ -884,7 +1009,7 @@ Below are links to some of my officiating performances that highlight my capabil
             - Red #3 reestablished their superior position over Black #411 after returning to the rear engagement zone.
             - Black #411 illegally gained position on Red #3 using the OOB area (cut) and did not take immediate action to cede the cut.
         - The rear IPR communicates with me to confirm that I am aware that Red #3 went OOP, and I respond by indicating that Red #3 is a "non-initiator" who reestablished their superior position before Black #411 returned to an in-bounds position.
-        - I believe this video demonstrates the following:
+        - This video demonstrates the following:
             - My detailed attentiveness to tracking player positioning at all times so I can determine if a player illegally gains position using the OOB area.
             - My understanding of roller derby rules regarding gaining, losing, and reestablishing superior positioning for OOB block initiators and non-initiators alike.
             - My confidence to assess a penalty that I am nearly certain will draw enthusiastic objection from the player, their captain, their peers, and their coaches.
@@ -902,7 +1027,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #19
+### SO Example #19 - IPR
 
 ??? video "Contact Initiation and Game Impact Assessment :material-cursor-default-click:"
 
@@ -935,7 +1060,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Video Example #20
+### SO Example #20 - IPR
 
 ??? video "Calmness, Composure, and Pack Precision While Under Pressure :material-cursor-default-click:"
 
