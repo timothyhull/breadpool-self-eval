@@ -724,15 +724,31 @@ Below are links to some of my officiating performances that highlight my capabil
 
          === "Overview :material-cursor-default-click:"
 
-            - TBD
+            - At the ≈NN:NN mark in this video, while serving as a JR, my Jammer, Black #10 will immediately earn lead, speed around the track, and start the first of four scoring trips before calling off jam.
 
         === "Outcome :material-cursor-default-click:"
 
-            - TBD
+            - Scoring trip #1 is relatively uneventful, and I use a combination of power slides and backward plow stops to maintain precise alignment with my jammer.
+            - During scoring trip #2, my jammer fluidly navigates blocks by opposing players, and I transition to backward skating to:
+                - Put myself in the best position to observe earned passes.
+                - Create a narrow profile that occupies as little space as possible.
+                - Retain the ability to immediately stop and rapidly change directions as needed.
+                - Exit the pack and engagement zone area with the front of my body facing my jammer for as clear as possible of a point of view.
+            - During scoring trip #3, I observe Red Blocker #101 legally block my jammer, although they sustain the block until they force my jammer into making contact to the head and neck area of a downed player, Red #1018.
+                - I was able to determine the initiation, assess impact, and sufficiently understand roller derby rules to penalize the Red #101 instead of mistakenly penalizing my jammer for initiating a block on a downed opponent.
+                - After issuing the appropriate verbal and visual cues to assess the penalty, I calmly and confidently replace my whistle in my mouth and return my arms and hands to the correct positions.
+                - I maintain precise alignment with my jammer throughout the process of assessing the penalty.
+            - During scoring trip #4, I observe Red Blocker #4 make contact with the head and neck area of my jammer that I determined was sufficiently forceful to warrant a high block penalty.
+                - I blow my whistle and start to issue a high block penalty before I stop because I hear the HR/rear IPR start to issue a penalty to Red Blocker #4.
+            - I start to call off the jam at the exact time my jammer taps their hips for the second time, and I signal points simultaneously with the first set of four jam ending whistles.
+            - I follow my jammer back to their bench to observe for any actions that may constitute some form of response.
 
         === "Importance :material-cursor-default-click:"
 
-            - TBD
+            - Hand facing scoring table...
+            - Backward acceleration and transition...
+            - Points up right at 20'...
+            - Observe jammer at all times...
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
