@@ -717,7 +717,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
-    - This example consists of several short videos that demonstrate that I have the skating skills to keep myself precisely aligned with some of the world's most athletic and elite players.
+    - This example consists of several short videos that demonstrate that I have the skating skills and speed to keep myself precisely aligned with some of the world's most athletic and elite players.
     - My skating skills afford me the capacity to concentrate on monitoring nuanced details of gameplay and determining the appropriate officiating responses in real-time with high accuracy.
 
     === "Video #1 :material-cursor-default-click:"
@@ -745,10 +745,11 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Importance :material-cursor-default-click:"
 
-            - Hand facing scoring table...
-            - Backward acceleration and transition...
-            - Points up right at 20'...
-            - Observe jammer at all times...
+            - I want to be the best at what I do, and I work hard to improve even the most minor details of how I officiate.  Some of the things I intentionally do during every jam include: 
+                - Raising my hand to indicate points during scoring trips as close to the moment as possible that my jammer exits the front engagement zone.
+                - Aiming and adjusting the direction of my hand so it faces the scoring table at all times.
+                - When appropriate, I accelerate while skating backward with my jammer as they exit the front engagement zone to keep them within my direct line of sight.
+                - Following my jammer back to their bench after each jam so I can observe anything they do or that happens to them.
 
         <center>
             <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
