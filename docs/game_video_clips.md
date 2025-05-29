@@ -717,27 +717,70 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example consists of several short videos that demonstrate that I have the skating skills and speed to keep myself precisely aligned with some of the world's most athletic and elite players.
+    - My skating skills afford me the capacity to concentrate on monitoring nuanced details of gameplay and determining the appropriate officiating responses in real-time with high accuracy.
 
-        - This video clip is an entire half of a derby game from Y’Allstars 2024, where I served as a JR for Beast Side Roller Derby.
-        - Beast Side fielded extremely talented and fast Jammers who presented many challenges to effectively officiate.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
+        === "Overview :material-cursor-default-click:"
 
-        - I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status immediately, and calling off jams precisely.
-        - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
-        - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
+            - At the ≈5:29:31 mark in this video, while serving as a JR, my Jammer, Black #10 will immediately earn lead, speed around the track, and start the first of four scoring trips before calling off jam.
 
-    === "Importance :material-cursor-default-click:"
+        === "Outcome :material-cursor-default-click:"
 
-        - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers demonstrates that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
+            - Scoring trip #1 is relatively uneventful, and I use a combination of power slides and backward plow stops to maintain precise alignment with my jammer.
+            - During scoring trip #2, my jammer fluidly navigates blocks by opposing players, and I transition to backward skating to:
+                - Put myself in the best position to observe earned passes.
+                - Create a narrow profile that occupies as little space as possible.
+                - Retain the ability to stop and rapidly change directions as needed with immediacy.
+                - Exit the pack and engagement zone area with the front of my body facing my jammer for as clear a point of view as possible.
+            - During scoring trip #3, I observed Red Blocker #101 legally block my jammer, although they sustained the block until they forced my jammer into making contact with the head and neck area of a downed player, Red #1018.
+                - I was able to determine the initiation, assess impact, and sufficiently understand roller derby rules to penalize the Red #101 instead of mistakenly penalizing my jammer for initiating a block on a downed opponent.
+                - After issuing the appropriate verbal and visual cues to assess the penalty, I calmly and confidently replace my whistle in my mouth and return my arms and hands to the correct positions.
+                - I maintain precise alignment with my jammer throughout the process of assessing the penalty.
+            - During scoring trip #4, I observed Red Blocker #4 make contact with my jammer's head and neck area, which I determined was sufficiently forceful to warrant a high block penalty.
+                - I blow my whistle and start to issue a high block penalty before I stop because I hear the HR/rear IPR start to issue a penalty to Red Blocker #4.
+            - I start to call off the jam at the exact time my jammer taps their hips for the second time, and I signal points simultaneously with the first set of four jam-ending whistles.
+            - I follow my jammer back to their bench to observe for any actions that may constitute some form of response.
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
-    </center>
+        === "Importance :material-cursor-default-click:"
+
+            - I want to be the best at what I do, and I work hard to improve even the most minor details of how I officiate.  Some of the things I intentionally do during every jam include: 
+                - Raising my hand to indicate points during scoring trips as close to the moment as possible that my jammer exits the front engagement zone.
+                - Aiming and adjusting the direction of my hand so it faces the scoring table at all times.
+                - When appropriate, I accelerate while skating backward with my jammer as they exit the front engagement zone to keep them within my direct line of sight.
+                - Following my jammer back to their bench after each jam so I can observe anything they do or that happens to them.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/PniDM6UWvTQ?start=19771" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/PniDM6UWvTQ?t=19771" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/PniDM6UWvTQ?t=19771 :octicons-link-external-24:](https://youtu.be/PniDM6UWvTQ?t=19771){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - This video clip is an entire half of a derby game from Y’Allstars 2024, where I served as a JR for Beast Side Roller Derby.
+            - Beast Side fielded extremely talented and fast Jammers who presented many challenges to effectively officiate.
+
+        === "Outcome :material-cursor-default-click:"
+
+            - I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status immediately, and calling off jams precisely.
+            - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts.
+            - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
+
+        === "Importance :material-cursor-default-click:"
+
+            - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers demonstrates that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+        </center>
 
 ---
 
@@ -987,7 +1030,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the beginning of this video, while serving as JR for Black Jammer #411, I observe Red blocker #508 force my Jammer OOB near the center of turn 1 on the outside of the track.
+        - At the beginning of this video, while serving as a JR for Black Jammer #411, I observe Red blocker #508 force my Jammer OOB near the center of turn 1 on the outside of the track.
             - I observed the middle OPR point to indicate that Red #508 initiated the block that sent Black #411 OOB.
             - I note that all other Red blockers are in front of Black #411 when Red #508 blocks Black #411 OOB.
         - I observe Black #3 force Red #508 OOB near the entrance of turn 1 on the outside of the track, and I am aware that Red #508 has now lost and cannot regain their superior position advantage over Black #411.
