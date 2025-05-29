@@ -234,7 +234,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
-## Evaluation #9 - PBT, PBM, SBO
+## Evaluation #9 - PBM, PBT, SBO
 
 ??? clipboard "Salem Slam III - 22-23 March, 2025 :material-cursor-default-click-outline:"
 
@@ -259,6 +259,37 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
     === "Broader Feedback :material-cursor-default-click-outline:"
 
         Breadpool truly goes above and beyond for the roller derby community. I am always happy to work with him in any officiating capacity, on or off skates.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #10 - PBT, SBO, STATS
+
+??? clipboard "Hoagie Roll - 25-26 May, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Tournament Head Official) filled out an eval for Hoagie Rol 2025, an event from 5/24/2025 to 5/25/2025, involving 4 sanctioned games, "other" games described as "N/A" for JRDA, during which you served as PBT, SBO.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        I worked with Breadpool in several capacities at Hoagie Roll, a open division championship-level JRDA tournament. I was the THNSO, but also worked in-game positions. On the NSO side, Breadpool worked as SBO (3 games) and PBT (1 game).
+
+        I worked directly with Breadpool in the penalty box as PBT. His timing and paperwork were accurate even under the pressure of players cycling through the penalty box in high volume. He maintained consistent and clear communication with his paired PLT throughout the game, going to confirm penalties with every timeout. The venue was loud, but I could hear his instructions to the players the majority of the time; however, there were a few times that he could have been a little louder or clearer as the players did not always immediately recognise *(sic)* that they were good to return to the track. He also maintained communication with our PBM regarding number of penalties and jammer penalties. He kept a calm demeanour *(sic)* throughout the game and did not appear to be rushed.
+
+        I got to experience Breadpool SBO from multiple perspectives over the weekend as THNSO, CHNSO, and PLT. Two of the games went very smoothly - jams started and ended in sync with the JT, points and lead status were awarded promptly, and communication between Breadpool and the SKs was clear and observable from all around the venue. I noticed Breadpool watching the JT and JRs for points and call offs. But the third game, Philly v FoCo, which was very high-intensity and high-volume being the same teams that played during the open division gold medal game at 2024 JRDA Championships, had some computer trouble. During the game, certain hotkeys were not responding, and even though Breadpool was clicking the button to end timeout, the scoreboard did not go into post-timeout. This issue occurred a few times, resulting in clock stoppages, but that was limited to the first half of the game as Breadpool became more conscious of the issue and worked around it accordingly.
+
+        Additionally, during one of the jams in the first half, the scoreboard froze and stopped accepting input. Breadpool was able to promptly get my attention (I was CHNSO/PLT) and called for us to call off the jam. While there was initially some confusion as to whether the jam should have been called off or if the clock would have run off of the JT's clock, we determined that Breadpool made the right call in telling us to go into an OTO.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        After the Philly v FoCo game, Breadpool went to speak to the coaches out of his own volition to explain the situation that occurred with the scoreboard freezing. He was very collected and was taking accountability for requesting that the jam be called. I did not hear much of the conversation, but the Philly coach did talk to me afterwards saying how appreciative she was to hear the situation directly from him and that she respected him for taking accountability and seeking her out. It definitely calmed down a lot of nerves from a high intensity and high volume game, especially as Philly had been frustrated with the OTOs for the scoreboard.
 
         Cordially,
         Officials Certification
