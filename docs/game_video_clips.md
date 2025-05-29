@@ -724,7 +724,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
          === "Overview :material-cursor-default-click:"
 
-            - At the ≈NN:NN mark in this video, while serving as a JR, my Jammer, Black #10 will immediately earn lead, speed around the track, and start the first of four scoring trips before calling off jam.
+            - At the ≈5:29:31 mark in this video, while serving as a JR, my Jammer, Black #10 will immediately earn lead, speed around the track, and start the first of four scoring trips before calling off jam.
 
         === "Outcome :material-cursor-default-click:"
 
@@ -752,10 +752,10 @@ Below are links to some of my officiating performances that highlight my capabil
                 - Following my jammer back to their bench after each jam so I can observe anything they do or that happens to them.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/PniDM6UWvTQ?start=19771" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/PniDM6UWvTQ?t=19771" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+            <br>[https://youtu.be/PniDM6UWvTQ?t=19771 :octicons-link-external-24:](https://youtu.be/PniDM6UWvTQ?t=19771){ target=_blank }
         </center>
 
     === "Video #2 :material-cursor-default-click:"
