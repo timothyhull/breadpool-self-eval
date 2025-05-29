@@ -717,7 +717,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
-    - This example is several short videos that demonstrate I have the skating skills to keep myself precisely aligned with some of the most athletic and elite players in the world.
+    - This example consists of several short videos that demonstrate that I have the skating skills to keep myself precisely aligned with some of the world's most athletic and elite players.
     - My skating skills afford me the capacity to concentrate on monitoring nuanced details of gameplay and determining the appropriate officiating responses in real-time with high accuracy.
 
     === "Video #1 :material-cursor-default-click:"
@@ -732,15 +732,15 @@ Below are links to some of my officiating performances that highlight my capabil
             - During scoring trip #2, my jammer fluidly navigates blocks by opposing players, and I transition to backward skating to:
                 - Put myself in the best position to observe earned passes.
                 - Create a narrow profile that occupies as little space as possible.
-                - Retain the ability to immediately stop and rapidly change directions as needed.
-                - Exit the pack and engagement zone area with the front of my body facing my jammer for as clear as possible of a point of view.
-            - During scoring trip #3, I observe Red Blocker #101 legally block my jammer, although they sustain the block until they force my jammer into making contact to the head and neck area of a downed player, Red #1018.
+                - Retain the ability to stop and rapidly change directions as needed with immediacy.
+                - Exit the pack and engagement zone area with the front of my body facing my jammer for as clear a point of view as possible.
+            - During scoring trip #3, I observed Red Blocker #101 legally block my jammer, although they sustained the block until they forced my jammer into making contact with the head and neck area of a downed player, Red #1018.
                 - I was able to determine the initiation, assess impact, and sufficiently understand roller derby rules to penalize the Red #101 instead of mistakenly penalizing my jammer for initiating a block on a downed opponent.
                 - After issuing the appropriate verbal and visual cues to assess the penalty, I calmly and confidently replace my whistle in my mouth and return my arms and hands to the correct positions.
                 - I maintain precise alignment with my jammer throughout the process of assessing the penalty.
-            - During scoring trip #4, I observe Red Blocker #4 make contact with the head and neck area of my jammer that I determined was sufficiently forceful to warrant a high block penalty.
+            - During scoring trip #4, I observed Red Blocker #4 make contact with my jammer's head and neck area, which I determined was sufficiently forceful to warrant a high block penalty.
                 - I blow my whistle and start to issue a high block penalty before I stop because I hear the HR/rear IPR start to issue a penalty to Red Blocker #4.
-            - I start to call off the jam at the exact time my jammer taps their hips for the second time, and I signal points simultaneously with the first set of four jam ending whistles.
+            - I start to call off the jam at the exact time my jammer taps their hips for the second time, and I signal points simultaneously with the first set of four jam-ending whistles.
             - I follow my jammer back to their bench to observe for any actions that may constitute some form of response.
 
         === "Importance :material-cursor-default-click:"
