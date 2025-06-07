@@ -398,10 +398,9 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
             - While serving in the ePLT role, I need to improve my timing precision for marking the start and end of box trips.
                 - I will occasionally be slow to indicate when a player completes their penalty service.
-            - I lack experience and practice with:
+            - I lack experience and regular practice with:
                 - PLT/ePLT recording of non-player expulsions.
                 - The separate roles of PT and LT.
 
