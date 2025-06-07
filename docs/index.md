@@ -302,7 +302,6 @@ Please click to expand the sections below for detailed information about my deve
 
             - At this stage of my development, I have limited experience in the HNSO role.
                 - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
-                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
             - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
             - I have no experience serving as CHNSO or THNSO.
 
