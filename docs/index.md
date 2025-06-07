@@ -431,9 +431,9 @@ Please click to expand the sections below for detailed information about my deve
                 - Scoring trips, including less common scenarios like negative trips, etc.
                 - Scenarios where a jammer loses the ability to earn lead, whether or not the scenario is common.
                 - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
-            - Ability to support developing JRs by:
-                - Providing feedback that helps them comfortably learn and build confidence in the JR role.
-                - Sharing insights regarding the nuances of the JR role and how they can best support gameplay.
+            - Ability to support developing JRs and SBOs by:
+                - Providing feedback that helps them comfortably learn and build confidence in their roles.
+                - Sharing insights regarding the nuances of their roles and how they can best support gameplay.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
