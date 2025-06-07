@@ -762,7 +762,7 @@ Please click to expand the sections below for detailed information about my deve
     - Simplified HNSO game setup procedures for RCR-hosted games by:
         - Permanently installing Raspberry Pi devices used to drive CRG penalty whiteboard displays at team benches.
         - Establishing a process to remote control Raspberry Pi devices from the SBO computer.
-    - Mounted and installed/configured a new monitor and Raspberry Pi device in the official's locker room to make the scoreboard display visible.
+    - Mounted and installed/configured a new monitor and Raspberry Pi device in the official's locker room to make the scoreboard display visible from within the locker room.
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
