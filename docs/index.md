@@ -443,7 +443,8 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Extensive practice in the SBO role, with and without SK support.
+            - Continuous, clear, thoughtful, supportive, two-way communication with my peer SKs and JT.
+            - Extensive practice in the SBO role, with and without SK support.  
             - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guide to avoid OS Offset scenarios.
@@ -461,8 +462,8 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - Limited experience operating the scoreboard during games.
-                - I actively seek opportunities to serve as an SBO during local and regional games so that my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
+            - More experience operating the scoreboard during games, especially sanctioned games.
+                - I actively seek opportunities to serve as an SBO during local, regional, and national games so that my OHD indicates I have sufficient experience to have opportunities for SBO during any event.
     
     ??? clipboard "ALTN :material-cursor-default-click:"
 
