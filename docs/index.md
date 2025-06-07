@@ -328,9 +328,9 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - I need to improve my consistency as a JT by serving in the role more frequently.
-                - I will sometimes go for weeks or months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I do not have to think about everything I'm doing and need to do.
-            - I will sometimes focus so much on responding to timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
-                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
+                - I will sometimes go for several weeks without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not thinking about everything I'm doing and need to do.
+            - I will sometimes focus so much on responding to and signaling timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
+                - I am continuing to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
