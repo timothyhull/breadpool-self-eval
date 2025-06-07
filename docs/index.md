@@ -449,7 +449,7 @@ Please click to expand the sections below for detailed information about my deve
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guide to avoid OS Offset scenarios.
             - Extensive experience importing and exporting stats book files before and after games.
-            - Experience recovering CRG from errors.
+            - Experience working with CRG data files and recovering CRG from errors/failures.
             - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
                 - Team logos, team titles/names, and scoreboard display colors.
                 - Advertisement banners.
@@ -459,6 +459,9 @@ Please click to expand the sections below for detailed information about my deve
                 - Operate my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Serve as SBO during scrimmages.
                 - Teach my peer officials the SBO role.
+            - Lowering the barrier for new SBOs to learn and build comfort with the SBO role:
+                - I developed an open-source software solution that simplifies the SBO interface using an Elgato Stream Deck.
+                - See the [Other Derby Contributions and Experience](#other-derby-contributions-and-experience "Other Derby Contributions and Experience") section for details.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
