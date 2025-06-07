@@ -731,7 +731,7 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 3,100+ hours of volunteer contributions to roller derby since August of 2022 including:
+    - 3,200+ hours of volunteer contributions to roller derby since August of 2022 including:
         - 500+ hours of officiating RCR adult and junior scrimmages.
         - 110+ hours of attending RCR officiating practices.
         - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
