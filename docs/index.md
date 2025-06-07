@@ -349,8 +349,7 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - At this stage of my development, I have limited experience in the PBM role.
-                - I am actively seeking opportunities to serve in the PBM role.
-                - As I gain experience, I will seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+                - I am actively seeking opportunities to serve in the PBM role during games within and outside of my home league.
 
     ??? stopwatch "PBT :material-cursor-default-click:"
 
