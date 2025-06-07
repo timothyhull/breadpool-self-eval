@@ -302,9 +302,8 @@ Please click to expand the sections below for detailed information about my deve
 
             - At this stage of my development, I have limited experience in the HNSO role.
                 - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
-                - As I gain experience, I will seek opportunities to serve in the HNSO and CHNSO roles at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
-            - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I have limited experience with the game sanctioning and stats book submission processes.
-            - I have no experience serving as CHNSO or THNSO.
+            - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I am still building experience with the game sanctioning and stats book submission processes.
+            - I have no experience serving in the CHNSO or THNSO roles.
 
     ??? stopwatch "JT :material-cursor-default-click:"
 
@@ -328,9 +327,9 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - I need to improve my consistency as a JT by serving in the role more frequently.
-                - I will sometimes go for weeks or months without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I do not have to think about everything I'm doing and need to do.
-            - I will sometimes focus so much on responding to timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
-                - I need to continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
+                - I will sometimes go for several weeks without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not thinking about everything I'm doing and need to do.
+            - I will sometimes focus so much on responding to and signaling timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
+                - I am continuing to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
@@ -350,8 +349,7 @@ Please click to expand the sections below for detailed information about my deve
         === "My Areas for Growth :material-cursor-default-click:"
 
             - At this stage of my development, I have limited experience in the PBM role.
-                - I am actively seeking opportunities to serve in the PBM role.
-                - As I gain experience, I will seek opportunities to serve in the PBM role outside of my home league and at tournaments that specifically seek officials who want to develop experience in new roles, including RollerCon.
+                - I am actively seeking opportunities to serve in the PBM role during games within and outside of my home league.
 
     ??? stopwatch "PBT :material-cursor-default-click:"
 
@@ -376,7 +374,7 @@ Please click to expand the sections below for detailed information about my deve
                 - When multiple players are serving penalties simultaneously, I use a running clock to record the time each player sits, stands, and completes their penalty.
                     - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds, assuming I'm not recording timing for multiple penalties or a jammer swap.
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
-                - It's important that I practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
+                - It's important that I continue to experiment with and practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
 
     ??? tablet "PLT/ePLT :material-cursor-default-click:"
 
@@ -400,10 +398,9 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - I am dyslexic, and I sometimes struggle to quickly and correctly identify all non-pivot blockers participating in a given jam.
             - While serving in the ePLT role, I need to improve my timing precision for marking the start and end of box trips.
                 - I will occasionally be slow to indicate when a player completes their penalty service.
-            - I lack experience and practice with:
+            - I lack experience and regular practice with:
                 - PLT/ePLT recording of non-player expulsions.
                 - The separate roles of PT and LT.
 
@@ -434,9 +431,9 @@ Please click to expand the sections below for detailed information about my deve
                 - Scoring trips, including less common scenarios like negative trips, etc.
                 - Scenarios where a jammer loses the ability to earn lead, whether or not the scenario is common.
                 - Scenarios where a jammer has *not* lost lead, even if their helmet cover is not on their helmet.
-            - Ability to support developing JRs by:
-                - Providing feedback that helps them comfortably learn and build confidence in the JR role.
-                - Sharing insights regarding the nuances of the JR role and how they can best support gameplay.
+            - Ability to support developing JRs and SBOs by:
+                - Providing feedback that helps them comfortably learn and build confidence in their roles.
+                - Sharing insights regarding the nuances of their roles and how they can best support gameplay.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
@@ -446,12 +443,13 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Extensive practice in the SBO role, with and without SK support.
+            - Continuous, clear, thoughtful, supportive, two-way communication with my peer SKs and JT.
+            - Extensive practice in the SBO role, with and without SK support.  
             - Precision clock operation and timely display updates (points, timeouts, etc.).
             - Extensive experience working with, diagnosing, troubleshooting, and supporting CRG on Windows, macOS, and Linux platforms.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guide to avoid OS Offset scenarios.
             - Extensive experience importing and exporting stats book files before and after games.
-            - Experience recovering CRG from errors.
+            - Experience working with CRG data files and recovering CRG from errors/failures.
             - Experience customizing CRG to support specific team, venue, league, sponsor, audience, and broadcast/stream needs including:
                 - Team logos, team titles/names, and scoreboard display colors.
                 - Advertisement banners.
@@ -461,11 +459,14 @@ Please click to expand the sections below for detailed information about my deve
                 - Operate my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Serve as SBO during scrimmages.
                 - Teach my peer officials the SBO role.
+            - Lowering the barrier for new SBOs to learn and build comfort with the SBO role:
+                - I developed an open-source software solution that simplifies the SBO interface using an Elgato Stream Deck.
+                - See the [Other Derby Contributions and Experience](#other-derby-contributions-and-experience "Other Derby Contributions and Experience") section for details.
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - Limited experience operating the scoreboard during games.
-                - I actively seek opportunities to serve as an SBO during local and regional games so that my OHD indicates a sufficient history to have opportunities for SBO operation outside of my region and during tournaments.
+            - More experience operating the scoreboard during games, especially sanctioned games.
+                - I actively seek opportunities to serve as an SBO during local, regional, and national games so that my OHD indicates I have sufficient experience to have opportunities for SBO during any event.
     
     ??? clipboard "ALTN :material-cursor-default-click:"
 
@@ -733,7 +734,7 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 3,100+ hours of volunteer contributions to roller derby since August of 2022 including:
+    - 3,200+ hours of volunteer contributions to roller derby since August of 2022 including:
         - 500+ hours of officiating RCR adult and junior scrimmages.
         - 110+ hours of attending RCR officiating practices.
         - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
@@ -761,7 +762,7 @@ Please click to expand the sections below for detailed information about my deve
     - Simplified HNSO game setup procedures for RCR-hosted games by:
         - Permanently installing Raspberry Pi devices used to drive CRG penalty whiteboard displays at team benches.
         - Establishing a process to remote control Raspberry Pi devices from the SBO computer.
-    - Mounted and installed/configured a new monitor and Raspberry Pi device in the official's locker room to make the scoreboard display visible.
+    - Mounted and installed/configured a new monitor and Raspberry Pi device in the official's locker room to make the scoreboard display visible from within the locker room.
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
