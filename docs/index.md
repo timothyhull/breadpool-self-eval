@@ -374,7 +374,7 @@ Please click to expand the sections below for detailed information about my deve
                 - When multiple players are serving penalties simultaneously, I use a running clock to record the time each player sits, stands, and completes their penalty.
                     - Some CHNSOs/HNSOs prefer that all players sit at 0 seconds, stand at 20 seconds, and complete service at 30 seconds, assuming I'm not recording timing for multiple penalties or a jammer swap.
                     - The single watch technique I use may show that a player sits at 16 seconds, stands at 36 seconds, and completes service at 46 seconds.
-                - It's important that I practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
+                - It's important that I continue to experiment with and practice the dual watch technique to best support the needs of my assigned CHNSOs/HNSOs.
 
     ??? tablet "PLT/ePLT :material-cursor-default-click:"
 
