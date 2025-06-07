@@ -749,7 +749,7 @@ Please click to expand the sections below for detailed information about my deve
 
     - OC member from January to December of 2023.
     - OC member from January to December of 2024.
-    - OC co-chair from January 2025 term from January to present.
+    - OC co-chair for term from January 2025 to present.
 
 ??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
