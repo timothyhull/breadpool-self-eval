@@ -14,7 +14,7 @@ certifi==2025.4.26
     # via requests
 charset-normalizer==3.4.2
     # via requests
-click==8.2.0
+click==8.2.1
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
@@ -55,7 +55,7 @@ mkdocs-get-deps==0.2.0
     # via mkdocs
 mkdocs-git-committers-plugin-2==2.5.0
     # via -r requirements.in
-mkdocs-git-revision-date-localized-plugin==1.4.5
+mkdocs-git-revision-date-localized-plugin==1.4.7
     # via -r requirements.in
 mkdocs-glightbox==0.4.0
     # via -r requirements.in
