@@ -294,8 +294,6 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
----
-
 ## Evaluation #11 - SBO
 
 ??? clipboard "Summer Slam 2025 - 16-17 August, 2025 :material-cursor-default-click-outline:"
@@ -334,10 +332,6 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Cordially,
         Officials Certification
-
----
-
----
 
 ## Evaluation #12 - OPR, IPR
 
