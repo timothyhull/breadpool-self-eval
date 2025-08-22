@@ -296,6 +296,90 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
 ---
 
+## Evaluation #11 - SBO
+
+??? clipboard "Summer Slam 2025 - 16-17 August, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Summer Slam, an event from 8/16/2025 to 8/17/2025, involving 3 sanctioned games, 1 regulation games for WFTDA, during which you served as SBO.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Full Disclosure: Breadpool and I share the same home league, and work together fairly often. However, crew staffing and positions for this sanctioned tournament were decided by the tournament heads.
+
+        Breadpool worked four games as SBO for Summer Slam. He was partnered with one highly experienced official and one newer scorekeeper. The tournament got off to a rocky technical start as CRG was experiencing issues before the start of our first game. As a result, all of the games that had previously been loaded into CRG were not loading. Breadpool jumped in and assisted by entering game and roster data. This allowed me to finish updating paperwork, setup, etc.
+
+        During a longer gap between games, Breadpool was able to figure out that the issues we were having had to do with CRG not recognizing the correct time for games. CRG was showing UTC, and we were PST. He was able to work around the issue and get things back on track.
+
+        During gameplay, Breadpool partnered well with the jam timer. The nonverbal communication was consistent, and to my knowledge, there were no clock adjustments needed. I was able to observe several jam starts, and the timing of the starts was consistent with the whistle. Timeouts were quickly and accurately noted with no corrections needed.
+
+        In addition to the time issue with CRG, the weekend had a few more hiccups. At one point, the cable between the monitor and the scoreboard disconnected. This was noticed instantly and resolved without any game interruption or delay. Additionally, there were moments where CRG just sorta seized up between jams. On a couple of instances, this occurred,  Breadpool and the jam timer were able to communicate quickly as to whether a time-out would be needed, reducing the instances of clock stoppages.
+
+        While this was a sanctioned tournament, it is important to note that the score table had an error, resulting in a score offset. In this instance, the jam ref assessed a box point at the end of the jam, not realizing that the skater was a jammer (cover off). This was recognized in the next jam, which was very short. Unfortunately, the information was not relayed to the score table in enough time to resolve the discrepancy before the jam ended. Breadpool recognized the issue and brought it to my attention as quickly as possible, while following proper procedures.
+
+        Despite all technical difficulties and just odd situations throughout the weekend, Breadpool was calm, helpful, friendly, and professional throughout the weekend. He took the time to listen to his scorekeeper, who has well over a decade of scoreboard experience, and mentored the newer official whose favorite position is SBO.
+
+        While I did not have a say in positional staffing this tournament, I was relieved to see Breadpool as my SBO. I am happy to staff him in that position at any level of derby.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        None.
+
+        Cordially,
+        Officials Certification
+
+---
+
+---
+
+## Evaluation #12 - OPR, IPR
+
+??? clipboard "Cactus Cup 2025 - 18-20 April, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) co-CHR; I CHR'd 2 games and I OPR'd 3 games) filled out an eval for Cactus Cup 2025, an event from 4/18/2025 to 4/20/2025, involving 3 sanctioned games, 2 regulation games for WFTDA, during which you served as IPR, OPR.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Breadpool (Bread) was an official on our crew at Cactus Cup 2025. I was a co-CHR alongside **REDACTED**. I am writing this evaluation using notes taken at the time of the tournament and notes taken from watching online footage of the tournament. Bread officiated three games at IPR and two games at OPR
+
+        Bread’s demeanor throughout the tournament was genial and collaborative. His communication across the weekend was concise and to-the-point. During ORs, he would only convey relevant information. He was very open to feedback across the weekend.
+
+        For his games at OPR, Bread was in the FOPR position. Bread received feedback from the THR that his acceleration up front was a bit off, leading Bread to disclose that he had hip surgery 6 weeks ago. I was shocked, even though I agreed with the feedback, it appeared to be a relatively minor issue. Regardless, I believe this is a temporary issue. At FOPR, he demonstrated good end-of-Jam position and was able to assist JRs for points questions on multiple occasions. His contact penalty metric appeared to be consistent with the rest of the crew. For instance, Bread had an excellent Blocking a Down Skater Illegal Contact penalty where a Jammer didn’t take sufficient action to avoid a down skater. Overall, his OPR performance was solid while noting his acceleration wasn’t up to his own standard.
+
+        At FIPR, Bread really shined in this tournament. He and **REDACTED** came to a set of consensus “Failure to” very quickly. Bread and **REDACTED** were in sync both on declaring No Packs and redefining the Pack. Bread’s 20 ft was consistent across the weekend, as was his identification of OOP Blocks in the front. It was a real joy to watch the two of them handle the Pack together.
+
+        A very small nit to pick is that on several occasions, Bread issued a Low Block and his hand signal was not as clear as it could be. This is more for informational purposes than critical feedback, but Bread makes the signal with his arm a few inches away from his chest instead of on his chest, which makes for a confusing sign when repeated.
+
+        Overall, Bread had a strong tournament on a strong crew. I look forward to working with Bread again soon.
+
+        Additional thoughts from **REDACTED**: I’ve worked on crews with Bread several times and I’m always very impressed with his level of interaction and adaptation with the crew and the event. Bread did a great job at Cactus Cup, and understanding that he can “flex” toward a crew or standard depending on the expectations makes his work exceptional. He is quick to discuss what he’s seeing and to adapt to impact thresholds (for example, when does knocking an opponent into a downed skater warrant a misconduct?) to match the crew or direction from the THRs. Being adaptable is an excellent skill for a tournament-level official.
+
+        Bread has no ego attached to his calls and will readily discuss or overturn calls based on another official’s perspective. He expects the same of other officials, which is a skill I admire: he’s not sheepish about offering a differing perspective on a crewmate’s call. Sometimes I think it’s harder to voice a differing opinion than it is to hear one (especially to a crew head), and I really appreciate having a crewmate who will speak up. He does all this quickly and efficiently, and rarely needs an OTO to discuss. I believe this level of thoughtful neutrality helped our crew get the right calls to support the skaters. Bread is a dreammate.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        None.
+
+        Cordially,
+        Officials Certification
+
+---
+
 <figure markdown>
 ![Jam Timer, Crow City Derby vs. Trans Rollers United, March, 2025 - Credit: Papa Slayworth](images/breadpool_jt_crow_city_vs_tru_3-29-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
