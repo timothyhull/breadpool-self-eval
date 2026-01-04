@@ -11,11 +11,6 @@ mkdocs-git-committers-plugin-2
 mkdocs-git-revision-date-localized-plugin
 mkdocs-glightbox
 
-# Material for MkDocs Insiders features installed separately
-## Installed automatically by "scripts/install-mkdocs-material-insiders.sh"
-## in the VS Code dev container. Installed for production documentation builds
-## with a GitHub Action using ".github/workflows/mkdocs-build.yml".
-
 # Python formatting
 autopep8
 flake8
