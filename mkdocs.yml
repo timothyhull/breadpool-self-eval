@@ -25,7 +25,7 @@ theme:
     repo: fontawesome/brands/github
 
   # Features
-    features:
+  features:
     - content.code.annotate
     - content.footnote.tooltips
     # - content.tabs.link
