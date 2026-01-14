@@ -186,10 +186,9 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
     - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
-    - I respect my opponent, although I do not fear them.
     - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I prepare to be successful in the biggest moments.
     - "Winning" means my peers and I supported safe, fair gameplay in which the competing teams feel like they control the outcome.
-    - I give my all to be the best teammate anyone has ever had, always seeking self-improvement and working to be someone who my peers trust, feel safe with, and love to work with.
+    - I give my all to be the best teammate anyone has ever had, always seeking feedback, self-improvement, and working to be someone whom my peers trust, feel safe with, and love to work with.
 
 ??? bread "2. Extreme Positivity :material-cursor-default-click:"
 
@@ -204,12 +203,12 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
-    - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
+    - I regularly study roller derby rules and cases to continuously develop a better understanding of rules theory because I believe learning the theory helps me quickly process complex situations in a way that supports the best, most competitive, and safest possible gameplay experience.
 
 ??? bread "4. Empathic Listening :material-cursor-default-click:"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
-    - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
+    - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may see situations differently.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
     - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
@@ -233,8 +232,8 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
 ??? bread "8. Hustle :material-cursor-default-click:"
 
-    - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of BJJ and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
+    - No matter what I do, I move with the utmost sense of purpose, often sprinting in one direction, slamming on the brakes, and sprinting in the other direction, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
+    - I apply the skills I've developed in over 20 years of BJJ and Judo training and competition to reduce the probability that I will fall and to recover from any fall with urgency and explosiveness.
     - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
@@ -245,7 +244,7 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 ??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
     - Making split-second, difficult decisions is simply part of being an official, and I believe that applies to all levels in all sports.
-    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
+    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good and selfless judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
 
 <figure markdown>
 ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
