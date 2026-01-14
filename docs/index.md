@@ -267,7 +267,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Precision** - accurate timing, clear communication, and adherence to established policies and procedures.
     - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
     - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
-    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to process and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate competitive, safe, and fair gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding, inclusiveness, courtesy, support, respect, and validation.
 
