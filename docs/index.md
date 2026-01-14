@@ -68,12 +68,10 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     - **Name:** Breadpool (Timothy Hull)
     - **Pronouns:** He/Him
-    - **Age:** 45
+    - **WFTDA NSO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
     - **Home Town:** Portland, Oregon, USA
-    - **Birth Town:** Annapolis, Maryland, USA
     - **League Affiliation:** RCR
     - **Languages:** English, Brazilian Portuguese
-    - **Occupation:** Automation Software Development Consultant
     - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
