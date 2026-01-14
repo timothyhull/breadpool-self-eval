@@ -48,7 +48,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
 === "Overview :material-cursor-default-click:"
 
-    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."  I am simply an **official** who works to continuously learn and improve, earn the trust of my peers, and excel in each roller derby officiating role.
+    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."  I am simply an **official** who works to continuously learn and improve, earn the trust of my peers, and excel in each officiating role.
     
     I seek to continuously improve my skills in *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
     
@@ -88,9 +88,9 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     === "Inspiration :material-cursor-default-click:"
 
-        I am a physically disabled U.S. Army veteran with double hip replacements, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believes they are capable of.
+        I am a physically disabled U.S. Army veteran with bilateral hip replacements, and I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believes they are capable of.
         
-        When I serve in an officiating role, on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 21 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+        When I officiate on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 21 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
         
         Intense rehabilitation to recover from injuries is my superpower.  I served in SO roles within a few weeks of each of my total hip replacement surgeries because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be able to skate.
         
@@ -110,7 +110,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         
         Military service disabilities and sports injuries prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
 
-        Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for now, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to improve every day.
+        Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't over because, for now, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to improve every day.
 
         <figure markdown>
         ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -136,7 +136,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         Although each sport has unique officiating requirements and nuances, I find there are many common elements to the role of officiating across sports.  I make this point because I believe one of the reasons I've been able to integrate effectively with the roller derby officiating community within a few years is my prior officiating experience:
 
         - Conducting myself in keeping with the professional nature of an official.
-        - Communicating effectively with players, coaches, other officials, staff, and spectators.
+        - Communicating thoughtfully with players, coaches, other officials, staff, and spectators.
         - Understanding that even the nicest people sometimes become elevated during competition, and affording them the space to be elevated without judging them or taking things personally.
         - De-escalating intense situations between players, coaches, officials, etc.
         - Not allowing player, coach, or crowd reactions to impact my judgment or responses.
@@ -154,7 +154,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     === "Derby Officiating :material-cursor-default-click:"
 
-        I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practices and asked that I join her so she wouldn't feel alone.
+        I began my derby officiating journey in August of 2022, somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practices and asked that I join her so she wouldn't feel alone.
         
         I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for most of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was something I would enjoy and invest so much in.
         
