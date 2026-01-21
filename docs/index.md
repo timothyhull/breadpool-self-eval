@@ -378,7 +378,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
-            - Championship tournament experience in the PLT and ePLT roles.
+            - Championship tournament experience (JRDA) in the PLT and ePLT roles.
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
             - Completing PLT paperwork in a clear and legible way.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
@@ -492,7 +492,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
     - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
-    - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe, fair, and collaborative gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I behave in a way that proactively shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
@@ -536,6 +536,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience (JRDA) in the CHR role.
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
             - Maximizing opportunities for my peers to officiate by assigning them to all available roster positions, including the ALTR position.
@@ -543,6 +544,7 @@ Please click to expand the sections below for detailed information about my deve
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
             - Helping guide and adjust the penalty game impact spectrum amongst my crew to help limit the number of player and team penalties as much as possible.
+            - Proactive, ongoing collaboration with competing teams to help limit penalties and improve the gameplay experience.
             - Communicating with players and coaches in a way that seeks to understand their points of view.
             - Managing game flow by:
                 - Limiting the duration and frequency of OTOs whenever possible.
@@ -571,6 +573,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience (MRDA) in the front, middle, and rear OPR roles.
             - High proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
             - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the pack's speed has even the slightest potential to put me or my peers out of position.
             - Awareness of earned passes within my zone of responsibility, including player details.
