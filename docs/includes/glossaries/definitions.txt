@@ -7,6 +7,8 @@
 *[CHR]: Crew Head Referee
 *[CHRs]: Crew Head Referees
 *[CRG]: Carolina Roller Girls Scoreboard Software
+*[ePBT]: Electronic Penalty Box Timer
+*[ePBT]: ElectronicPenalty Box Timers
 *[ePLT]: Electronic Penalty Lineup Tracker
 *[ePLTs]: Electronic Penalty Lineup Trackers
 *[GNR]: Guns N Rollers
