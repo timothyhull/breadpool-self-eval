@@ -32,11 +32,15 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
 ## About Me
 
-=== "Dedication :material-cursor-default-click:"
+=== "Profile :material-cursor-default-click:"
 
-    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
-    
-    Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+    - **Name:** Breadpool (Timothy Hull)
+    - **Pronouns:** He/Him
+    - **WFTDA NSO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
+    - **Home Town:** Portland, Oregon, USA
+    - **League Affiliation:** RCR
+    - **Languages:** English, Brazilian Portuguese
+    - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
     ![Jammer Referee, RCR Wheels of Justice vs. Arch Rival All-Stars, August, 2025 - Credit: Alyson Works Photography (@deesphotogdump on Instagram)](images/breadpool_jr_woj_vs_arch_8-23-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -61,24 +65,6 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         <figcaption style="font-size: 12px">
             JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
             Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
-        </figcaption>
-    </figure>
-
-=== "Profile :material-cursor-default-click:"
-
-    - **Name:** Breadpool (Timothy Hull)
-    - **Pronouns:** He/Him
-    - **WFTDA NSO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
-    - **Home Town:** Portland, Oregon, USA
-    - **League Affiliation:** RCR
-    - **Languages:** English, Brazilian Portuguese
-    - **Fun Fact:** BJJ Black Belt
-
-    <figure markdown>
-    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_2_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -173,6 +159,20 @@ Depending on the screen size of your device, a Table of Contents menu is availab
                 Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
             </figcaption>
         </figure>
+
+=== "Dedication :material-cursor-default-click:"
+
+    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
+    
+    Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+
+    <figure markdown>
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_2_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
+            Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
+        </figcaption>
+    </figure>
 
 ---
 
