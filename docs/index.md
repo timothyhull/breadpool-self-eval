@@ -39,10 +39,10 @@ Depending on the screen size of your device, a Table of Contents menu is availab
     Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
 
     <figure markdown>
-    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, RCR Wheels of Justice vs. Arch Rival All-Stars, August, 2025 - Credit: Alyson Works Photography (@deesphotogdump on Instagram)](images/breadpool_jr_woj_vs_arch_8-23-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
-            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
+            JR, RCR Wheels of Justice vs. Arch Rival All-Stars, August, 2025<br>
+            Credit: [Alyson Works Photography :octicons-link-external-24:](https://www.instagram.com/deesphotodump "@deesphotodump on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -796,9 +796,9 @@ Please click to expand the sections below for detailed information about my deve
 Thank you for reviewing my self-assessment.  I look forward to your feedback and am grateful for your support of my ongoing officiating development.
 
 <figure markdown>
-![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+![Outside Pack Referee, MRDA Championships, October, 2025 - Credit: Life Through Argo's Lens (Life-thru-Argos-lens-100068577723501 on Facebook)](images/breadpool_opr_mrda_champs_misfits_vs_race_city_10-12-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        OPR, Franky Panky JRDA Sanctioned, March, 2024<br>
-        Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
+        OPR, MRDA Championships, October, 2025<br>
+        Credit: [Life Through Argo's Lens :octicons-link-external-24:](https://www.facebook.com/p/Life-thru-Argos-lens-100068577723501 "Life-thru-Argos-lens-100068577723501 on Facebook"){ target=_blank }
     </figcaption>
 </figure>
