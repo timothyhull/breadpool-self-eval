@@ -288,7 +288,7 @@ Please click to expand the sections below for detailed information about my deve
             - Comfort with basic and advanced CRG configuration, setup, and troubleshooting.
             - Familiarity with WFTDA/MRDA and JRDA stats books guides, and the use of the [Statsbook Tool application](https://github.com/AdamSmasherDerby/Statsbook-Tool "Statsbook-Tool on GitHub"){ target=_blank } :octicons-link-external-24:.
             - Maximizing opportunities for available officials by assigning them to dedicated roster positions instead of assigning myself to a second position.
-            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help or development support.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
@@ -297,8 +297,6 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have limited experience in the HNSO role.
-                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
             - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I am still building experience with the game sanctioning and stats book submission processes.
             - I have no experience serving in the CHNSO or THNSO roles.
 
@@ -306,15 +304,17 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Strong familiarity with established officiating procedures.
             - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
             - Intently and actively monitoring team benches between jams to respond to requests for timeouts and ORs immediately.
             - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology before each jam includes:
                 - Ensuring medical staff are available and focused on the track area.
-                - Verifying that each team has at least one blocker and one jammer in legal starting positions.
+                - Verifying that each team fields a jammer.
+                - Verifying that each team has at least one blocker in a legal starting position.
                 - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
-                - Monitoring the HR for any indication they may not be ready to start the jam.
+                - Monitoring the HR/CHR and HNSO/CHNSO for any indication they may not be ready to start the jam.
             - Accurately providing backup timing for the official game and jam clocks.
             - Pregame coordination with the HR/CHR and SBO to understand their specific procedural preferences and indicators.
             - Supporting the SBO with clock and timeout consumption adjustments.
@@ -326,7 +326,7 @@ Please click to expand the sections below for detailed information about my deve
             - I need to improve my consistency as a JT by serving in the role more frequently.
                 - I will sometimes go for several weeks without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not thinking about everything I'm doing and need to do.
             - I will sometimes focus so much on responding to and signaling timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
-                - I am continuing to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
+                - I continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
@@ -348,10 +348,11 @@ Please click to expand the sections below for detailed information about my deve
             - At this stage of my development, I have limited experience in the PBM role.
                 - I am actively seeking opportunities to serve in the PBM role during games within and outside of my home league.
 
-    ??? stopwatch "PBT :material-cursor-default-click:"
+    ??? stopwatch "PBT/ePBT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Familiarity and experience with both the PLT paperwork and ePLT interface.
             - Emphasis on precision timing:
                 - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
                 - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
@@ -377,6 +378,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience in the PLT and ePLT roles.
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
             - Completing PLT paperwork in a clear and legible way.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
@@ -451,7 +453,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Team logos, team titles/names, and scoreboard display colors.
                 - Advertisement banners.
                 - Stream overlays.
-            - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing beta versions of CRG.
+            - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing new and beta versions of CRG.
              - For practice, I routinely:
                 - Operate my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Serve as SBO during scrimmages.
