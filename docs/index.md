@@ -736,8 +736,8 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 3,200+ hours of volunteer contributions to roller derby since August of 2022 including:
-        - 500+ hours of officiating RCR adult and junior scrimmages.
+    - 4,000+ hours of volunteer contributions to roller derby since August of 2022 including:
+        - 600+ hours of officiating RCR adult and junior scrimmages.
         - 110+ hours of attending RCR officiating practices.
         - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
 
@@ -768,7 +768,17 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
+    - Published a repository for custom CRG streaming overlays for consumption by global roller derby community [CRG Overlays](https://github.com/rcrderby/crg-overlays "CRG Broadcast Overlays on GitHub"){ target=_blank }:
+        - [Penalties Overlay](https://github.com/rcrderby/crg-overlays/blob/main/penalties "CRG Penalties Overlay"){ target=_blank }: Provides simple view of penalty and key game status information in a viewer-friendly format.
     - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
+
+    <figure markdown>
+    ![Example CRG Penalty Overlay](images/crg_penalties_overlay_example.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            [Example CRG Penalty Overlay :octicons-link-external-24:](https://github.com/rcrderby/crg-overlays/raw/main/penalties/images/penalties-preview.png "Example CRG Penalty Overlay"){ target=_blank }
+        </figcaption>
+    </figure>
+
     - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
         - Intended primarily to lower the CRG/SBO training barrier to officials of all experience levels.
 
