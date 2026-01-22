@@ -684,35 +684,6 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #9 - OPR
-
-??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
-
-    === "Overview :material-cursor-default-click:"
-
-        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer OOB.
-        - I also observe that Black Pivot gains superior position over Red Jammer just before Red Jammer is blocked out of bounds.
-        - Red Jammer re-enters the track behind Black #211, and I follow Black Pivot as they skate in non-derby direction.
-        - Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
-
-    === "Outcome :material-cursor-default-click:"
-
-        - Although I do not issue the penalty (indicated by my not using a swoop hand signal) since some of the action occurred outside my zone of responsibility, I blow my whistle and signal to the IPRs and JR that I have sufficient information to issue a cut penalty to Red Jammer for illegally gaining position on Black Pivot.
-        - Red Jammer’s JR issues the cut penalty.
-
-    === "Importance :material-cursor-default-click:"
-
-        - This video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
-
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/BvyVWitw714?t=37417 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?t=37417){ target=_blank }
-    </center>
-
----
-
 ### SO Example #10 - JR
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
@@ -982,44 +953,6 @@ Below are links to some of my officiating performances that highlight my capabil
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=270){ target=_blank }
-    </center>
-
----
-
-### SO Example #17 - OPR
-
-??? video "Proactively Monitoring Game Action :material-cursor-default-click:"
-
-    === "Overview :material-cursor-default-click:"
-
-        - At the beginning of this video, while serving as front OPR, I monitored athletes exiting and entering the track area during lineups after jam #4.
-            - Jam #4 ended while I was positioned near the center of turn #4, adjacent to the score table, team benches, and penalty box.
-        - I observed White #12 occupy a position behind the Jammer Line while neither wearing nor holding a Jammer helmet cover.
-        - I observed no Jammer for White in the penalty box area.
-        - When the jam starts, I immediately call off the jam and advise my CHR that White did not field a Jammer for jam #5.
-        - I use a standard visual cue to indicate I recommend assessing a penalty to the White team for delay of game.
-
-    === "Outcome :material-cursor-default-click:"
-    
-        - The HR immediately transitioned the stoppage to an OTO and issued White a delay of game penalty.
-        - The Captain for White reported to the penalty box to serve the penalty and a white blocker left the track area.
-
-    === "Importance :material-cursor-default-click:"
-
-        - An area of emphasis for me is monitoring player and team actions at all times, including times the jam clock is not running.
-        - Since gameplay happens even when there is no active jam, I do my best to proactively identify potential rules violations or safety issues.  That means, whenever possible, I monitor players during lineups to identify illegal or potentially illegal actions.
-        - While it seemed likely White would not field a Jammer, I kept my body language and movements as neutral and natural as possible to avoid divulging my observations and potentially preventing Black from rightfully earning a competitive advantage.
-        - Even though I was not in the official in the best position to make this particular call, I felt like I had enough information to take action and amplify the credibility of our crew.
-        
-    <center>
-        <video controls controlslist="nodownload" height="315" style="filter: drop-shadow(0 0 0.2rem black);" width="560">
-            <source src="videos/so_video_example_20.mp4" type="video/webm">
-            <source src="videos/so_video_example_20.mp4" type="video/mp4">
-        </video>
-    </center>
-    <center>
-        Credit: [Sacramento Roller Derby on Twitch :octicons-link-external-24:](https://www.twitch.tv/sacramentorollerderby "@sacrmentorollerderby on Twitch"){ target=_blank }
-        <br>Original video (timestamp 04:01:09) no longer available.
     </center>
 
 ---
