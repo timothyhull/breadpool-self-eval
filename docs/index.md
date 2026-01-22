@@ -537,7 +537,9 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Championship tournament experience (JRDA) in the CHR role.
+            - Experience with competition between WFTDA GUR top-10 teams in the CHR role.
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
+                - Includes creating and sharing a series of video recordings with crew instructions.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
             - Maximizing opportunities for my peers to officiate by assigning them to all available roster positions, including the ALTR position.
             - Understanding of and experience with the responsibilities and procedures associated with each SO position allows me to support any member of my crew who may need help with positioning, skating techniques, and role-specific responsibilities.
@@ -579,7 +581,7 @@ Please click to expand the sections below for detailed information about my deve
             - Awareness of earned passes within my zone of responsibility, including player details.
                 - Communicating earned pass information to JRs whenever necessary.
             - Frequent communication with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
+            - Clear and proactive non-verbal communication with players reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
             - Lateral movement skills that allow me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         === "My Areas for Growth :material-cursor-default-click:"
@@ -644,6 +646,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to immediately serve a penalty I do not agree with or immediately returning the jammer to the track.
                     - In either case, I would discuss the penalty with the issuing official after the current jam.
             - Although I am comfortable adapting my positioning to my peer JR's specific style and needs, I will sometimes forget to implement those adaptations consistently.
+            - I occasionally am slow to recognize high-speed or conspicuous star passes.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
