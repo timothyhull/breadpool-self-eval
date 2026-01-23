@@ -32,23 +32,27 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
 ## About Me
 
-=== "Dedication :material-cursor-default-click:"
+=== "Profile :material-cursor-default-click:"
 
-    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
-    
-    Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+    - **Name:** Breadpool (Timothy Hull)
+    - **Pronouns:** He/Him
+    - **WFTDA NSO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
+    - **Home Town:** Portland, Oregon, USA
+    - **League Affiliation:** RCR
+    - **Languages:** English, Brazilian Portuguese
+    - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
-    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_jr_franky_panky_jax_vs_red_stick_3_9_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, RCR Wheels of Justice vs. Arch Rival All-Stars, August, 2025 - Credit: Alyson Works Photography (@deesphotogdump on Instagram)](images/breadpool_jr_woj_vs_arch_8-23-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
-            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
+            JR, RCR Wheels of Justice vs. Arch Rival All-Stars, August, 2025<br>
+            Credit: [Alyson Works Photography :octicons-link-external-24:](https://www.instagram.com/deesphotodump "@deesphotodump on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
 === "Overview :material-cursor-default-click:"
 
-    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."  I am simply an **official** who works to continuously learn and improve, earn the trust of my peers, and excel in each roller derby officiating role.
+    I am intent on being an official who performs exceptionally in any role, for any type and level of gameplay, under any conditions, with any crew, anywhere, and anytime.  My self-evaluation encompasses both SO or NSO positions because I don't consider myself an "SO" or an "NSO."  I am simply an **official** who works to continuously learn and improve, earn the trust of my peers, and excel in each officiating role.
     
     I seek to continuously improve my skills in *every* NSO and SO position because improving in any one position sharpens me in every other position.  The more I understand the nuances of each officiating role, the more empathy I can show my peers as I work to help them be as effective and comfortable in their roles as possible.
     
@@ -64,33 +68,13 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         </figcaption>
     </figure>
 
-=== "Profile :material-cursor-default-click:"
-
-    - **Name:** Breadpool (Timothy Hull)
-    - **Pronouns:** He/Him
-    - **Age:** 45
-    - **Home Town:** Portland, Oregon, USA
-    - **Birth Town:** Annapolis, Maryland, USA
-    - **League Affiliation:** RCR
-    - **Languages:** English, Brazilian Portuguese
-    - **Occupation:** Automation Software Development Consultant
-    - **Fun Fact:** BJJ Black Belt
-
-    <figure markdown>
-    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_2_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
-        </figcaption>
-    </figure>
-
 === "What Derby Officiating Means to Me :material-cursor-default-click:"
 
     === "Inspiration :material-cursor-default-click:"
 
-        I am a physically disabled U.S. Army veteran with double hip replacements, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believes they are capable of.
+        I am a physically disabled U.S. Army veteran with bilateral hip replacements, and I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believes they are capable of.
         
-        When I serve in an officiating role, on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 21 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+        When I officiate on- or off-skates, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 21 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
         
         Intense rehabilitation to recover from injuries is my superpower.  I served in SO roles within a few weeks of each of my total hip replacement surgeries because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be able to skate.
         
@@ -110,7 +94,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         
         Military service disabilities and sports injuries prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
 
-        Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for now, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to improve every day.
+        Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't over because, for now, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to improve every day.
 
         <figure markdown>
         ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -136,7 +120,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
         Although each sport has unique officiating requirements and nuances, I find there are many common elements to the role of officiating across sports.  I make this point because I believe one of the reasons I've been able to integrate effectively with the roller derby officiating community within a few years is my prior officiating experience:
 
         - Conducting myself in keeping with the professional nature of an official.
-        - Communicating effectively with players, coaches, other officials, staff, and spectators.
+        - Communicating thoughtfully with players, coaches, other officials, staff, and spectators.
         - Understanding that even the nicest people sometimes become elevated during competition, and affording them the space to be elevated without judging them or taking things personally.
         - De-escalating intense situations between players, coaches, officials, etc.
         - Not allowing player, coach, or crowd reactions to impact my judgment or responses.
@@ -154,7 +138,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
 
     === "Derby Officiating :material-cursor-default-click:"
 
-        I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practices and asked that I join her so she wouldn't feel alone.
+        I began my derby officiating journey in August of 2022, somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practices and asked that I join her so she wouldn't feel alone.
         
         I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for most of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was something I would enjoy and invest so much in.
         
@@ -176,6 +160,20 @@ Depending on the screen size of your device, a Table of Contents menu is availab
             </figcaption>
         </figure>
 
+=== "Dedication :material-cursor-default-click:"
+
+    Simply for living where I happen to live, I've had the tremendous privilege of regularly learning from some of the most dedicated and experienced officials, players, coaches, league representatives, and volunteers in the world.
+    
+    Thank you for everything you've taught me, for your selfless support of my development, and for your dedication to the people you serve.  I promise to share what I’ve learned with anyone who wants to better themselves, and to use what you've taught me to emphatically support derby communities of all sizes, types, and ages, anywhere and everywhere derby lives.
+
+    <figure markdown>
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_2_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
+            Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
+        </figcaption>
+    </figure>
+
 ---
 
 ## What to Expect From Me
@@ -186,10 +184,9 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
     - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
-    - I respect my opponent, although I do not fear them.
     - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I prepare to be successful in the biggest moments.
     - "Winning" means my peers and I supported safe, fair gameplay in which the competing teams feel like they control the outcome.
-    - I give my all to be the best teammate anyone has ever had, always seeking self-improvement and working to be someone who my peers trust, feel safe with, and love to work with.
+    - I give my all to be the best teammate anyone has ever had, always seeking feedback, self-improvement, and working to be someone whom my peers trust, feel safe with, and love to work with.
 
 ??? bread "2. Extreme Positivity :material-cursor-default-click:"
 
@@ -204,12 +201,12 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
-    - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
+    - I regularly study roller derby rules and cases to continuously develop a better understanding of rules theory because I believe learning the theory helps me quickly process complex situations in a way that supports the best, most competitive, and safest possible gameplay experience.
 
 ??? bread "4. Empathic Listening :material-cursor-default-click:"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
-    - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
+    - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may see situations differently.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
     - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
@@ -233,8 +230,8 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 
 ??? bread "8. Hustle :material-cursor-default-click:"
 
-    - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of BJJ and Judo training and competition to reduce the probability that I will fall and to recover from any fall with precision and explosiveness.
+    - No matter what I do, I move with the utmost sense of purpose, often sprinting in one direction, slamming on the brakes, and sprinting in the other direction, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
+    - I apply the skills I've developed in over 20 years of BJJ and Judo training and competition to reduce the probability that I will fall and to recover from any fall with urgency and explosiveness.
     - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
@@ -245,7 +242,7 @@ I believe the best officiating happens when a crew operates as a selfless, suppo
 ??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
     - Making split-second, difficult decisions is simply part of being an official, and I believe that applies to all levels in all sports.
-    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
+    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good and selfless judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
 
 <figure markdown>
 ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -268,7 +265,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Precision** - accurate timing, clear communication, and adherence to established policies and procedures.
     - **Attention to detail** - everything I do gets my absolute best effort; I do not take shortcuts, I ask questions when something seems wrong, and I do everything I can to preserve the integrity of the sport and the people within it.
     - **Thorough preparation** - I do not rely on past experience or wishful thinking to be sure I will do a good job at something.  I accept the responsibility to thoroughly study and practice my assigned roles before every single opportunity I have to officiate.
-    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to take and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Rules and procedures knowledge and currency** - I keep current with rules and procedures updates, so I am ready to process and explain the correct actions for any given situation while applying the appropriate situational discretion and judgment to facilitate competitive, safe, and fair gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I communicate with my peer NSOs and SOs in ways that demonstrate empathy, understanding, inclusiveness, courtesy, support, respect, and validation.
 
@@ -291,7 +288,7 @@ Please click to expand the sections below for detailed information about my deve
             - Comfort with basic and advanced CRG configuration, setup, and troubleshooting.
             - Familiarity with WFTDA/MRDA and JRDA stats books guides, and the use of the [Statsbook Tool application](https://github.com/AdamSmasherDerby/Statsbook-Tool "Statsbook-Tool on GitHub"){ target=_blank } :octicons-link-external-24:.
             - Maximizing opportunities for available officials by assigning them to dedicated roster positions instead of assigning myself to a second position.
-            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help.
+            - Demonstrating an understanding of and experience with the responsibilities and procedures associated with each NSO position, so I can support any member of my crew who may need help or development support.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HR/CHR roles by acting as a safety net if they need assistance.
             - Having the backs of my peer officials so they can do their jobs without concern that they might have to deal with elevated or frustrated players and coaches directly.
@@ -300,8 +297,6 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Areas for Growth :material-cursor-default-click:"
 
-            - At this stage of my development, I have limited experience in the HNSO role.
-                - I am actively seeking opportunities to serve in the HNSO role, and I am beginning to earn selections within and outside of my home league.
             - Although I regularly work with the WFTDA and JRDA IGRF and stats book forms, I am still building experience with the game sanctioning and stats book submission processes.
             - I have no experience serving in the CHNSO or THNSO roles.
 
@@ -309,15 +304,17 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Strong familiarity with established officiating procedures.
             - Deliberate and audible verbal cues, even in venues where acoustics may present challenges.
             - Deliberate and clear visual cues/hand signals.
             - Precision timing alignment between my verbal/visual cues and the scoreboard clocks.
             - Intently and actively monitoring team benches between jams to respond to requests for timeouts and ORs immediately.
             - Methodically transitioning from monitoring team benches to jam start preparation as the lineup clock approaches 0:25.  My methodology before each jam includes:
                 - Ensuring medical staff are available and focused on the track area.
-                - Verifying that each team has at least one blocker and one jammer in legal starting positions.
+                - Verifying that each team fields a jammer.
+                - Verifying that each team has at least one blocker in a legal starting position.
                 - Checking with the SBO and SKs to be sure they are ready for the next jam to start.
-                - Monitoring the HR for any indication they may not be ready to start the jam.
+                - Monitoring the HR/CHR and HNSO/CHNSO for any indication they may not be ready to start the jam.
             - Accurately providing backup timing for the official game and jam clocks.
             - Pregame coordination with the HR/CHR and SBO to understand their specific procedural preferences and indicators.
             - Supporting the SBO with clock and timeout consumption adjustments.
@@ -329,7 +326,7 @@ Please click to expand the sections below for detailed information about my deve
             - I need to improve my consistency as a JT by serving in the role more frequently.
                 - I will sometimes go for several weeks without serving as a JT, and, even with advanced preparation, it may take me several jams to relax and feel like I'm not thinking about everything I'm doing and need to do.
             - I will sometimes focus so much on responding to and signaling timeouts as quickly as possible that I don't stop my game clock stopwatch immediately.
-                - I am continuing to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
+                - I continue to practice holding my game clock stopwatch in a way that allows me to signal timeouts and press the "Stop" button simultaneously.
 
     ??? stopwatch "PBM :material-cursor-default-click:"
 
@@ -351,10 +348,11 @@ Please click to expand the sections below for detailed information about my deve
             - At this stage of my development, I have limited experience in the PBM role.
                 - I am actively seeking opportunities to serve in the PBM role during games within and outside of my home league.
 
-    ??? stopwatch "PBT :material-cursor-default-click:"
+    ??? stopwatch "PBT/ePBT :material-cursor-default-click:"
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Familiarity and experience with both the PLT paperwork and ePLT interface.
             - Emphasis on precision timing:
                 - Starting and stopping penalty time at the exact moments prescribed by gameplay rules.
                 - Timing "stand" and "done" verbal cues such that they complete exactly when my stopwatch hits the prescribed intervals.
@@ -380,6 +378,7 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience (JRDA) in the PLT and ePLT roles.
             - Familiarity and experience with both the PLT paperwork and ePLT interface.
             - Completing PLT paperwork in a clear and legible way.
             - Strong understanding of WFTDA/MRDA and JRDA stats book guides.
@@ -454,7 +453,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Team logos, team titles/names, and scoreboard display colors.
                 - Advertisement banners.
                 - Stream overlays.
-            - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing beta versions of CRG.
+            - Actively following CRG development, reading developer notes and feedback (on [GitHub :octicons-link-external-24:](https://github.com/rollerderby/scoreboard "CRG on GitHub"){ target=_blank }), and routinely working with and testing new and beta versions of CRG.
              - For practice, I routinely:
                 - Operate my own offline version of CRG during tournaments for games I'm not scheduled to officiate.
                 - Serve as SBO during scrimmages.
@@ -493,7 +492,7 @@ Please click to expand the sections below for detailed information about my deve
     - **Multitask capacity** -  I deliver verbal and visual cues, including penalties, while maintaining the appropriate positioning for my SO role.
     - **Ongoing player awareness** - I maintain observation of players before, during, and after each jam to ensure any potential contact or communication between teams has oversight.
     - **Jam participant tracking** - I continuously track the number of players and the positions for each player on each team before and during each jam.
-    - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - **Rules knowledge** - I understand and apply roller derby rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe, fair, and collaborative gameplay.
     - **JRDA procedures familiarity** - I frequently officiate JRDA games and continuously study JRDA-specific rules, risk management, sanctioning, officiating procedures, etc.
     - **Teamwork** - I behave in a way that proactively shows inclusiveness, courtesy, support, respect, and validation to NSOs.
 
@@ -537,13 +536,17 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience (JRDA) in the CHR role.
+            - Experience with sanctioned competition between WFTDA GUR top-10 teams in the CHR role.
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
+                - Includes creating and sharing a series of video recordings with crew instructions.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
             - Maximizing opportunities for my peers to officiate by assigning them to all available roster positions, including the ALTR position.
             - Understanding of and experience with the responsibilities and procedures associated with each SO position allows me to support any member of my crew who may need help with positioning, skating techniques, and role-specific responsibilities.
             - Helping develop new officials by providing safe opportunities for them to learn under my mentorship or that of other experienced officials.
             - Supporting officials who are developing experience with HNSO/CHNSO roles by acting as a safety net if they need assistance.
             - Helping guide and adjust the penalty game impact spectrum amongst my crew to help limit the number of player and team penalties as much as possible.
+            - Proactive, ongoing collaboration with competing teams to help limit penalties and improve the gameplay experience.
             - Communicating with players and coaches in a way that seeks to understand their points of view.
             - Managing game flow by:
                 - Limiting the duration and frequency of OTOs whenever possible.
@@ -572,12 +575,13 @@ Please click to expand the sections below for detailed information about my deve
 
         === "My Strengths :material-cursor-default-click:"
 
+            - Championship tournament experience (MRDA) in the front, middle, and rear OPR roles.
             - High proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
             - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the pack's speed has even the slightest potential to put me or my peers out of position.
             - Awareness of earned passes within my zone of responsibility, including player details.
                 - Communicating earned pass information to JRs whenever necessary.
             - Frequent communication with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
-            - Non-verbal communication with players reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
+            - Clear and proactive non-verbal communication with players reporting to and returning from the penalty box to help ensure they enter and exit the track safely and avoid contact with officials.
             - Lateral movement skills that allow me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         === "My Areas for Growth :material-cursor-default-click:"
@@ -642,6 +646,7 @@ Please click to expand the sections below for detailed information about my deve
                 - Indecisiveness about whether the specific game circumstances warrant me allowing my jammer to immediately serve a penalty I do not agree with or immediately returning the jammer to the track.
                     - In either case, I would discuss the penalty with the issuing official after the current jam.
             - Although I am comfortable adapting my positioning to my peer JR's specific style and needs, I will sometimes forget to implement those adaptations consistently.
+            - I occasionally am slow to recognize high-speed or conspicuous star passes.
 
         === "My Positioning Methodology :material-cursor-default-click:"
 
@@ -734,8 +739,8 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? star "RCR Volunteer Service :material-cursor-default-click:"
 
-    - 3,200+ hours of volunteer contributions to roller derby since August of 2022 including:
-        - 500+ hours of officiating RCR adult and junior scrimmages.
+    - 4,000+ hours of volunteer contributions to roller derby since August of 2022 including:
+        - 600+ hours of officiating RCR adult and junior scrimmages.
         - 110+ hours of attending RCR officiating practices.
         - 50+ hours of preparing for and leading RCR adult and junior officiating practices.
 
@@ -749,7 +754,7 @@ Please click to expand the sections below for detailed information about my deve
 
     - OC member from January to December of 2023.
     - OC member from January to December of 2024.
-    - OC co-chair for term from January 2025 to present.
+    - OC co-chair for term from January to December of 2025.
 
 ??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
@@ -766,7 +771,17 @@ Please click to expand the sections below for detailed information about my deve
 
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
+    - Published a repository for custom CRG streaming overlays for consumption by global roller derby community [CRG Overlays](https://github.com/rcrderby/crg-overlays "CRG Broadcast Overlays on GitHub"){ target=_blank }:
+        - [Penalties Overlay](https://github.com/rcrderby/crg-overlays/blob/main/penalties "CRG Penalties Overlay"){ target=_blank }: Provides simple view of penalty and key game status information in a viewer-friendly format.
     - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
+
+    <figure markdown>
+    ![Example CRG Penalty Overlay](images/crg_penalties_overlay_example.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            [Example CRG Penalty Overlay :octicons-link-external-24:](https://github.com/rcrderby/crg-overlays/raw/main/penalties/images/penalties-preview.png "Example CRG Penalty Overlay"){ target=_blank }
+        </figcaption>
+    </figure>
+
     - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
         - Intended primarily to lower the CRG/SBO training barrier to officials of all experience levels.
 
@@ -799,9 +814,9 @@ Please click to expand the sections below for detailed information about my deve
 Thank you for reviewing my self-assessment.  I look forward to your feedback and am grateful for your support of my ongoing officiating development.
 
 <figure markdown>
-![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+![Outside Pack Referee, MRDA Championships, October, 2025 - Credit: Life Through Argo's Lens (Life-thru-Argos-lens-100068577723501 on Facebook)](images/breadpool_opr_mrda_champs_misfits_vs_race_city_10-12-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        OPR, Franky Panky JRDA Sanctioned, March, 2024<br>
-        Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
+        OPR, MRDA Championships, October, 2025<br>
+        Credit: [Life Through Argo's Lens :octicons-link-external-24:](https://www.facebook.com/p/Life-thru-Argos-lens-100068577723501 "Life-thru-Argos-lens-100068577723501 on Facebook"){ target=_blank }
     </figcaption>
 </figure>

@@ -5,10 +5,10 @@
 Below are exact copies of the text from all of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I can provide them privately upon request.
 
 <figure markdown>
-![Head Referee, RCR Adult Regulation Game, May 2025 - Credit: Double Dee (deesphotogdump on Instagram)](images/breadpool_hr_rcr_home_team_5-2-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+![OPR, Cactus Cup, April 2025 - Credit: Jenni Lucas Photography (@jennilucas_photography on Instagram)](images/breadpool_opr_cactus_cup_4-18-25.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
-        IPR, RCR Home Team Game, May, 2025<br>
-        Credit: [Double Dee :octicons-link-external-24:](https://www.instagram.com/deesphotogdump "@deesphotogdump on Instagram"){ target=_blank }
+        OPR, Cactus Cup, April, 2025<br>
+        Credit: [Jenni Lucas Photography :octicons-link-external-24:](https://www.instagram.com/jennilucas_photography "@jennilucas_photography on Instagram"){ target=_blank }
     </figcaption>
 </figure>
 
@@ -263,7 +263,46 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
-## Evaluation #10 - PBT, SBO, STATS
+## Evaluation #10 - OPR, IPR
+
+??? clipboard "Cactus Cup 2025 - 18-20 April, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) co-CHR; I CHR'd 2 games and I OPR'd 3 games) filled out an eval for Cactus Cup 2025, an event from 4/18/2025 to 4/20/2025, involving 3 sanctioned games, 2 regulation games for WFTDA, during which you served as IPR, OPR.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Breadpool (Bread) was an official on our crew at Cactus Cup 2025. I was a co-CHR alongside **REDACTED**. I am writing this evaluation using notes taken at the time of the tournament and notes taken from watching online footage of the tournament. Bread officiated three games at IPR and two games at OPR
+
+        Bread’s demeanor throughout the tournament was genial and collaborative. His communication across the weekend was concise and to-the-point. During ORs, he would only convey relevant information. He was very open to feedback across the weekend.
+
+        For his games at OPR, Bread was in the FOPR position. Bread received feedback from the THR that his acceleration up front was a bit off, leading Bread to disclose that he had hip surgery 6 weeks ago. I was shocked, even though I agreed with the feedback, it appeared to be a relatively minor issue. Regardless, I believe this is a temporary issue. At FOPR, he demonstrated good end-of-Jam position and was able to assist JRs for points questions on multiple occasions. His contact penalty metric appeared to be consistent with the rest of the crew. For instance, Bread had an excellent Blocking a Down Skater Illegal Contact penalty where a Jammer didn’t take sufficient action to avoid a down skater. Overall, his OPR performance was solid while noting his acceleration wasn’t up to his own standard.
+
+        At FIPR, Bread really shined in this tournament. He and **REDACTED** came to a set of consensus “Failure to” very quickly. Bread and **REDACTED** were in sync both on declaring No Packs and redefining the Pack. Bread’s 20 ft was consistent across the weekend, as was his identification of OOP Blocks in the front. It was a real joy to watch the two of them handle the Pack together.
+
+        A very small nit to pick is that on several occasions, Bread issued a Low Block and his hand signal was not as clear as it could be. This is more for informational purposes than critical feedback, but Bread makes the signal with his arm a few inches away from his chest instead of on his chest, which makes for a confusing sign when repeated.
+
+        Overall, Bread had a strong tournament on a strong crew. I look forward to working with Bread again soon.
+
+        Additional thoughts from **REDACTED**: I’ve worked on crews with Bread several times and I’m always very impressed with his level of interaction and adaptation with the crew and the event. Bread did a great job at Cactus Cup, and understanding that he can “flex” toward a crew or standard depending on the expectations makes his work exceptional. He is quick to discuss what he’s seeing and to adapt to impact thresholds (for example, when does knocking an opponent into a downed skater warrant a misconduct?) to match the crew or direction from the THRs. Being adaptable is an excellent skill for a tournament-level official.
+
+        Bread has no ego attached to his calls and will readily discuss or overturn calls based on another official’s perspective. He expects the same of other officials, which is a skill I admire: he’s not sheepish about offering a differing perspective on a crewmate’s call. Sometimes I think it’s harder to voice a differing opinion than it is to hear one (especially to a crew head), and I really appreciate having a crewmate who will speak up. He does all this quickly and efficiently, and rarely needs an OTO to discuss. I believe this level of thoughtful neutrality helped our crew get the right calls to support the skaters. Bread is a dreammate.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        None.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #11 - PBT, SBO, STATS
 
 ??? clipboard "Hoagie Roll - 25-26 May, 2025 :material-cursor-default-click-outline:"
 
@@ -294,7 +333,7 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
-## Evaluation #11 - SBO
+## Evaluation #12 - SBO
 
 ??? clipboard "Summer Slam 2025 - 16-17 August, 2025 :material-cursor-default-click-outline:"
 
@@ -333,9 +372,9 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
         Cordially,
         Officials Certification
 
-## Evaluation #12 - OPR, IPR
+## Evaluation #13 - OPR
 
-??? clipboard "Cactus Cup 2025 - 18-20 April, 2025 :material-cursor-default-click-outline:"
+??? clipboard "2025 MRDA Championships - 10-12 October, 2025 :material-cursor-default-click-outline:"
 
     === "Overview :material-cursor-default-click-outline:"
 
@@ -343,31 +382,44 @@ Below are exact copies of the text from all of my historical WFTDA officiating e
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) co-CHR; I CHR'd 2 games and I OPR'd 3 games) filled out an eval for Cactus Cup 2025, an event from 4/18/2025 to 4/20/2025, involving 3 sanctioned games, 2 regulation games for WFTDA, during which you served as IPR, OPR.
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for 2025 MRDA Championships, an event from 10/10/2025 to 10/12/2025, involving 5 sanctioned games for MRDA, during which you served as OPR.
 
     === "Evaluation :material-cursor-default-click-outline:"
 
         Here is the evaluation:
 
-        Breadpool (Bread) was an official on our crew at Cactus Cup 2025. I was a co-CHR alongside **REDACTED**. I am writing this evaluation using notes taken at the time of the tournament and notes taken from watching online footage of the tournament. Bread officiated three games at IPR and two games at OPR
+        Bread was one of my OPRs for 2025 MRDA Championships. He was primarily rear OPR on the crew.  In that position, Bread did an outstanding job moving dynamically to stay in position and be where he needed to be.  He has outstanding skating skills.  Impact spectrum was also good throughout the weekend, demonstrating a strong knowledge of the rules and how initiation and contract penalties work.
 
-        Bread’s demeanor throughout the tournament was genial and collaborative. His communication across the weekend was concise and to-the-point. During ORs, he would only convey relevant information. He was very open to feedback across the weekend.
-
-        For his games at OPR, Bread was in the FOPR position. Bread received feedback from the THR that his acceleration up front was a bit off, leading Bread to disclose that he had hip surgery 6 weeks ago. I was shocked, even though I agreed with the feedback, it appeared to be a relatively minor issue. Regardless, I believe this is a temporary issue. At FOPR, he demonstrated good end-of-Jam position and was able to assist JRs for points questions on multiple occasions. His contact penalty metric appeared to be consistent with the rest of the crew. For instance, Bread had an excellent Blocking a Down Skater Illegal Contact penalty where a Jammer didn’t take sufficient action to avoid a down skater. Overall, his OPR performance was solid while noting his acceleration wasn’t up to his own standard.
-
-        At FIPR, Bread really shined in this tournament. He and **REDACTED** came to a set of consensus “Failure to” very quickly. Bread and **REDACTED** were in sync both on declaring No Packs and redefining the Pack. Bread’s 20 ft was consistent across the weekend, as was his identification of OOP Blocks in the front. It was a real joy to watch the two of them handle the Pack together.
-
-        A very small nit to pick is that on several occasions, Bread issued a Low Block and his hand signal was not as clear as it could be. This is more for informational purposes than critical feedback, but Bread makes the signal with his arm a few inches away from his chest instead of on his chest, which makes for a confusing sign when repeated.
-
-        Overall, Bread had a strong tournament on a strong crew. I look forward to working with Bread again soon.
-
-        Additional thoughts from **REDACTED**: I’ve worked on crews with Bread several times and I’m always very impressed with his level of interaction and adaptation with the crew and the event. Bread did a great job at Cactus Cup, and understanding that he can “flex” toward a crew or standard depending on the expectations makes his work exceptional. He is quick to discuss what he’s seeing and to adapt to impact thresholds (for example, when does knocking an opponent into a downed skater warrant a misconduct?) to match the crew or direction from the THRs. Being adaptable is an excellent skill for a tournament-level official.
-
-        Bread has no ego attached to his calls and will readily discuss or overturn calls based on another official’s perspective. He expects the same of other officials, which is a skill I admire: he’s not sheepish about offering a differing perspective on a crewmate’s call. Sometimes I think it’s harder to voice a differing opinion than it is to hear one (especially to a crew head), and I really appreciate having a crewmate who will speak up. He does all this quickly and efficiently, and rarely needs an OTO to discuss. I believe this level of thoughtful neutrality helped our crew get the right calls to support the skaters. Bread is a dreammate.
+        Bread provide good support to the jammer referees with regards to cuts, in-bounds/out-of-bounds status, etc.  Hand signals were very clear and deliberate.
 
     === "Broader Feedback :material-cursor-default-click-outline:"
 
         None.
+
+        Cordially,
+        Officials Certification
+
+## Evaluation #14 - OPR
+
+??? clipboard "2025 MRDA Championships - 10-12 October, 2025 :material-cursor-default-click-outline:"
+
+    === "Overview :material-cursor-default-click-outline:"
+
+        [this is an automated email]
+
+        Dear Breadpool (He/Him; Rose City Rollers),
+
+        This is an automated email from Certification, designed to let you know that **REDACTED** (as a(n) Crew Head Official) filled out an eval for Disorder (Mexico) vs. Puget Sound Outcast Derby on 10/11/2025, a Sanctioned MRDA game in which you performed as OPR.
+
+    === "Evaluation :material-cursor-default-click-outline:"
+
+        Here is the evaluation:
+
+        Breadpool was selected as an OPR for MRDA Champs 2025 on a different crew. However, due to another official dropping out as CHR, I was moved to CHR and with only 3 weeks left until the event, the THR decided he would not backfill the position but allow officials from other crews to rotate into an OPR position on my crew. I was asked to select 5-7 officials from the other crews to fill that position on a 1 game per person basis. Breadpool was one of those officials. Breadpool performed as front OPR during this game. Bread is a very good skater and was able to maintain excellent position as front OPR. He easily predicted pack speed changes and was able to speed up and slow down as necessary. Breadpool is confident and articulate during official reviews. He easily explains position, advantage, impact, trajectory etc. He is able to triangulate with other officials who have other pieces of information in order to come to conclusions. I appreciate this tremendously.
+
+    === "Broader Feedback :material-cursor-default-click-outline:"
+
+        At some point in his officiating career Breadpool was told to slow down and repeat penalties. He took that so seriously that now he has a habit to show a clockwise block like 6 or 7 times. The CHNSO made a little comment to me that she was often looking for a 2nd person heading to the box because she would hear the whistle, see the penalty and after confirming report with the penalty box, she would look back and Bread was STILL signaling. I've jokingly given Bread this feedback before at a Canadian tournament that his over signaling can be distracting. At this point it's likely muscle memory.
 
         Cordially,
         Officials Certification
