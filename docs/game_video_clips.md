@@ -245,6 +245,66 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## SO Video Clips
 
+### SO Example #N - HR
+
+??? video "Identifying and Managing Uncommon Pack Scenarios :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈5:29 mark in this video, while serving as HR, I observe the pack divide across turns 1 and 2.
+        - The pack moves to the front as Purple #65 falls to the ground after blocking White #9999.
+        - Purple #757 skates in non-derby direction as Purple #65 returns to an upright position and the three foremost players skate in derby direction.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I use verbal and visual cues to indicate a no-pack split across three walls.
+        - Purple #10 skates in derby direction to reform the pack, and I use the corresponding verbal and visual cues.
+
+    === "Importance :material-cursor-default-click:"
+    
+        - Even though no-pack split situations aren't common when there are three distinct walls, I have enough experience, and keep myself practiced and studied so that I can correctly identify this and other uncommon no-pack situations.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/RchVhys622I?start=322" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/RchVhys622I?t=322" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/RchVhys622I?t=322 :octicons-link-external-24:](https://youtu.be/RchVhys622I?t=322){ target=_blank }
+    </center>
+
+---
+
+### SO Example #NN - JR
+
+??? video "Patience to Ensure a Penalty is Warranted :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈4:00 mark in this video, while serving as a JR, I observe White #39 initiate a legal block with my jammer, Purple #316.
+        - The block sends my jammer airborne and into the back of the legs of White #718, causing White #718 to adopt a downed position.
+        - This game is a globally-televised rematch of the 2024 WFTDA Global Championship final between the 2025 GUR #1 and GUR #2 teams.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I begin bringing my whistle to my mouth to penalize Purple #316 for a low block, and hear a whistle come from the HR (behind me).
+        - I lower my whistle and communicate to the HR that I do not believe Purple #316 had any opportunity to avoid the contact they made with White #718.
+        - I briefly discussed the situation with the HR after the jam, and we elected not issue a penalty to Purple #316.
+
+    === "Importance :material-cursor-default-click:"
+    
+        - I am familiar with the rules sufficiently to understand that this sort of contact warrants a penalty.  However, given the gravity of the game and my assessment that Purple #316 had absolutely no opportunity to avoid making illegal contact with White #718, I exercised patience to avoid mistakenly penalizing a player, especially a jammer, when discretion may be necessary.
+            - If we had immediately penalized Purple #316 and later determined that a penalty was not warranted, there would have been no way to restore the advantage lost by Purple with their jammer serving a penalty mid-jam.
+            - If we decided to penalize Purple #316 after the jam, the opposing team would have gained an advantage equivalent to what they would have had if we had issued a mid-jam penalty.
+        - This example demonstrates that I carefully evaluate the impact my officiating decisions have on a game, always seeking to have as little impact as possible.  I would rather be certain a penalty is warranted than incorrectly penalizing a player and disadvantaging their team, even if the penalty was later removed.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=239" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=239" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/qVdgL-THIRE?t=239 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=239){ target=_blank }
+    </center>
+
+---
+
 ### SO Example #1 - JR
 
 ??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
@@ -311,6 +371,34 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
+            - At the ≈25:50 mark in this video, while serving as a JR, I observe my Jammer, Purple #0, start to skate from the inside of the track toward the outside boundary near the apex of turns 1 and 2.
+            - I observe White #39 attempt to initiate a block with Purple #0, and identify contact between White #39's right skate and Purple #0's left skate as Purple #0 moves to avoid contact with White #39 and initiate contact with White #68.
+            - Purple #0 adopts a downed position.
+
+        === "Outcome :material-cursor-default-click:"
+        
+            - I determined that Purple #0 adopted a downed position as a result of the contact initiated by White #39 (illegal blocking zone to illegal target zone).
+            - I issued a low block penalty to White #39 because the contact resulted in Purple #0 losing position.
+
+        === "Importance :material-cursor-default-click:"
+
+            - This situation is an example of how my background officiating for other sports, martial arts in this case, helps me quickly identify nuanced initiation and impact while officiating roller derby games.
+                - I observed White #39 make a backward sweeping motion with their right foot that clips the left foot of Purple #0.
+                - Although Purple #0 initiates contact with White #68 before adopting a downed position, I believe the cause of Purple #0's fall started when their trajectory to initiate a block with White #68 was altered by low contact initiated by White #39.
+            - As a BJJ official, it is essential for me to understand, at high speed, who initiates standing contact, and how it affects whether or not a competitor goes to the ground, even when mixed with other contact.
+                - After the jam, I was able to share details about what I observed with a coach for White, who asked me for clarification about the contact that resulted in White #39's penalty.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=1552" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=1552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/qVdgL-THIRE?t=1552 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=1552){ target=_blank }
+        </center>
+
+    === "Video #3 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
             - At the ≈1:32:39 mark in this video, while serving as middle OPR, I observe Black #5 legally block Yellow Jammer, #618, OOB directly in front of me.
             - As Black #5 falls OOB themselves, Yellow Jammer, who had Lead Jammer status, returns to a fully in-bounds and upright position, continues skating, and requests that their JR call off the jam.
 
@@ -338,7 +426,7 @@ Below are links to some of my officiating performances that highlight my capabil
             <br>[https://youtu.be/Fo9stDSWQ04?t=5557 :octicons-link-external-24:](https://youtu.be/Fo9stDSWQ04?t=5557){ target=_blank }
         </center>
 
-    === "Video #3 :material-cursor-default-click:"
+    === "Video #4 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
@@ -684,7 +772,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #10 - JR
+### SO Example #10 - JR, OPR
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -692,6 +780,32 @@ Below are links to some of my officiating performances that highlight my capabil
     - My skating skills afford me the capacity to concentrate on monitoring nuanced details of gameplay and determining the appropriate officiating responses in real-time with high accuracy.
 
     === "Video #1 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈46:33 mark in this video, while serving as the rear OPR, jammers for both teams are knocked out of bounds near the pivot line, and all on-track blockers begin skating in non-derby direction.
+            - All blockers continue skating in non-derby direction for ≈one-and-a-quarter laps.
+            - This is the bronze medal game in the 2025 MRDA Championship tournament, and a rematch of the 2024 MRDA Championship gold medal game.
+
+        === "Outcome :material-cursor-default-click:"
+
+            - I skate backward in non-derby direction at a sufficient speed to be able to maintain my position with the rearmost blockers until I reach the pivot line and observe that the front OPR has repositioned to the rear OPR position, temporarily making me the middle OPR.
+                - Approximating our positions on the track as this non-derby direction skating takes place, I skate nearly 100' further than the players on the track, adjusting my speed in the straightaways and turns to maintain position integrity.
+            - I actively maintain eye contact with players within my zone of responsibility throughout the duration of the non-derby direction skating.
+
+        === "Importance :material-cursor-default-click:"
+
+            - My ability to remain in position is intentional; I regularly practice this technique even though this is the first time I employed it in a game.
+            - I prepare myself to have the skating skills to maintain position and observe relevant game action within my zone of responsibility, even in scenarios that are uncommon.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
@@ -727,30 +841,6 @@ Below are links to some of my officiating performances that highlight my capabil
         </center>
         <center>
             <br>[https://youtu.be/PniDM6UWvTQ?t=19771 :octicons-link-external-24:](https://youtu.be/PniDM6UWvTQ?t=19771){ target=_blank }
-        </center>
-
-    === "Video #2 :material-cursor-default-click:"
-
-        === "Overview :material-cursor-default-click:"
-
-            - This video clip is an entire half of a derby game from Y’Allstars 2024, where I served as a JR for Beast Side Roller Derby.
-            - Beast Side fielded extremely talented and fast Jammers who presented many challenges to effectively officiate.
-
-        === "Outcome :material-cursor-default-click:"
-
-            - I believe I did a good job maintaining position at the hips of my Jammers, accurately tracking points, signaling Lead Jammer status immediately, and calling off jams precisely.
-            - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts.
-            - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
-
-        === "Importance :material-cursor-default-click:"
-
-            - I believe my ability to almost entirely use wheel-based stops with fast-moving Jammers demonstrates that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
-
-        <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </center>
-        <center>
-            <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
         </center>
 
 ---
