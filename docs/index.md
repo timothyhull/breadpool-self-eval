@@ -750,11 +750,11 @@ Please click to expand the sections below for detailed information about my deve
     - Co-founded an ongoing junior officiating training program in 2023 for which I serve as the primary coach.
     - Deployed a streaming device to the scoreboard projector in 2024 to enable screen mirroring as an officiating practice support and development tool.
 
-??? clipboard "RCR OC Membership :material-cursor-default-click:"
+??? clipboard "RCR OC Membership & Leadership :material-cursor-default-click:"
 
     - OC member from January to December of 2023.
     - OC member from January to December of 2024.
-    - OC co-chair for term from January to December of 2025.
+    - OC co-chair from January to December of 2025.
 
 ??? technology "RCR Technology Enhancements :material-cursor-default-click:"
 
@@ -772,8 +772,7 @@ Please click to expand the sections below for detailed information about my deve
 ??? code "CRG Open-Source Contributions :material-cursor-default-click:"
 
     - Published a repository for custom CRG streaming overlays for consumption by global roller derby community [CRG Overlays](https://github.com/rcrderby/crg-overlays "CRG Broadcast Overlays on GitHub"){ target=_blank }:
-        - [Penalties Overlay](https://github.com/rcrderby/crg-overlays/blob/main/penalties "CRG Penalties Overlay"){ target=_blank }: Provides simple view of penalty and key game status information in a viewer-friendly format.
-    - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
+        - Developed a [Penalties Overlay](https://github.com/rcrderby/crg-overlays/blob/main/penalties "CRG Penalties Overlay"){ target=_blank } that provides simple, customizable view of penalty and key game status information in a viewer-friendly format.
 
     <figure markdown>
     ![Example CRG Penalty Overlay](images/crg_penalties_overlay_example.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -781,6 +780,8 @@ Please click to expand the sections below for detailed information about my deve
             [Example CRG Penalty Overlay :octicons-link-external-24:](https://github.com/rcrderby/crg-overlays/raw/main/penalties/images/penalties-preview.png "Example CRG Penalty Overlay"){ target=_blank }
         </figcaption>
     </figure>
+
+    ---
 
     - Developed and released configuration, instructions, and button image files that allow SBOs to use Elgato Stream Deck products as a [simplified interface to control CRG :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck "CRG Stream Deck Application on GitHub"){ target=_blank }.
         - Intended primarily to lower the CRG/SBO training barrier to officials of all experience levels.
@@ -796,6 +797,17 @@ Please click to expand the sections below for detailed information about my deve
     ![Example Stream Deck Controller Interface #2](images/stream-deck-32-black-vs-white-page-2.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             [Example Stream Deck Controller Interface #2 :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-2.png "Example Stream Deck for CRG Controller Interface #2"){ target=_blank }
+        </figcaption>
+    </figure>
+
+    ---
+
+    - Developed and released software that automates running [CRG in a Container Runtime](https://github.com/rcrderby/crg-container "CRG Container Application on GitHub"){ target=_blank }.
+
+    <figure markdown>
+    ![CRG Container Output](images/crg_container.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            [CRG Container Output :octicons-link-external-24:](https://github.com/rcrderby/crg-streamdeck/blob/main/docs/images/stream-deck/32-button-profiles/stream-deck-32-black-vs-white-page-2.png "CRG Container Output"){ target=_blank }
         </figcaption>
     </figure>
 
