@@ -285,7 +285,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
             - At the ≈4:00 mark in this video, while serving as a JR, I observe White #39 initiate a legal block with my jammer, Purple #316.
             - The block sends my jammer airborne and into the back of the legs of White #718, causing White #718 to adopt a downed position.
-            - This game is a globally-televised rematch of the 2024 WFTDA Global Championship final between the 2025 GUR #1 and GUR #2 teams.
+            - This game is a globally-televised rematch of the 2024 WFTDA Global Championship final between the 2025 WFTDA GUR #1 and GUR #2 teams.
 
         === "Outcome :material-cursor-default-click:"
 
