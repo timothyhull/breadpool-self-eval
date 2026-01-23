@@ -813,7 +813,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
             - At the ≈46:33 mark in this video, while serving as the rear OPR, jammers for both teams are knocked out of bounds near the pivot line, and all on-track blockers begin skating in non-derby direction.
             - All blockers continue skating in non-derby direction for ≈one-and-a-quarter laps.
-            - This is the bronze medal game in the 2025 MRDA Championship tournament, and a rematch of the 2024 MRDA Championship gold medal game.
+            - This is the silver medal game in the 2025 MRDA Championship tournament, and a rematch of the 2024 MRDA Championship gold medal game.
 
         === "Outcome :material-cursor-default-click:"
 
