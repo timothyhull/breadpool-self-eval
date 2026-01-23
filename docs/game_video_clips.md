@@ -827,10 +827,10 @@ Below are links to some of my officiating performances that highlight my capabil
             - I prepare myself to have the skating skills to maintain position and observe relevant game action within my zone of responsibility, even in scenarios that are uncommon.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/9kEck2XYV70?start=2794" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/9kEck2XYV70?t=2794" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+            <br>[https://youtu.be/9kEck2XYV70?t=2794 :octicons-link-external-24:](https://youtu.be/9kEck2XYV70?t=2794){ target=_blank }
         </center>
 
     === "Video #2 :material-cursor-default-click:"
