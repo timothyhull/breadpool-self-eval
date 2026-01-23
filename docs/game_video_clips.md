@@ -245,7 +245,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ## SO Video Clips
 
-### SO Example #N - HR
+### SO Example #1 - HR
 
 ??? video "Identifying and Managing Uncommon Pack Scenarios :material-cursor-default-click:"
 
@@ -273,7 +273,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #NN - JR, OPR
+### SO Example #2 - JR, OPR
 
 ??? video "Patience to Ensure a Penalty is Warranted :material-cursor-default-click:"
 
@@ -333,7 +333,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #1 - JR
+### SO Example #3 - JR
 
 ??? video "Positioning, Attention to Details, and Thorough Game Information Communication :material-cursor-default-click:"
 
@@ -362,7 +362,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #2 - JR, OPR
+### SO Example #4 - JR, OPR
 
 ??? video "Understanding and Quickly Processing Gameplay Rules :material-cursor-default-click:"
 
@@ -417,10 +417,10 @@ Below are links to some of my officiating performances that highlight my capabil
                 - After the jam, I was able to share details about what I observed with a coach for White, who asked me for clarification about the contact that resulted in White #39's penalty.
 
         <center>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=1552" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=1552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=1550" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=1550" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/qVdgL-THIRE?t=1552 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=1552){ target=_blank }
+            <br>[https://youtu.be/qVdgL-THIRE?t=1550 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=1550){ target=_blank }
         </center>
 
     === "Video #3 :material-cursor-default-click:"
@@ -480,7 +480,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #3 - JR
+### SO Example #5 - JR
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -505,7 +505,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #4 - OPR
+### SO Example #6 - OPR
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
@@ -565,7 +565,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #5 - JR
+### SO Example #7 - JR
 
 ??? video "Observing Detailed Action and Immediately Issuing Accurate Points :material-cursor-default-click:"
 
@@ -625,7 +625,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #6 - JR, OPR
+### SO Example #8 - JR, OPR
 
 ??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
 
@@ -715,7 +715,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #7 - JR
+### SO Example #9 - JR
 
 ??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
 
@@ -774,7 +774,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #8 - JR
+### SO Example #10 - JR
 
 ??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
@@ -800,7 +800,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #10 - JR, OPR
+### SO Example #11 - JR, OPR
 
 ??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
@@ -873,7 +873,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #11 - JR
+### SO Example #12 - JR
 
 ??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
 
@@ -902,7 +902,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #12 - ALTR, OPR
+### SO Example #13 - ALTR, OPR
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -938,7 +938,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #13 - IPR
+### SO Example #14 - IPR
 
 ??? video "Respectfully and Kindly Listening to an Unhappy Coach :material-cursor-default-click:"
 
@@ -970,7 +970,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #14 - OPR
+### SO Example #15 - OPR
 
 ??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
 
@@ -1011,7 +1011,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #15 - IPR
+### SO Example #16 - IPR
 
 ??? video "Use of Skating Techniques to Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
@@ -1046,7 +1046,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #16 - OPR
+### SO Example #17 - OPR
 
 ??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
 
