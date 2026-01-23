@@ -537,7 +537,7 @@ Please click to expand the sections below for detailed information about my deve
         === "My Strengths :material-cursor-default-click:"
 
             - Championship tournament experience (JRDA) in the CHR role.
-            - Experience with competition between WFTDA GUR top-10 teams in the CHR role.
+            - Experience with sanctioned competition between WFTDA GUR top-10 teams in the CHR role.
             - Early partnering and preparation with my peer HNSO/CHNSO to create and demonstrate unified and collaborative officiating.
                 - Includes creating and sharing a series of video recordings with crew instructions.
             - Spending sufficient time with my crew before a game to clearly communicate my instructions, answer questions, and provide any necessary clarifications.
