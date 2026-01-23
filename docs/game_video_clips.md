@@ -273,35 +273,63 @@ Below are links to some of my officiating performances that highlight my capabil
 
 ---
 
-### SO Example #NN - JR
+### SO Example #NN - JR, OPR
 
 ??? video "Patience to Ensure a Penalty is Warranted :material-cursor-default-click:"
 
-    === "Overview :material-cursor-default-click:"
+    - This example consists of several short videos that demonstrate that I have the patience to determine if illegal actions warrant a penalty, either at the time there is sufficient game impact, or after a jam ends.
 
-        - At the ≈4:00 mark in this video, while serving as a JR, I observe White #39 initiate a legal block with my jammer, Purple #316.
-        - The block sends my jammer airborne and into the back of the legs of White #718, causing White #718 to adopt a downed position.
-        - This game is a globally-televised rematch of the 2024 WFTDA Global Championship final between the 2025 GUR #1 and GUR #2 teams.
+    === "Video #1 :material-cursor-default-click:"
 
-    === "Outcome :material-cursor-default-click:"
+        === "Overview :material-cursor-default-click:"
 
-        - I begin bringing my whistle to my mouth to penalize Purple #316 for a low block, and hear a whistle come from the HR (behind me).
-        - I lower my whistle and communicate to the HR that I do not believe Purple #316 had any opportunity to avoid the contact they made with White #718.
-        - I briefly discussed the situation with the HR after the jam, and we elected not issue a penalty to Purple #316.
+            - At the ≈4:00 mark in this video, while serving as a JR, I observe White #39 initiate a legal block with my jammer, Purple #316.
+            - The block sends my jammer airborne and into the back of the legs of White #718, causing White #718 to adopt a downed position.
+            - This game is a globally-televised rematch of the 2024 WFTDA Global Championship final between the 2025 GUR #1 and GUR #2 teams.
 
-    === "Importance :material-cursor-default-click:"
-    
-        - I am familiar with the rules sufficiently to understand that this sort of contact warrants a penalty.  However, given the gravity of the game and my assessment that Purple #316 had absolutely no opportunity to avoid making illegal contact with White #718, I exercised patience to avoid mistakenly penalizing a player, especially a jammer, when discretion may be necessary.
-            - If we had immediately penalized Purple #316 and later determined that a penalty was not warranted, there would have been no way to restore the advantage lost by Purple with their jammer serving a penalty mid-jam.
-            - If we decided to penalize Purple #316 after the jam, the opposing team would have gained an advantage equivalent to what they would have had if we had issued a mid-jam penalty.
-        - This example demonstrates that I carefully evaluate the impact my officiating decisions have on a game, always seeking to have as little impact as possible.  I would rather be certain a penalty is warranted than incorrectly penalizing a player and disadvantaging their team, even if the penalty was later removed.
+        === "Outcome :material-cursor-default-click:"
 
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=239" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=239" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/qVdgL-THIRE?t=239 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=239){ target=_blank }
-    </center>
+            - I begin bringing my whistle to my mouth to penalize Purple #316 for a low block, and hear a whistle come from the HR (behind me).
+            - I lower my whistle and communicate to the HR that I do not believe Purple #316 had any opportunity to avoid the contact they made with White #718.
+            - I briefly discussed the situation with the HR after the jam, and we elected not issue a penalty to Purple #316.
+
+        === "Importance :material-cursor-default-click:"
+        
+            - I am familiar with the rules sufficiently to understand that this sort of contact warrants a penalty.  However, given the gravity of the game and my assessment that Purple #316 had absolutely no opportunity to avoid making illegal contact with White #718, I exercised patience to avoid mistakenly penalizing a player, especially a jammer, when discretion may be necessary.
+                - If we had immediately penalized Purple #316 and later determined that a penalty was not warranted, there would have been no way to restore the advantage lost by Purple with their jammer serving a penalty mid-jam.
+                - If we decided to penalize Purple #316 after the jam, the opposing team would have gained an advantage equivalent to what they would have had if we had issued a mid-jam penalty.
+            - This example demonstrates that I carefully evaluate the impact my officiating decisions have on a game, always seeking to have as little impact as possible.  I would rather be certain a penalty is warranted than incorrectly penalizing a player and disadvantaging their team, even if the penalty was later removed.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qVdgL-THIRE?start=239" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/qVdgL-THIRE?t=239" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/qVdgL-THIRE?t=239 :octicons-link-external-24:](https://youtu.be/qVdgL-THIRE?t=239){ target=_blank }
+        </center>
+
+    === "Video #2 :material-cursor-default-click:"
+
+        === "Overview :material-cursor-default-click:"
+
+            - At the ≈1:11:25 mark in this video, while serving as the front OPR, I observe White #713 (pivot) initiate illegal (low) contact with Black #417 (jammer) near the apex of turns 1 and 2
+            - The contact causes Black #417 to spin, and they nearly recover their balance before adopting a downed position several seconds later.
+
+        === "Outcome :material-cursor-default-click:"
+
+            - Although I observed an illegal block, I did not immediately identify a resulting loss of position that would constitute sufficient game impact to warrant a penalty.
+            - After Black #416 adopts a downed position while trying to recover their balance from the block by White #713, I issue a low block penalty to White #713.
+
+        === "Importance :material-cursor-default-click:"
+        
+            - It's very important to me that I don't penalize players for actions that are illegal but lack sufficient impact on the game or its players to warrant a penalty.
+            - This is one example of how I consistently assess game impact before issuing any penalties, patiently continuing to monitor a player after they are illegally blocked to determine if the illegal block does or doesn't warrant a penalty.
+
+        <center>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/j-Vqep_zRbs?start=4285" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/j-Vqep_zRbs?t=4285" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <center>
+            <br>[https://youtu.be/j-Vqep_zRbs?t=4285 :octicons-link-external-24:](https://youtu.be/j-Vqep_zRbs?t=4285){ target=_blank }
+        </center>
 
 ---
 
