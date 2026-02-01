@@ -879,7 +879,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈57:45 mark in this video, while serving as a JR, my Jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
+        - At the ≈54:23 mark in this video, while serving as a JR, my Jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
         - My Jammer realizes they do not have much time before the opposing Jammer will approach the pack and score points for themselves.
         - My Jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
         - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
@@ -894,7 +894,7 @@ Below are links to some of my officiating performances that highlight my capabil
         - I specifically practice this exact stop technique and scenario because it is difficult to get right, and this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3259" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3259" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
