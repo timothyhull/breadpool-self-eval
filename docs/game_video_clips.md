@@ -879,7 +879,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈57:45 mark in this video, while serving as a JR, my Jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
+        - At the ≈54:23 mark in this video, while serving as a JR, my Jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the rear of the pack at high speed.
         - My Jammer realizes they do not have much time before the opposing Jammer will approach the pack and score points for themselves.
         - My Jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
         - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
@@ -894,10 +894,10 @@ Below are links to some of my officiating performances that highlight my capabil
         - I specifically practice this exact stop technique and scenario because it is difficult to get right, and this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
 
     <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3259" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/hWdVqVpOs2w?t=3259" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
+        <br>[https://youtu.be/hWdVqVpOs2w?t=3259 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3259){ target=_blank }
     </center>
 
 ---
@@ -1174,7 +1174,7 @@ Below are links to some of my officiating performances that highlight my capabil
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:15:49 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front," temporarily transitioning primary pack definition responsibility to me. 
+            - At the ≈1:12:39 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front," temporarily transitioning primary pack definition responsibility to me. 
             - While monitoring pack definition, I observed Blue #018 initiate legal contact with Green #33 which caused Green #33 to step OOB while in front of Blue #018.
             - Green #33 returns to a fully upright and in-bounds position in front of Blue #018.
 
@@ -1198,17 +1198,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=4549" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5096" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=4354" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=4354" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=4549 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=4549){ target=_blank }
+            <br>[https://youtu.be/dVJcbkzW78w?t=4354 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=4354){ target=_blank }
         </center>
 
     === "Video #2 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:24:58 mark in this video, a no-pack situation occurs, and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal or unnatural and illegal.
+            - At the ≈1:21:44 mark in this video, a no-pack situation occurs, and I have to quickly co-determine with my peer IPR/HR whether the destruction of the pack was natural and legal or unnatural and illegal.
             - Just after the no-pack occurs, an OOP block with sufficient game impact to warrant a penalty occurs in the coverage zone of the rear IPR/HR that they need to attend to, and I am not immediately able to determine their perspective regarding the pack destruction.
 
         === "Outcome :material-cursor-default-click:"
@@ -1232,17 +1232,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5096" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5096" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=4899" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=4899" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=5096 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5096){ target=_blank }
+            <br>[https://youtu.be/dVJcbkzW78w?t=4899 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=4899){ target=_blank }
         </center>
 
     === "Video #3 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:25:38 mark in this video, while serving as front IPR, a sustained no-pack situation occurs.
+            - At the ≈1:22:25 mark in this video, while serving as front IPR, a sustained no-pack situation occurs.
             - Players from both teams do not immediately take appropriate actions to reform the pack, and several players commit actions that have sufficient impact to warrant penalties.
             - It is not clear to the JRs whether Lead Jammer status is available or lost.
             - It is my responsibility to:
@@ -1281,17 +1281,17 @@ Below are links to some of my officiating performances that highlight my capabil
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5132" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=4940" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=4940" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=5132 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5132){ target=_blank }
+            <br>[https://youtu.be/dVJcbkzW78w?t=4940 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=4940){ target=_blank }
         </center>
 
     === "Video #4 :material-cursor-default-click:"
 
         === "Overview :material-cursor-default-click:"
 
-            - At the ≈1:28:05 mark in this video, while serving as front IPR, Green #616 attempts to create a bridge between the front and rear blocker walls.
+            - At the ≈1:24:49 mark in this video, while serving as front IPR, Green #616 attempts to create a bridge between the front and rear blocker walls.
             - A series of events happen nearly simultaneously, which causes Green #616 to illegally destroy the pack:
 
                 1. All on-track blockers are part of an established pack with clearly defined front and rear walls as Green #616 leaves the penalty box, legally enters the track, and skates in derby direction until they reach the front wall.
@@ -1338,10 +1338,10 @@ Below are links to some of my officiating performances that highlight my capabil
 
         <center>
             <br>
-            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5276" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/dVJcbkzW78w?start=5083" style="filter: drop-shadow(0 0 0.2rem black);" title="https://youtu.be/dVJcbkzW78w?t=5083" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </center>
         <center>
-            <br>[https://youtu.be/dVJcbkzW78w?t=5276 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5276){ target=_blank }
+            <br>[https://youtu.be/dVJcbkzW78w?t=5083 :octicons-link-external-24:](https://youtu.be/dVJcbkzW78w?t=5083){ target=_blank }
         </center>
 
 ---
