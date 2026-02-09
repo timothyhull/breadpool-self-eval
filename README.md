@@ -6,4 +6,4 @@
 
 This repository hosts the source content that produces Breadpool's Roller Derby Self-Evaluation.
 
-Click [here](https://timothyhull.github.io/breadpool-self-eval "Breadpool's Roller Derby Self-Evaluation") to access Breadpool's self-evaluation.
+Breadpool's self-evaluation is available at: [https://timothyhull.github.io/breadpool-self-eval](https://timothyhull.github.io/breadpool-self-eval "Breadpool's Roller Derby Self-Evaluation").
