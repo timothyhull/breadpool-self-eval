@@ -37,6 +37,7 @@ Depending on the screen size of your device, a Table of Contents menu is availab
     - **Name:** Breadpool (Timothy Hull)
     - **Pronouns:** He/Him
     - **WFTDA NSO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
+    - **WFTDA SO Certification:** [Level 2](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/roster-of-certified-officials/name/breadpool/ "WFTDA Certified Officials Roster"){ target=_blank }
     - **Home Town:** Portland, Oregon, USA
     - **League Affiliation:** RCR
     - **Languages:** English, Brazilian Portuguese
